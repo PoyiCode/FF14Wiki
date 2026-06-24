@@ -1,0 +1,8 @@
+id: bow
+category: emotes
+type: emote
+command: /bow
+tags: [greeting, polite, respect, social]
+when: [致敬, 道謝, 正式問候, 道歉]
+related: [greetings, wave]
+status: stable

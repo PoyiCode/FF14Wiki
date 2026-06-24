@@ -1,0 +1,10 @@
+id: grand-companies
+category: lore
+type: organization
+tags: [faction, military, nations]
+members:
+  - { name: Maelstrom, city: limsa-lominsa }
+  - { name: Order of the Twin Adder, city: gridania }
+  - { name: Immortal Flames, city: uldah }
+related: [limsa-lominsa, gridania, uldah]
+status: stable

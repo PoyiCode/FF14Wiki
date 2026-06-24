@@ -1,0 +1,12 @@
+id: gridania
+category: world
+type: city-state
+region: the-black-shroud
+coords: { x: 11.0, y: 13.0 }
+aetheryte: New Gridania
+tags: [city, forest, conjurers, twin-adder, starting-city]
+related: [the-black-shroud, carline-canopy, the-twelve]
+travel:
+  teleport: New Gridania
+  notes: 分新格里達尼亞與舊格里達尼亞，皆有水道與木橋相連。
+status: stable

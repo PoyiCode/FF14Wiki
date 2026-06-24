@@ -1,0 +1,9 @@
+id: carline-canopy
+category: locations
+type: tavern
+region: the-black-shroud
+in: gridania
+aetheryte: New Gridania
+tags: [tavern, drinks, gathering, adventurers-guild]
+related: [gridania]
+status: stable

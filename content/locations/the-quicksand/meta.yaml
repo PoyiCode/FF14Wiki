@@ -1,0 +1,9 @@
+id: the-quicksand
+category: locations
+type: tavern
+region: thanalan
+in: uldah
+aetheryte: Ul'dah - Steps of Nald
+tags: [tavern, drinks, gathering, adventurers-guild, deals]
+related: [uldah]
+status: stable
