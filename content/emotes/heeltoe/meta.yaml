@@ -1,0 +1,7 @@
+id: heeltoe
+category: emotes
+type: emote
+command: /heeltoe
+name_en: "Heel Toe"
+tags: [emote, special]
+status: stable

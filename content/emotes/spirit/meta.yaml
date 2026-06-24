@@ -1,0 +1,7 @@
+id: spirit
+category: emotes
+type: emote
+command: /spirit
+name_en: "Spirit"
+tags: [emote, special]
+status: stable

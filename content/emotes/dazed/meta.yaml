@@ -1,0 +1,7 @@
+id: dazed
+category: emotes
+type: emote
+command: /dazed
+name_en: "Dazed"
+tags: [emote, special]
+status: stable

@@ -1,0 +1,7 @@
+id: paintblack
+category: emotes
+type: emote
+command: /paintblack
+name_en: "Paint It Black"
+tags: [emote, general]
+status: stable

@@ -1,0 +1,7 @@
+id: guard
+category: emotes
+type: emote
+command: /guard
+name_en: "Guard"
+tags: [emote, special]
+status: stable

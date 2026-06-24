@@ -1,0 +1,7 @@
+id: groundsit
+category: emotes
+type: emote
+command: /groundsit
+name_en: "Sit on Ground"
+tags: [emote, special]
+status: stable

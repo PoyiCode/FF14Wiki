@@ -1,0 +1,7 @@
+id: flex
+category: emotes
+type: emote
+command: /flex
+name_en: "Flex"
+tags: [emote, general]
+status: stable

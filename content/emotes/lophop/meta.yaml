@@ -1,0 +1,7 @@
+id: lophop
+category: emotes
+type: emote
+command: /lophop
+name_en: "Lop Hop"
+tags: [emote, special]
+status: stable

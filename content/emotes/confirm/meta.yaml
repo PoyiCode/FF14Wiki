@@ -1,0 +1,7 @@
+id: confirm
+category: emotes
+type: emote
+command: /confirm
+name_en: "Confirm"
+tags: [emote, special]
+status: stable

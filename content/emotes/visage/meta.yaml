@@ -1,0 +1,7 @@
+id: visage
+category: emotes
+type: emote
+command: /visage
+name_en: "Visage Capture"
+tags: [emote, general]
+status: stable

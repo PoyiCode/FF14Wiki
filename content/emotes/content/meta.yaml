@@ -1,0 +1,7 @@
+id: content
+category: emotes
+type: emote
+command: /content
+name_en: "Content"
+tags: [emote, expression]
+status: stable

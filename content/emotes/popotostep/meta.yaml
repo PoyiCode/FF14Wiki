@@ -1,0 +1,7 @@
+id: popotostep
+category: emotes
+type: emote
+command: /popotostep
+name_en: "Popoto Step"
+tags: [emote, special]
+status: stable

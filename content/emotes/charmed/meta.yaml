@@ -1,0 +1,7 @@
+id: charmed
+category: emotes
+type: emote
+command: /charmed
+name_en: "Charmed"
+tags: [emote, special]
+status: stable

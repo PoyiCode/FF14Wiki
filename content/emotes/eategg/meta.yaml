@@ -1,0 +1,8 @@
+id: eategg
+category: emotes
+type: emote
+command: /eategg
+aliases: [/egg]
+name_en: "Eat Egg"
+tags: [emote, general]
+status: stable

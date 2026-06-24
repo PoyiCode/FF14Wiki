@@ -1,0 +1,7 @@
+id: simper
+category: emotes
+type: emote
+command: /simper
+name_en: "Simper"
+tags: [emote, expression]
+status: stable

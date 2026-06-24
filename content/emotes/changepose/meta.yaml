@@ -1,0 +1,8 @@
+id: changepose
+category: emotes
+type: emote
+command: /changepose
+aliases: [/cpose]
+name_en: "Change Pose"
+tags: [emote, special]
+status: stable

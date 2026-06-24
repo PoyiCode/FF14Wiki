@@ -1,0 +1,7 @@
+id: visor
+category: emotes
+type: emote
+command: /visor
+name_en: "Visor"
+tags: [emote, special]
+status: stable

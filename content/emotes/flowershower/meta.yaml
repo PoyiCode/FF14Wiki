@@ -1,0 +1,8 @@
+id: flowershower
+category: emotes
+type: emote
+command: /flowershower
+aliases: [/petals]
+name_en: "Flower Shower"
+tags: [emote, general]
+status: stable

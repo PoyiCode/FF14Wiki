@@ -1,0 +1,7 @@
+id: blownaway
+category: emotes
+type: emote
+command: /blownaway
+name_en: "Blown Away"
+tags: [emote, general]
+status: stable

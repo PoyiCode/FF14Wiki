@@ -1,0 +1,8 @@
+id: deride
+category: emotes
+type: emote
+command: /deride
+aliases: [/pagaga]
+name_en: "Deride"
+tags: [emote, general]
+status: stable

@@ -1,0 +1,7 @@
+id: yoldance
+category: emotes
+type: emote
+command: /yoldance
+name_en: "Yol Dance"
+tags: [emote, special]
+status: stable

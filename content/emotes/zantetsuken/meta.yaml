@@ -1,0 +1,8 @@
+id: zantetsuken
+category: emotes
+type: emote
+command: /zantetsuken
+aliases: [/ztk]
+name_en: "Zantetsuken"
+tags: [emote, special]
+status: stable

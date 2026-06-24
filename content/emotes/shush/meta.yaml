@@ -1,0 +1,8 @@
+id: shush
+category: emotes
+type: emote
+command: /shush
+aliases: [/shh]
+name_en: "Shush"
+tags: [emote, general]
+status: stable

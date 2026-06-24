@@ -1,0 +1,7 @@
+id: sabotender
+category: emotes
+type: emote
+command: /sabotender
+name_en: "Senor Sabotender"
+tags: [emote, general]
+status: stable

@@ -1,0 +1,7 @@
+id: beesknees
+category: emotes
+type: emote
+command: /beesknees
+name_en: "Bee's Knees"
+tags: [emote, special]
+status: stable

@@ -1,0 +1,8 @@
+id: eatpumpkincookie
+category: emotes
+type: emote
+command: /eatpumpkincookie
+aliases: [/cookie]
+name_en: "Eat Pumpkin Cookie"
+tags: [emote, general]
+status: stable

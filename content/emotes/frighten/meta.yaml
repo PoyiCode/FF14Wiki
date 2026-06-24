@@ -1,0 +1,7 @@
+id: frighten
+category: emotes
+type: emote
+command: /frighten
+name_en: "Frighten"
+tags: [emote, general]
+status: stable

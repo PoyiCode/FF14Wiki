@@ -1,0 +1,8 @@
+id: cheerlightgreen
+category: emotes
+type: emote
+command: /cheerlightgreen
+aliases: [/cheerlg]
+name_en: "Cheer Light: Green"
+tags: [emote, special]
+status: stable

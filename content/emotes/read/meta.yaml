@@ -1,0 +1,7 @@
+id: read
+category: emotes
+type: emote
+command: /read
+name_en: "Read"
+tags: [emote, general]
+status: stable

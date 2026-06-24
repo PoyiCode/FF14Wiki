@@ -1,0 +1,7 @@
+id: gratuity
+category: emotes
+type: emote
+command: /gratuity
+name_en: "Gratuity"
+tags: [emote, general]
+status: stable

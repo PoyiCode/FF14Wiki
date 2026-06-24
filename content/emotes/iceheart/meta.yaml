@@ -1,0 +1,7 @@
+id: iceheart
+category: emotes
+type: emote
+command: /iceheart
+name_en: "Diamond Dust"
+tags: [emote, special]
+status: stable

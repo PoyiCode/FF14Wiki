@@ -1,0 +1,7 @@
+id: moonlift
+category: emotes
+type: emote
+command: /moonlift
+name_en: "Moonlift Dance"
+tags: [emote, special]
+status: stable

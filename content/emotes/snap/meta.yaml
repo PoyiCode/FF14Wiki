@@ -1,0 +1,7 @@
+id: snap
+category: emotes
+type: emote
+command: /snap
+name_en: "Snap"
+tags: [emote, general]
+status: stable

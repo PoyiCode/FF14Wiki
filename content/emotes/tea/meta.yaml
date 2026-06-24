@@ -1,0 +1,7 @@
+id: tea
+category: emotes
+type: emote
+command: /tea
+name_en: "Drink Tea"
+tags: [emote, general]
+status: stable

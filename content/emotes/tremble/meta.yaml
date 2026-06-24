@@ -1,0 +1,7 @@
+id: tremble
+category: emotes
+type: emote
+command: /tremble
+name_en: "Tremble"
+tags: [emote, special]
+status: stable

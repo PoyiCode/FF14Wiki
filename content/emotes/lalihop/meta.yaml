@@ -1,0 +1,7 @@
+id: lalihop
+category: emotes
+type: emote
+command: /lalihop
+name_en: "Lali Hop"
+tags: [emote, special]
+status: stable

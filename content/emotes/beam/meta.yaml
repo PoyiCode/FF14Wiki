@@ -1,0 +1,7 @@
+id: beam
+category: emotes
+type: emote
+command: /beam
+name_en: "Beam"
+tags: [emote, expression]
+status: stable

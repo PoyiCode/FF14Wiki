@@ -1,0 +1,7 @@
+id: draw
+category: emotes
+type: emote
+command: /draw
+name_en: "Draw Weapon"
+tags: [emote, general]
+status: stable

@@ -1,0 +1,7 @@
+id: linkpearl
+category: emotes
+type: emote
+command: /linkpearl
+name_en: "Linkpearl"
+tags: [emote, general]
+status: stable

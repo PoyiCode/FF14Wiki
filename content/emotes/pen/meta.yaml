@@ -1,0 +1,7 @@
+id: pen
+category: emotes
+type: emote
+command: /pen
+name_en: "Pen"
+tags: [emote, special]
+status: stable

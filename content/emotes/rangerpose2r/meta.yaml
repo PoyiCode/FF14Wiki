@@ -1,0 +1,8 @@
+id: rangerpose2r
+category: emotes
+type: emote
+command: /rangerpose2r
+aliases: [/blackrangerposea]
+name_en: "Black Ranger Pose A"
+tags: [emote, special]
+status: stable

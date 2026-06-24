@@ -1,0 +1,7 @@
+id: disturbed
+category: emotes
+type: emote
+command: /disturbed
+name_en: "Confused"
+tags: [emote, expression]
+status: stable

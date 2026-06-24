@@ -1,0 +1,7 @@
+id: vexed
+category: emotes
+type: emote
+command: /vexed
+name_en: "Vexed"
+tags: [emote, general]
+status: stable

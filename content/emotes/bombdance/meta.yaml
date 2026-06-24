@@ -1,0 +1,7 @@
+id: bombdance
+category: emotes
+type: emote
+command: /bombdance
+name_en: "Bomb Dance"
+tags: [emote, special]
+status: stable

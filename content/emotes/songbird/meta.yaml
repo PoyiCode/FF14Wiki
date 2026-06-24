@@ -1,0 +1,7 @@
+id: songbird
+category: emotes
+type: emote
+command: /songbird
+name_en: "Songbird"
+tags: [emote, special]
+status: stable

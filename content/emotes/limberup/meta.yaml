@@ -1,0 +1,8 @@
+id: limberup
+category: emotes
+type: emote
+command: /limberup
+aliases: [/limber]
+name_en: "Limber Up"
+tags: [emote, general]
+status: stable

@@ -1,0 +1,7 @@
+id: biggrin
+category: emotes
+type: emote
+command: /biggrin
+name_en: "Big Grin"
+tags: [emote, expression]
+status: stable

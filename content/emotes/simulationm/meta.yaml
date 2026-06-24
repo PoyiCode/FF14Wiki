@@ -1,0 +1,7 @@
+id: simulationm
+category: emotes
+type: emote
+command: /simulationm
+name_en: "Simulation M"
+tags: [emote, special]
+status: stable

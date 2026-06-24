@@ -1,0 +1,7 @@
+id: smirk
+category: emotes
+type: emote
+command: /smirk
+name_en: "Smirk"
+tags: [emote, expression]
+status: stable

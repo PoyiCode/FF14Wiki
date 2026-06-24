@@ -1,0 +1,7 @@
+id: breathcontrol
+category: emotes
+type: emote
+command: /breathcontrol
+name_en: "Breath Control"
+tags: [emote, special]
+status: stable

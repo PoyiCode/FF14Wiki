@@ -1,0 +1,7 @@
+id: savortea
+category: emotes
+type: emote
+command: /savortea
+name_en: "Savor Tea"
+tags: [emote, special]
+status: stable

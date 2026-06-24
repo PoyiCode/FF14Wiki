@@ -1,0 +1,8 @@
+id: sweep
+category: emotes
+type: emote
+command: /sweep
+aliases: [/broom]
+name_en: "Sweep Up"
+tags: [emote, special]
+status: stable

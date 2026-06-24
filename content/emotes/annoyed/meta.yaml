@@ -1,0 +1,8 @@
+id: annoyed
+category: emotes
+type: emote
+command: /annoyed
+aliases: [/annoy]
+name_en: "Annoyed"
+tags: [emote, expression]
+status: stable

@@ -1,0 +1,7 @@
+id: wow
+category: emotes
+type: emote
+command: /wow
+name_en: "Wow"
+tags: [emote, general]
+status: stable

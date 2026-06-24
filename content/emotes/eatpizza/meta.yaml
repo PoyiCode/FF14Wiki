@@ -1,0 +1,8 @@
+id: eatpizza
+category: emotes
+type: emote
+command: /eatpizza
+aliases: [/pizza]
+name_en: "Eat Pizza"
+tags: [emote, general]
+status: stable

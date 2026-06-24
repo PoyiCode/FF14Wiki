@@ -1,0 +1,7 @@
+id: facepalm
+category: emotes
+type: emote
+command: /facepalm
+name_en: "Facepalm"
+tags: [emote, general]
+status: stable

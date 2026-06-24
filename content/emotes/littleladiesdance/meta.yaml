@@ -1,0 +1,8 @@
+id: littleladiesdance
+category: emotes
+type: emote
+command: /littleladiesdance
+aliases: [/ladance]
+name_en: "Little Ladies' Dance"
+tags: [emote, general]
+status: stable

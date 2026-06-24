@@ -1,0 +1,8 @@
+id: loveheart
+category: emotes
+type: emote
+command: /loveheart
+aliases: [/heart]
+name_en: "Love Heart"
+tags: [emote, special]
+status: stable

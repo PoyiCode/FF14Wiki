@@ -1,0 +1,7 @@
+id: ponder
+category: emotes
+type: emote
+command: /ponder
+name_en: "Ponder"
+tags: [emote, expression]
+status: stable

@@ -1,0 +1,8 @@
+id: wink
+category: emotes
+type: emote
+command: /wink
+aliases: [/rightwink]
+name_en: "Wink (Right)"
+tags: [emote, expression]
+status: stable

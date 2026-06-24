@@ -1,0 +1,7 @@
+id: ritualprayer
+category: emotes
+type: emote
+command: /ritualprayer
+name_en: "Ritual Prayer"
+tags: [emote, special]
+status: stable

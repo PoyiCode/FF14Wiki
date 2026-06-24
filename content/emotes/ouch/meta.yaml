@@ -1,0 +1,8 @@
+id: ouch
+category: emotes
+type: emote
+command: /ouch
+aliases: [/ow]
+name_en: "Ouch"
+tags: [emote, expression]
+status: stable

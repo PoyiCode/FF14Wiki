@@ -1,0 +1,7 @@
+id: twirl
+category: emotes
+type: emote
+command: /twirl
+name_en: "Twirl"
+tags: [emote, general]
+status: stable

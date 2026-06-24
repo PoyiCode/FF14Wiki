@@ -1,0 +1,7 @@
+id: splash
+category: emotes
+type: emote
+command: /splash
+name_en: "Splash"
+tags: [emote, general]
+status: stable

@@ -1,0 +1,8 @@
+id: cheerwaveviolet
+category: emotes
+type: emote
+command: /cheerwaveviolet
+aliases: [/cheerwv]
+name_en: "Cheer Wave: Violet"
+tags: [emote, special]
+status: stable

@@ -1,0 +1,7 @@
+id: eatchicken
+category: emotes
+type: emote
+command: /eatchicken
+name_en: "Eat Chicken"
+tags: [emote, general]
+status: stable

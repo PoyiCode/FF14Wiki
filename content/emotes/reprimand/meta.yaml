@@ -1,0 +1,7 @@
+id: reprimand
+category: emotes
+type: emote
+command: /reprimand
+name_en: "Reprimand"
+tags: [emote, special]
+status: stable

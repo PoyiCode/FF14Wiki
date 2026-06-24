@@ -1,0 +1,8 @@
+id: worried
+category: emotes
+type: emote
+command: /worried
+aliases: [/worry]
+name_en: "Worried"
+tags: [emote, expression]
+status: stable

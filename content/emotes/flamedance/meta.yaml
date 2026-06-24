@@ -1,0 +1,7 @@
+id: flamedance
+category: emotes
+type: emote
+command: /flamedance
+name_en: "Flame Dance"
+tags: [emote, special]
+status: stable

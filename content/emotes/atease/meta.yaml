@@ -1,0 +1,7 @@
+id: atease
+category: emotes
+type: emote
+command: /atease
+name_en: "At Ease"
+tags: [emote, special]
+status: stable

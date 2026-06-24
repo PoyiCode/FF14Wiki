@@ -1,0 +1,8 @@
+id: delighted
+category: emotes
+type: emote
+command: /delighted
+aliases: [/delight]
+name_en: "Delighted"
+tags: [emote, general]
+status: stable

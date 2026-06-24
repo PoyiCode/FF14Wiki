@@ -1,0 +1,8 @@
+id: victorypose
+category: emotes
+type: emote
+command: /victorypose
+aliases: [/vpose]
+name_en: "Victory"
+tags: [emote, general]
+status: stable

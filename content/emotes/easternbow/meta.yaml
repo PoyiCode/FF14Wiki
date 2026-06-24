@@ -1,0 +1,8 @@
+id: easternbow
+category: emotes
+type: emote
+command: /easternbow
+aliases: [/ebow]
+name_en: "Eastern Bow"
+tags: [emote, general]
+status: stable

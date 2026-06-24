@@ -1,0 +1,7 @@
+id: tomestone
+category: emotes
+type: emote
+command: /tomestone
+name_en: "Tomestone"
+tags: [emote, general]
+status: stable

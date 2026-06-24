@@ -1,0 +1,3277 @@
+[
+ {
+  "slug": "aback",
+  "command": "/aback",
+  "category": "general",
+  "n": {
+   "zh-TW": "大喫一驚",
+   "zh-CN": "大吃一惊",
+   "ja": "仰天",
+   "en": "Aback"
+  }
+ },
+ {
+  "slug": "adventoflight",
+  "command": "/adventoflight",
+  "alias": "/advent",
+  "category": "general",
+  "n": {
+   "zh-TW": "威光降臨",
+   "zh-CN": "威光降临",
+   "ja": "猛き光の降臨",
+   "en": "Advent of Light"
+  }
+ },
+ {
+  "slug": "airquotes",
+  "command": "/airquotes",
+  "category": "general",
+  "n": {
+   "zh-TW": "引用",
+   "zh-CN": "引用",
+   "ja": "引用",
+   "en": "Air Quotes"
+  }
+ },
+ {
+  "slug": "alert",
+  "command": "/alert",
+  "category": "expression",
+  "n": {
+   "zh-TW": "表情：喫驚",
+   "zh-CN": "表情：吃惊",
+   "ja": "表情：感知",
+   "en": "Alert"
+  }
+ },
+ {
+  "slug": "allsaintscharm",
+  "command": "/allsaintscharm",
+  "category": "general",
+  "n": {
+   "zh-TW": "守護天節的魔咒",
+   "zh-CN": "守护天节的魔咒",
+   "ja": "守護天節のおまじない",
+   "en": "All Saints' Charm"
+  }
+ },
+ {
+  "slug": "amazed",
+  "command": "/amazed",
+  "alias": "/awe",
+  "category": "expression",
+  "n": {
+   "zh-TW": "表情：意外",
+   "zh-CN": "表情：意外",
+   "ja": "表情：呆然",
+   "en": "Amazed"
+  }
+ },
+ {
+  "slug": "angry",
+  "command": "/angry",
+  "category": "general",
+  "n": {
+   "zh-TW": "不滿",
+   "zh-CN": "不满",
+   "ja": "不満を表す",
+   "en": "Angry"
+  }
+ },
+ {
+  "slug": "annoyed",
+  "command": "/annoyed",
+  "alias": "/annoy",
+  "category": "expression",
+  "n": {
+   "zh-TW": "表情：反感",
+   "zh-CN": "表情：反感",
+   "ja": "表情：不機嫌",
+   "en": "Annoyed"
+  }
+ },
+ {
+  "slug": "atease",
+  "command": "/atease",
+  "category": "special",
+  "n": {
+   "zh-TW": "稍息",
+   "zh-CN": "稍息",
+   "ja": "休め",
+   "en": "At Ease"
+  }
+ },
+ {
+  "slug": "attend",
+  "command": "/attend",
+  "category": "special",
+  "n": {
+   "zh-TW": "待命",
+   "zh-CN": "待命",
+   "ja": "指示を待つ",
+   "en": "Attend"
+  }
+ },
+ {
+  "slug": "attention",
+  "command": "/attention",
+  "category": "special",
+  "n": {
+   "zh-TW": "立正",
+   "zh-CN": "立正",
+   "ja": "気をつけ",
+   "en": "Attention"
+  }
+ },
+ {
+  "slug": "backflip",
+  "command": "/backflip",
+  "alias": "/bflip",
+  "category": "general",
+  "n": {
+   "zh-TW": "後空翻",
+   "zh-CN": "后空翻",
+   "ja": "宙返り",
+   "en": "Backflip"
+  }
+ },
+ {
+  "slug": "balldance",
+  "command": "/balldance",
+  "alias": "/bdance",
+  "category": "special",
+  "n": {
+   "zh-TW": "宮廷之舞",
+   "zh-CN": "宫廷之舞",
+   "ja": "宮廷の舞",
+   "en": "Ball Dance"
+  }
+ },
+ {
+  "slug": "battlestance",
+  "command": "/battlestance",
+  "alias": "/bstance",
+  "category": "general",
+  "n": {
+   "zh-TW": "準備戰鬥",
+   "zh-CN": "准备战斗",
+   "ja": "戦いに備える",
+   "en": "Battle Stance"
+  }
+ },
+ {
+  "slug": "beam",
+  "command": "/beam",
+  "category": "expression",
+  "n": {
+   "zh-TW": "表情：滿足",
+   "zh-CN": "表情：满足",
+   "ja": "表情：満足",
+   "en": "Beam"
+  }
+ },
+ {
+  "slug": "beckon",
+  "command": "/beckon",
+  "category": "general",
+  "n": {
+   "zh-TW": "招手",
+   "zh-CN": "招手",
+   "ja": "手まねきする",
+   "en": "Beckon"
+  }
+ },
+ {
+  "slug": "beesknees",
+  "command": "/beesknees",
+  "category": "special",
+  "n": {
+   "zh-TW": "蜜蜂之舞",
+   "zh-CN": "蜜蜂之舞",
+   "ja": "ビーステップ",
+   "en": "Bee's Knees"
+  }
+ },
+ {
+  "slug": "biggrin",
+  "command": "/biggrin",
+  "category": "expression",
+  "n": {
+   "zh-TW": "表情：咧嘴",
+   "zh-CN": "表情：咧嘴",
+   "ja": "表情：破顔",
+   "en": "Big Grin"
+  }
+ },
+ {
+  "slug": "blowbubbles",
+  "command": "/blowbubbles",
+  "category": "general",
+  "n": {
+   "zh-TW": "吹泡泡",
+   "zh-CN": "吹泡泡",
+   "ja": "シャボン玉",
+   "en": "Blow Bubbles"
+  }
+ },
+ {
+  "slug": "blowkiss",
+  "command": "/blowkiss",
+  "category": "general",
+  "n": {
+   "zh-TW": "飛吻",
+   "zh-CN": "飞吻",
+   "ja": "投げキッス",
+   "en": "Blow Kiss"
+  }
+ },
+ {
+  "slug": "blownaway",
+  "command": "/blownaway",
+  "category": "general",
+  "n": {
+   "zh-TW": "擊飛",
+   "zh-CN": "击飞",
+   "ja": "ふっとぶ",
+   "en": "Blown Away"
+  }
+ },
+ {
+  "slug": "blush",
+  "command": "/blush",
+  "category": "general",
+  "n": {
+   "zh-TW": "害羞",
+   "zh-CN": "害羞",
+   "ja": "照れる",
+   "en": "Blush"
+  }
+ },
+ {
+  "slug": "bombdance",
+  "command": "/bombdance",
+  "category": "special",
+  "n": {
+   "zh-TW": "火盆舞",
+   "zh-CN": "火盆舞",
+   "ja": "ボム踊り",
+   "en": "Bomb Dance"
+  }
+ },
+ {
+  "slug": "bouquet",
+  "command": "/bouquet",
+  "category": "special",
+  "n": {
+   "zh-TW": "贈送花束",
+   "zh-CN": "赠送花束",
+   "ja": "花束を贈る",
+   "en": "Bouquet"
+  }
+ },
+ {
+  "slug": "bow",
+  "command": "/bow",
+  "category": "general",
+  "n": {
+   "zh-TW": "行禮",
+   "zh-CN": "行礼",
+   "ja": "お辞儀する",
+   "en": "Bow"
+  }
+ },
+ {
+  "slug": "box",
+  "command": "/box",
+  "category": "special",
+  "n": {
+   "zh-TW": "練拳",
+   "zh-CN": "练拳",
+   "ja": "格闘訓練",
+   "en": "Box"
+  }
+ },
+ {
+  "slug": "boxstep",
+  "command": "/boxstep",
+  "category": "special",
+  "n": {
+   "zh-TW": "方形步",
+   "zh-CN": "方形步",
+   "ja": "ボックスステップ",
+   "en": "Box Step"
+  }
+ },
+ {
+  "slug": "breakdance",
+  "command": "/breakdance",
+  "alias": "/breaking",
+  "category": "general",
+  "n": {
+   "zh-TW": "霹靂舞",
+   "zh-CN": "霹雳舞",
+   "ja": "ブレイキン",
+   "en": "Breaking"
+  }
+ },
+ {
+  "slug": "breakfast",
+  "command": "/breakfast",
+  "alias": "/bread",
+  "category": "general",
+  "n": {
+   "zh-TW": "喫麪包",
+   "zh-CN": "吃面包",
+   "ja": "パンを食べる",
+   "en": "Break Fast"
+  }
+ },
+ {
+  "slug": "breathcontrol",
+  "command": "/breathcontrol",
+  "category": "special",
+  "n": {
+   "zh-TW": "深呼吸",
+   "zh-CN": "深呼吸",
+   "ja": "深呼吸",
+   "en": "Breath Control"
+  }
+ },
+ {
+  "slug": "cackle",
+  "command": "/cackle",
+  "category": "special",
+  "n": {
+   "zh-TW": "放聲大笑",
+   "zh-CN": "放声大笑",
+   "ja": "高笑い",
+   "en": "Cackle"
+  }
+ },
+ {
+  "slug": "carrybook",
+  "command": "/carrybook",
+  "category": "special",
+  "n": {
+   "zh-TW": "雙手抱書",
+   "zh-CN": "双手抱书",
+   "ja": "本を抱える",
+   "en": "Carry Book"
+  }
+ },
+ {
+  "slug": "changepose",
+  "command": "/changepose",
+  "alias": "/cpose",
+  "category": "special",
+  "n": {
+   "zh-TW": "改變姿勢",
+   "zh-CN": "改变姿势",
+   "ja": "ポーズを変える",
+   "en": "Change Pose"
+  }
+ },
+ {
+  "slug": "charmed",
+  "command": "/charmed",
+  "category": "special",
+  "n": {
+   "zh-TW": "魅惑擁抱",
+   "zh-CN": "魅惑拥抱",
+   "ja": "魅惑の抱擁",
+   "en": "Charmed"
+  }
+ },
+ {
+  "slug": "cheer",
+  "command": "/cheer",
+  "category": "general",
+  "n": {
+   "zh-TW": "加油",
+   "zh-CN": "加油",
+   "ja": "応援する",
+   "en": "Cheer"
+  }
+ },
+ {
+  "slug": "cheerjumpgreen",
+  "command": "/cheerjumpgreen",
+  "alias": "/cheerjg",
+  "category": "special",
+  "n": {
+   "zh-TW": "蹦跳聲援小綠",
+   "zh-CN": "蹦跳声援小绿",
+   "ja": "声援ジャンプ：緑",
+   "en": "Cheer Jump: Green"
+  }
+ },
+ {
+  "slug": "cheerjumpindigo",
+  "command": "/cheerjumpindigo",
+  "alias": "/cheerji",
+  "category": "special",
+  "n": {
+   "zh-TW": "蹦跳聲援小靛",
+   "zh-CN": "蹦跳声援小靛",
+   "ja": "声援ジャンプ：紺",
+   "en": "Cheer Jump: Indigo"
+  }
+ },
+ {
+  "slug": "cheerjumpred",
+  "command": "/cheerjumpred",
+  "alias": "/cheerjump",
+  "category": "special",
+  "n": {
+   "zh-TW": "蹦跳聲援小紅",
+   "zh-CN": "蹦跳声援小红",
+   "ja": "声援ジャンプ：赤",
+   "en": "Cheer Jump: Red"
+  }
+ },
+ {
+  "slug": "cheerlightblue",
+  "command": "/cheerlightblue",
+  "alias": "/cheerlb",
+  "category": "special",
+  "n": {
+   "zh-TW": "搖擺聲援小藍",
+   "zh-CN": "摇摆声援小蓝",
+   "ja": "声援スロウ：青",
+   "en": "Cheer Light: Blue"
+  }
+ },
+ {
+  "slug": "cheerlightgreen",
+  "command": "/cheerlightgreen",
+  "alias": "/cheerlg",
+  "category": "special",
+  "n": {
+   "zh-TW": "搖擺聲援小綠",
+   "zh-CN": "摇摆声援小绿",
+   "ja": "声援スロウ：緑",
+   "en": "Cheer Light: Green"
+  }
+ },
+ {
+  "slug": "cheerlightyellow",
+  "command": "/cheerlightyellow",
+  "alias": "/cheerly",
+  "category": "special",
+  "n": {
+   "zh-TW": "搖擺聲援小黃",
+   "zh-CN": "摇摆声援小黄",
+   "ja": "声援スロウ：黄",
+   "en": "Cheer Light: Yellow"
+  }
+ },
+ {
+  "slug": "cheeronblue",
+  "command": "/cheeronblue",
+  "alias": "/cheerob",
+  "category": "special",
+  "n": {
+   "zh-TW": "前後聲援小藍",
+   "zh-CN": "前后声援小蓝",
+   "ja": "声援フロント：青",
+   "en": "Cheer On: Blue"
+  }
+ },
+ {
+  "slug": "cheeronbright",
+  "command": "/cheeronbright",
+  "alias": "/cheerow",
+  "category": "special",
+  "n": {
+   "zh-TW": "前後聲援小白",
+   "zh-CN": "前后声援小白",
+   "ja": "声援フロント：白",
+   "en": "Cheer On: Bright"
+  }
+ },
+ {
+  "slug": "cheeronorange",
+  "command": "/cheeronorange",
+  "alias": "/cheeroo",
+  "category": "special",
+  "n": {
+   "zh-TW": "前後聲援小橙",
+   "zh-CN": "前后声援小橙",
+   "ja": "声援フロント：橙",
+   "en": "Cheer On: Orange"
+  }
+ },
+ {
+  "slug": "cheerrhythmbright",
+  "command": "/cheerrhythmbright",
+  "alias": "/cheerrw",
+  "category": "special",
+  "n": {
+   "zh-TW": "節拍聲援小白",
+   "zh-CN": "节拍声援小白",
+   "ja": "声援リズム：白",
+   "en": "Cheer Rhythm: Bright"
+  }
+ },
+ {
+  "slug": "cheerrhythmred",
+  "command": "/cheerrhythmred",
+  "alias": "/cheerrr",
+  "category": "special",
+  "n": {
+   "zh-TW": "節拍聲援小紅",
+   "zh-CN": "节拍声援小红",
+   "ja": "声援リズム：赤",
+   "en": "Cheer Rhythm: Red"
+  }
+ },
+ {
+  "slug": "cheerrhythmviolet",
+  "command": "/cheerrhythmviolet",
+  "alias": "/cheerrv",
+  "category": "special",
+  "n": {
+   "zh-TW": "節拍聲援小紫",
+   "zh-CN": "节拍声援小紫",
+   "ja": "声援リズム：紫",
+   "en": "Cheer Rhythm: Violet"
+  }
+ },
+ {
+  "slug": "cheerwavepink",
+  "command": "/cheerwavepink",
+  "alias": "/cheerwp",
+  "category": "special",
+  "n": {
+   "zh-TW": "揮舞聲援小粉",
+   "zh-CN": "挥舞声援小粉",
+   "ja": "声援ウェーブ：桃",
+   "en": "Cheer Wave: Pink"
+  }
+ },
+ {
+  "slug": "cheerwaveviolet",
+  "command": "/cheerwaveviolet",
+  "alias": "/cheerwv",
+  "category": "special",
+  "n": {
+   "zh-TW": "揮舞聲援小紫",
+   "zh-CN": "挥舞声援小紫",
+   "ja": "声援ウェーブ：紫",
+   "en": "Cheer Wave: Violet"
+  }
+ },
+ {
+  "slug": "cheerwaveyellow",
+  "command": "/cheerwaveyellow",
+  "alias": "/cheerwave",
+  "category": "special",
+  "n": {
+   "zh-TW": "揮舞聲援小黃",
+   "zh-CN": "挥舞声援小黄",
+   "ja": "声援ウェーブ：黄",
+   "en": "Cheer Wave: Yellow"
+  }
+ },
+ {
+  "slug": "chuckle",
+  "command": "/chuckle",
+  "category": "general",
+  "n": {
+   "zh-TW": "輕笑",
+   "zh-CN": "轻笑",
+   "ja": "笑う",
+   "en": "Chuckle"
+  }
+ },
+ {
+  "slug": "clap",
+  "command": "/clap",
+  "category": "general",
+  "n": {
+   "zh-TW": "拍手",
+   "zh-CN": "拍手",
+   "ja": "拍手する",
+   "en": "Clap"
+  }
+ },
+ {
+  "slug": "clutchhead",
+  "command": "/clutchhead",
+  "category": "general",
+  "n": {
+   "zh-TW": "抱頭",
+   "zh-CN": "抱头",
+   "ja": "頭を抱える",
+   "en": "Clutch Head"
+  }
+ },
+ {
+  "slug": "comfort",
+  "command": "/comfort",
+  "category": "general",
+  "n": {
+   "zh-TW": "安慰",
+   "zh-CN": "安慰",
+   "ja": "なぐさめる",
+   "en": "Comfort"
+  }
+ },
+ {
+  "slug": "concentrate",
+  "command": "/concentrate",
+  "category": "expression",
+  "n": {
+   "zh-TW": "表情：認真",
+   "zh-CN": "表情：认真",
+   "ja": "表情：真剣",
+   "en": "Concentrate"
+  }
+ },
+ {
+  "slug": "conduct",
+  "command": "/conduct",
+  "category": "special",
+  "n": {
+   "zh-TW": "揮舞指揮棒",
+   "zh-CN": "挥舞指挥棒",
+   "ja": "指揮棒を振る",
+   "en": "Conduct"
+  }
+ },
+ {
+  "slug": "confirm",
+  "command": "/confirm",
+  "category": "special",
+  "n": {
+   "zh-TW": "確認",
+   "zh-CN": "确认",
+   "ja": "確認",
+   "en": "Confirm"
+  }
+ },
+ {
+  "slug": "congratulate",
+  "command": "/congratulate",
+  "category": "general",
+  "n": {
+   "zh-TW": "稱讚",
+   "zh-CN": "称赞",
+   "ja": "称賛する",
+   "en": "Congratulate"
+  }
+ },
+ {
+  "slug": "consider",
+  "command": "/consider",
+  "alias": "/hmm",
+  "category": "general",
+  "n": {
+   "zh-TW": "疑問",
+   "zh-CN": "疑问",
+   "ja": "疑問を抱く",
+   "en": "Consider"
+  }
+ },
+ {
+  "slug": "content",
+  "command": "/content",
+  "category": "expression",
+  "n": {
+   "zh-TW": "表情：幸福",
+   "zh-CN": "表情：幸福",
+   "ja": "表情：幸福",
+   "en": "Content"
+  }
+ },
+ {
+  "slug": "converse",
+  "command": "/converse",
+  "category": "general",
+  "n": {
+   "zh-TW": "說話",
+   "zh-CN": "说话",
+   "ja": "話す",
+   "en": "Converse"
+  }
+ },
+ {
+  "slug": "crimsonlotus",
+  "command": "/crimsonlotus",
+  "category": "general",
+  "n": {
+   "zh-TW": "練武",
+   "zh-CN": "练武",
+   "ja": "演舞",
+   "en": "Crimson Lotus"
+  }
+ },
+ {
+  "slug": "cry",
+  "command": "/cry",
+  "category": "general",
+  "n": {
+   "zh-TW": "哭泣",
+   "zh-CN": "哭泣",
+   "ja": "泣く",
+   "en": "Cry"
+  }
+ },
+ {
+  "slug": "dance",
+  "command": "/dance",
+  "category": "general",
+  "n": {
+   "zh-TW": "跳舞",
+   "zh-CN": "跳舞",
+   "ja": "踊る",
+   "en": "Dance"
+  }
+ },
+ {
+  "slug": "dazed",
+  "command": "/dazed",
+  "category": "special",
+  "n": {
+   "zh-TW": "暈頭轉向",
+   "zh-CN": "晕头转向",
+   "ja": "ふらつく",
+   "en": "Dazed"
+  }
+ },
+ {
+  "slug": "delighted",
+  "command": "/delighted",
+  "alias": "/delight",
+  "category": "general",
+  "n": {
+   "zh-TW": "太感動了",
+   "zh-CN": "太感动了",
+   "ja": "ほっぺたが落ちる",
+   "en": "Delighted"
+  }
+ },
+ {
+  "slug": "deny",
+  "command": "/deny",
+  "category": "general",
+  "n": {
+   "zh-TW": "否定",
+   "zh-CN": "否定",
+   "ja": "否定する",
+   "en": "Deny"
+  }
+ },
+ {
+  "slug": "deride",
+  "command": "/deride",
+  "alias": "/pagaga",
+  "category": "general",
+  "n": {
+   "zh-TW": "叛逆精神",
+   "zh-CN": "叛逆精神",
+   "ja": "反骨精神を示す",
+   "en": "Deride"
+  }
+ },
+ {
+  "slug": "determined",
+  "command": "/determined",
+  "category": "general",
+  "n": {
+   "zh-TW": "幹勁十足",
+   "zh-CN": "干劲十足",
+   "ja": "意気込む",
+   "en": "Determined"
+  }
+ },
+ {
+  "slug": "devourtaco",
+  "command": "/devourtaco",
+  "category": "special",
+  "n": {
+   "zh-TW": "一直喫夾餅",
+   "zh-CN": "一直吃夹饼",
+   "ja": "タコスを食べ続ける",
+   "en": "Devour Taco"
+  }
+ },
+ {
+  "slug": "disappointed",
+  "command": "/disappointed",
+  "category": "general",
+  "n": {
+   "zh-TW": "大失所望",
+   "zh-CN": "大失所望",
+   "ja": "すごくがっかりする",
+   "en": "Disappointed"
+  }
+ },
+ {
+  "slug": "disturbed",
+  "command": "/disturbed",
+  "category": "expression",
+  "n": {
+   "zh-TW": "表情：困惑",
+   "zh-CN": "表情：困惑",
+   "ja": "表情：困惑",
+   "en": "Confused"
+  }
+ },
+ {
+  "slug": "divinearm",
+  "command": "/divinearm",
+  "category": "general",
+  "n": {
+   "zh-TW": "激活神機手鎧",
+   "zh-CN": "激活神机手铠",
+   "ja": "神機を輝かす：ガントレット",
+   "en": "Divine Arm"
+  }
+ },
+ {
+  "slug": "divinedisk",
+  "command": "/divinedisk",
+  "category": "general",
+  "n": {
+   "zh-TW": "激活神機項環",
+   "zh-CN": "激活神机项环",
+   "ja": "神機を輝かす：チョーカー",
+   "en": "Divine Disk"
+  }
+ },
+ {
+  "slug": "divinetiara",
+  "command": "/divinetiara",
+  "category": "general",
+  "n": {
+   "zh-TW": "激活神機王冠",
+   "zh-CN": "激活神机王冠",
+   "ja": "神機を輝かす：ティアラ",
+   "en": "Divine Tiara"
+  }
+ },
+ {
+  "slug": "dote",
+  "command": "/dote",
+  "category": "general",
+  "n": {
+   "zh-TW": "表達愛意",
+   "zh-CN": "表达爱意",
+   "ja": "愛を表現する",
+   "en": "Dote"
+  }
+ },
+ {
+  "slug": "doubt",
+  "command": "/doubt",
+  "category": "general",
+  "n": {
+   "zh-TW": "質疑",
+   "zh-CN": "质疑",
+   "ja": "問い詰める",
+   "en": "Doubt"
+  }
+ },
+ {
+  "slug": "doze",
+  "command": "/doze",
+  "category": "general",
+  "n": {
+   "zh-TW": "打盹",
+   "zh-CN": "打盹",
+   "ja": "居眠りする",
+   "en": "Doze"
+  }
+ },
+ {
+  "slug": "draw",
+  "command": "/draw",
+  "category": "general",
+  "n": {
+   "zh-TW": "亮出武器",
+   "zh-CN": "亮出武器",
+   "ja": "武器を構える",
+   "en": "Draw Weapon"
+  }
+ },
+ {
+  "slug": "drinkgreentea",
+  "command": "/drinkgreentea",
+  "alias": "/greentea",
+  "category": "general",
+  "n": {
+   "zh-TW": "飲用綠茶",
+   "zh-CN": "饮用绿茶",
+   "ja": "緑茶を飲む",
+   "en": "Drink Green Tea"
+  }
+ },
+ {
+  "slug": "earwiggle",
+  "command": "/earwiggle",
+  "category": "general",
+  "n": {
+   "zh-TW": "搖兔兔耳",
+   "zh-CN": "摇兔兔耳",
+   "ja": "おみみピコピコ",
+   "en": "Ear Wiggle"
+  }
+ },
+ {
+  "slug": "easternbow",
+  "command": "/easternbow",
+  "alias": "/ebow",
+  "category": "general",
+  "n": {
+   "zh-TW": "行東方禮",
+   "zh-CN": "行东方礼",
+   "ja": "東方風お辞儀",
+   "en": "Eastern Bow"
+  }
+ },
+ {
+  "slug": "easterndance",
+  "command": "/easterndance",
+  "alias": "/edance",
+  "category": "special",
+  "n": {
+   "zh-TW": "東方傳統舞蹈",
+   "zh-CN": "东方传统舞蹈",
+   "ja": "東方の伝統舞踊",
+   "en": "Eastern Dance"
+  }
+ },
+ {
+  "slug": "easterngreeting",
+  "command": "/easterngreeting",
+  "alias": "/egreeting",
+  "category": "general",
+  "n": {
+   "zh-TW": "抱拳禮",
+   "zh-CN": "抱拳礼",
+   "ja": "抱拳礼",
+   "en": "Eastern Greeting"
+  }
+ },
+ {
+  "slug": "easternstretch",
+  "command": "/easternstretch",
+  "category": "general",
+  "n": {
+   "zh-TW": "熱身",
+   "zh-CN": "热身",
+   "ja": "ウォームアップ",
+   "en": "Eastern Stretch"
+  }
+ },
+ {
+  "slug": "eatapple",
+  "command": "/eatapple",
+  "alias": "/apple",
+  "category": "general",
+  "n": {
+   "zh-TW": "喫蘋果",
+   "zh-CN": "吃苹果",
+   "ja": "リンゴを食べる",
+   "en": "Eat Apple"
+  }
+ },
+ {
+  "slug": "eatchicken",
+  "command": "/eatchicken",
+  "category": "general",
+  "n": {
+   "zh-TW": "喫炸雞",
+   "zh-CN": "吃炸鸡",
+   "ja": "フライドチキンを食べる",
+   "en": "Eat Chicken"
+  }
+ },
+ {
+  "slug": "eatchocolate",
+  "command": "/eatchocolate",
+  "alias": "/choco",
+  "category": "general",
+  "n": {
+   "zh-TW": "喫戀人巧克力",
+   "zh-CN": "吃恋人巧克力",
+   "ja": "ヴァレンティオンチョコを食べる",
+   "en": "Eat Chocolate"
+  }
+ },
+ {
+  "slug": "eategg",
+  "command": "/eategg",
+  "alias": "/egg",
+  "category": "general",
+  "n": {
+   "zh-TW": "喫水煮蛋",
+   "zh-CN": "吃水煮蛋",
+   "ja": "ゆで卵を食べる",
+   "en": "Eat Egg"
+  }
+ },
+ {
+  "slug": "eatpizza",
+  "command": "/eatpizza",
+  "alias": "/pizza",
+  "category": "general",
+  "n": {
+   "zh-TW": "喫披薩",
+   "zh-CN": "吃披萨",
+   "ja": "ピザを食べる",
+   "en": "Eat Pizza"
+  }
+ },
+ {
+  "slug": "eatpumpkincookie",
+  "command": "/eatpumpkincookie",
+  "alias": "/cookie",
+  "category": "general",
+  "n": {
+   "zh-TW": "喫南瓜曲奇",
+   "zh-CN": "吃南瓜曲奇",
+   "ja": "パンプキンクッキーを食べる",
+   "en": "Eat Pumpkin Cookie"
+  }
+ },
+ {
+  "slug": "eatriceball",
+  "command": "/eatriceball",
+  "alias": "/riceball",
+  "category": "general",
+  "n": {
+   "zh-TW": "喫飯糰",
+   "zh-CN": "吃饭团",
+   "ja": "おにぎりを食べる",
+   "en": "Eat Rice Ball"
+  }
+ },
+ {
+  "slug": "eattaco",
+  "command": "/eattaco",
+  "alias": "/taco",
+  "category": "general",
+  "n": {
+   "zh-TW": "喫夾餅",
+   "zh-CN": "吃夹饼",
+   "ja": "タコスを食べる",
+   "en": "Eat Taco"
+  }
+ },
+ {
+  "slug": "elucidate",
+  "command": "/elucidate",
+  "category": "general",
+  "n": {
+   "zh-TW": "說明",
+   "zh-CN": "说明",
+   "ja": "説明",
+   "en": "Elucidate"
+  }
+ },
+ {
+  "slug": "embrace",
+  "command": "/embrace",
+  "category": "general",
+  "n": {
+   "zh-TW": "深情擁抱",
+   "zh-CN": "深情拥抱",
+   "ja": "抱き合う",
+   "en": "Embrace"
+  }
+ },
+ {
+  "slug": "endure",
+  "command": "/endure",
+  "category": "expression",
+  "n": {
+   "zh-TW": "表情：忍耐",
+   "zh-CN": "表情：忍耐",
+   "ja": "表情：忍耐",
+   "en": "Endure"
+  }
+ },
+ {
+  "slug": "eureka",
+  "command": "/eureka",
+  "category": "general",
+  "n": {
+   "zh-TW": "靈光一現",
+   "zh-CN": "灵光一现",
+   "ja": "閃く",
+   "en": "Eureka"
+  }
+ },
+ {
+  "slug": "examineself",
+  "command": "/examineself",
+  "category": "general",
+  "n": {
+   "zh-TW": "自視",
+   "zh-CN": "自视",
+   "ja": "自分を見る",
+   "en": "Examine Self"
+  }
+ },
+ {
+  "slug": "facepalm",
+  "command": "/facepalm",
+  "category": "general",
+  "n": {
+   "zh-TW": "捂臉",
+   "zh-CN": "捂脸",
+   "ja": "顔を覆う",
+   "en": "Facepalm"
+  }
+ },
+ {
+  "slug": "fakesmile",
+  "command": "/fakesmile",
+  "category": "expression",
+  "n": {
+   "zh-TW": "表情：假笑",
+   "zh-CN": "表情：假笑",
+   "ja": "表情：作り笑い",
+   "en": "Fake Smile"
+  }
+ },
+ {
+  "slug": "fistbump",
+  "command": "/fistbump",
+  "category": "general",
+  "n": {
+   "zh-TW": "對拳",
+   "zh-CN": "对拳",
+   "ja": "拳を突き出す",
+   "en": "Fist Bump"
+  }
+ },
+ {
+  "slug": "fistpump",
+  "command": "/fistpump",
+  "category": "general",
+  "n": {
+   "zh-TW": "振作精神",
+   "zh-CN": "振作精神",
+   "ja": "ガッツポーズ",
+   "en": "Fist Pump"
+  }
+ },
+ {
+  "slug": "flamedance",
+  "command": "/flamedance",
+  "category": "special",
+  "n": {
+   "zh-TW": "火焰之舞",
+   "zh-CN": "火焰之舞",
+   "ja": "フレイムダンス",
+   "en": "Flame Dance"
+  }
+ },
+ {
+  "slug": "flex",
+  "command": "/flex",
+  "category": "general",
+  "n": {
+   "zh-TW": "肉體之美",
+   "zh-CN": "肉体之美",
+   "ja": "肉体美",
+   "en": "Flex"
+  }
+ },
+ {
+  "slug": "flowershower",
+  "command": "/flowershower",
+  "alias": "/petals",
+  "category": "general",
+  "n": {
+   "zh-TW": "花雨",
+   "zh-CN": "花雨",
+   "ja": "フラワーシャワー",
+   "en": "Flower Shower"
+  }
+ },
+ {
+  "slug": "frighten",
+  "command": "/frighten",
+  "category": "general",
+  "n": {
+   "zh-TW": "嚇唬人",
+   "zh-CN": "吓唬人",
+   "ja": "驚かす",
+   "en": "Frighten"
+  }
+ },
+ {
+  "slug": "fryegg",
+  "command": "/fryegg",
+  "category": "general",
+  "n": {
+   "zh-TW": "煎蛋",
+   "zh-CN": "煎蛋",
+   "ja": "目玉焼きを作る",
+   "en": "Fry Egg"
+  }
+ },
+ {
+  "slug": "fume",
+  "command": "/fume",
+  "category": "general",
+  "n": {
+   "zh-TW": "後悔",
+   "zh-CN": "后悔",
+   "ja": "悔しがる",
+   "en": "Fume"
+  }
+ },
+ {
+  "slug": "furious",
+  "command": "/furious",
+  "category": "general",
+  "n": {
+   "zh-TW": "憤怒",
+   "zh-CN": "愤怒",
+   "ja": "怒る",
+   "en": "Furious"
+  }
+ },
+ {
+  "slug": "furrow",
+  "command": "/furrow",
+  "category": "expression",
+  "n": {
+   "zh-TW": "表情：皺眉",
+   "zh-CN": "表情：皱眉",
+   "ja": "表情：眉をひそめる",
+   "en": "Furrow"
+  }
+ },
+ {
+  "slug": "gcsalute",
+  "command": "/gcsalute",
+  "category": "general",
+  "n": {
+   "zh-TW": "黑渦團軍禮 / 雙蛇黨軍禮 / 恆輝隊軍禮",
+   "zh-CN": "黑涡团军礼 / 双蛇党军礼 / 恒辉队军礼",
+   "ja": "黒渦団・敬礼 / 双蛇党・敬礼 / 不滅隊・敬礼",
+   "en": "Storm Salute / Serpent Salute / Flame Salute"
+  }
+ },
+ {
+  "slug": "getfantasy",
+  "command": "/getfantasy",
+  "category": "special",
+  "n": {
+   "zh-TW": "幻想舞步",
+   "zh-CN": "幻想舞步",
+   "ja": "ゲットファンタジー",
+   "en": "Get Fantasy"
+  }
+ },
+ {
+  "slug": "golddance",
+  "command": "/golddance",
+  "alias": "/gdance",
+  "category": "special",
+  "n": {
+   "zh-TW": "黃金之舞",
+   "zh-CN": "黄金之舞",
+   "ja": "ゴールデンダンス",
+   "en": "Gold Dance"
+  }
+ },
+ {
+  "slug": "goobbuedo",
+  "command": "/goobbuedo",
+  "category": "special",
+  "n": {
+   "zh-TW": "古菩步",
+   "zh-CN": "古菩步",
+   "ja": "グゥーブー・ドゥ",
+   "en": "Goobbue Do"
+  }
+ },
+ {
+  "slug": "goodbye",
+  "command": "/goodbye",
+  "category": "general",
+  "n": {
+   "zh-TW": "道別",
+   "zh-CN": "道别",
+   "ja": "さようなら",
+   "en": "Goodbye"
+  }
+ },
+ {
+  "slug": "gratuity",
+  "command": "/gratuity",
+  "category": "general",
+  "n": {
+   "zh-TW": "心意",
+   "zh-CN": "心意",
+   "ja": "心づけ",
+   "en": "Gratuity"
+  }
+ },
+ {
+  "slug": "greet",
+  "command": "/greet",
+  "category": "general",
+  "n": {
+   "zh-TW": "打招呼",
+   "zh-CN": "打招呼",
+   "ja": "挨拶する",
+   "en": "Greeting"
+  }
+ },
+ {
+  "slug": "gridaniangulp",
+  "command": "/gridaniangulp",
+  "category": "special",
+  "n": {
+   "zh-TW": "持續用森都風格馬克杯喝",
+   "zh-CN": "持续用森都风格马克杯喝",
+   "ja": "森都風マグカップで飲み続ける",
+   "en": "Gridanian Gulp"
+  }
+ },
+ {
+  "slug": "gridaniansip",
+  "command": "/gridaniansip",
+  "category": "general",
+  "n": {
+   "zh-TW": "用森都風格馬克杯喝",
+   "zh-CN": "用森都风格马克杯喝",
+   "ja": "森都風マグカップで飲む",
+   "en": "Gridanian Sip"
+  }
+ },
+ {
+  "slug": "grin",
+  "command": "/grin",
+  "category": "expression",
+  "n": {
+   "zh-TW": "表情：笑顏",
+   "zh-CN": "表情：笑颜",
+   "ja": "表情：笑顔",
+   "en": "Grin"
+  }
+ },
+ {
+  "slug": "groundsit",
+  "command": "/groundsit",
+  "category": "special",
+  "n": {
+   "zh-TW": "坐下到地上",
+   "zh-CN": "坐下到地上",
+   "ja": "地面に座る",
+   "en": "Sit on Ground"
+  }
+ },
+ {
+  "slug": "grovel",
+  "command": "/grovel",
+  "category": "general",
+  "n": {
+   "zh-TW": "下跪認錯",
+   "zh-CN": "下跪认错",
+   "ja": "土下座",
+   "en": "Grovel"
+  }
+ },
+ {
+  "slug": "guard",
+  "command": "/guard",
+  "category": "special",
+  "n": {
+   "zh-TW": "巡視",
+   "zh-CN": "巡视",
+   "ja": "警備する",
+   "en": "Guard"
+  }
+ },
+ {
+  "slug": "handover",
+  "command": "/handover",
+  "category": "general",
+  "n": {
+   "zh-TW": "遞交",
+   "zh-CN": "递交",
+   "ja": "わたす",
+   "en": "Hand Over"
+  }
+ },
+ {
+  "slug": "handtoheart",
+  "command": "/handtoheart",
+  "category": "general",
+  "n": {
+   "zh-TW": "手撫胸",
+   "zh-CN": "手抚胸",
+   "ja": "胸に手をあてる",
+   "en": "Hand to Heart"
+  }
+ },
+ {
+  "slug": "happy",
+  "command": "/happy",
+  "category": "general",
+  "n": {
+   "zh-TW": "欣喜若狂",
+   "zh-CN": "欣喜若狂",
+   "ja": "すごく喜ぶ",
+   "en": "Happy"
+  }
+ },
+ {
+  "slug": "harvestdance",
+  "command": "/harvestdance",
+  "alias": "/hdance",
+  "category": "special",
+  "n": {
+   "zh-TW": "豐饒之舞",
+   "zh-CN": "丰饶之舞",
+   "ja": "豊穣の舞",
+   "en": "Harvest Dance"
+  }
+ },
+ {
+  "slug": "haurchefant",
+  "command": "/haurchefant",
+  "alias": "/hknight",
+  "category": "general",
+  "n": {
+   "zh-TW": "太棒了！",
+   "zh-CN": "太棒了！",
+   "ja": "「イイ！」",
+   "en": "Haurchefant"
+  }
+ },
+ {
+  "slug": "headache",
+  "command": "/headache",
+  "category": "general",
+  "n": {
+   "zh-TW": "頭痛",
+   "zh-CN": "头痛",
+   "ja": "頭痛",
+   "en": "Headache"
+  }
+ },
+ {
+  "slug": "heeltoe",
+  "command": "/heeltoe",
+  "category": "special",
+  "n": {
+   "zh-TW": "趾踵步",
+   "zh-CN": "趾踵步",
+   "ja": "ヒールトー",
+   "en": "Heel Toe"
+  }
+ },
+ {
+  "slug": "highfive",
+  "command": "/highfive",
+  "alias": "/hifive",
+  "category": "general",
+  "n": {
+   "zh-TW": "擊掌",
+   "zh-CN": "击掌",
+   "ja": "ハイタッチ",
+   "en": "High Five"
+  }
+ },
+ {
+  "slug": "hildibrand",
+  "command": "/hildibrand",
+  "alias": "/hildy",
+  "category": "special",
+  "n": {
+   "zh-TW": "紳士風度",
+   "zh-CN": "绅士风度",
+   "ja": "事件屋の決めポーズ",
+   "en": "Most Gentlemanly"
+  }
+ },
+ {
+  "slug": "hug",
+  "command": "/hug",
+  "category": "general",
+  "n": {
+   "zh-TW": "擁抱",
+   "zh-CN": "拥抱",
+   "ja": "ハグ",
+   "en": "Hug"
+  }
+ },
+ {
+  "slug": "huh",
+  "command": "/huh",
+  "category": "general",
+  "n": {
+   "zh-TW": "莫名",
+   "zh-CN": "莫名",
+   "ja": "呆れる",
+   "en": "Huh"
+  }
+ },
+ {
+  "slug": "hum",
+  "command": "/hum",
+  "category": "special",
+  "n": {
+   "zh-TW": "哼歌",
+   "zh-CN": "哼歌",
+   "ja": "鼻歌",
+   "en": "Hum"
+  }
+ },
+ {
+  "slug": "humbletriumph",
+  "command": "/humbletriumph",
+  "alias": "/waitforit",
+  "category": "general",
+  "n": {
+   "zh-TW": "得意洋洋",
+   "zh-CN": "得意洋洋",
+   "ja": "自慢げなポーズ",
+   "en": "Humble Triumph"
+  }
+ },
+ {
+  "slug": "hurray",
+  "command": "/hurray",
+  "alias": "/huzzah",
+  "category": "general",
+  "n": {
+   "zh-TW": "勝利歡呼",
+   "zh-CN": "胜利欢呼",
+   "ja": "勝ちどき",
+   "en": "Huzzah"
+  }
+ },
+ {
+  "slug": "iceheart",
+  "command": "/iceheart",
+  "category": "special",
+  "n": {
+   "zh-TW": "寒冰的幻想",
+   "zh-CN": "寒冰的幻想",
+   "ja": "氷結の幻想",
+   "en": "Diamond Dust"
+  }
+ },
+ {
+  "slug": "imperialsalute",
+  "command": "/imperialsalute",
+  "category": "general",
+  "n": {
+   "zh-TW": "帝國式軍禮",
+   "zh-CN": "帝国式军礼",
+   "ja": "帝国式敬礼",
+   "en": "Imperial Salute"
+  }
+ },
+ {
+  "slug": "insist",
+  "command": "/insist",
+  "category": "general",
+  "n": {
+   "zh-TW": "堅持主張",
+   "zh-CN": "坚持主张",
+   "ja": "主張する",
+   "en": "Insist"
+  }
+ },
+ {
+  "slug": "joy",
+  "command": "/joy",
+  "category": "general",
+  "n": {
+   "zh-TW": "高興",
+   "zh-CN": "高兴",
+   "ja": "喜ぶ",
+   "en": "Joy"
+  }
+ },
+ {
+  "slug": "jumpforjoy1",
+  "command": "/jumpforjoy1",
+  "alias": "/jj1",
+  "category": "general",
+  "n": {
+   "zh-TW": "雀躍1",
+   "zh-CN": "雀跃1",
+   "ja": "ハッピージャンプ1",
+   "en": "Jump for Joy 1"
+  }
+ },
+ {
+  "slug": "jumpforjoy2",
+  "command": "/jumpforjoy2",
+  "alias": "/jj2",
+  "category": "general",
+  "n": {
+   "zh-TW": "雀躍2",
+   "zh-CN": "雀跃2",
+   "ja": "ハッピージャンプ2",
+   "en": "Jump for Joy 2"
+  }
+ },
+ {
+  "slug": "jumpforjoy3",
+  "command": "/jumpforjoy3",
+  "alias": "/jj3",
+  "category": "general",
+  "n": {
+   "zh-TW": "雀躍3",
+   "zh-CN": "雀跃3",
+   "ja": "ハッピージャンプ3",
+   "en": "Jump for Joy 3"
+  }
+ },
+ {
+  "slug": "jumpforjoy4",
+  "command": "/jumpforjoy4",
+  "alias": "/jj4",
+  "category": "general",
+  "n": {
+   "zh-TW": "雀躍4",
+   "zh-CN": "雀跃4",
+   "ja": "ハッピージャンプ4",
+   "en": "Jump for Joy 4"
+  }
+ },
+ {
+  "slug": "jumpforjoy5",
+  "command": "/jumpforjoy5",
+  "alias": "/jj5",
+  "category": "general",
+  "n": {
+   "zh-TW": "雀躍5",
+   "zh-CN": "雀跃5",
+   "ja": "ハッピージャンプ5",
+   "en": "Jump for Joy 5"
+  }
+ },
+ {
+  "slug": "kneel",
+  "command": "/kneel",
+  "category": "general",
+  "n": {
+   "zh-TW": "下跪",
+   "zh-CN": "下跪",
+   "ja": "ひざまずく",
+   "en": "Kneel"
+  }
+ },
+ {
+  "slug": "laliho",
+  "command": "/laliho",
+  "category": "general",
+  "n": {
+   "zh-TW": "啦哩吼",
+   "zh-CN": "啦哩吼",
+   "ja": "ラリホー",
+   "en": "Lali-ho"
+  }
+ },
+ {
+  "slug": "lalihop",
+  "command": "/lalihop",
+  "category": "special",
+  "n": {
+   "zh-TW": "啦哩吼舞",
+   "zh-CN": "啦哩吼舞",
+   "ja": "ラリホップ",
+   "en": "Lali Hop"
+  }
+ },
+ {
+  "slug": "laugh",
+  "command": "/laugh",
+  "category": "general",
+  "n": {
+   "zh-TW": "大笑",
+   "zh-CN": "大笑",
+   "ja": "大笑いする",
+   "en": "Laugh"
+  }
+ },
+ {
+  "slug": "lean",
+  "command": "/lean",
+  "category": "special",
+  "n": {
+   "zh-TW": "背靠",
+   "zh-CN": "背靠",
+   "ja": "斜め立ち",
+   "en": "Lean"
+  }
+ },
+ {
+  "slug": "leftwink",
+  "command": "/leftwink",
+  "category": "expression",
+  "n": {
+   "zh-TW": "表情：左飛眼",
+   "zh-CN": "表情：左飞眼",
+   "ja": "表情：ウィンク左",
+   "en": "Wink (Left)"
+  }
+ },
+ {
+  "slug": "limberup",
+  "command": "/limberup",
+  "alias": "/limber",
+  "category": "general",
+  "n": {
+   "zh-TW": "躍躍欲試",
+   "zh-CN": "跃跃欲试",
+   "ja": "張り切る",
+   "en": "Limber Up"
+  }
+ },
+ {
+  "slug": "linkpearl",
+  "command": "/linkpearl",
+  "category": "general",
+  "n": {
+   "zh-TW": "通訊珠",
+   "zh-CN": "通讯珠",
+   "ja": "リンクパール通信",
+   "en": "Linkpearl"
+  }
+ },
+ {
+  "slug": "littleladiesdance",
+  "command": "/littleladiesdance",
+  "alias": "/ladance",
+  "category": "general",
+  "n": {
+   "zh-TW": "公主之舞",
+   "zh-CN": "公主之舞",
+   "ja": "姫の舞踊",
+   "en": "Little Ladies' Dance"
+  }
+ },
+ {
+  "slug": "lominsangulp",
+  "command": "/lominsangulp",
+  "category": "special",
+  "n": {
+   "zh-TW": "持續用海都風格馬克杯喝",
+   "zh-CN": "持续用海都风格马克杯喝",
+   "ja": "海都風マグカップで飲み続ける",
+   "en": "Lominsan Gulp"
+  }
+ },
+ {
+  "slug": "lominsansip",
+  "command": "/lominsansip",
+  "category": "general",
+  "n": {
+   "zh-TW": "用海都風格馬克杯喝",
+   "zh-CN": "用海都风格马克杯喝",
+   "ja": "海都風マグカップで飲む",
+   "en": "Lominsan Sip"
+  }
+ },
+ {
+  "slug": "lookout",
+  "command": "/lookout",
+  "category": "general",
+  "n": {
+   "zh-TW": "張望",
+   "zh-CN": "张望",
+   "ja": "見わたす",
+   "en": "Lookout"
+  }
+ },
+ {
+  "slug": "lophop",
+  "command": "/lophop",
+  "category": "special",
+  "n": {
+   "zh-TW": "兔兔舞",
+   "zh-CN": "兔兔舞",
+   "ja": "レポリットダンス",
+   "en": "Lop Hop"
+  }
+ },
+ {
+  "slug": "lounge",
+  "command": "/lounge",
+  "alias": "/sit",
+  "category": "special",
+  "n": {
+   "zh-TW": "坐下",
+   "zh-CN": "坐下",
+   "ja": "座る",
+   "en": "Sit"
+  }
+ },
+ {
+  "slug": "loveheart",
+  "command": "/loveheart",
+  "alias": "/heart",
+  "category": "special",
+  "n": {
+   "zh-TW": "比心",
+   "zh-CN": "比心",
+   "ja": "ハートポーズ",
+   "en": "Love Heart"
+  }
+ },
+ {
+  "slug": "magictrick",
+  "command": "/magictrick",
+  "category": "general",
+  "n": {
+   "zh-TW": "魔術",
+   "zh-CN": "魔术",
+   "ja": "手品",
+   "en": "Magic Trick"
+  }
+ },
+ {
+  "slug": "malevolence",
+  "command": "/malevolence",
+  "category": "special",
+  "n": {
+   "zh-TW": "詛咒",
+   "zh-CN": "诅咒",
+   "ja": "呪う",
+   "en": "Malevolence"
+  }
+ },
+ {
+  "slug": "mandervilledance",
+  "command": "/mandervilledance",
+  "alias": "/mdance",
+  "category": "special",
+  "n": {
+   "zh-TW": "紳士之舞",
+   "zh-CN": "绅士之舞",
+   "ja": "紳士の舞",
+   "en": "Manderville Dance"
+  }
+ },
+ {
+  "slug": "mandervillemambo",
+  "command": "/mandervillemambo",
+  "alias": "/mmambo",
+  "category": "special",
+  "n": {
+   "zh-TW": "紳士舞步",
+   "zh-CN": "绅士舞步",
+   "ja": "事件屋のマンボ",
+   "en": "Manderville Mambo"
+  }
+ },
+ {
+  "slug": "me",
+  "command": "/me",
+  "category": "general",
+  "n": {
+   "zh-TW": "展示",
+   "zh-CN": "展示",
+   "ja": "アピール",
+   "en": "Me"
+  }
+ },
+ {
+  "slug": "megaflare",
+  "command": "/megaflare",
+  "category": "special",
+  "n": {
+   "zh-TW": "百萬核爆",
+   "zh-CN": "百万核爆",
+   "ja": "メガフレア",
+   "en": "Megaflare"
+  }
+ },
+ {
+  "slug": "mogdance",
+  "command": "/mogdance",
+  "category": "special",
+  "n": {
+   "zh-TW": "莫古莫古舞",
+   "zh-CN": "莫古莫古舞",
+   "ja": "モグモグダンス",
+   "en": "Moogle Dance"
+  }
+ },
+ {
+  "slug": "moonlift",
+  "command": "/moonlift",
+  "category": "special",
+  "n": {
+   "zh-TW": "日月之舞",
+   "zh-CN": "日月之舞",
+   "ja": "太陽と月の舞",
+   "en": "Moonlift Dance"
+  }
+ },
+ {
+  "slug": "no",
+  "command": "/no",
+  "category": "general",
+  "n": {
+   "zh-TW": "搖頭",
+   "zh-CN": "摇头",
+   "ja": "首を横に振る",
+   "en": "No"
+  }
+ },
+ {
+  "slug": "ohokaliy",
+  "command": "/ohokaliy",
+  "category": "general",
+  "n": {
+   "zh-TW": "噢霍卡利",
+   "zh-CN": "噢霍卡利",
+   "ja": "オフォカリー",
+   "en": "Ohokaliy"
+  }
+ },
+ {
+  "slug": "ouch",
+  "command": "/ouch",
+  "alias": "/ow",
+  "category": "expression",
+  "n": {
+   "zh-TW": "表情：痛苦",
+   "zh-CN": "表情：痛苦",
+   "ja": "表情：激痛",
+   "en": "Ouch"
+  }
+ },
+ {
+  "slug": "overreact",
+  "command": "/overreact",
+  "category": "general",
+  "n": {
+   "zh-TW": "大驚小怪",
+   "zh-CN": "大惊小怪",
+   "ja": "大げさに驚く",
+   "en": "Overreact"
+  }
+ },
+ {
+  "slug": "paintblack",
+  "command": "/paintblack",
+  "category": "general",
+  "n": {
+   "zh-TW": "黑色陸行鳥之筆",
+   "zh-CN": "黑色陆行鸟之笔",
+   "ja": "チョコボの筆：黒",
+   "en": "Paint It Black"
+  }
+ },
+ {
+  "slug": "paintblue",
+  "command": "/paintblue",
+  "category": "general",
+  "n": {
+   "zh-TW": "藍色陸行鳥之筆",
+   "zh-CN": "蓝色陆行鸟之笔",
+   "ja": "チョコボの筆：青",
+   "en": "Paint It Blue"
+  }
+ },
+ {
+  "slug": "paintred",
+  "command": "/paintred",
+  "category": "general",
+  "n": {
+   "zh-TW": "紅色陸行鳥之筆",
+   "zh-CN": "红色陆行鸟之笔",
+   "ja": "チョコボの筆：赤",
+   "en": "Paint It Red"
+  }
+ },
+ {
+  "slug": "paintyellow",
+  "command": "/paintyellow",
+  "category": "general",
+  "n": {
+   "zh-TW": "黃色陸行鳥之筆",
+   "zh-CN": "黄色陆行鸟之笔",
+   "ja": "チョコボの筆：黄",
+   "en": "Paint It Yellow"
+  }
+ },
+ {
+  "slug": "panic",
+  "command": "/panic",
+  "category": "general",
+  "n": {
+   "zh-TW": "慌張",
+   "zh-CN": "慌张",
+   "ja": "慌てる",
+   "en": "Panic"
+  }
+ },
+ {
+  "slug": "pantomime",
+  "command": "/pantomime",
+  "alias": "/mime",
+  "category": "general",
+  "n": {
+   "zh-TW": "默劇",
+   "zh-CN": "默剧",
+   "ja": "パントマイム",
+   "en": "Pantomime"
+  }
+ },
+ {
+  "slug": "pen",
+  "command": "/pen",
+  "category": "special",
+  "n": {
+   "zh-TW": "用羽毛筆記錄",
+   "zh-CN": "用羽毛笔记录",
+   "ja": "羽根ペンで記述する",
+   "en": "Pen"
+  }
+ },
+ {
+  "slug": "photograph",
+  "command": "/photograph",
+  "category": "general",
+  "n": {
+   "zh-TW": "拍照",
+   "zh-CN": "拍照",
+   "ja": "撮影する",
+   "en": "Photograph"
+  }
+ },
+ {
+  "slug": "playdead",
+  "command": "/playdead",
+  "alias": "/pdead",
+  "category": "special",
+  "n": {
+   "zh-TW": "裝死",
+   "zh-CN": "装死",
+   "ja": "死んだふり",
+   "en": "Play Dead"
+  }
+ },
+ {
+  "slug": "point",
+  "command": "/point",
+  "category": "general",
+  "n": {
+   "zh-TW": "指向",
+   "zh-CN": "指向",
+   "ja": "指さす",
+   "en": "Point"
+  }
+ },
+ {
+  "slug": "poke",
+  "command": "/poke",
+  "category": "general",
+  "n": {
+   "zh-TW": "戳指",
+   "zh-CN": "戳指",
+   "ja": "つつく",
+   "en": "Poke"
+  }
+ },
+ {
+  "slug": "ponder",
+  "command": "/ponder",
+  "category": "expression",
+  "n": {
+   "zh-TW": "表情：思索",
+   "zh-CN": "表情：思索",
+   "ja": "表情：空想",
+   "en": "Ponder"
+  }
+ },
+ {
+  "slug": "popotostep",
+  "command": "/popotostep",
+  "category": "special",
+  "n": {
+   "zh-TW": "波波託步",
+   "zh-CN": "波波托步",
+   "ja": "ポポトステップ",
+   "en": "Popoto Step"
+  }
+ },
+ {
+  "slug": "pose",
+  "command": "/pose",
+  "category": "general",
+  "n": {
+   "zh-TW": "擺造型",
+   "zh-CN": "摆造型",
+   "ja": "ポーズをとる",
+   "en": "Pose"
+  }
+ },
+ {
+  "slug": "poseoftheunbound",
+  "command": "/poseoftheunbound",
+  "alias": "/unbound",
+  "category": "general",
+  "n": {
+   "zh-TW": "象徵自由的姿勢",
+   "zh-CN": "象征自由的姿势",
+   "ja": "自由のポーズ",
+   "en": "Pose of the Unbound"
+  }
+ },
+ {
+  "slug": "powerup",
+  "command": "/powerup",
+  "category": "general",
+  "n": {
+   "zh-TW": "蓄力迸發",
+   "zh-CN": "蓄力迸发",
+   "ja": "力を高める",
+   "en": "Power Up"
+  }
+ },
+ {
+  "slug": "pray",
+  "command": "/pray",
+  "category": "general",
+  "n": {
+   "zh-TW": "祈禱",
+   "zh-CN": "祈祷",
+   "ja": "祈る",
+   "en": "Pray"
+  }
+ },
+ {
+  "slug": "prettyplease",
+  "command": "/prettyplease",
+  "alias": "/pplease",
+  "category": "general",
+  "n": {
+   "zh-TW": "撒嬌",
+   "zh-CN": "撒娇",
+   "ja": "おねだり",
+   "en": "Pretty Please"
+  }
+ },
+ {
+  "slug": "psych",
+  "command": "/psych",
+  "category": "general",
+  "n": {
+   "zh-TW": "激勵",
+   "zh-CN": "激励",
+   "ja": "活を入れる",
+   "en": "Psych"
+  }
+ },
+ {
+  "slug": "puckerup",
+  "command": "/puckerup",
+  "category": "expression",
+  "n": {
+   "zh-TW": "表情：嘟嘴",
+   "zh-CN": "表情：嘟嘴",
+   "ja": "表情：口をすぼめる",
+   "en": "Pucker Up"
+  }
+ },
+ {
+  "slug": "pushups",
+  "command": "/pushups",
+  "category": "special",
+  "n": {
+   "zh-TW": "俯臥撐",
+   "zh-CN": "俯卧撑",
+   "ja": "腕立て伏せ",
+   "en": "Push-ups"
+  }
+ },
+ {
+  "slug": "rage",
+  "command": "/rage",
+  "category": "special",
+  "n": {
+   "zh-TW": "氣得發抖",
+   "zh-CN": "气得发抖",
+   "ja": "怒りに震える",
+   "en": "Rage"
+  }
+ },
+ {
+  "slug": "rally",
+  "command": "/rally",
+  "category": "general",
+  "n": {
+   "zh-TW": "鼓勵",
+   "zh-CN": "鼓励",
+   "ja": "励ます",
+   "en": "Rally"
+  }
+ },
+ {
+  "slug": "rangerpose1l",
+  "command": "/rangerpose1l",
+  "alias": "/redrangerposeb",
+  "category": "special",
+  "n": {
+   "zh-TW": "戰隊演武逆紅一式",
+   "zh-CN": "战队演武逆红一式",
+   "ja": "戦士の演武：壱ノ裏",
+   "en": "Red Ranger Pose B"
+  }
+ },
+ {
+  "slug": "rangerpose1r",
+  "command": "/rangerpose1r",
+  "alias": "/redrangerposea",
+  "category": "special",
+  "n": {
+   "zh-TW": "戰隊演武正紅一式",
+   "zh-CN": "战队演武正红一式",
+   "ja": "戦士の演武：壱",
+   "en": "Red Ranger Pose A"
+  }
+ },
+ {
+  "slug": "rangerpose2l",
+  "command": "/rangerpose2l",
+  "alias": "/blackrangerposeb",
+  "category": "special",
+  "n": {
+   "zh-TW": "戰隊演武逆黑二式",
+   "zh-CN": "战队演武逆黑二式",
+   "ja": "戦士の演武：弐ノ裏",
+   "en": "Black Ranger Pose B"
+  }
+ },
+ {
+  "slug": "rangerpose2r",
+  "command": "/rangerpose2r",
+  "alias": "/blackrangerposea",
+  "category": "special",
+  "n": {
+   "zh-TW": "戰隊演武正黑二式",
+   "zh-CN": "战队演武正黑二式",
+   "ja": "戦士の演武：弐",
+   "en": "Black Ranger Pose A"
+  }
+ },
+ {
+  "slug": "rangerpose3l",
+  "command": "/rangerpose3l",
+  "alias": "/yellowrangerposeb",
+  "category": "special",
+  "n": {
+   "zh-TW": "戰隊演武逆黃三式",
+   "zh-CN": "战队演武逆黄三式",
+   "ja": "戦士の演武：参ノ裏",
+   "en": "Yellow Ranger Pose B"
+  }
+ },
+ {
+  "slug": "rangerpose3r",
+  "command": "/rangerpose3r",
+  "alias": "/yellowrangerposea",
+  "category": "special",
+  "n": {
+   "zh-TW": "戰隊演武正黃三式",
+   "zh-CN": "战队演武正黄三式",
+   "ja": "戦士の演武：参",
+   "en": "Yellow Ranger Pose A"
+  }
+ },
+ {
+  "slug": "read",
+  "command": "/read",
+  "category": "general",
+  "n": {
+   "zh-TW": "看書",
+   "zh-CN": "看书",
+   "ja": "本を読む",
+   "en": "Read"
+  }
+ },
+ {
+  "slug": "reference",
+  "command": "/reference",
+  "category": "general",
+  "n": {
+   "zh-TW": "比對文獻",
+   "zh-CN": "比对文献",
+   "ja": "文献と見比べる",
+   "en": "Reference"
+  }
+ },
+ {
+  "slug": "reflect",
+  "command": "/reflect",
+  "category": "expression",
+  "n": {
+   "zh-TW": "表情：沉思",
+   "zh-CN": "表情：沉思",
+   "ja": "表情：熟考",
+   "en": "Reflect"
+  }
+ },
+ {
+  "slug": "reprimand",
+  "command": "/reprimand",
+  "category": "special",
+  "n": {
+   "zh-TW": "提醒",
+   "zh-CN": "提醒",
+   "ja": "注意する",
+   "en": "Reprimand"
+  }
+ },
+ {
+  "slug": "respect",
+  "command": "/respect",
+  "category": "general",
+  "n": {
+   "zh-TW": "默哀",
+   "zh-CN": "默哀",
+   "ja": "黙祷",
+   "en": "Pay Respects"
+  }
+ },
+ {
+  "slug": "ritualprayer",
+  "command": "/ritualprayer",
+  "category": "special",
+  "n": {
+   "zh-TW": "祝禱",
+   "zh-CN": "祝祷",
+   "ja": "おまじない",
+   "en": "Ritual Prayer"
+  }
+ },
+ {
+  "slug": "runwaywalk",
+  "command": "/runwaywalk",
+  "alias": "/runway",
+  "category": "general",
+  "n": {
+   "zh-TW": "模特步",
+   "zh-CN": "模特步",
+   "ja": "モデルウォーク",
+   "en": "Runway Walk"
+  }
+ },
+ {
+  "slug": "sabotender",
+  "command": "/sabotender",
+  "category": "general",
+  "n": {
+   "zh-TW": "優雅仙人刺",
+   "zh-CN": "优雅仙人刺",
+   "ja": "サボテンダーポーズ",
+   "en": "Senor Sabotender"
+  }
+ },
+ {
+  "slug": "sad",
+  "command": "/sad",
+  "category": "expression",
+  "n": {
+   "zh-TW": "表情：悲傷",
+   "zh-CN": "表情：悲伤",
+   "ja": "表情：泣き顔",
+   "en": "Sad"
+  }
+ },
+ {
+  "slug": "salute",
+  "command": "/salute",
+  "category": "general",
+  "n": {
+   "zh-TW": "敬禮",
+   "zh-CN": "敬礼",
+   "ja": "敬礼する",
+   "en": "Salute"
+  }
+ },
+ {
+  "slug": "savortea",
+  "command": "/savortea",
+  "category": "special",
+  "n": {
+   "zh-TW": "端坐享用綠茶",
+   "zh-CN": "端坐享用绿茶",
+   "ja": "正座して緑茶を飲み続ける",
+   "en": "Savor Tea"
+  }
+ },
+ {
+  "slug": "scared",
+  "command": "/scared",
+  "alias": "/fear",
+  "category": "expression",
+  "n": {
+   "zh-TW": "表情：恐怖",
+   "zh-CN": "表情：恐怖",
+   "ja": "表情：恐怖",
+   "en": "Scared"
+  }
+ },
+ {
+  "slug": "scheme",
+  "command": "/scheme",
+  "category": "special",
+  "n": {
+   "zh-TW": "說明計劃",
+   "zh-CN": "说明计划",
+   "ja": "企みを話す",
+   "en": "Scheme"
+  }
+ },
+ {
+  "slug": "scoff",
+  "command": "/scoff",
+  "category": "expression",
+  "n": {
+   "zh-TW": "表情：苦笑",
+   "zh-CN": "表情：苦笑",
+   "ja": "表情：苦笑い",
+   "en": "Scoff"
+  }
+ },
+ {
+  "slug": "shakedrink",
+  "command": "/shakedrink",
+  "category": "special",
+  "n": {
+   "zh-TW": "調飲",
+   "zh-CN": "调饮",
+   "ja": "シェイカーを振る",
+   "en": "Shake Drink"
+  }
+ },
+ {
+  "slug": "sheathe",
+  "command": "/sheathe",
+  "category": "general",
+  "n": {
+   "zh-TW": "收回武器",
+   "zh-CN": "收回武器",
+   "ja": "武器を収める",
+   "en": "Sheathe Weapon"
+  }
+ },
+ {
+  "slug": "shiver",
+  "command": "/shiver",
+  "category": "special",
+  "n": {
+   "zh-TW": "好冷",
+   "zh-CN": "好冷",
+   "ja": "寒がる",
+   "en": "Shiver"
+  }
+ },
+ {
+  "slug": "shocked",
+  "command": "/shocked",
+  "category": "general",
+  "n": {
+   "zh-TW": "震驚",
+   "zh-CN": "震惊",
+   "ja": "動転する",
+   "en": "Shocked"
+  }
+ },
+ {
+  "slug": "showleft",
+  "command": "/showleft",
+  "category": "special",
+  "n": {
+   "zh-TW": "展現左側",
+   "zh-CN": "展现左侧",
+   "ja": "見せつける：左",
+   "en": "Show Left"
+  }
+ },
+ {
+  "slug": "showright",
+  "command": "/showright",
+  "category": "special",
+  "n": {
+   "zh-TW": "展現右側",
+   "zh-CN": "展现右侧",
+   "ja": "見せつける：右",
+   "en": "Show Right"
+  }
+ },
+ {
+  "slug": "shrug",
+  "command": "/shrug",
+  "category": "general",
+  "n": {
+   "zh-TW": "聳肩",
+   "zh-CN": "耸肩",
+   "ja": "肩をすくめる",
+   "en": "Shrug"
+  }
+ },
+ {
+  "slug": "shush",
+  "command": "/shush",
+  "alias": "/shh",
+  "category": "general",
+  "n": {
+   "zh-TW": "噓",
+   "zh-CN": "嘘",
+   "ja": "静寂を促す",
+   "en": "Shush"
+  }
+ },
+ {
+  "slug": "shuteyes",
+  "command": "/shuteyes",
+  "alias": "/shut",
+  "category": "expression",
+  "n": {
+   "zh-TW": "表情：閉目",
+   "zh-CN": "表情：闭目",
+   "ja": "表情：瞑目",
+   "en": "Shut Eyes"
+  }
+ },
+ {
+  "slug": "sidestep",
+  "command": "/sidestep",
+  "category": "special",
+  "n": {
+   "zh-TW": "側步",
+   "zh-CN": "侧步",
+   "ja": "サイドステップ",
+   "en": "Side Step"
+  }
+ },
+ {
+  "slug": "simper",
+  "command": "/simper",
+  "category": "expression",
+  "n": {
+   "zh-TW": "表情：柔和",
+   "zh-CN": "表情：柔和",
+   "ja": "表情：柔和",
+   "en": "Simper"
+  }
+ },
+ {
+  "slug": "simulationf",
+  "command": "/simulationf",
+  "category": "special",
+  "n": {
+   "zh-TW": "歐米茄F架勢",
+   "zh-CN": "欧米茄F架势",
+   "ja": "オメガFの構え",
+   "en": "Simulation F"
+  }
+ },
+ {
+  "slug": "simulationm",
+  "command": "/simulationm",
+  "category": "special",
+  "n": {
+   "zh-TW": "歐米茄M架勢",
+   "zh-CN": "欧米茄M架势",
+   "ja": "オメガMの構え",
+   "en": "Simulation M"
+  }
+ },
+ {
+  "slug": "situps",
+  "command": "/situps",
+  "category": "special",
+  "n": {
+   "zh-TW": "仰臥起坐",
+   "zh-CN": "仰卧起坐",
+   "ja": "腹筋運動",
+   "en": "Sit-ups"
+  }
+ },
+ {
+  "slug": "slap",
+  "command": "/slap",
+  "category": "general",
+  "n": {
+   "zh-TW": "甩巴掌",
+   "zh-CN": "甩巴掌",
+   "ja": "平手打ち",
+   "en": "Slap"
+  }
+ },
+ {
+  "slug": "slump",
+  "command": "/slump",
+  "category": "special",
+  "n": {
+   "zh-TW": "垂頭喪氣",
+   "zh-CN": "垂头丧气",
+   "ja": "うなだれる",
+   "en": "Slump"
+  }
+ },
+ {
+  "slug": "smile",
+  "command": "/smile",
+  "category": "expression",
+  "n": {
+   "zh-TW": "表情：微笑",
+   "zh-CN": "表情：微笑",
+   "ja": "表情：微笑",
+   "en": "Smile"
+  }
+ },
+ {
+  "slug": "smirk",
+  "command": "/smirk",
+  "category": "expression",
+  "n": {
+   "zh-TW": "表情：自信",
+   "zh-CN": "表情：自信",
+   "ja": "表情：自信",
+   "en": "Smirk"
+  }
+ },
+ {
+  "slug": "snap",
+  "command": "/snap",
+  "category": "general",
+  "n": {
+   "zh-TW": "打響指",
+   "zh-CN": "打响指",
+   "ja": "フィンガースナップ",
+   "en": "Snap"
+  }
+ },
+ {
+  "slug": "sneer",
+  "command": "/sneer",
+  "category": "expression",
+  "n": {
+   "zh-TW": "表情：陰險",
+   "zh-CN": "表情：阴险",
+   "ja": "表情：悪だくみ",
+   "en": "Sneer"
+  }
+ },
+ {
+  "slug": "songbird",
+  "command": "/songbird",
+  "category": "special",
+  "n": {
+   "zh-TW": "小黃鶯之舞",
+   "zh-CN": "小黄莺之舞",
+   "ja": "歌姫を真似る",
+   "en": "Songbird"
+  }
+ },
+ {
+  "slug": "soothe",
+  "command": "/soothe",
+  "category": "general",
+  "n": {
+   "zh-TW": "安撫",
+   "zh-CN": "安抚",
+   "ja": "なだめる",
+   "en": "Soothe"
+  }
+ },
+ {
+  "slug": "spectacles",
+  "command": "/spectacles",
+  "category": "general",
+  "n": {
+   "zh-TW": "託眼鏡",
+   "zh-CN": "托眼镜",
+   "ja": "眼鏡を正す",
+   "en": "Spectacles"
+  }
+ },
+ {
+  "slug": "spirit",
+  "command": "/spirit",
+  "category": "special",
+  "n": {
+   "zh-TW": "觀戰",
+   "zh-CN": "观战",
+   "ja": "観戦する",
+   "en": "Spirit"
+  }
+ },
+ {
+  "slug": "splash",
+  "command": "/splash",
+  "category": "general",
+  "n": {
+   "zh-TW": "撩水",
+   "zh-CN": "撩水",
+   "ja": "水をかける",
+   "en": "Splash"
+  }
+ },
+ {
+  "slug": "squats",
+  "command": "/squats",
+  "category": "special",
+  "n": {
+   "zh-TW": "深蹲",
+   "zh-CN": "深蹲",
+   "ja": "スクワット",
+   "en": "Squats"
+  }
+ },
+ {
+  "slug": "stagger",
+  "command": "/stagger",
+  "category": "general",
+  "n": {
+   "zh-TW": "迷糊",
+   "zh-CN": "迷糊",
+   "ja": "よろめく",
+   "en": "Stagger"
+  }
+ },
+ {
+  "slug": "stepdance",
+  "command": "/stepdance",
+  "alias": "/sdance",
+  "category": "special",
+  "n": {
+   "zh-TW": "踢踏舞",
+   "zh-CN": "踢踏舞",
+   "ja": "ステップダンス",
+   "en": "Step Dance"
+  }
+ },
+ {
+  "slug": "stomp",
+  "command": "/stomp",
+  "category": "general",
+  "n": {
+   "zh-TW": "跳腳",
+   "zh-CN": "跳脚",
+   "ja": "地団駄を踏む",
+   "en": "Stomp"
+  }
+ },
+ {
+  "slug": "straightface",
+  "command": "/straightface",
+  "alias": "/straight",
+  "category": "expression",
+  "n": {
+   "zh-TW": "表情：平常",
+   "zh-CN": "表情：平常",
+   "ja": "表情：素顔",
+   "en": "Straight Face"
+  }
+ },
+ {
+  "slug": "stretch",
+  "command": "/stretch",
+  "category": "general",
+  "n": {
+   "zh-TW": "伸展",
+   "zh-CN": "伸展",
+   "ja": "伸びをする",
+   "en": "Stretch"
+  }
+ },
+ {
+  "slug": "stroke",
+  "command": "/stroke",
+  "alias": "/pet",
+  "category": "general",
+  "n": {
+   "zh-TW": "撫摸",
+   "zh-CN": "抚摸",
+   "ja": "なでる",
+   "en": "Pet"
+  }
+ },
+ {
+  "slug": "study",
+  "command": "/study",
+  "category": "special",
+  "n": {
+   "zh-TW": "認真看書",
+   "zh-CN": "认真看书",
+   "ja": "本を熟読する",
+   "en": "Study"
+  }
+ },
+ {
+  "slug": "sulk",
+  "command": "/sulk",
+  "category": "general",
+  "n": {
+   "zh-TW": "慍怒",
+   "zh-CN": "愠怒",
+   "ja": "すねる",
+   "en": "Sulk"
+  }
+ },
+ {
+  "slug": "sundance",
+  "command": "/sundance",
+  "alias": "/sundropdance",
+  "category": "special",
+  "n": {
+   "zh-TW": "太陽之舞",
+   "zh-CN": "太阳之舞",
+   "ja": "太陽の舞",
+   "en": "Sundrop Dance"
+  }
+ },
+ {
+  "slug": "sundering",
+  "command": "/sundering",
+  "alias": "/exodus",
+  "category": "special",
+  "n": {
+   "zh-TW": "衆生離絕",
+   "zh-CN": "众生离绝",
+   "ja": "エクソダス",
+   "en": "Sundering"
+  }
+ },
+ {
+  "slug": "surprised",
+  "command": "/surprised",
+  "category": "general",
+  "n": {
+   "zh-TW": "驚訝",
+   "zh-CN": "惊讶",
+   "ja": "おどろく",
+   "en": "Surprised"
+  }
+ },
+ {
+  "slug": "sweat",
+  "command": "/sweat",
+  "category": "special",
+  "n": {
+   "zh-TW": "好熱",
+   "zh-CN": "好热",
+   "ja": "暑がる",
+   "en": "Sweat"
+  }
+ },
+ {
+  "slug": "sweep",
+  "command": "/sweep",
+  "alias": "/broom",
+  "category": "special",
+  "n": {
+   "zh-TW": "掃地",
+   "zh-CN": "扫地",
+   "ja": "ホウキで掃く",
+   "en": "Sweep Up"
+  }
+ },
+ {
+  "slug": "taunt",
+  "command": "/taunt",
+  "category": "expression",
+  "n": {
+   "zh-TW": "表情：無畏",
+   "zh-CN": "表情：无畏",
+   "ja": "表情：不敵",
+   "en": "Taunt"
+  }
+ },
+ {
+  "slug": "tea",
+  "command": "/tea",
+  "category": "general",
+  "n": {
+   "zh-TW": "飲用紅茶",
+   "zh-CN": "饮用红茶",
+   "ja": "紅茶を飲む",
+   "en": "Drink Tea"
+  }
+ },
+ {
+  "slug": "thavdance",
+  "command": "/thavdance",
+  "alias": "/tdance",
+  "category": "special",
+  "n": {
+   "zh-TW": "薩維奈舞",
+   "zh-CN": "萨维奈舞",
+   "ja": "サベネアンダンス",
+   "en": "Thavnairian Dance"
+  }
+ },
+ {
+  "slug": "think",
+  "command": "/think",
+  "category": "general",
+  "n": {
+   "zh-TW": "思考",
+   "zh-CN": "思考",
+   "ja": "考える",
+   "en": "Think"
+  }
+ },
+ {
+  "slug": "throw",
+  "command": "/throw",
+  "category": "general",
+  "n": {
+   "zh-TW": "投擲",
+   "zh-CN": "投掷",
+   "ja": "投げる",
+   "en": "Throw"
+  }
+ },
+ {
+  "slug": "thumbsup",
+  "command": "/thumbsup",
+  "category": "general",
+  "n": {
+   "zh-TW": "肯定",
+   "zh-CN": "肯定",
+   "ja": "肯定する",
+   "en": "Thumbs Up"
+  }
+ },
+ {
+  "slug": "toast",
+  "command": "/toast",
+  "category": "general",
+  "n": {
+   "zh-TW": "乾杯",
+   "zh-CN": "干杯",
+   "ja": "乾杯する",
+   "en": "Toast"
+  }
+ },
+ {
+  "slug": "tomescroll",
+  "command": "/tomescroll",
+  "category": "special",
+  "n": {
+   "zh-TW": "玩神典石",
+   "zh-CN": "玩神典石",
+   "ja": "トームストーンを愛で続ける",
+   "en": "Tomescroll"
+  }
+ },
+ {
+  "slug": "tomestone",
+  "command": "/tomestone",
+  "category": "general",
+  "n": {
+   "zh-TW": "神典石",
+   "zh-CN": "神典石",
+   "ja": "トームストーン",
+   "en": "Tomestone"
+  }
+ },
+ {
+  "slug": "tremble",
+  "command": "/tremble",
+  "category": "special",
+  "n": {
+   "zh-TW": "害怕",
+   "zh-CN": "害怕",
+   "ja": "怯える",
+   "en": "Tremble"
+  }
+ },
+ {
+  "slug": "twirl",
+  "command": "/twirl",
+  "category": "general",
+  "n": {
+   "zh-TW": "轉圈",
+   "zh-CN": "转圈",
+   "ja": "くるっと回る",
+   "en": "Twirl"
+  }
+ },
+ {
+  "slug": "uchiwasshoi",
+  "command": "/uchiwasshoi",
+  "alias": "/bigfan",
+  "category": "general",
+  "n": {
+   "zh-TW": "扇大團扇",
+   "zh-CN": "扇大团扇",
+   "ja": "大うちわで扇ぐ",
+   "en": "Uchiwasshoi"
+  }
+ },
+ {
+  "slug": "uldahngulp",
+  "command": "/uldahngulp",
+  "category": "special",
+  "n": {
+   "zh-TW": "持續用沙都風格馬克杯喝",
+   "zh-CN": "持续用沙都风格马克杯喝",
+   "ja": "砂都風マグカップで飲み続ける",
+   "en": "Ul'dahn Gulp"
+  }
+ },
+ {
+  "slug": "uldahnsip",
+  "command": "/uldahnsip",
+  "category": "general",
+  "n": {
+   "zh-TW": "用沙都風格馬克杯喝",
+   "zh-CN": "用沙都风格马克杯喝",
+   "ja": "砂都風マグカップで飲む",
+   "en": "Ul'dahn Sip"
+  }
+ },
+ {
+  "slug": "ultima",
+  "command": "/ultima",
+  "category": "special",
+  "n": {
+   "zh-TW": "究極",
+   "zh-CN": "究极",
+   "ja": "アルテマ",
+   "en": "Ultima"
+  }
+ },
+ {
+  "slug": "upset",
+  "command": "/upset",
+  "category": "general",
+  "n": {
+   "zh-TW": "失望",
+   "zh-CN": "失望",
+   "ja": "がっかりする",
+   "en": "Upset"
+  }
+ },
+ {
+  "slug": "vexed",
+  "command": "/vexed",
+  "category": "general",
+  "n": {
+   "zh-TW": "困惑",
+   "zh-CN": "困惑",
+   "ja": "困惑する",
+   "en": "Vexed"
+  }
+ },
+ {
+  "slug": "victorypose",
+  "command": "/victorypose",
+  "alias": "/vpose",
+  "category": "general",
+  "n": {
+   "zh-TW": "歡呼勝利",
+   "zh-CN": "欢呼胜利",
+   "ja": "勝利を喜ぶ",
+   "en": "Victory"
+  }
+ },
+ {
+  "slug": "victoryreveal",
+  "command": "/victoryreveal",
+  "alias": "/vreveal",
+  "category": "general",
+  "n": {
+   "zh-TW": "大獲全勝",
+   "zh-CN": "大获全胜",
+   "ja": "ビーンズ・ビクトリー",
+   "en": "Victory Reveal"
+  }
+ },
+ {
+  "slug": "visage",
+  "command": "/visage",
+  "category": "general",
+  "n": {
+   "zh-TW": "用觸控板記錄",
+   "zh-CN": "用触控板记录",
+   "ja": "タブレットで記録する",
+   "en": "Visage Capture"
+  }
+ },
+ {
+  "slug": "visor",
+  "command": "/visor",
+  "category": "special",
+  "n": {
+   "zh-TW": "頭部裝備操作",
+   "zh-CN": "头部装备操作",
+   "ja": "頭装備の操作",
+   "en": "Visor"
+  }
+ },
+ {
+  "slug": "wasshoi",
+  "command": "/wasshoi",
+  "category": "special",
+  "n": {
+   "zh-TW": "嘿喲",
+   "zh-CN": "嘿哟",
+   "ja": "わっしょい",
+   "en": "Wasshoi"
+  }
+ },
+ {
+  "slug": "water",
+  "command": "/water",
+  "category": "special",
+  "n": {
+   "zh-TW": "澆水",
+   "zh-CN": "浇水",
+   "ja": "水をまく",
+   "en": "Water"
+  }
+ },
+ {
+  "slug": "waterflip",
+  "command": "/waterflip",
+  "category": "general",
+  "n": {
+   "zh-TW": "水中翻跟頭",
+   "zh-CN": "水中翻跟头",
+   "ja": "水中宙返り",
+   "en": "Water Flip"
+  }
+ },
+ {
+  "slug": "waterfloat",
+  "command": "/waterfloat",
+  "category": "special",
+  "n": {
+   "zh-TW": "浮水",
+   "zh-CN": "浮水",
+   "ja": "水面に浮く",
+   "en": "Water Float"
+  }
+ },
+ {
+  "slug": "wave",
+  "command": "/wave",
+  "category": "general",
+  "n": {
+   "zh-TW": "揮手",
+   "zh-CN": "挥手",
+   "ja": "手を振る",
+   "en": "Wave"
+  }
+ },
+ {
+  "slug": "welcome",
+  "command": "/welcome",
+  "category": "general",
+  "n": {
+   "zh-TW": "歡迎",
+   "zh-CN": "欢迎",
+   "ja": "歓迎する",
+   "en": "Welcome"
+  }
+ },
+ {
+  "slug": "winded",
+  "command": "/winded",
+  "category": "special",
+  "n": {
+   "zh-TW": "單膝跪地",
+   "zh-CN": "单膝跪地",
+   "ja": "膝を突く",
+   "en": "Winded"
+  }
+ },
+ {
+  "slug": "wink",
+  "command": "/wink",
+  "alias": "/rightwink",
+  "category": "expression",
+  "n": {
+   "zh-TW": "表情：右飛眼",
+   "zh-CN": "表情：右飞眼",
+   "ja": "表情：ウィンク右",
+   "en": "Wink (Right)"
+  }
+ },
+ {
+  "slug": "worried",
+  "command": "/worried",
+  "alias": "/worry",
+  "category": "expression",
+  "n": {
+   "zh-TW": "表情：擔心",
+   "zh-CN": "表情：担心",
+   "ja": "表情：心配",
+   "en": "Worried"
+  }
+ },
+ {
+  "slug": "wow",
+  "command": "/wow",
+  "category": "general",
+  "n": {
+   "zh-TW": "兩眼放光",
+   "zh-CN": "两眼放光",
+   "ja": "目を輝かせる",
+   "en": "Wow"
+  }
+ },
+ {
+  "slug": "wringhands",
+  "command": "/wringhands",
+  "category": "special",
+  "n": {
+   "zh-TW": "搓手",
+   "zh-CN": "搓手",
+   "ja": "もみ手をする",
+   "en": "Wring Hands"
+  }
+ },
+ {
+  "slug": "yes",
+  "command": "/yes",
+  "category": "general",
+  "n": {
+   "zh-TW": "點頭",
+   "zh-CN": "点头",
+   "ja": "うなずく",
+   "en": "Yes"
+  }
+ },
+ {
+  "slug": "yoldance",
+  "command": "/yoldance",
+  "category": "special",
+  "n": {
+   "zh-TW": "胡鷹之舞",
+   "zh-CN": "胡鹰之舞",
+   "ja": "ヨルダンス",
+   "en": "Yol Dance"
+  }
+ },
+ {
+  "slug": "zantetsuken",
+  "command": "/zantetsuken",
+  "alias": "/ztk",
+  "category": "special",
+  "n": {
+   "zh-TW": "斬鐵劍",
+   "zh-CN": "斩铁剑",
+   "ja": "斬鉄剣",
+   "en": "Zantetsuken"
+  }
+ }
+]

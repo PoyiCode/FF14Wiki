@@ -1,0 +1,7 @@
+id: easternstretch
+category: emotes
+type: emote
+command: /easternstretch
+name_en: "Eastern Stretch"
+tags: [emote, general]
+status: stable

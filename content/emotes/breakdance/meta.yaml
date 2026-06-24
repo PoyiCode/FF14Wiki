@@ -1,0 +1,8 @@
+id: breakdance
+category: emotes
+type: emote
+command: /breakdance
+aliases: [/breaking]
+name_en: "Breaking"
+tags: [emote, general]
+status: stable

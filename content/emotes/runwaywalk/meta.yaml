@@ -1,0 +1,8 @@
+id: runwaywalk
+category: emotes
+type: emote
+command: /runwaywalk
+aliases: [/runway]
+name_en: "Runway Walk"
+tags: [emote, general]
+status: stable

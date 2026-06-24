@@ -1,0 +1,7 @@
+id: megaflare
+category: emotes
+type: emote
+command: /megaflare
+name_en: "Megaflare"
+tags: [emote, special]
+status: stable

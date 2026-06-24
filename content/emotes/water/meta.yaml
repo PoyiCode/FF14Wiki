@@ -1,0 +1,7 @@
+id: water
+category: emotes
+type: emote
+command: /water
+name_en: "Water"
+tags: [emote, special]
+status: stable

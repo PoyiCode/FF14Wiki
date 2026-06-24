@@ -1,0 +1,8 @@
+id: breakfast
+category: emotes
+type: emote
+command: /breakfast
+aliases: [/bread]
+name_en: "Break Fast"
+tags: [emote, general]
+status: stable

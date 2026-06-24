@@ -1,0 +1,7 @@
+id: malevolence
+category: emotes
+type: emote
+command: /malevolence
+name_en: "Malevolence"
+tags: [emote, special]
+status: stable

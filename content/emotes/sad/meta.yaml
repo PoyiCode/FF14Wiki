@@ -1,0 +1,7 @@
+id: sad
+category: emotes
+type: emote
+command: /sad
+name_en: "Sad"
+tags: [emote, expression]
+status: stable

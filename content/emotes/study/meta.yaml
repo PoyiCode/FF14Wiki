@@ -1,0 +1,7 @@
+id: study
+category: emotes
+type: emote
+command: /study
+name_en: "Study"
+tags: [emote, special]
+status: stable

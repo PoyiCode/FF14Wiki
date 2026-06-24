@@ -1,0 +1,7 @@
+id: furious
+category: emotes
+type: emote
+command: /furious
+name_en: "Furious"
+tags: [emote, general]
+status: stable

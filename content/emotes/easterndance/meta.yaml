@@ -1,0 +1,8 @@
+id: easterndance
+category: emotes
+type: emote
+command: /easterndance
+aliases: [/edance]
+name_en: "Eastern Dance"
+tags: [emote, special]
+status: stable

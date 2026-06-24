@@ -1,0 +1,6 @@
+---
+title: "击掌"
+summary: "「High Five」动作 emote（/highfive）。"
+---
+
+指令 `/highfive`（別名 `/hifive`）。FFXIV 的「High Five」动作。

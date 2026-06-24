@@ -1,0 +1,8 @@
+id: victoryreveal
+category: emotes
+type: emote
+command: /victoryreveal
+aliases: [/vreveal]
+name_en: "Victory Reveal"
+tags: [emote, general]
+status: stable

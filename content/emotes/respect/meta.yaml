@@ -1,0 +1,7 @@
+id: respect
+category: emotes
+type: emote
+command: /respect
+name_en: "Pay Respects"
+tags: [emote, general]
+status: stable

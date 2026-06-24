@@ -1,0 +1,7 @@
+id: box
+category: emotes
+type: emote
+command: /box
+name_en: "Box"
+tags: [emote, special]
+status: stable

@@ -1,0 +1,7 @@
+id: greet
+category: emotes
+type: emote
+command: /greet
+name_en: "Greeting"
+tags: [emote, general]
+status: stable

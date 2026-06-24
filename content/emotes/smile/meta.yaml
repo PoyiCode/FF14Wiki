@@ -1,0 +1,7 @@
+id: smile
+category: emotes
+type: emote
+command: /smile
+name_en: "Smile"
+tags: [emote, expression]
+status: stable

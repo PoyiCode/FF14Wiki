@@ -1,0 +1,7 @@
+id: endure
+category: emotes
+type: emote
+command: /endure
+name_en: "Endure"
+tags: [emote, expression]
+status: stable

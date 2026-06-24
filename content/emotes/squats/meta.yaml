@@ -1,0 +1,7 @@
+id: squats
+category: emotes
+type: emote
+command: /squats
+name_en: "Squats"
+tags: [emote, special]
+status: stable

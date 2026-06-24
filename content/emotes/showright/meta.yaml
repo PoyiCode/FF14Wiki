@@ -1,0 +1,7 @@
+id: showright
+category: emotes
+type: emote
+command: /showright
+name_en: "Show Right"
+tags: [emote, special]
+status: stable

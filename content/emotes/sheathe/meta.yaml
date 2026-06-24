@@ -1,0 +1,7 @@
+id: sheathe
+category: emotes
+type: emote
+command: /sheathe
+name_en: "Sheathe Weapon"
+tags: [emote, general]
+status: stable

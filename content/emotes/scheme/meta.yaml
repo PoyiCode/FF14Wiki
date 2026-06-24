@@ -1,0 +1,7 @@
+id: scheme
+category: emotes
+type: emote
+command: /scheme
+name_en: "Scheme"
+tags: [emote, special]
+status: stable

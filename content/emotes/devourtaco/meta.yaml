@@ -1,0 +1,7 @@
+id: devourtaco
+category: emotes
+type: emote
+command: /devourtaco
+name_en: "Devour Taco"
+tags: [emote, special]
+status: stable

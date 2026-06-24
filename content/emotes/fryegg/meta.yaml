@@ -1,0 +1,7 @@
+id: fryegg
+category: emotes
+type: emote
+command: /fryegg
+name_en: "Fry Egg"
+tags: [emote, general]
+status: stable

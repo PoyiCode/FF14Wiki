@@ -1,0 +1,8 @@
+id: mandervillemambo
+category: emotes
+type: emote
+command: /mandervillemambo
+aliases: [/mmambo]
+name_en: "Manderville Mambo"
+tags: [emote, special]
+status: stable

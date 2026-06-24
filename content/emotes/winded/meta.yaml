@@ -1,0 +1,7 @@
+id: winded
+category: emotes
+type: emote
+command: /winded
+name_en: "Winded"
+tags: [emote, special]
+status: stable

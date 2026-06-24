@@ -1,0 +1,8 @@
+id: sundering
+category: emotes
+type: emote
+command: /sundering
+aliases: [/exodus]
+name_en: "Sundering"
+tags: [emote, special]
+status: stable

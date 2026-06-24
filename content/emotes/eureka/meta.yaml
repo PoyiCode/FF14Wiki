@@ -1,0 +1,7 @@
+id: eureka
+category: emotes
+type: emote
+command: /eureka
+name_en: "Eureka"
+tags: [emote, general]
+status: stable

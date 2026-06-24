@@ -1,0 +1,7 @@
+id: earwiggle
+category: emotes
+type: emote
+command: /earwiggle
+name_en: "Ear Wiggle"
+tags: [emote, general]
+status: stable

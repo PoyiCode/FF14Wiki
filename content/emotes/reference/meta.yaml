@@ -1,0 +1,7 @@
+id: reference
+category: emotes
+type: emote
+command: /reference
+name_en: "Reference"
+tags: [emote, general]
+status: stable

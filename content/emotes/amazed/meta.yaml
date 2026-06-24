@@ -1,0 +1,8 @@
+id: amazed
+category: emotes
+type: emote
+command: /amazed
+aliases: [/awe]
+name_en: "Amazed"
+tags: [emote, expression]
+status: stable

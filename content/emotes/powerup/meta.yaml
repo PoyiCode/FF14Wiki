@@ -1,0 +1,7 @@
+id: powerup
+category: emotes
+type: emote
+command: /powerup
+name_en: "Power Up"
+tags: [emote, general]
+status: stable

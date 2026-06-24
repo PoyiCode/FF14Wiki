@@ -1,0 +1,7 @@
+id: slump
+category: emotes
+type: emote
+command: /slump
+name_en: "Slump"
+tags: [emote, special]
+status: stable

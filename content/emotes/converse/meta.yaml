@@ -1,0 +1,7 @@
+id: converse
+category: emotes
+type: emote
+command: /converse
+name_en: "Converse"
+tags: [emote, general]
+status: stable

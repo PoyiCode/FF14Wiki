@@ -1,0 +1,8 @@
+id: backflip
+category: emotes
+type: emote
+command: /backflip
+aliases: [/bflip]
+name_en: "Backflip"
+tags: [emote, general]
+status: stable

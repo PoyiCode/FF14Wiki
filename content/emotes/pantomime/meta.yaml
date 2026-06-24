@@ -1,0 +1,8 @@
+id: pantomime
+category: emotes
+type: emote
+command: /pantomime
+aliases: [/mime]
+name_en: "Pantomime"
+tags: [emote, general]
+status: stable

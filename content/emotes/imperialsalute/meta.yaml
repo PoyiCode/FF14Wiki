@@ -1,0 +1,7 @@
+id: imperialsalute
+category: emotes
+type: emote
+command: /imperialsalute
+name_en: "Imperial Salute"
+tags: [emote, general]
+status: stable

@@ -1,0 +1,7 @@
+id: toast
+category: emotes
+type: emote
+command: /toast
+name_en: "Toast"
+tags: [emote, general]
+status: stable

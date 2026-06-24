@@ -1,0 +1,7 @@
+id: photograph
+category: emotes
+type: emote
+command: /photograph
+name_en: "Photograph"
+tags: [emote, general]
+status: stable

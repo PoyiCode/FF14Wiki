@@ -1,0 +1,8 @@
+id: haurchefant
+category: emotes
+type: emote
+command: /haurchefant
+aliases: [/hknight]
+name_en: "Haurchefant"
+tags: [emote, general]
+status: stable

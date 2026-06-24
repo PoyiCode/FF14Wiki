@@ -1,0 +1,7 @@
+id: carrybook
+category: emotes
+type: emote
+command: /carrybook
+name_en: "Carry Book"
+tags: [emote, special]
+status: stable

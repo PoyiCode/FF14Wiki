@@ -1,0 +1,8 @@
+id: eatriceball
+category: emotes
+type: emote
+command: /eatriceball
+aliases: [/riceball]
+name_en: "Eat Rice Ball"
+tags: [emote, general]
+status: stable

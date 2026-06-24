@@ -1,0 +1,8 @@
+id: adventoflight
+category: emotes
+type: emote
+command: /adventoflight
+aliases: [/advent]
+name_en: "Advent of Light"
+tags: [emote, general]
+status: stable

@@ -1,0 +1,7 @@
+id: sneer
+category: emotes
+type: emote
+command: /sneer
+name_en: "Sneer"
+tags: [emote, expression]
+status: stable

@@ -1,0 +1,7 @@
+id: boxstep
+category: emotes
+type: emote
+command: /boxstep
+name_en: "Box Step"
+tags: [emote, special]
+status: stable

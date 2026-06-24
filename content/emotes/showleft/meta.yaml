@@ -1,0 +1,7 @@
+id: showleft
+category: emotes
+type: emote
+command: /showleft
+name_en: "Show Left"
+tags: [emote, special]
+status: stable

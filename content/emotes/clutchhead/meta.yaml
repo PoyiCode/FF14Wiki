@@ -1,0 +1,7 @@
+id: clutchhead
+category: emotes
+type: emote
+command: /clutchhead
+name_en: "Clutch Head"
+tags: [emote, general]
+status: stable

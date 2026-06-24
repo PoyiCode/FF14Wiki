@@ -1,0 +1,7 @@
+id: fistpump
+category: emotes
+type: emote
+command: /fistpump
+name_en: "Fist Pump"
+tags: [emote, general]
+status: stable

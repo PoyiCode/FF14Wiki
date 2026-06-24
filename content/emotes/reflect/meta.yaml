@@ -1,0 +1,7 @@
+id: reflect
+category: emotes
+type: emote
+command: /reflect
+name_en: "Reflect"
+tags: [emote, expression]
+status: stable

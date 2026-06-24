@@ -1,0 +1,8 @@
+id: prettyplease
+category: emotes
+type: emote
+command: /prettyplease
+aliases: [/pplease]
+name_en: "Pretty Please"
+tags: [emote, general]
+status: stable

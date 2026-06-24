@@ -1,0 +1,7 @@
+id: sweat
+category: emotes
+type: emote
+command: /sweat
+name_en: "Sweat"
+tags: [emote, special]
+status: stable

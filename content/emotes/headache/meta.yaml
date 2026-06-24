@@ -1,0 +1,7 @@
+id: headache
+category: emotes
+type: emote
+command: /headache
+name_en: "Headache"
+tags: [emote, general]
+status: stable

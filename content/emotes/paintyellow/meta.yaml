@@ -1,0 +1,7 @@
+id: paintyellow
+category: emotes
+type: emote
+command: /paintyellow
+name_en: "Paint It Yellow"
+tags: [emote, general]
+status: stable

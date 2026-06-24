@@ -1,0 +1,7 @@
+id: bouquet
+category: emotes
+type: emote
+command: /bouquet
+name_en: "Bouquet"
+tags: [emote, special]
+status: stable

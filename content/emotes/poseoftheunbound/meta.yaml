@@ -1,0 +1,8 @@
+id: poseoftheunbound
+category: emotes
+type: emote
+command: /poseoftheunbound
+aliases: [/unbound]
+name_en: "Pose of the Unbound"
+tags: [emote, general]
+status: stable

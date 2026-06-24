@@ -1,0 +1,7 @@
+id: getfantasy
+category: emotes
+type: emote
+command: /getfantasy
+name_en: "Get Fantasy"
+tags: [emote, special]
+status: stable

@@ -1,0 +1,7 @@
+id: paintblue
+category: emotes
+type: emote
+command: /paintblue
+name_en: "Paint It Blue"
+tags: [emote, general]
+status: stable

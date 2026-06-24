@@ -1,0 +1,7 @@
+id: allsaintscharm
+category: emotes
+type: emote
+command: /allsaintscharm
+name_en: "All Saints' Charm"
+tags: [emote, general]
+status: stable

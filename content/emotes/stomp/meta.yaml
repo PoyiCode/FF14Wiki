@@ -1,0 +1,7 @@
+id: stomp
+category: emotes
+type: emote
+command: /stomp
+name_en: "Stomp"
+tags: [emote, general]
+status: stable

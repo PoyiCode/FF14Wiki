@@ -1,0 +1,7 @@
+id: pushups
+category: emotes
+type: emote
+command: /pushups
+name_en: "Push-ups"
+tags: [emote, special]
+status: stable

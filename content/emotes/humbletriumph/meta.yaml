@@ -1,0 +1,8 @@
+id: humbletriumph
+category: emotes
+type: emote
+command: /humbletriumph
+aliases: [/waitforit]
+name_en: "Humble Triumph"
+tags: [emote, general]
+status: stable

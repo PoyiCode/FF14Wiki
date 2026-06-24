@@ -1,0 +1,7 @@
+id: tomescroll
+category: emotes
+type: emote
+command: /tomescroll
+name_en: "Tomescroll"
+tags: [emote, special]
+status: stable

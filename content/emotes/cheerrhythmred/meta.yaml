@@ -1,0 +1,8 @@
+id: cheerrhythmred
+category: emotes
+type: emote
+command: /cheerrhythmred
+aliases: [/cheerrr]
+name_en: "Cheer Rhythm: Red"
+tags: [emote, special]
+status: stable

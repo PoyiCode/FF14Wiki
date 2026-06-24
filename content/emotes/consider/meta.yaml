@@ -1,0 +1,8 @@
+id: consider
+category: emotes
+type: emote
+command: /consider
+aliases: [/hmm]
+name_en: "Consider"
+tags: [emote, general]
+status: stable

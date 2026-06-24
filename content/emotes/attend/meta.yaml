@@ -1,0 +1,7 @@
+id: attend
+category: emotes
+type: emote
+command: /attend
+name_en: "Attend"
+tags: [emote, special]
+status: stable

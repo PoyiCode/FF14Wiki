@@ -1,0 +1,7 @@
+id: blowbubbles
+category: emotes
+type: emote
+command: /blowbubbles
+name_en: "Blow Bubbles"
+tags: [emote, general]
+status: stable

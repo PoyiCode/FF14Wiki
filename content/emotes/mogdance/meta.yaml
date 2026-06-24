@@ -1,0 +1,7 @@
+id: mogdance
+category: emotes
+type: emote
+command: /mogdance
+name_en: "Moogle Dance"
+tags: [emote, special]
+status: stable

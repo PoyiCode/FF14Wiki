@@ -1,0 +1,7 @@
+id: shakedrink
+category: emotes
+type: emote
+command: /shakedrink
+name_en: "Shake Drink"
+tags: [emote, special]
+status: stable

@@ -1,0 +1,7 @@
+id: puckerup
+category: emotes
+type: emote
+command: /puckerup
+name_en: "Pucker Up"
+tags: [emote, expression]
+status: stable

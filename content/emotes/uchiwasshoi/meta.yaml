@@ -1,0 +1,8 @@
+id: uchiwasshoi
+category: emotes
+type: emote
+command: /uchiwasshoi
+aliases: [/bigfan]
+name_en: "Uchiwasshoi"
+tags: [emote, general]
+status: stable

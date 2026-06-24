@@ -1,0 +1,7 @@
+id: divinedisk
+category: emotes
+type: emote
+command: /divinedisk
+name_en: "Divine Disk"
+tags: [emote, general]
+status: stable

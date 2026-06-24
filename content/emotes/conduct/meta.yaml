@@ -1,0 +1,7 @@
+id: conduct
+category: emotes
+type: emote
+command: /conduct
+name_en: "Conduct"
+tags: [emote, special]
+status: stable

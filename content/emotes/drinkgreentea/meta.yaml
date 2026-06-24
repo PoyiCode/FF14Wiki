@@ -1,0 +1,8 @@
+id: drinkgreentea
+category: emotes
+type: emote
+command: /drinkgreentea
+aliases: [/greentea]
+name_en: "Drink Green Tea"
+tags: [emote, general]
+status: stable

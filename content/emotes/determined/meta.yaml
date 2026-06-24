@@ -1,0 +1,7 @@
+id: determined
+category: emotes
+type: emote
+command: /determined
+name_en: "Determined"
+tags: [emote, general]
+status: stable

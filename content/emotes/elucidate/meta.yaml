@@ -1,0 +1,7 @@
+id: elucidate
+category: emotes
+type: emote
+command: /elucidate
+name_en: "Elucidate"
+tags: [emote, general]
+status: stable

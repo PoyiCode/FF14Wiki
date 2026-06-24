@@ -1,0 +1,8 @@
+id: jumpforjoy3
+category: emotes
+type: emote
+command: /jumpforjoy3
+aliases: [/jj3]
+name_en: "Jump for Joy 3"
+tags: [emote, general]
+status: stable

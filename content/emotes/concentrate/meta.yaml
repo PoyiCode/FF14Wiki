@@ -1,0 +1,7 @@
+id: concentrate
+category: emotes
+type: emote
+command: /concentrate
+name_en: "Concentrate"
+tags: [emote, expression]
+status: stable

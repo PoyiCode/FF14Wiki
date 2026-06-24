@@ -1,0 +1,8 @@
+id: straightface
+category: emotes
+type: emote
+command: /straightface
+aliases: [/straight]
+name_en: "Straight Face"
+tags: [emote, expression]
+status: stable

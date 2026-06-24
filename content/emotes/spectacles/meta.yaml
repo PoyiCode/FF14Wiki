@@ -1,0 +1,7 @@
+id: spectacles
+category: emotes
+type: emote
+command: /spectacles
+name_en: "Spectacles"
+tags: [emote, general]
+status: stable

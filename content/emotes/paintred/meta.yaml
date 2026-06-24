@@ -1,0 +1,7 @@
+id: paintred
+category: emotes
+type: emote
+command: /paintred
+name_en: "Paint It Red"
+tags: [emote, general]
+status: stable

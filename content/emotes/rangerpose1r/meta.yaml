@@ -1,0 +1,8 @@
+id: rangerpose1r
+category: emotes
+type: emote
+command: /rangerpose1r
+aliases: [/redrangerposea]
+name_en: "Red Ranger Pose A"
+tags: [emote, special]
+status: stable

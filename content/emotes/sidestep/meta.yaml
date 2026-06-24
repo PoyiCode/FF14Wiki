@@ -1,0 +1,7 @@
+id: sidestep
+category: emotes
+type: emote
+command: /sidestep
+name_en: "Side Step"
+tags: [emote, special]
+status: stable

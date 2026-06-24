@@ -1,0 +1,8 @@
+id: eattaco
+category: emotes
+type: emote
+command: /eattaco
+aliases: [/taco]
+name_en: "Eat Taco"
+tags: [emote, general]
+status: stable

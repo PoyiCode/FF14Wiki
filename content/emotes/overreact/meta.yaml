@@ -1,0 +1,7 @@
+id: overreact
+category: emotes
+type: emote
+command: /overreact
+name_en: "Overreact"
+tags: [emote, general]
+status: stable

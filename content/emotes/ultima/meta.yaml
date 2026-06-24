@@ -1,0 +1,7 @@
+id: ultima
+category: emotes
+type: emote
+command: /ultima
+name_en: "Ultima"
+tags: [emote, special]
+status: stable

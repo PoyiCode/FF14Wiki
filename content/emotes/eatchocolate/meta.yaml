@@ -1,0 +1,8 @@
+id: eatchocolate
+category: emotes
+type: emote
+command: /eatchocolate
+aliases: [/choco]
+name_en: "Eat Chocolate"
+tags: [emote, general]
+status: stable

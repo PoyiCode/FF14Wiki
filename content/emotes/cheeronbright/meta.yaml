@@ -1,0 +1,8 @@
+id: cheeronbright
+category: emotes
+type: emote
+command: /cheeronbright
+aliases: [/cheerow]
+name_en: "Cheer On: Bright"
+tags: [emote, special]
+status: stable

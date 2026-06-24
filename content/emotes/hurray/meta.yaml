@@ -1,0 +1,8 @@
+id: hurray
+category: emotes
+type: emote
+command: /hurray
+aliases: [/huzzah]
+name_en: "Huzzah"
+tags: [emote, general]
+status: stable

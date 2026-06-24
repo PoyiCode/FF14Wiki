@@ -1,0 +1,7 @@
+id: leftwink
+category: emotes
+type: emote
+command: /leftwink
+name_en: "Wink (Left)"
+tags: [emote, expression]
+status: stable

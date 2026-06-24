@@ -1,0 +1,7 @@
+id: embrace
+category: emotes
+type: emote
+command: /embrace
+name_en: "Embrace"
+tags: [emote, general]
+status: stable

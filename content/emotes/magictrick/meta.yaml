@@ -1,0 +1,7 @@
+id: magictrick
+category: emotes
+type: emote
+command: /magictrick
+name_en: "Magic Trick"
+tags: [emote, general]
+status: stable

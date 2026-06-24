@@ -1,0 +1,7 @@
+id: slap
+category: emotes
+type: emote
+command: /slap
+name_en: "Slap"
+tags: [emote, general]
+status: stable

@@ -1,0 +1,7 @@
+id: crimsonlotus
+category: emotes
+type: emote
+command: /crimsonlotus
+name_en: "Crimson Lotus"
+tags: [emote, general]
+status: stable

@@ -1,0 +1,8 @@
+id: shuteyes
+category: emotes
+type: emote
+command: /shuteyes
+aliases: [/shut]
+name_en: "Shut Eyes"
+tags: [emote, expression]
+status: stable

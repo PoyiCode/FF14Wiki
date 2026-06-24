@@ -1,0 +1,7 @@
+id: handtoheart
+category: emotes
+type: emote
+command: /handtoheart
+name_en: "Hand to Heart"
+tags: [emote, general]
+status: stable

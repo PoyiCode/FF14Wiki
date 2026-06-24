@@ -1,0 +1,7 @@
+id: shiver
+category: emotes
+type: emote
+command: /shiver
+name_en: "Shiver"
+tags: [emote, special]
+status: stable

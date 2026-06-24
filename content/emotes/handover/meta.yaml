@@ -1,0 +1,7 @@
+id: handover
+category: emotes
+type: emote
+command: /handover
+name_en: "Hand Over"
+tags: [emote, general]
+status: stable

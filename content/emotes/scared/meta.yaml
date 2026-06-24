@@ -1,0 +1,8 @@
+id: scared
+category: emotes
+type: emote
+command: /scared
+aliases: [/fear]
+name_en: "Scared"
+tags: [emote, expression]
+status: stable

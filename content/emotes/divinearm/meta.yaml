@@ -1,0 +1,7 @@
+id: divinearm
+category: emotes
+type: emote
+command: /divinearm
+name_en: "Divine Arm"
+tags: [emote, general]
+status: stable

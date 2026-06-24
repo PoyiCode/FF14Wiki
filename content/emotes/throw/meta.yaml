@@ -1,0 +1,7 @@
+id: throw
+category: emotes
+type: emote
+command: /throw
+name_en: "Throw"
+tags: [emote, general]
+status: stable

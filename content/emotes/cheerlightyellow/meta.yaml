@@ -1,0 +1,8 @@
+id: cheerlightyellow
+category: emotes
+type: emote
+command: /cheerlightyellow
+aliases: [/cheerly]
+name_en: "Cheer Light: Yellow"
+tags: [emote, special]
+status: stable

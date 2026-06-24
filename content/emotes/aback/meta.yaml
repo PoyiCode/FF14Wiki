@@ -1,0 +1,7 @@
+id: aback
+category: emotes
+type: emote
+command: /aback
+name_en: "Aback"
+tags: [emote, general]
+status: stable

@@ -1,0 +1,7 @@
+id: gcsalute
+category: emotes
+type: emote
+command: /gcsalute
+name_en: "Storm Salute / Serpent Salute / Flame Salute"
+tags: [emote, general]
+status: stable

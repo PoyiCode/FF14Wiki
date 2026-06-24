@@ -1,0 +1,7 @@
+id: grin
+category: emotes
+type: emote
+command: /grin
+name_en: "Grin"
+tags: [emote, expression]
+status: stable

@@ -1,0 +1,7 @@
+id: wringhands
+category: emotes
+type: emote
+command: /wringhands
+name_en: "Wring Hands"
+tags: [emote, special]
+status: stable

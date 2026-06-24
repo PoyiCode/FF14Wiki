@@ -1,0 +1,7 @@
+id: wasshoi
+category: emotes
+type: emote
+command: /wasshoi
+name_en: "Wasshoi"
+tags: [emote, special]
+status: stable

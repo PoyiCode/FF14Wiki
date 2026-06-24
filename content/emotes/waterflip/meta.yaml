@@ -1,0 +1,7 @@
+id: waterflip
+category: emotes
+type: emote
+command: /waterflip
+name_en: "Water Flip"
+tags: [emote, general]
+status: stable

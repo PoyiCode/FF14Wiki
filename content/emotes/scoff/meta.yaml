@@ -1,0 +1,7 @@
+id: scoff
+category: emotes
+type: emote
+command: /scoff
+name_en: "Scoff"
+tags: [emote, expression]
+status: stable

@@ -1,0 +1,8 @@
+id: highfive
+category: emotes
+type: emote
+command: /highfive
+aliases: [/hifive]
+name_en: "High Five"
+tags: [emote, general]
+status: stable

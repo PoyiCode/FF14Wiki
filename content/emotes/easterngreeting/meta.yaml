@@ -1,0 +1,8 @@
+id: easterngreeting
+category: emotes
+type: emote
+command: /easterngreeting
+aliases: [/egreeting]
+name_en: "Eastern Greeting"
+tags: [emote, general]
+status: stable

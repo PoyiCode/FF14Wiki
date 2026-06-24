@@ -1,0 +1,8 @@
+id: hildibrand
+category: emotes
+type: emote
+command: /hildibrand
+aliases: [/hildy]
+name_en: "Most Gentlemanly"
+tags: [emote, special]
+status: stable

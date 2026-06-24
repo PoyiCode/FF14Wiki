@@ -1,0 +1,7 @@
+id: rage
+category: emotes
+type: emote
+command: /rage
+name_en: "Rage"
+tags: [emote, special]
+status: stable

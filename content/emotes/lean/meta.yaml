@@ -1,0 +1,7 @@
+id: lean
+category: emotes
+type: emote
+command: /lean
+name_en: "Lean"
+tags: [emote, special]
+status: stable

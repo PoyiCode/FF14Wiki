@@ -1,0 +1,7 @@
+id: furrow
+category: emotes
+type: emote
+command: /furrow
+name_en: "Furrow"
+tags: [emote, expression]
+status: stable

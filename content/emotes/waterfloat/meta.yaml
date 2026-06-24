@@ -1,0 +1,7 @@
+id: waterfloat
+category: emotes
+type: emote
+command: /waterfloat
+name_en: "Water Float"
+tags: [emote, special]
+status: stable

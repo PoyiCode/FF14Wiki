@@ -1,0 +1,8 @@
+id: cheerrhythmviolet
+category: emotes
+type: emote
+command: /cheerrhythmviolet
+aliases: [/cheerrv]
+name_en: "Cheer Rhythm: Violet"
+tags: [emote, special]
+status: stable

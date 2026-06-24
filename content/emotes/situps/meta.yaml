@@ -1,0 +1,7 @@
+id: situps
+category: emotes
+type: emote
+command: /situps
+name_en: "Sit-ups"
+tags: [emote, special]
+status: stable

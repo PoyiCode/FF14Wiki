@@ -1,0 +1,8 @@
+id: eatapple
+category: emotes
+type: emote
+command: /eatapple
+aliases: [/apple]
+name_en: "Eat Apple"
+tags: [emote, general]
+status: stable

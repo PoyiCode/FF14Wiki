@@ -1,0 +1,7 @@
+id: insist
+category: emotes
+type: emote
+command: /insist
+name_en: "Insist"
+tags: [emote, general]
+status: stable

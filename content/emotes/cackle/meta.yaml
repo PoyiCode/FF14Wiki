@@ -1,0 +1,7 @@
+id: cackle
+category: emotes
+type: emote
+command: /cackle
+name_en: "Cackle"
+tags: [emote, special]
+status: stable

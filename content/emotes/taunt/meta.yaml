@@ -1,0 +1,7 @@
+id: taunt
+category: emotes
+type: emote
+command: /taunt
+name_en: "Taunt"
+tags: [emote, expression]
+status: stable

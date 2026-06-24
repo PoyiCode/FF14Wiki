@@ -1,0 +1,8 @@
+id: stroke
+category: emotes
+type: emote
+command: /stroke
+aliases: [/pet]
+name_en: "Pet"
+tags: [emote, general]
+status: stable
