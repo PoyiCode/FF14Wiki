@@ -1,0 +1,6 @@
+id: battlestance
+category: emotes
+type: emote
+command: /battlestance
+tags: [emote, neutral]
+status: stable

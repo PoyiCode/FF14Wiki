@@ -1,0 +1,6 @@
+id: thumbsup
+category: emotes
+type: emote
+command: /thumbsup
+tags: [emote, positive]
+status: stable

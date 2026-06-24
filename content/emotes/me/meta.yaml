@@ -1,0 +1,6 @@
+id: me
+category: emotes
+type: emote
+command: /me
+tags: [emote, custom]
+status: stable

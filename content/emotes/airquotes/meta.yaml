@@ -1,0 +1,6 @@
+id: airquotes
+category: emotes
+type: emote
+command: /airquotes
+tags: [emote, playful]
+status: stable

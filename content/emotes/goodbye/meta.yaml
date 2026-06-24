@@ -1,0 +1,6 @@
+id: goodbye
+category: emotes
+type: emote
+command: /goodbye
+tags: [emote, greeting]
+status: stable

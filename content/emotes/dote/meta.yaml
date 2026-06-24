@@ -1,0 +1,6 @@
+id: dote
+category: emotes
+type: emote
+command: /dote
+tags: [emote, positive]
+status: stable

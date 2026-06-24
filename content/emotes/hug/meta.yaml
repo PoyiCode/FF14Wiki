@@ -1,0 +1,6 @@
+id: hug
+category: emotes
+type: emote
+command: /hug
+tags: [emote, positive]
+status: stable

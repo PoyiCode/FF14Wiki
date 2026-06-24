@@ -1,0 +1,6 @@
+id: attention
+category: emotes
+type: emote
+command: /attention
+tags: [emote, respect]
+status: stable

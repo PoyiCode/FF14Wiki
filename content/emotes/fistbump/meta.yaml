@@ -1,0 +1,6 @@
+id: fistbump
+category: emotes
+type: emote
+command: /fistbump
+tags: [emote, positive]
+status: stable
