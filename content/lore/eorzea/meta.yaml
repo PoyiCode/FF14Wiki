@@ -1,0 +1,6 @@
+id: eorzea
+category: lore
+type: world
+tags: [world, overview, setting]
+related: [limsa-lominsa, aetheryte]
+status: stable

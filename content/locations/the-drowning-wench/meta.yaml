@@ -1,0 +1,10 @@
+id: the-drowning-wench
+category: locations
+type: tavern
+region: la-noscea
+in: limsa-lominsa          # 位於哪個城市（world/ 條目 id）
+coords: { x: 11.6, y: 11.0 }
+aetheryte: Limsa Lominsa Upper Decks
+tags: [tavern, drinks, gathering, upper-decks]
+related: [limsa-lominsa]
+status: stable

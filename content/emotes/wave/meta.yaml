@@ -1,0 +1,8 @@
+id: wave
+category: emotes
+type: emote
+command: /wave              # 遊戲內指令（語言中立）
+tags: [greeting, friendly, social]
+when: [遇到熟人, 打招呼, 道別]
+related: [greetings]
+status: stable

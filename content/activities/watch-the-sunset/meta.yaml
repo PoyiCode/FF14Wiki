@@ -1,0 +1,7 @@
+id: watch-the-sunset
+category: activities
+type: leisure
+tags: [leisure, scenic, solo, social]
+where: [limsa-lominsa]      # 適合的地點（world/locations 條目 id）
+related: [limsa-lominsa, aria-the-wanderer]
+status: stable

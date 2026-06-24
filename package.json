@@ -1,0 +1,31 @@
+{
+  "name": "ff14wiki",
+  "version": "0.1.0",
+  "private": true,
+  "description": "FF14 居民 bot 知識庫 + 靜態瀏覽網站 (Knowledge base for an AI-agent-driven FFXIV resident bot)",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "validate": "node scripts/validate-content.mjs"
+  },
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "js-yaml": "^4.1.0",
+    "next": "14.2.15",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-markdown": "^9.0.1",
+    "remark-gfm": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/js-yaml": "^4.0.9",
+    "@types/node": "^20.16.5",
+    "@types/react": "^18.3.5",
+    "@types/react-dom": "^18.3.0",
+    "eslint": "^8.57.1",
+    "eslint-config-next": "14.2.15",
+    "typescript": "^5.6.2"
+  }
+}
