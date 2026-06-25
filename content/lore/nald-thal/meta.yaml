@@ -1,0 +1,10 @@
+id: nald-thal
+category: lore
+type: deity
+deity: "Nald'thal"
+element: "fire"
+moon: 10
+pantheon: the-twelve
+related: [the-twelve]
+tags: [deity, religion, the-twelve, fire]
+status: stable

@@ -1,0 +1,10 @@
+id: nophica
+category: lore
+type: deity
+deity: "Nophica"
+element: "earth"
+moon: 11
+pantheon: the-twelve
+related: [the-twelve]
+tags: [deity, religion, the-twelve, earth]
+status: stable

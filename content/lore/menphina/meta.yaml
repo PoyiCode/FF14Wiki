@@ -1,0 +1,10 @@
+id: menphina
+category: lore
+type: deity
+deity: "Menphina"
+element: "ice"
+moon: 2
+pantheon: the-twelve
+related: [the-twelve]
+tags: [deity, religion, the-twelve, ice]
+status: stable

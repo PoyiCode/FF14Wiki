@@ -1,0 +1,10 @@
+id: byregot
+category: lore
+type: deity
+deity: "Byregot"
+element: "lightning"
+moon: 7
+pantheon: the-twelve
+related: [the-twelve]
+tags: [deity, religion, the-twelve, lightning]
+status: stable

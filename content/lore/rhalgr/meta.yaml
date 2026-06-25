@@ -1,0 +1,10 @@
+id: rhalgr
+category: lore
+type: deity
+deity: "Rhalgr"
+element: "lightning"
+moon: 8
+pantheon: the-twelve
+related: [the-twelve]
+tags: [deity, religion, the-twelve, lightning]
+status: stable

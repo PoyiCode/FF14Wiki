@@ -1,0 +1,10 @@
+id: oschon
+category: lore
+type: deity
+deity: "Oschon"
+element: "wind"
+moon: 6
+pantheon: the-twelve
+related: [the-twelve]
+tags: [deity, religion, the-twelve, wind]
+status: stable

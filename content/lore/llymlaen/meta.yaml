@@ -1,0 +1,10 @@
+id: llymlaen
+category: lore
+type: deity
+deity: "Llymlaen"
+element: "wind"
+moon: 5
+pantheon: the-twelve
+related: [the-twelve]
+tags: [deity, religion, the-twelve, wind]
+status: stable

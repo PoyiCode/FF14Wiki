@@ -1,0 +1,10 @@
+id: thaliak
+category: lore
+type: deity
+deity: "Thaliak"
+element: "water"
+moon: 3
+pantheon: the-twelve
+related: [the-twelve]
+tags: [deity, religion, the-twelve, water]
+status: stable

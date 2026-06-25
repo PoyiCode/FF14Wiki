@@ -1,0 +1,10 @@
+id: azeyma
+category: lore
+type: deity
+deity: "Azeyma"
+element: "fire"
+moon: 9
+pantheon: the-twelve
+related: [the-twelve]
+tags: [deity, religion, the-twelve, fire]
+status: stable

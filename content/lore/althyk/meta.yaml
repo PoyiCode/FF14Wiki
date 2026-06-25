@@ -1,0 +1,10 @@
+id: althyk
+category: lore
+type: deity
+deity: "Althyk"
+element: "earth"
+moon: 12
+pantheon: the-twelve
+related: [the-twelve]
+tags: [deity, religion, the-twelve, earth]
+status: stable

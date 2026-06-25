@@ -1,0 +1,10 @@
+id: halone
+category: lore
+type: deity
+deity: "Halone"
+element: "ice"
+moon: 1
+pantheon: the-twelve
+related: [the-twelve]
+tags: [deity, religion, the-twelve, ice]
+status: stable

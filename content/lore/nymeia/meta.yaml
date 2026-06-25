@@ -1,0 +1,10 @@
+id: nymeia
+category: lore
+type: deity
+deity: "Nymeia"
+element: "water"
+moon: 4
+pantheon: the-twelve
+related: [the-twelve]
+tags: [deity, religion, the-twelve, water]
+status: stable
