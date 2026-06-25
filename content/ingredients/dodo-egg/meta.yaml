@@ -1,0 +1,6 @@
+id: dodo-egg
+category: ingredients
+type: ingredient
+ingredient: "Dodo Egg"
+tags: [ingredient, food, cooking]
+status: stable

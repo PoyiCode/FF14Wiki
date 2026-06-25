@@ -1,0 +1,6 @@
+id: mineral-water
+category: ingredients
+type: ingredient
+ingredient: "Mineral Water"
+tags: [ingredient, food, cooking]
+status: stable

@@ -1,0 +1,6 @@
+id: tree-toad
+category: ingredients
+type: ingredient
+ingredient: "Tree Toad"
+tags: [ingredient, food, cooking]
+status: stable

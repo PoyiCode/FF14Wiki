@@ -1,0 +1,6 @@
+id: ruby-tomato
+category: ingredients
+type: ingredient
+ingredient: "Ruby Tomato"
+tags: [ingredient, food, cooking]
+status: stable

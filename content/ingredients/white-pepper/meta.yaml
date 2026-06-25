@@ -1,0 +1,6 @@
+id: white-pepper
+category: ingredients
+type: ingredient
+ingredient: "White Pepper"
+tags: [ingredient, food, cooking]
+status: stable

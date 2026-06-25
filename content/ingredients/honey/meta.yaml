@@ -1,0 +1,6 @@
+id: honey
+category: ingredients
+type: ingredient
+ingredient: "Honey"
+tags: [ingredient, food, cooking]
+status: stable

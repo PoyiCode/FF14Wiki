@@ -1,0 +1,6 @@
+id: blood-tomato
+category: ingredients
+type: ingredient
+ingredient: "Blood Tomato"
+tags: [ingredient, food, cooking]
+status: stable

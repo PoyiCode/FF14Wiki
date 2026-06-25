@@ -1,0 +1,6 @@
+id: whipped-cream
+category: ingredients
+type: ingredient
+ingredient: "Whipped Cream"
+tags: [ingredient, food, cooking]
+status: stable

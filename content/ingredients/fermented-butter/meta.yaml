@@ -1,0 +1,6 @@
+id: fermented-butter
+category: ingredients
+type: ingredient
+ingredient: "Fermented Butter"
+tags: [ingredient, food, cooking]
+status: stable

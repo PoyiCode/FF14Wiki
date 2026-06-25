@@ -1,0 +1,6 @@
+id: table-salt
+category: ingredients
+type: ingredient
+ingredient: "Table Salt"
+tags: [ingredient, food, cooking]
+status: stable

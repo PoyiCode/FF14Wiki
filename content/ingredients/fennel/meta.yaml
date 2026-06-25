@@ -1,0 +1,6 @@
+id: fennel
+category: ingredients
+type: ingredient
+ingredient: "Fennel"
+tags: [ingredient, food, cooking]
+status: stable

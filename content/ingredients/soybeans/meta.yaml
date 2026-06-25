@@ -1,0 +1,6 @@
+id: soybeans
+category: ingredients
+type: ingredient
+ingredient: "Soybeans"
+tags: [ingredient, food, cooking]
+status: stable

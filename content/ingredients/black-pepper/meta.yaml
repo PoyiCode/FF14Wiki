@@ -1,0 +1,6 @@
+id: black-pepper
+category: ingredients
+type: ingredient
+ingredient: "Black Pepper"
+tags: [ingredient, food, cooking]
+status: stable

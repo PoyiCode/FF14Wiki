@@ -330,6 +330,16 @@ export const CATEGORIES: CategoryDef[] = [
       en: 'The non-combat trades and crafts residents make their living by (artisans and gatherers) — the basis for the bot to define its own identity and talk shop.',
     },
   },
+  {
+    key: 'ingredients',
+    label: { 'zh-TW': '食材', 'zh-CN': '食材', ja: '食材', en: 'Ingredients' },
+    description: {
+      'zh-TW': '居民下廚與採買用的各種食材（蔬果、肉蛋、乳製品、調味料等），讓 bot 能聊買菜、做料理與食材風味。',
+      'zh-CN': '居民下厨与采买用的各种食材（蔬果、肉蛋、乳制品、调味料等），让 bot 能聊买菜、做料理与食材风味。',
+      ja: '住民が料理や買い物に使う食材（野菜・果物・肉・卵・乳製品・調味料など）。botが買い出しや料理、素材の味を語れるように。',
+      en: 'The ingredients residents cook and shop with (vegetables, fruit, meat, dairy, seasonings and more), so the bot can chat about shopping, cooking and flavours.',
+    },
+  },
 ];
 
 export const CATEGORY_KEYS = CATEGORIES.map((c) => c.key);

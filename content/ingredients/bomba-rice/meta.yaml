@@ -1,0 +1,6 @@
+id: bomba-rice
+category: ingredients
+type: ingredient
+ingredient: "Bomba Rice"
+tags: [ingredient, food, cooking]
+status: stable

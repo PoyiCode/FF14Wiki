@@ -1,0 +1,6 @@
+id: blood-orange
+category: ingredients
+type: ingredient
+ingredient: "Blood Orange"
+tags: [ingredient, food, cooking]
+status: stable

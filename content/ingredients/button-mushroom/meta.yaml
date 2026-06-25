@@ -1,0 +1,6 @@
+id: button-mushroom
+category: ingredients
+type: ingredient
+ingredient: "Button Mushroom"
+tags: [ingredient, food, cooking]
+status: stable

@@ -1,0 +1,6 @@
+id: cream-cheese
+category: ingredients
+type: ingredient
+ingredient: "Cream Cheese"
+tags: [ingredient, food, cooking]
+status: stable

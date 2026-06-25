@@ -1,0 +1,6 @@
+id: cloud-banana
+category: ingredients
+type: ingredient
+ingredient: "Cloud Banana"
+tags: [ingredient, food, cooking]
+status: stable

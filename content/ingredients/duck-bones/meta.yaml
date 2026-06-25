@@ -1,0 +1,6 @@
+id: duck-bones
+category: ingredients
+type: ingredient
+ingredient: "Duck Bones"
+tags: [ingredient, food, cooking]
+status: stable

@@ -1,0 +1,6 @@
+id: ogre-pumpkin
+category: ingredients
+type: ingredient
+ingredient: "Ogre Pumpkin"
+tags: [ingredient, food, cooking]
+status: stable

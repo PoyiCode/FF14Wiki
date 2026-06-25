@@ -1,0 +1,6 @@
+id: chicken-stock
+category: ingredients
+type: ingredient
+ingredient: "Chicken Stock"
+tags: [ingredient, food, cooking]
+status: stable

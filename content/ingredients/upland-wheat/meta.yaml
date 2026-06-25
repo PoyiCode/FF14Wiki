@@ -1,0 +1,6 @@
+id: upland-wheat
+category: ingredients
+type: ingredient
+ingredient: "Upland Wheat"
+tags: [ingredient, food, cooking]
+status: stable

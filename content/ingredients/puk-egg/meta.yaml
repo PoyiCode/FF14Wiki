@@ -1,0 +1,6 @@
+id: puk-egg
+category: ingredients
+type: ingredient
+ingredient: "Puk Egg"
+tags: [ingredient, food, cooking]
+status: stable

@@ -1,0 +1,6 @@
+id: cooking-sake
+category: ingredients
+type: ingredient
+ingredient: "Cooking Sake"
+tags: [ingredient, food, cooking]
+status: stable

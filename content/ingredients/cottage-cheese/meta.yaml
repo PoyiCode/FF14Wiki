@@ -1,0 +1,6 @@
+id: cottage-cheese
+category: ingredients
+type: ingredient
+ingredient: "Cottage Cheese"
+tags: [ingredient, food, cooking]
+status: stable

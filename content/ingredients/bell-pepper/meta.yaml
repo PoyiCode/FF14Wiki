@@ -1,0 +1,6 @@
+id: bell-pepper
+category: ingredients
+type: ingredient
+ingredient: "Bell Pepper"
+tags: [ingredient, food, cooking]
+status: stable

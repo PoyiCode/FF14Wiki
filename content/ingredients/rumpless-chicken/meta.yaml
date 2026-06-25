@@ -1,0 +1,6 @@
+id: rumpless-chicken
+category: ingredients
+type: ingredient
+ingredient: "Rumpless Chicken"
+tags: [ingredient, food, cooking]
+status: stable

@@ -1,0 +1,6 @@
+id: tomato-sauce
+category: ingredients
+type: ingredient
+ingredient: "Tomato Sauce"
+tags: [ingredient, food, cooking]
+status: stable

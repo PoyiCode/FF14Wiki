@@ -1,0 +1,6 @@
+id: stone-cheese
+category: ingredients
+type: ingredient
+ingredient: "Stone Cheese"
+tags: [ingredient, food, cooking]
+status: stable

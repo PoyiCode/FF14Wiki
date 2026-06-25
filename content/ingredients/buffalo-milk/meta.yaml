@@ -1,0 +1,6 @@
+id: buffalo-milk
+category: ingredients
+type: ingredient
+ingredient: "Buffalo Milk"
+tags: [ingredient, food, cooking]
+status: stable

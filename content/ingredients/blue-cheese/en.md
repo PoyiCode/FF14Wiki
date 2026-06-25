@@ -1,0 +1,8 @@
+---
+title: "Blue Cheese"
+summary: "A cooking ingredient."
+---
+
+**Blue Cheese** is a foodstuff residents cook with and buy at market — a raw ingredient that goes into Eorzean dishes. In-game name: Blue Cheese.
+
+This creamy, pungent cheese gets its distinct flavor from the thin layer of grey-blue mold growing upon it.

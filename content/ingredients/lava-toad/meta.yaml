@@ -1,0 +1,6 @@
+id: lava-toad
+category: ingredients
+type: ingredient
+ingredient: "Lava Toad"
+tags: [ingredient, food, cooking]
+status: stable

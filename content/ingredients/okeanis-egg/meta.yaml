@@ -1,0 +1,6 @@
+id: okeanis-egg
+category: ingredients
+type: ingredient
+ingredient: "Okeanis Egg"
+tags: [ingredient, food, cooking]
+status: stable

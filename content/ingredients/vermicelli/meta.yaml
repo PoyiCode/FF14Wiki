@@ -1,0 +1,6 @@
+id: vermicelli
+category: ingredients
+type: ingredient
+ingredient: "Vermicelli"
+tags: [ingredient, food, cooking]
+status: stable

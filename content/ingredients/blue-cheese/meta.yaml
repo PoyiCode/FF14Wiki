@@ -1,0 +1,6 @@
+id: blue-cheese
+category: ingredients
+type: ingredient
+ingredient: "Blue Cheese"
+tags: [ingredient, food, cooking]
+status: stable

@@ -1,0 +1,6 @@
+id: bouillon-cube
+category: ingredients
+type: ingredient
+ingredient: "Bouillon Cube"
+tags: [ingredient, food, cooking]
+status: stable

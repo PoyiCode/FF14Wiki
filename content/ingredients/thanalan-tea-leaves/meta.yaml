@@ -1,0 +1,6 @@
+id: thanalan-tea-leaves
+category: ingredients
+type: ingredient
+ingredient: "Thanalan Tea Leaves"
+tags: [ingredient, food, cooking]
+status: stable

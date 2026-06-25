@@ -1,0 +1,6 @@
+id: marmot-meat
+category: ingredients
+type: ingredient
+ingredient: "Marmot Meat"
+tags: [ingredient, food, cooking]
+status: stable

@@ -1,0 +1,6 @@
+id: strong-flour
+category: ingredients
+type: ingredient
+ingredient: "Strong Flour"
+tags: [ingredient, food, cooking]
+status: stable

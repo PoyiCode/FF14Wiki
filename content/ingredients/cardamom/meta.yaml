@@ -1,0 +1,6 @@
+id: cardamom
+category: ingredients
+type: ingredient
+ingredient: "Cardamom"
+tags: [ingredient, food, cooking]
+status: stable

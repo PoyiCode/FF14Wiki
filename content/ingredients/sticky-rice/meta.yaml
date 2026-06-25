@@ -1,0 +1,6 @@
+id: sticky-rice
+category: ingredients
+type: ingredient
+ingredient: "Sticky Rice"
+tags: [ingredient, food, cooking]
+status: stable

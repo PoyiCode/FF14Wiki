@@ -1,0 +1,6 @@
+id: cassava
+category: ingredients
+type: ingredient
+ingredient: "Cassava"
+tags: [ingredient, food, cooking]
+status: stable

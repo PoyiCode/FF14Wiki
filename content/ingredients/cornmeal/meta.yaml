@@ -1,0 +1,6 @@
+id: cornmeal
+category: ingredients
+type: ingredient
+ingredient: "Cornmeal"
+tags: [ingredient, food, cooking]
+status: stable

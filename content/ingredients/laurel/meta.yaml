@@ -1,0 +1,6 @@
+id: laurel
+category: ingredients
+type: ingredient
+ingredient: "Laurel"
+tags: [ingredient, food, cooking]
+status: stable

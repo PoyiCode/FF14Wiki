@@ -1,0 +1,6 @@
+id: iceberg-lettuce
+category: ingredients
+type: ingredient
+ingredient: "Iceberg Lettuce"
+tags: [ingredient, food, cooking]
+status: stable

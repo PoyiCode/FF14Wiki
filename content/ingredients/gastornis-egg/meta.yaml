@@ -1,0 +1,6 @@
+id: gastornis-egg
+category: ingredients
+type: ingredient
+ingredient: "Gastornis Egg"
+tags: [ingredient, food, cooking]
+status: stable

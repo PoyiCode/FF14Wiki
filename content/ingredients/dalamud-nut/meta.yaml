@@ -1,0 +1,6 @@
+id: dalamud-nut
+category: ingredients
+type: ingredient
+ingredient: "Dalamud Nut"
+tags: [ingredient, food, cooking]
+status: stable

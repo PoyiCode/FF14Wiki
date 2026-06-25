@@ -1,0 +1,6 @@
+id: skybuilders-tea-leaves
+category: ingredients
+type: ingredient
+ingredient: "Skybuilders' Tea Leaves"
+tags: [ingredient, food, cooking]
+status: stable

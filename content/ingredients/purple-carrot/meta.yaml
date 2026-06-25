@@ -1,0 +1,6 @@
+id: purple-carrot
+category: ingredients
+type: ingredient
+ingredient: "Purple Carrot"
+tags: [ingredient, food, cooking]
+status: stable

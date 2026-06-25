@@ -1,0 +1,6 @@
+id: dragon-pepper
+category: ingredients
+type: ingredient
+ingredient: "Dragon Pepper"
+tags: [ingredient, food, cooking]
+status: stable

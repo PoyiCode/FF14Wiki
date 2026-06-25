@@ -1,0 +1,6 @@
+id: mountain-salt
+category: ingredients
+type: ingredient
+ingredient: "Mountain Salt"
+tags: [ingredient, food, cooking]
+status: stable

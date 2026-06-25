@@ -1,0 +1,6 @@
+id: chicken-thigh
+category: ingredients
+type: ingredient
+ingredient: "Chicken Thigh"
+tags: [ingredient, food, cooking]
+status: stable

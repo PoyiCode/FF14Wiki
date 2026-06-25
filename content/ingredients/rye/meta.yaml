@@ -1,0 +1,6 @@
+id: rye
+category: ingredients
+type: ingredient
+ingredient: "Rye"
+tags: [ingredient, food, cooking]
+status: stable

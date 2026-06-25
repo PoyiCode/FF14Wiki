@@ -1,0 +1,6 @@
+id: pie-dough
+category: ingredients
+type: ingredient
+ingredient: "Pie Dough"
+tags: [ingredient, food, cooking]
+status: stable

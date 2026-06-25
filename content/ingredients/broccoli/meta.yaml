@@ -1,0 +1,6 @@
+id: broccoli
+category: ingredients
+type: ingredient
+ingredient: "Broccoli"
+tags: [ingredient, food, cooking]
+status: stable

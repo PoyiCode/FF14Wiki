@@ -1,0 +1,6 @@
+id: crownbrush
+category: ingredients
+type: ingredient
+ingredient: "Crownbrush"
+tags: [ingredient, food, cooking]
+status: stable

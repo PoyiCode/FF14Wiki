@@ -1,0 +1,6 @@
+id: paprika
+category: ingredients
+type: ingredient
+ingredient: "Paprika"
+tags: [ingredient, food, cooking]
+status: stable

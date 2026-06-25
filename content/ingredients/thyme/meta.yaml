@@ -1,0 +1,6 @@
+id: thyme
+category: ingredients
+type: ingredient
+ingredient: "Thyme"
+tags: [ingredient, food, cooking]
+status: stable

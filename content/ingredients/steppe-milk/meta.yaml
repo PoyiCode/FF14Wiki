@@ -1,0 +1,6 @@
+id: steppe-milk
+category: ingredients
+type: ingredient
+ingredient: "Steppe Milk"
+tags: [ingredient, food, cooking]
+status: stable

@@ -1,0 +1,6 @@
+id: garlean-cheese
+category: ingredients
+type: ingredient
+ingredient: "Garlean Cheese"
+tags: [ingredient, food, cooking]
+status: stable

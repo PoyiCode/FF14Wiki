@@ -1,0 +1,6 @@
+id: coffee-beans
+category: ingredients
+type: ingredient
+ingredient: "Coffee Beans"
+tags: [ingredient, food, cooking]
+status: stable

@@ -1,0 +1,6738 @@
+[
+ {
+  "slug": "mineral-water",
+  "en": "Mineral Water",
+  "n": {
+   "en": "Mineral Water",
+   "zh-CN": "矿泉水",
+   "zh-TW": "礦泉水",
+   "ja": "ミネラルウォーター"
+  },
+  "desc": {
+   "en": "Clear water taken from a mountain spring near Ishgard.",
+   "zh-CN": "伊修加德所产的天然水，是当地的名产。",
+   "zh-TW": "伊修加德所產的天然水，是當地的名產。",
+   "ja": "名水で知られるイシュガルド産の天然水"
+  }
+ },
+ {
+  "slug": "aldgoat-milk",
+  "en": "Aldgoat Milk",
+  "n": {
+   "en": "Aldgoat Milk",
+   "zh-CN": "山羊奶",
+   "zh-TW": "山羊奶",
+   "ja": "山羊乳"
+  },
+  "desc": {
+   "en": "The thick, creamy milk of an aldgoat nanny.",
+   "zh-CN": "味道浓郁的山羊奶。",
+   "zh-TW": "味道濃郁的山羊奶。",
+   "ja": "濃厚なアルドゴートの乳"
+  }
+ },
+ {
+  "slug": "buffalo-milk",
+  "en": "Buffalo Milk",
+  "n": {
+   "en": "Buffalo Milk",
+   "zh-CN": "水牛奶",
+   "zh-TW": "水牛奶",
+   "ja": "水牛乳"
+  },
+  "desc": {
+   "en": "The smooth, light milk of a buffalo cow.",
+   "zh-CN": "温和的水牛奶。",
+   "zh-TW": "溫和的水牛奶。",
+   "ja": "まろやかなバッファローの乳"
+  }
+ },
+ {
+  "slug": "cottage-cheese",
+  "en": "Cottage Cheese",
+  "n": {
+   "en": "Cottage Cheese",
+   "zh-CN": "农家奶酪",
+   "zh-TW": "農家奶酪",
+   "ja": "コテージチーズ"
+  },
+  "desc": {
+   "en": "A creamy mixture of unripened cheese curds.",
+   "zh-CN": "爽口的液状新鲜奶酪。",
+   "zh-TW": "爽口的液狀新鮮奶酪。",
+   "ja": "爽やかな風味の液状フレッシュチーズ"
+  }
+ },
+ {
+  "slug": "blue-cheese",
+  "en": "Blue Cheese",
+  "n": {
+   "en": "Blue Cheese",
+   "zh-CN": "蓝霉奶酪",
+   "zh-TW": "藍黴奶酪",
+   "ja": "ブルードルチェ"
+  },
+  "desc": {
+   "en": "This creamy, pungent cheese gets its distinct flavor from the thin layer of grey-blue mold growing upon it.",
+   "zh-CN": "表面浮有一层蓝霉的奶酪。",
+   "zh-TW": "表面浮有一層藍黴的奶酪。",
+   "ja": "青カビの浮いたクリーミーなチーズ"
+  }
+ },
+ {
+  "slug": "cream-cheese",
+  "en": "Cream Cheese",
+  "n": {
+   "en": "Cream Cheese",
+   "zh-CN": "奶油奶酪",
+   "zh-TW": "奶油奶酪",
+   "ja": "クリームチーズ"
+  },
+  "desc": {
+   "en": "A smooth, buttery cheese made from cultured buffalo milk.",
+   "zh-CN": "用水牛的奶制作的滑嫩奶酪。",
+   "zh-TW": "用水牛的奶製作的滑嫩奶酪。",
+   "ja": "水牛乳で作ったなめらかな食感のクリームチーズ"
+  }
+ },
+ {
+  "slug": "rolanberry-cheese",
+  "en": "Rolanberry Cheese",
+  "n": {
+   "en": "Rolanberry Cheese",
+   "zh-CN": "罗兰莓奶酪",
+   "zh-TW": "羅蘭莓奶酪",
+   "ja": "ロランベリーチーズ"
+  },
+  "desc": {
+   "en": "Cream cheese blended with tart dried rolanberries.",
+   "zh-CN": "加入了罗兰莓干的水牛奶酪。",
+   "zh-TW": "加入了羅蘭莓乾的水牛奶酪。",
+   "ja": "干したロランベリーを和えた水牛乳のクリームチーズ"
+  }
+ },
+ {
+  "slug": "marmot-meat",
+  "en": "Marmot Meat",
+  "n": {
+   "en": "Marmot Meat",
+   "zh-CN": "栗鼠肉",
+   "zh-TW": "栗鼠肉",
+   "ja": "マーモットの肉"
+  },
+  "desc": {
+   "en": "A tiny skinned marmot.",
+   "zh-CN": "坚硬的栗鼠肉。",
+   "zh-TW": "堅硬的栗鼠肉。",
+   "ja": "マーモットの硬い肉"
+  }
+ },
+ {
+  "slug": "mutton-loin",
+  "en": "Mutton Loin",
+  "n": {
+   "en": "Mutton Loin",
+   "zh-CN": "羊后腰肉",
+   "zh-TW": "羊後腰肉",
+   "ja": "マトンのロイン"
+  },
+  "desc": {
+   "en": "A lean cut of meat taken from below a sheep's rib cage.",
+   "zh-CN": "羊后腰部的厚肉。",
+   "zh-TW": "羊後腰部的厚肉。",
+   "ja": "羊の背の厚肉"
+  }
+ },
+ {
+  "slug": "dodo-tenderloin",
+  "en": "Dodo Tenderloin",
+  "n": {
+   "en": "Dodo Tenderloin",
+   "zh-CN": "渡渡鸟胸肉",
+   "zh-TW": "渡渡鳥胸肉",
+   "ja": "ドードーの笹身"
+  },
+  "desc": {
+   "en": "A lean piece of meat taken from under the short ribs of a dodo.",
+   "zh-CN": "优质的渡渡鸟胸肉。",
+   "zh-TW": "優質的渡渡鳥胸肉。",
+   "ja": "ドードーの胸の上質肉"
+  }
+ },
+ {
+  "slug": "mole-meat",
+  "en": "Mole Meat",
+  "n": {
+   "en": "Mole Meat",
+   "zh-CN": "鼹鼠肉",
+   "zh-TW": "鼴鼠肉",
+   "ja": "モールの肉"
+  },
+  "desc": {
+   "en": "A fist-sized chunk of lean, bloody meat cleanly sliced from the carcass of a pesky mole.",
+   "zh-CN": "多汁的鼹鼠肉。",
+   "zh-TW": "多汁的鼴鼠肉。",
+   "ja": "ジューシーなモグラの肉"
+  }
+ },
+ {
+  "slug": "salamander-tail",
+  "en": "Salamander Tail",
+  "n": {
+   "en": "Salamander Tail",
+   "zh-CN": "蝾螈尾肉",
+   "zh-TW": "蠑螈尾肉",
+   "ja": "サラマンダーの尾肉"
+  },
+  "desc": {
+   "en": "Sinewy meat taken from the tail of a salamander.",
+   "zh-CN": "充满弹力的蝾螈尾肉。",
+   "zh-TW": "充滿彈力的蠑螈尾肉。",
+   "ja": "サラマンダーの弾力ある尾肉"
+  }
+ },
+ {
+  "slug": "young-dodo-roaster",
+  "en": "Young Dodo Roaster",
+  "n": {
+   "en": "Young Dodo Roaster",
+   "zh-CN": "渡渡鸟雏肉",
+   "zh-TW": "渡渡鳥雛肉",
+   "ja": "レッサードードーの肉"
+  },
+  "desc": {
+   "en": "A whole young dodo, small enough to fit in most conventional household ovens.",
+   "zh-CN": "作为家禽饲养的渡渡鸟雏鸟的肉。",
+   "zh-TW": "作爲家禽飼養的渡渡鳥雛鳥的肉。",
+   "ja": "家禽用の小型ドードーの肉"
+  }
+ },
+ {
+  "slug": "chicken-breast",
+  "en": "Chicken Breast",
+  "n": {
+   "en": "Chicken Breast",
+   "zh-CN": "鸡胸肉",
+   "zh-TW": "雞胸肉",
+   "ja": "鶏の胸肉"
+  },
+  "desc": {
+   "en": "A tender piece of meat taken from the breast of a chicken.",
+   "zh-CN": "白鸡的胸肉。",
+   "zh-TW": "白雞的胸肉。",
+   "ja": "ニワトリの胸肉"
+  }
+ },
+ {
+  "slug": "antelope-shank",
+  "en": "Antelope Shank",
+  "n": {
+   "en": "Antelope Shank",
+   "zh-CN": "羚羊胫肉",
+   "zh-TW": "羚羊脛肉",
+   "ja": "アンテロープのスネ肉"
+  },
+  "desc": {
+   "en": "A tough piece of meat taken from the upper leg of an antelope.",
+   "zh-CN": "羚羊的小腿肌肉。",
+   "zh-TW": "羚羊的小腿肌肉。",
+   "ja": "レイヨウの筋張った肉"
+  }
+ },
+ {
+  "slug": "aldgoat-chuck",
+  "en": "Aldgoat Chuck",
+  "n": {
+   "en": "Aldgoat Chuck",
+   "zh-CN": "山羊肩肉",
+   "zh-TW": "山羊肩肉",
+   "ja": "アルドゴートの肩ロース"
+  },
+  "desc": {
+   "en": "A large, tender slab of meat taken from the shoulder of an aldgoat.",
+   "zh-CN": "山羊的雪花肉。",
+   "zh-TW": "山羊的雪花肉。",
+   "ja": "大山羊の霜降り肉"
+  }
+ },
+ {
+  "slug": "raptor-shank",
+  "en": "Raptor Shank",
+  "n": {
+   "en": "Raptor Shank",
+   "zh-CN": "盗龙腿肉",
+   "zh-TW": "盜龍腿肉",
+   "ja": "ラプトルのモモ肉"
+  },
+  "desc": {
+   "en": "An extra-lean, tough piece of meat taken from the leg of a raptor.",
+   "zh-CN": "盗龙大腿处的红肉。",
+   "zh-TW": "盜龍大腿處的紅肉。",
+   "ja": "ラプトルの赤身肉"
+  }
+ },
+ {
+  "slug": "buffalo-sirloin",
+  "en": "Buffalo Sirloin",
+  "n": {
+   "en": "Buffalo Sirloin",
+   "zh-CN": "水牛里脊",
+   "zh-TW": "水牛裏脊",
+   "ja": "バッファローのサーロイン"
+  },
+  "desc": {
+   "en": "A cut of tender, lean meat taken from the rear back of a buffalo.",
+   "zh-CN": "水牛的里脊肉。",
+   "zh-TW": "水牛的裏脊肉。",
+   "ja": "水牛の赤身肉"
+  }
+ },
+ {
+  "slug": "eft-tail",
+  "en": "Eft Tail",
+  "n": {
+   "en": "Eft Tail",
+   "zh-CN": "水蜥尾肉",
+   "zh-TW": "水蜥尾肉",
+   "ja": "エフトの尾肉"
+  },
+  "desc": {
+   "en": "Sinewy meat taken from the tail of an eft.",
+   "zh-CN": "充满弹力的水蜥尾肉。",
+   "zh-TW": "充滿彈力的水蜥尾肉。",
+   "ja": "エフトの弾力ある尾肉"
+  }
+ },
+ {
+  "slug": "orobon-liver",
+  "en": "Orobon Liver",
+  "n": {
+   "en": "Orobon Liver",
+   "zh-CN": "鬼鮟鱇肝脏",
+   "zh-TW": "鬼鮟鱇肝臟",
+   "ja": "オロボンの肝臓"
+  },
+  "desc": {
+   "en": "The soft liver of a deepwater orobon.",
+   "zh-CN": "柔软的鬼鮟鱇肝脏。",
+   "zh-TW": "柔軟的鬼鮟鱇肝臟。",
+   "ja": "オロボンの柔らかい肝臓"
+  }
+ },
+ {
+  "slug": "megalocrab-leg",
+  "en": "Megalocrab Leg",
+  "n": {
+   "en": "Megalocrab Leg",
+   "zh-CN": "陆蟹蟹脚",
+   "zh-TW": "陸蟹蟹腳",
+   "ja": "メガロクラブの足"
+  },
+  "desc": {
+   "en": "A fat megalocrab leg, bursting with sweet, juicy meat.",
+   "zh-CN": "硬壳包裹着的陆蟹蟹脚。",
+   "zh-TW": "硬殼包裹着的陸蟹蟹腳。",
+   "ja": "メガロクラブの殻に覆われた足"
+  }
+ },
+ {
+  "slug": "chicken-egg",
+  "en": "Chicken Egg",
+  "n": {
+   "en": "Chicken Egg",
+   "zh-CN": "鸡蛋",
+   "zh-TW": "雞蛋",
+   "ja": "鶏卵"
+  },
+  "desc": {
+   "en": "The egg of a domesticated chicken.",
+   "zh-CN": "白鸡的蛋，在艾欧泽亚各地都是普通食物。",
+   "zh-TW": "白雞的蛋，在艾歐澤亞各地都是普通食物。",
+   "ja": "エオルゼアで一般的に食されるニワトリの卵"
+  }
+ },
+ {
+  "slug": "dodo-egg",
+  "en": "Dodo Egg",
+  "n": {
+   "en": "Dodo Egg",
+   "zh-CN": "渡渡鸟蛋",
+   "zh-TW": "渡渡鳥蛋",
+   "ja": "ドードーの卵"
+  },
+  "desc": {
+   "en": "The heavy egg of a wild dodo.",
+   "zh-CN": "渡渡鸟的鸟蛋，非常重。",
+   "zh-TW": "渡渡鳥的鳥蛋，非常重。",
+   "ja": "ドードーの重い卵"
+  }
+ },
+ {
+  "slug": "puk-egg",
+  "en": "Puk Egg",
+  "n": {
+   "en": "Puk Egg",
+   "zh-CN": "跳蜥蛋",
+   "zh-TW": "跳蜥蛋",
+   "ja": "プークの卵"
+  },
+  "desc": {
+   "en": "The lightweight egg of a puk.",
+   "zh-CN": "跳蜥的蛋，很轻。",
+   "zh-TW": "跳蜥的蛋，很輕。",
+   "ja": "プークの軽い卵"
+  }
+ },
+ {
+  "slug": "apkallu-egg",
+  "en": "Apkallu Egg",
+  "n": {
+   "en": "Apkallu Egg",
+   "zh-CN": "碧企鹅蛋",
+   "zh-TW": "碧企鵝蛋",
+   "ja": "アプカルの卵"
+  },
+  "desc": {
+   "en": "The large egg of a wild apkallu.",
+   "zh-CN": "碧企鹅的大鸟蛋。",
+   "zh-TW": "碧企鵝的大鳥蛋。",
+   "ja": "アプカルの大きな卵"
+  }
+ },
+ {
+  "slug": "wild-onion",
+  "en": "Wild Onion",
+  "n": {
+   "en": "Wild Onion",
+   "zh-CN": "野洋葱",
+   "zh-TW": "野洋蔥",
+   "ja": "ワイルドオニオン"
+  },
+  "desc": {
+   "en": "A pungent bulb vegetable native to the Near East.",
+   "zh-CN": "原产于近东地区的食用球根。",
+   "zh-TW": "原產於近東地區的食用球根。",
+   "ja": "近東原産とされる食用の球根"
+  }
+ },
+ {
+  "slug": "coerthan-carrot",
+  "en": "Coerthan Carrot",
+  "n": {
+   "en": "Coerthan Carrot",
+   "zh-CN": "库尔札斯胡萝卜",
+   "zh-TW": "庫爾札斯胡蘿蔔",
+   "ja": "クルザスカロット"
+  },
+  "desc": {
+   "en": "A long orange root vegetable commonly grown in the rocky alpine soil of the Coerthas region.",
+   "zh-CN": "主要栽种于库尔札斯地区，细长的朱红色根菜。",
+   "zh-TW": "主要栽種於庫爾札斯地區，細長的硃紅色根菜。",
+   "ja": "クルザス地方で栽培の盛んな細長い朱色の根菜"
+  }
+ },
+ {
+  "slug": "ogre-pumpkin",
+  "en": "Ogre Pumpkin",
+  "n": {
+   "en": "Ogre Pumpkin",
+   "zh-CN": "食人魔南瓜",
+   "zh-TW": "食人魔南瓜",
+   "ja": "オーガパンプキン"
+  },
+  "desc": {
+   "en": "A bright-orange squash which sweetens in flavor when cooked.",
+   "zh-CN": "从新大陆引进的甜味果菜。",
+   "zh-TW": "從新大陸引進的甜味果菜。",
+   "ja": "新大陸伝来の甘い味の果菜"
+  }
+ },
+ {
+  "slug": "ruby-tomato",
+  "en": "Ruby Tomato",
+  "n": {
+   "en": "Ruby Tomato",
+   "zh-CN": "红宝石番茄",
+   "zh-TW": "紅寶石番茄",
+   "ja": "ルビートマト"
+  },
+  "desc": {
+   "en": "Though many botanists claim this tangy blood red specimen is more closely related to a fruit than a vegetable, it is widely accepted across Eorzea as the latter.",
+   "zh-CN": "从新大陆引进的红色果菜。",
+   "zh-TW": "從新大陸引進的紅色果菜。",
+   "ja": "新大陸伝来の真紅の果菜"
+  }
+ },
+ {
+  "slug": "alpine-parsnip",
+  "en": "Alpine Parsnip",
+  "n": {
+   "en": "Alpine Parsnip",
+   "zh-CN": "高山萝卜",
+   "zh-TW": "高山蘿蔔",
+   "ja": "パースニップ"
+  },
+  "desc": {
+   "en": "A long white root vegetable indigenous to the mountainous region of Coerthas.",
+   "zh-CN": "原产于库尔札斯地区，香味浓厚的根菜。",
+   "zh-TW": "原產於庫爾札斯地區，香味濃厚的根菜。",
+   "ja": "クルザス原産の香り高い根菜"
+  }
+ },
+ {
+  "slug": "la-noscean-lettuce",
+  "en": "La Noscean Lettuce",
+  "n": {
+   "en": "La Noscean Lettuce",
+   "zh-CN": "拉诺西亚莴苣",
+   "zh-TW": "拉諾西亞萵苣",
+   "ja": "ラノシアレタス"
+  },
+  "desc": {
+   "en": "A crisp leafy vegetable native to the plains of La Noscea.",
+   "zh-CN": "原产于拉诺西亚，富含水分的叶菜。",
+   "zh-TW": "原產於拉諾西亞，富含水分的葉菜。",
+   "ja": "ラノシア原産の水分の多い葉菜"
+  }
+ },
+ {
+  "slug": "cieldalaes-spinach",
+  "en": "Cieldalaes Spinach",
+  "n": {
+   "en": "Cieldalaes Spinach",
+   "zh-CN": "谢尔达莱菠菜",
+   "zh-TW": "謝爾達萊菠菜",
+   "ja": "スピナッチ"
+  },
+  "desc": {
+   "en": "An iron-rich leafy vegetable native to the Cieldalaes.",
+   "zh-CN": "原产于谢尔达莱群岛的菠菜，营养价值很高。",
+   "zh-TW": "原產於謝爾達萊羣島的菠菜，營養價值很高。",
+   "ja": "栄養価の高いシェルダレー諸島原産の葉菜"
+  }
+ },
+ {
+  "slug": "highland-parsley",
+  "en": "Highland Parsley",
+  "n": {
+   "en": "Highland Parsley",
+   "zh-CN": "高原芹",
+   "zh-TW": "高原芹",
+   "ja": "ハイランドパセリ"
+  },
+  "desc": {
+   "en": "Oft used as a garnish in other dishes, this pungent vegetable grows in abundance in the mountainous region of upper La Noscea.",
+   "zh-CN": "原产于拉诺西亚，味道清爽的叶菜。",
+   "zh-TW": "原產於拉諾西亞，味道清爽的葉菜。",
+   "ja": "ラノシア原産の爽快な風味の葉菜"
+  }
+ },
+ {
+  "slug": "paprika",
+  "en": "Paprika",
+  "n": {
+   "en": "Paprika",
+   "zh-CN": "红辣椒",
+   "zh-TW": "紅辣椒",
+   "ja": "パプリカ"
+  },
+  "desc": {
+   "en": "A pepper which can be dried and ground to make a mild red spice. It is often used in medicines, as well as in cooking.",
+   "zh-CN": "用辣椒的果实制成的调味剂，味道微苦，用于药品或香料。",
+   "zh-TW": "用辣椒的果實製成的調味劑，味道微苦，用於藥品或香料。",
+   "ja": "果実から成るスパイス。やや苦みがあり、薬品や香料に用いられる"
+  }
+ },
+ {
+  "slug": "nopales",
+  "en": "Nopales",
+  "n": {
+   "en": "Nopales",
+   "zh-CN": "仙人掌叶",
+   "zh-TW": "仙人掌葉",
+   "ja": "ノパル"
+  },
+  "desc": {
+   "en": "An edible oval-leaved cactus brought back by explorers of the New World.",
+   "zh-CN": "从新大陆引进的食用仙人掌茎节。",
+   "zh-TW": "從新大陸引進的食用仙人掌莖節。",
+   "ja": "新大陸伝来の食用サボテンの茎節"
+  }
+ },
+ {
+  "slug": "popoto",
+  "en": "Popoto",
+  "n": {
+   "en": "Popoto",
+   "zh-CN": "新薯",
+   "zh-TW": "新薯",
+   "ja": "ポポト"
+  },
+  "desc": {
+   "en": "A starchy tuberous vegetable originally introduced to Eorzea by explorers from the distant western continent.",
+   "zh-CN": "从新大陆引进的富含淀粉的根菜。",
+   "zh-TW": "從新大陸引進的富含澱粉的根菜。",
+   "ja": "新大陸伝来の澱粉に富む根菜"
+  }
+ },
+ {
+  "slug": "wizard-eggplant",
+  "en": "Wizard Eggplant",
+  "n": {
+   "en": "Wizard Eggplant",
+   "zh-CN": "巫茄",
+   "zh-TW": "巫茄",
+   "ja": "エッグプラント"
+  },
+  "desc": {
+   "en": "A firm purple-skinned vegetable indigenous to the mountains of the Near East. A common wives' tale claims if you eat too many of this vegetable, you will turn into one.",
+   "zh-CN": "原产于近东地区的紫色果菜。",
+   "zh-TW": "原產於近東地區的紫色果菜。",
+   "ja": "近東原産の紫色の果菜"
+  }
+ },
+ {
+  "slug": "midland-cabbage",
+  "en": "Midland Cabbage",
+  "n": {
+   "en": "Midland Cabbage",
+   "zh-CN": "中原甘蓝",
+   "zh-TW": "中原甘藍",
+   "ja": "ミッドランドキャベツ"
+  },
+  "desc": {
+   "en": "A round leafy vegetable which prefers the steady climate of the Black Shroud.",
+   "zh-CN": "原产于黑衣森林的球状叶菜。",
+   "zh-TW": "原產於黑衣森林的球狀葉菜。",
+   "ja": "黒衣森原産の球状の葉菜"
+  }
+ },
+ {
+  "slug": "aloe",
+  "en": "Aloe",
+  "n": {
+   "en": "Aloe",
+   "zh-CN": "芦荟",
+   "zh-TW": "蘆薈",
+   "ja": "アロエ"
+  },
+  "desc": {
+   "en": "A thick spiny-leaved cactus indigenous to the southern continent of Meracydia. The Miqo'te are known to treat severe burns with the cool gel-like substance found inside the leaves.",
+   "zh-CN": "原产于南方的美拉西迪亚地区，多肉植物的叶菜。",
+   "zh-TW": "原產於南方的美拉西迪亞地區，多肉植物的葉菜。",
+   "ja": "南方メラシディア原産の多肉植物の葉菜"
+  }
+ },
+ {
+  "slug": "salt-leek",
+  "en": "Salt Leek",
+  "n": {
+   "en": "Salt Leek",
+   "zh-CN": "盐韭",
+   "zh-TW": "鹽韭",
+   "ja": "リーキ"
+  },
+  "desc": {
+   "en": "A long, pungent, leafy vegetable that lacks a bulb like that of its cousin, the onion.",
+   "zh-CN": "原产于拉诺西亚地区的细长叶菜。",
+   "zh-TW": "原產於拉諾西亞地區的細長葉菜。",
+   "ja": "ラノシア原産の細長い葉菜"
+  }
+ },
+ {
+  "slug": "ramhorn-zucchini",
+  "en": "Ramhorn Zucchini",
+  "n": {
+   "en": "Ramhorn Zucchini",
+   "zh-CN": "西葫芦",
+   "zh-TW": "西葫蘆",
+   "ja": "ズッキーニ"
+  },
+  "desc": {
+   "en": "This long, thin variety of squash earns its name from its resemblance to the horn of a mountain ram.",
+   "zh-CN": "原产于摩杜纳，外形类似羊角的浓绿色果菜。",
+   "zh-TW": "原產於摩杜納，外形類似羊角的濃綠色果菜。",
+   "ja": "モードゥナ原産の羊角に似た濃緑色の果菜"
+  }
+ },
+ {
+  "slug": "maiden-artichoke",
+  "en": "Maiden Artichoke",
+  "n": {
+   "en": "Maiden Artichoke",
+   "zh-CN": "球蓟",
+   "zh-TW": "球薊",
+   "ja": "アーティチョーク"
+  },
+  "desc": {
+   "en": "The leaf-like bud of an artichoke plant. Due to the roughness of its petals, only the fleshy lower portions can be consumed, as well as the center of the bud, commonly known as the “heart.”",
+   "zh-CN": "原产于拉诺西亚地区的花菜，球茎部分可以食用。",
+   "zh-TW": "原產於拉諾西亞地區的花菜，球莖部分可以食用。",
+   "ja": "ラノシア原産の蕾を食する花菜"
+  }
+ },
+ {
+  "slug": "shriekshroom",
+  "en": "Shriekshroom",
+  "n": {
+   "en": "Shriekshroom",
+   "zh-CN": "尖叫菇",
+   "zh-TW": "尖叫菇",
+   "ja": "シュリークシュルーム"
+  },
+  "desc": {
+   "en": "The underdeveloped sporeling of a funguar.",
+   "zh-CN": "人形菌类“尖叫魔菇”的幼体。",
+   "zh-TW": "人形菌類“尖叫魔菇”的幼體。",
+   "ja": "人型キノコ、ファンガーの幼体"
+  }
+ },
+ {
+  "slug": "chanterelle",
+  "en": "Chanterelle",
+  "n": {
+   "en": "Chanterelle",
+   "zh-CN": "鸡油菌",
+   "zh-TW": "雞油菌",
+   "ja": "シャンテレール"
+  },
+  "desc": {
+   "en": "An edible mushroom known for its leaf-like appearance as well as its fruit-like fragrance.",
+   "zh-CN": "散发着果实香味的食用菌。",
+   "zh-TW": "散發着果實香味的食用菌。",
+   "ja": "果実のような薫りを放つ食用キノコ"
+  }
+ },
+ {
+  "slug": "gil-bun",
+  "en": "Gil Bun",
+  "n": {
+   "en": "Gil Bun",
+   "zh-CN": "金钱蘑",
+   "zh-TW": "金錢蘑",
+   "ja": "ギルバン"
+  },
+  "desc": {
+   "en": "This tiny round mushroom has a cap which resembles a coin, and is known for its rich flavor and pungent aroma.",
+   "zh-CN": "风味醇厚的小圆蘑菇。",
+   "zh-TW": "風味醇厚的小圓蘑菇。",
+   "ja": "濃厚な風味の小さな丸い食用キノコ"
+  }
+ },
+ {
+  "slug": "button-mushroom",
+  "en": "Button Mushroom",
+  "n": {
+   "en": "Button Mushroom",
+   "zh-CN": "草菇",
+   "zh-TW": "草菇",
+   "ja": "ボタンマッシュルーム"
+  },
+  "desc": {
+   "en": "A small white mushroom commonly found in moist areas across Eorzea.",
+   "zh-CN": "在艾欧泽亚广泛食用的白色菌类。",
+   "zh-TW": "在艾歐澤亞廣泛食用的白色菌類。",
+   "ja": "エオルゼアで広く食される白色のキノコ"
+  }
+ },
+ {
+  "slug": "white-truffle",
+  "en": "White Truffle",
+  "n": {
+   "en": "White Truffle",
+   "zh-CN": "白松露",
+   "zh-TW": "白松露",
+   "ja": "ホワイトトリュフ"
+  },
+  "desc": {
+   "en": "A rare white mushroom that grows in the soil, rather than above it, making the specimen almost impossible to locate. It is treasured as a delicacy for its unique aroma.",
+   "zh-CN": "在土中生长，白色的球形香薰食用菌。",
+   "zh-TW": "在土中生長，白色的球形香薰食用菌。",
+   "ja": "土中に生じる、白色球形の薫り高い食用キノコ"
+  }
+ },
+ {
+  "slug": "ratstool",
+  "en": "Ratstool",
+  "n": {
+   "en": "Ratstool",
+   "zh-CN": "毒性菇",
+   "zh-TW": "毒性菇",
+   "ja": "ラットスツール"
+  },
+  "desc": {
+   "en": "The underdeveloped “sporeling” of a myconid. Popular myth has that rats will use the chair-shaped fungus as a place to rest.",
+   "zh-CN": "“毒性魔菇”的幼体。",
+   "zh-TW": "“毒性魔菇”的幼體。",
+   "ja": "人型キノコ、マイコニドの幼体"
+  }
+ },
+ {
+  "slug": "black-truffle",
+  "en": "Black Truffle",
+  "n": {
+   "en": "Black Truffle",
+   "zh-CN": "黑松露",
+   "zh-TW": "黑松露",
+   "ja": "ブラックトリュフ"
+  },
+  "desc": {
+   "en": "A rare black mushroom that grows in the soil, rather than above it, making the specimen almost impossible to locate. It is treasured as a delicacy for its unique aroma.",
+   "zh-CN": "在土中生长，黑色的球形香薰食用菌。",
+   "zh-TW": "在土中生長，黑色的球形香薰食用菌。",
+   "ja": "土中に生じる、黒色球形の薫り高い食用キノコ"
+  }
+ },
+ {
+  "slug": "dalamud-nut",
+  "en": "Dalamud Nut",
+  "n": {
+   "en": "Dalamud Nut",
+   "zh-CN": "卫月坚果",
+   "zh-TW": "衛月堅果",
+   "ja": "ダラガブナッツ"
+  },
+  "desc": {
+   "en": "The shell which encases this walnut is reminiscent of the (now fallen) lesser moon of its namesake.",
+   "zh-CN": "有着卫月一样红色外壳的坚果。",
+   "zh-TW": "有着衛月一樣紅色外殼的堅果。",
+   "ja": "小月に似た赤い殻で覆われたクルミ"
+  }
+ },
+ {
+  "slug": "moon-nut",
+  "en": "Moon Nut",
+  "n": {
+   "en": "Moon Nut",
+   "zh-CN": "明月坚果",
+   "zh-TW": "明月堅果",
+   "ja": "ムーンナッツ"
+  },
+  "desc": {
+   "en": "The ghostly white shell which encases this walnut is reminiscent of the celestial body of its namesake.",
+   "zh-CN": "有着月亮一样白色外壳的坚果。",
+   "zh-TW": "有着月亮一樣白色外殼的堅果。",
+   "ja": "月に似た白い殻で覆われたクルミ"
+  }
+ },
+ {
+  "slug": "kukuru-bean",
+  "en": "Kukuru Bean",
+  "n": {
+   "en": "Kukuru Bean",
+   "zh-CN": "可可豆",
+   "zh-TW": "可可豆",
+   "ja": "ククルビーン"
+  },
+  "desc": {
+   "en": "This seed of the kukuru tree is the primary ingredient in chocolate.",
+   "zh-CN": "可可树的种子，制作巧克力的原料。",
+   "zh-TW": "可可樹的種子，製作巧克力的原料。",
+   "ja": "ククルの木の種。チョコレートの原料"
+  }
+ },
+ {
+  "slug": "cinderfoot-olive",
+  "en": "Cinderfoot Olive",
+  "n": {
+   "en": "Cinderfoot Olive",
+   "zh-CN": "橄榄",
+   "zh-TW": "橄欖",
+   "ja": "オリーヴ"
+  },
+  "desc": {
+   "en": "The seed of an olive tree, often preserved in brine or pressed to make oil.",
+   "zh-CN": "适合用在盐浸或榨油等方面的橄榄果实。",
+   "zh-TW": "適合用在鹽浸或榨油等方面的橄欖果實。",
+   "ja": "塩漬けや採油に適するオリーヴの果実"
+  }
+ },
+ {
+  "slug": "gridanian-chestnut",
+  "en": "Gridanian Chestnut",
+  "n": {
+   "en": "Gridanian Chestnut",
+   "zh-CN": "山栗",
+   "zh-TW": "山栗",
+   "ja": "チェスナット"
+  },
+  "desc": {
+   "en": "The seed of a chestnut tree, this savory nut is covered in a coat of prickly spikes.",
+   "zh-CN": "山栗树的种子，外壳上面都是刺。",
+   "zh-TW": "山栗樹的種子，外殼上面都是刺。",
+   "ja": "いがに覆われた山栗"
+  }
+ },
+ {
+  "slug": "gridanian-walnut",
+  "en": "Gridanian Walnut",
+  "n": {
+   "en": "Gridanian Walnut",
+   "zh-CN": "胡桃",
+   "zh-TW": "胡桃",
+   "ja": "ウォルナット"
+  },
+  "desc": {
+   "en": "The seed of a walnut tree, this fragrant nut is covered by a thin, fleshy outer shell and a hard inner shell.",
+   "zh-CN": "胡桃树的种子，有着坚硬的外壳。",
+   "zh-TW": "胡桃樹的種子，有着堅硬的外殼。",
+   "ja": "固い殻に覆われたクルミ"
+  }
+ },
+ {
+  "slug": "iron-acorn",
+  "en": "Iron Acorn",
+  "n": {
+   "en": "Iron Acorn",
+   "zh-CN": "铁帽橡果",
+   "zh-TW": "鐵帽橡果",
+   "ja": "アイアンエーコン"
+  },
+  "desc": {
+   "en": "The seed of an oak tree, this small nut is covered by an extremely hard outer shell.",
+   "zh-CN": "橡树的种子，碗壳部分非常坚固。",
+   "zh-TW": "橡樹的種子，碗殼部分非常堅固。",
+   "ja": "固いお碗が被さったドングリ"
+  }
+ },
+ {
+  "slug": "lowland-grapes",
+  "en": "Lowland Grapes",
+  "n": {
+   "en": "Lowland Grapes",
+   "zh-CN": "低地葡萄",
+   "zh-TW": "低地葡萄",
+   "ja": "ローランドグレープ"
+  },
+  "desc": {
+   "en": "A semisweet variety of grape which has adapted to the volcanic soil abundant on Vylbrand.",
+   "zh-CN": "原产于威尔布兰德岛的串生葡萄果实。",
+   "zh-TW": "原產於威爾布蘭德島的串生葡萄果實。",
+   "ja": "バイルブランド島原産の房状になったブドウの果実"
+  }
+ },
+ {
+  "slug": "la-noscean-orange",
+  "en": "La Noscean Orange",
+  "n": {
+   "en": "La Noscean Orange",
+   "zh-CN": "拉诺西亚香橙",
+   "zh-TW": "拉諾西亞香橙",
+   "ja": "ラノシアオレンジ"
+  },
+  "desc": {
+   "en": "A sweet citrus fruit known to thrive in the temperate climate of lower La Noscea.",
+   "zh-CN": "在拉诺西亚地区栽培的甜味果实。",
+   "zh-TW": "在拉諾西亞地區栽培的甜味果實。",
+   "ja": "ラノシアで栽培される甘い果実"
+  }
+ },
+ {
+  "slug": "faerie-apple",
+  "en": "Faerie Apple",
+  "n": {
+   "en": "Faerie Apple",
+   "zh-CN": "仙女苹果",
+   "zh-TW": "仙女蘋果",
+   "ja": "フェアリーアップル"
+  },
+  "desc": {
+   "en": "A tart variety of apple commonly found growing in the cool mountain passes of Coerthas.",
+   "zh-CN": "原产于库尔札斯，酸甜口味的苹果果实。",
+   "zh-TW": "原產於庫爾札斯，酸甜口味的蘋果果實。",
+   "ja": "クルザス原産の甘酸っぱいリンゴの果実"
+  }
+ },
+ {
+  "slug": "sun-lemon",
+  "en": "Sun Lemon",
+  "n": {
+   "en": "Sun Lemon",
+   "zh-CN": "太阳柠檬",
+   "zh-TW": "太陽檸檬",
+   "ja": "サンレモン"
+  },
+  "desc": {
+   "en": "A sour citrus fruit indigenous to the Near East.",
+   "zh-CN": "原产于近东地区，酸味强烈的果实。",
+   "zh-TW": "原產於近東地區，酸味強烈的果實。",
+   "ja": "近東原産の酸味の強い果実"
+  }
+ },
+ {
+  "slug": "pixie-plums",
+  "en": "Pixie Plums",
+  "n": {
+   "en": "Pixie Plums",
+   "zh-CN": "仙子梅",
+   "zh-TW": "仙子梅",
+   "ja": "ピクシープラム"
+  },
+  "desc": {
+   "en": "A tart fruit commonly grown in mountain orchards in the Coerthas region.",
+   "zh-CN": "原产库尔札斯地区的苦味果实。",
+   "zh-TW": "原產庫爾札斯地區的苦味果實。",
+   "ja": "クルザス原産のほろ苦い果実"
+  }
+ },
+ {
+  "slug": "alligator-pear",
+  "en": "Alligator Pear",
+  "n": {
+   "en": "Alligator Pear",
+   "zh-CN": "鳄梨",
+   "zh-TW": "鱷梨",
+   "ja": "アリゲーターペア"
+  },
+  "desc": {
+   "en": "A soft green fruit, also known as “Shroud butter.” Though not thought to be indigenous to Eorzea, it is not certain how the plant first came to the realm.",
+   "zh-CN": "从新大陆引进的深绿色果实。",
+   "zh-TW": "從新大陸引進的深綠色果實。",
+   "ja": "新大陸伝来の深緑の果菜"
+  }
+ },
+ {
+  "slug": "blood-currants",
+  "en": "Blood Currants",
+  "n": {
+   "en": "Blood Currants",
+   "zh-CN": "血红奇异果",
+   "zh-TW": "血紅奇異果",
+   "ja": "ブラッドカーラント"
+  },
+  "desc": {
+   "en": "A tart red berry found growing throughout the Black Shroud.",
+   "zh-CN": "原产于黑衣森林地区的酸味果实。",
+   "zh-TW": "原產於黑衣森林地區的酸味果實。",
+   "ja": "黒衣森原産の甘酸っぱい果実"
+  }
+ },
+ {
+  "slug": "rolanberry",
+  "en": "Rolanberry",
+  "n": {
+   "en": "Rolanberry",
+   "zh-CN": "罗兰莓",
+   "zh-TW": "羅蘭莓",
+   "ja": "ロランベリー"
+  },
+  "desc": {
+   "en": "A tart fruit—one of few still found growing in the devastated region of Mor Dhona.",
+   "zh-CN": "原产于摩杜纳地区的酸味果实。",
+   "zh-TW": "原產於摩杜納地區的酸味果實。",
+   "ja": "モードゥナ原産の甘酸っぱい果実"
+  }
+ },
+ {
+  "slug": "prickly-pineapple",
+  "en": "Prickly Pineapple",
+  "n": {
+   "en": "Prickly Pineapple",
+   "zh-CN": "多刺菠萝",
+   "zh-TW": "多刺菠蘿",
+   "ja": "パイナップル"
+  },
+  "desc": {
+   "en": "A sweet and tangy fruit covered in a thick, spike-laden skin.",
+   "zh-CN": "从新大陆引进的酸甜口味的果实。",
+   "zh-TW": "從新大陸引進的酸甜口味的果實。",
+   "ja": "新大陸伝来の甘酸っぱい果実"
+  }
+ },
+ {
+  "slug": "sunflower-seeds",
+  "en": "Sunflower Seeds",
+  "n": {
+   "en": "Sunflower Seeds",
+   "zh-CN": "葵花籽",
+   "zh-TW": "葵花籽",
+   "ja": "サンフラワーシード"
+  },
+  "desc": {
+   "en": "The fruit of a sunflower, this small seed is covered by a thin black shell.",
+   "zh-CN": "果实饱满的向日葵种子。",
+   "zh-TW": "果實飽滿的向日葵種子。",
+   "ja": "実の詰まったヒマワリの種"
+  }
+ },
+ {
+  "slug": "buffalo-beans",
+  "en": "Buffalo Beans",
+  "n": {
+   "en": "Buffalo Beans",
+   "zh-CN": "水牛豆",
+   "zh-TW": "水牛豆",
+   "ja": "バッファロービーン"
+  },
+  "desc": {
+   "en": "A common variety of green bean recognizable by its long thin pods. Buffalo are said to be fond of the beans, and have been known to eat entire crops if left unchecked.",
+   "zh-CN": "包裹在细长豆鞘里的翠绿色豆子。",
+   "zh-TW": "包裹在細長豆鞘裏的翠綠色豆子。",
+   "ja": "細長い鞘に包まれた翡翠色の豆"
+  }
+ },
+ {
+  "slug": "sticky-rice",
+  "en": "Sticky Rice",
+  "n": {
+   "en": "Sticky Rice",
+   "zh-CN": "糯米",
+   "zh-TW": "糯米",
+   "ja": "スティッキーライス"
+  },
+  "desc": {
+   "en": "This grain is imported from a land far to the east. When cooked, it has a consistency slightly more glutinous than normal rice.",
+   "zh-CN": "原产于东方的谷物，煮熟之后黏性非常强。",
+   "zh-TW": "原產於東方的穀物，煮熟之後黏性非常強。",
+   "ja": "東方原産の粘りが強い穀物"
+  }
+ },
+ {
+  "slug": "lalafellin-lentil",
+  "en": "Lalafellin Lentil",
+  "n": {
+   "en": "Lalafellin Lentil",
+   "zh-CN": "小扁豆",
+   "zh-TW": "小扁豆",
+   "ja": "レンティル"
+  },
+  "desc": {
+   "en": "Thin round beans resembling tiny convex lenses. Thought to have been introduced to Eorzea by the realm's first Lalafellin settlers.",
+   "zh-CN": "包裹在圆形豆鞘里的荚状豆子。",
+   "zh-TW": "包裹在圓形豆鞘裏的莢狀豆子。",
+   "ja": "円形の鞘に包まれたレンズ豆"
+  }
+ },
+ {
+  "slug": "millioncorn",
+  "en": "Millioncorn",
+  "n": {
+   "en": "Millioncorn",
+   "zh-CN": "多实玉米",
+   "zh-TW": "多實玉米",
+   "ja": "ミリオンコーン"
+  },
+  "desc": {
+   "en": "Hundreds of sweet yellow kernels adorn each cob of this vegetable native to the recently discovered New World.",
+   "zh-CN": "结了无数的粒状果实的新大陆谷类。",
+   "zh-TW": "結了無數的粒狀果實的新大陸穀類。",
+   "ja": "粒状の実を無数につける新大陸伝来の穀類"
+  }
+ },
+ {
+  "slug": "jade-peas",
+  "en": "Jade Peas",
+  "n": {
+   "en": "Jade Peas",
+   "zh-CN": "翡翠豆",
+   "zh-TW": "翡翠豆",
+   "ja": "ジェードピー"
+  },
+  "desc": {
+   "en": "Sweet green beans recognizable by their thin, crescent-shaped pods.",
+   "zh-CN": "包裹在刀型豆鞘里的翠绿色豆子。",
+   "zh-TW": "包裹在刀型豆鞘裏的翠綠色豆子。",
+   "ja": "刀状の鞘に包まれた翡翠色の豆"
+  }
+ },
+ {
+  "slug": "rye",
+  "en": "Rye",
+  "n": {
+   "en": "Rye",
+   "zh-CN": "黑麦",
+   "zh-TW": "黑麥",
+   "ja": "ライ麦"
+  },
+  "desc": {
+   "en": "A dark variety of rye grass commonly found growing in the higher elevations of Mor Dhona and Coerthas.",
+   "zh-CN": "在库尔札斯和摩杜纳培育出来的主食谷物。",
+   "zh-TW": "在庫爾札斯和摩杜納培育出來的主食穀物。",
+   "ja": "クルザスやモードゥナで栽培される主食穀物"
+  }
+ },
+ {
+  "slug": "sunset-wheat",
+  "en": "Sunset Wheat",
+  "n": {
+   "en": "Sunset Wheat",
+   "zh-CN": "小麦",
+   "zh-TW": "小麥",
+   "ja": "小麦"
+  },
+  "desc": {
+   "en": "A common variety of golden brown wheat eaten as a staple in many of Eorzea's city–states.",
+   "zh-CN": "在黑衣森林及拉诺西亚培育出来的主食谷物。",
+   "zh-TW": "在黑衣森林及拉諾西亞培育出來的主食穀物。",
+   "ja": "黒衣森やラノシアで栽培される主要穀物"
+  }
+ },
+ {
+  "slug": "rye-flour",
+  "en": "Rye Flour",
+  "n": {
+   "en": "Rye Flour",
+   "zh-CN": "黑麦粉",
+   "zh-TW": "黑麥粉",
+   "ja": "ライ麦粉"
+  },
+  "desc": {
+   "en": "Coarsely milled rye.",
+   "zh-CN": "黑麦磨出来的粉。",
+   "zh-TW": "黑麥磨出來的粉。",
+   "ja": "ライ麦を挽いて作られた粉"
+  }
+ },
+ {
+  "slug": "sunset-wheat-flour",
+  "en": "Sunset Wheat Flour",
+  "n": {
+   "en": "Sunset Wheat Flour",
+   "zh-CN": "小麦粉",
+   "zh-TW": "小麥粉",
+   "ja": "小麦粉"
+  },
+  "desc": {
+   "en": "Finely milled sunset wheat.",
+   "zh-CN": "小麦磨出来的粉。",
+   "zh-TW": "小麥磨出來的粉。",
+   "ja": "小麦を挽いて作られた粉"
+  }
+ },
+ {
+  "slug": "cornmeal",
+  "en": "Cornmeal",
+  "n": {
+   "en": "Cornmeal",
+   "zh-CN": "玉米粉",
+   "zh-TW": "玉米粉",
+   "ja": "コーングリッツ"
+  },
+  "desc": {
+   "en": "Coarsely milled millioncorn.",
+   "zh-CN": "玉米磨出来的粉。",
+   "zh-TW": "玉米磨出來的粉。",
+   "ja": "コーンを挽いて作られた粉"
+  }
+ },
+ {
+  "slug": "cinnamon",
+  "en": "Cinnamon",
+  "n": {
+   "en": "Cinnamon",
+   "zh-CN": "桂皮",
+   "zh-TW": "桂皮",
+   "ja": "シナモン"
+  },
+  "desc": {
+   "en": "The sweet-smelling bark of the cinnamon tree is often dried and ground into a spice used to add flavor to confectionaries, though it is also commonly used in medicines.",
+   "zh-CN": "用树皮制成的调味料。具有独特的甜味，用作药品或香料。",
+   "zh-TW": "用樹皮製成的調味料。具有獨特的甜味，用作藥品或香料。",
+   "ja": "樹皮から成るスパイス。独特の甘い風味をもち、薬品や香料に用いられる"
+  }
+ },
+ {
+  "slug": "garlean-garlic",
+  "en": "Garlean Garlic",
+  "n": {
+   "en": "Garlean Garlic",
+   "zh-CN": "大蒜",
+   "zh-TW": "大蒜",
+   "ja": "ガーリック"
+  },
+  "desc": {
+   "en": "A pungent spice used to flavor many different varieties of dishes. It is also thought to ward off vampiric bats, but there is no evidence to substantiate that claim.",
+   "zh-CN": "用球根制成的调味料。具有独特的臭味，用作香料。",
+   "zh-TW": "用球根製成的調味料。具有獨特的臭味，用作香料。",
+   "ja": "球根から成るスパイス。独特の臭気と風味があり、香料に用いられる"
+  }
+ },
+ {
+  "slug": "black-pepper",
+  "en": "Black Pepper",
+  "n": {
+   "en": "Black Pepper",
+   "zh-CN": "黑胡椒",
+   "zh-TW": "黑胡椒",
+   "ja": "ブラックペッパー"
+  },
+  "desc": {
+   "en": "An aromatic spice used in cooking as well as pickling.",
+   "zh-CN": "用种子制成的调味料。具有独特的风味，用作保存剂或香料。",
+   "zh-TW": "用種子製成的調味料。具有獨特的風味，用作保存劑或香料。",
+   "ja": "種子から成るスパイス。独特の風味があり、保存料や香料に用いられる"
+  }
+ },
+ {
+  "slug": "cloves",
+  "en": "Cloves",
+  "n": {
+   "en": "Cloves",
+   "zh-CN": "丁香",
+   "zh-TW": "丁香",
+   "ja": "クローヴ"
+  },
+  "desc": {
+   "en": "A sweet-smelling spice made from the dried buds of the clove tree. It is used to flavor confectionaries, and as an essential oil.",
+   "zh-CN": "用花蕾制成的调味剂。具有独特的甜味，用作香料或精油。",
+   "zh-TW": "用花蕾製成的調味劑。具有獨特的甜味，用作香料或精油。",
+   "ja": "花蕾から成るスパイス。独特の甘い風味をもち、香料や精油に用いられる"
+  }
+ },
+ {
+  "slug": "marjoram",
+  "en": "Marjoram",
+  "n": {
+   "en": "Marjoram",
+   "zh-CN": "马郁兰",
+   "zh-TW": "馬鬱蘭",
+   "ja": "マージョラム"
+  },
+  "desc": {
+   "en": "A sweet-smelling herb used in cooking and in medicines.",
+   "zh-CN": "用作药品或香料的香草。",
+   "zh-TW": "用作藥品或香料的香草。",
+   "ja": "薬品や香料に用いられるハーブ"
+  }
+ },
+ {
+  "slug": "vanilla-beans",
+  "en": "Vanilla Beans",
+  "n": {
+   "en": "Vanilla Beans",
+   "zh-CN": "香草豆",
+   "zh-TW": "香草豆",
+   "ja": "バニラビーンズ"
+  },
+  "desc": {
+   "en": "A sweet-smelling spice made from the dried pod of the rare vanilla plant. It is often used in the making of confectionaries as well as medicines.",
+   "zh-CN": "用种子制成的调味剂。用作药品或香料。",
+   "zh-TW": "用種子製成的調味劑。用作藥品或香料。",
+   "ja": "種子から成るスパイス。薬品や香料に用いられる"
+  }
+ },
+ {
+  "slug": "galago-mint",
+  "en": "Galago Mint",
+  "n": {
+   "en": "Galago Mint",
+   "zh-CN": "婴猴薄荷",
+   "zh-TW": "嬰猴薄荷",
+   "ja": "ガラゴミント"
+  },
+  "desc": {
+   "en": "A leafy herb with a crisp, fragrant aroma. It is often used in cooking and in teas, as well as for its essential oil.",
+   "zh-CN": "用作香料或精油的香草。",
+   "zh-TW": "用作香料或精油的香草。",
+   "ja": "香料や精油に用いられるハーブ"
+  }
+ },
+ {
+  "slug": "ala-mhigan-mustard",
+  "en": "Ala Mhigan Mustard",
+  "n": {
+   "en": "Ala Mhigan Mustard",
+   "zh-CN": "阿拉米格芥子",
+   "zh-TW": "阿拉米格芥子",
+   "ja": "アラミゴマスタード"
+  },
+  "desc": {
+   "en": "When dried and ground into a fine powder, this yellow-tinged spice can add quite the kick to any dish.",
+   "zh-CN": "用种子制成的调味剂。有刺激的辛辣味，用于香料。",
+   "zh-TW": "用種子製成的調味劑。有刺激的辛辣味，用於香料。",
+   "ja": "種子から成るスパイス。刺激のある辛みがあり、香料に用いられる"
+  }
+ },
+ {
+  "slug": "pearl-ginger",
+  "en": "Pearl Ginger",
+  "n": {
+   "en": "Pearl Ginger",
+   "zh-CN": "生姜",
+   "zh-TW": "生薑",
+   "ja": "パールジンジャー"
+  },
+  "desc": {
+   "en": "An exotic root vegetable native to the Far East that is often dried, ground, and used in cooking as well as in the creation of medicines.",
+   "zh-CN": "用根茎制成的调味料。具有独特的辛辣味，用作药品或香料。",
+   "zh-TW": "用根莖製成的調味料。具有獨特的辛辣味，用作藥品或香料。",
+   "ja": "根茎から成るスパイス。独特の辛みがあり、薬品や香料に用いられる"
+  }
+ },
+ {
+  "slug": "midland-basil",
+  "en": "Midland Basil",
+  "n": {
+   "en": "Midland Basil",
+   "zh-CN": "中原罗勒草",
+   "zh-TW": "中原羅勒草",
+   "ja": "ミッドランドバジル"
+  },
+  "desc": {
+   "en": "A fragrant herb used to flavor various meat and poultry dishes.",
+   "zh-CN": "用叶子制成的调味剂。用作香料。",
+   "zh-TW": "用葉子製成的調味劑。用作香料。",
+   "ja": "葉から成るスパイス。香料に用いられる"
+  }
+ },
+ {
+  "slug": "dragon-pepper",
+  "en": "Dragon Pepper",
+  "n": {
+   "en": "Dragon Pepper",
+   "zh-CN": "龙息椒",
+   "zh-TW": "龍息椒",
+   "ja": "ドラゴンペッパー"
+  },
+  "desc": {
+   "en": "A red-hot spice known to cause severe burns in the mouths of those who consume too many.",
+   "zh-CN": "用果实制成的调味剂。辛辣无比，也用作药品或香料。",
+   "zh-TW": "用果實製成的調味劑。辛辣無比，也用作藥品或香料。",
+   "ja": "果実から成るスパイス。火を吹くほど辛く、薬品や香料に用いられる"
+  }
+ },
+ {
+  "slug": "laurel",
+  "en": "Laurel",
+  "n": {
+   "en": "Laurel",
+   "zh-CN": "月桂",
+   "zh-TW": "月桂",
+   "ja": "ローレル"
+  },
+  "desc": {
+   "en": "A savory spice made from the dried leaves of the laurel bush, or as it is known by some, the yanny bush.",
+   "zh-CN": "用叶子制成的调味剂。清爽芳香，用作香料。",
+   "zh-TW": "用葉子製成的調味劑。清爽芳香，用作香料。",
+   "ja": "葉から成るスパイス。爽やかな芳香をもち、香料に用いられる"
+  }
+ },
+ {
+  "slug": "mugwort",
+  "en": "Mugwort",
+  "n": {
+   "en": "Mugwort",
+   "zh-CN": "艾蒿",
+   "zh-TW": "艾蒿",
+   "ja": "マグワート"
+  },
+  "desc": {
+   "en": "The young leaves of the mugwort plant are used not only as a spice in cooking, but also as a curative agent in various unguents.",
+   "zh-CN": "用嫩叶制成的调味剂。用作药品或香料。",
+   "zh-TW": "用嫩葉製成的調味劑。用作藥品或香料。",
+   "ja": "若葉から成るスパイス。薬品や香料に用いられる"
+  }
+ },
+ {
+  "slug": "thyme",
+  "en": "Thyme",
+  "n": {
+   "en": "Thyme",
+   "zh-CN": "百里香",
+   "zh-TW": "百里香",
+   "ja": "タイム"
+  },
+  "desc": {
+   "en": "A fragrant herb used to flavor various meat and poultry dishes.",
+   "zh-CN": "用作香料的香草。",
+   "zh-TW": "用作香料的香草。",
+   "ja": "香料に用いられるハーブ"
+  }
+ },
+ {
+  "slug": "almonds",
+  "en": "Almonds",
+  "n": {
+   "en": "Almonds",
+   "zh-CN": "扁桃",
+   "zh-TW": "扁桃",
+   "ja": "アーモンド"
+  },
+  "desc": {
+   "en": "A tear-shaped nut which can be used to season exotic sweets, or pressed for its fragrant oil.",
+   "zh-CN": "用扁桃制作的调味剂。用于香料或精油。",
+   "zh-TW": "用扁桃製作的調味劑。用於香料或精油。",
+   "ja": "仁から成るスパイス。香料や精油に用いられる"
+  }
+ },
+ {
+  "slug": "desert-saffron",
+  "en": "Desert Saffron",
+  "n": {
+   "en": "Desert Saffron",
+   "zh-CN": "沙漠番红花",
+   "zh-TW": "沙漠番紅花",
+   "ja": "デザートサフラン"
+  },
+  "desc": {
+   "en": "This spice made from the dried styles of the desert saffron flower gives a bright-yellow color to dishes.",
+   "zh-CN": "用花柱制成的调味剂。用作药品或香料。",
+   "zh-TW": "用花柱製成的調味劑。用作藥品或香料。",
+   "ja": "花柱から成るスパイス。薬品や香料に用いられる"
+  }
+ },
+ {
+  "slug": "nutmeg",
+  "en": "Nutmeg",
+  "n": {
+   "en": "Nutmeg",
+   "zh-CN": "肉豆蔻",
+   "zh-TW": "肉豆蔻",
+   "ja": "ナツメグ"
+  },
+  "desc": {
+   "en": "A sweet-smelling seed that is ground into a powder and used to flavor pastries and tea. It is also widely used in Far Eastern medicines.",
+   "zh-CN": "用种子制成的调味剂。用作药品或香料。",
+   "zh-TW": "用種子製成的調味劑。用作藥品或香料。",
+   "ja": "種子から成るスパイス。薬品や香料に用いられる"
+  }
+ },
+ {
+  "slug": "sagolii-sage",
+  "en": "Sagolii Sage",
+  "n": {
+   "en": "Sagolii Sage",
+   "zh-CN": "撒沟厉鼠尾草",
+   "zh-TW": "撒溝厲鼠尾草",
+   "ja": "サゴリーセージ"
+  },
+  "desc": {
+   "en": "A savory herb often found growing in parched desert environments. It is used in cooking and various medicinal ointments and unguents.",
+   "zh-CN": "用作药品或香料的香草。",
+   "zh-TW": "用作藥品或香料的香草。",
+   "ja": "薬品や香料に用いられるハーブ"
+  }
+ },
+ {
+  "slug": "thanalan-tea-leaves",
+  "en": "Thanalan Tea Leaves",
+  "n": {
+   "en": "Thanalan Tea Leaves",
+   "zh-CN": "萨纳兰茶叶",
+   "zh-TW": "薩納蘭茶葉",
+   "ja": "ザナラーン茶葉"
+  },
+  "desc": {
+   "en": "These leaves, when dried and steeped in hot water, create a sweet-smelling tea known for its curative properties.",
+   "zh-CN": "在萨纳兰培育出的茶叶。",
+   "zh-TW": "在薩納蘭培育出的茶葉。",
+   "ja": "ザナラーンで栽培された茶葉"
+  }
+ },
+ {
+  "slug": "table-salt",
+  "en": "Table Salt",
+  "n": {
+   "en": "Table Salt",
+   "zh-CN": "食盐",
+   "zh-TW": "食鹽",
+   "ja": "食塩"
+  },
+  "desc": {
+   "en": "Finely ground salt used not only for flavoring foods, but for pickling and preserving as well.",
+   "zh-CN": "为使食物带有咸味的调味料，防腐剂。",
+   "zh-TW": "爲使食物帶有鹹味的調味料，防腐劑。",
+   "ja": "塩味をつけるための調味料、防腐剤"
+  }
+ },
+ {
+  "slug": "maple-sugar",
+  "en": "Maple Sugar",
+  "n": {
+   "en": "Maple Sugar",
+   "zh-CN": "枫糖",
+   "zh-TW": "楓糖",
+   "ja": "メープルシュガー"
+  },
+  "desc": {
+   "en": "Crystallized sugar made from boiling down maple syrup.",
+   "zh-CN": "熬煮枫糖浆制作出来的甜味调味料。",
+   "zh-TW": "熬煮楓糖漿製作出來的甜味調味料。",
+   "ja": "メープルシロップを煮詰めて作った甘味料"
+  }
+ },
+ {
+  "slug": "maple-syrup",
+  "en": "Maple Syrup",
+  "n": {
+   "en": "Maple Syrup",
+   "zh-CN": "枫糖浆",
+   "zh-TW": "楓糖漿",
+   "ja": "メープルシロップ"
+  },
+  "desc": {
+   "en": "A sweet, dark liquid made by boiling down maple sap.",
+   "zh-CN": "用枫树的树干汁液熬制出的浓厚糖浆。",
+   "zh-TW": "用楓樹的樹幹汁液熬製出的濃厚糖漿。",
+   "ja": "メープルの樹液を煮詰めた濃厚な糖蜜"
+  }
+ },
+ {
+  "slug": "honey",
+  "en": "Honey",
+  "n": {
+   "en": "Honey",
+   "zh-CN": "蜂蜜",
+   "zh-TW": "蜂蜜",
+   "ja": "蜂蜜"
+  },
+  "desc": {
+   "en": "Bees make this sweet golden honey from the nectar of flowers.",
+   "zh-CN": "吸引蜜蜂的花蜜。",
+   "zh-TW": "吸引蜜蜂的花蜜。",
+   "ja": "ミツバチが集めた花の蜜"
+  }
+ },
+ {
+  "slug": "powdered-sugar",
+  "en": "Powdered Sugar",
+  "n": {
+   "en": "Powdered Sugar",
+   "zh-CN": "星尘砂糖",
+   "zh-TW": "星塵砂糖",
+   "ja": "スターダストシュガー"
+  },
+  "desc": {
+   "en": "Sweet, snow-like sugar, perfect for dusting Starlight Celebration sweets.",
+   "zh-CN": "节日庆典的点心中不可缺少的调味料。",
+   "zh-TW": "節日慶典的點心中不可缺少的調味料。",
+   "ja": "祭典のお菓子に欠かせない甘味料"
+  }
+ },
+ {
+  "slug": "sweet-cream",
+  "en": "Sweet Cream",
+  "n": {
+   "en": "Sweet Cream",
+   "zh-CN": "奶油",
+   "zh-TW": "奶油",
+   "ja": "クリーム"
+  },
+  "desc": {
+   "en": "The butterfat-rich layer skimmed off of buffalo milk. Widely used in confectionaries.",
+   "zh-CN": "从牛奶中分离出来，再加上糖分制作出的脂肪。是菜肴和点心的材料。",
+   "zh-TW": "從牛奶中分離出來，再加上糖分製作出的脂肪。是菜餚和點心的材料。",
+   "ja": "水牛乳から分離し、加糖した脂肪。料理や菓子の材料"
+  }
+ },
+ {
+  "slug": "smooth-butter",
+  "en": "Smooth Butter",
+  "n": {
+   "en": "Smooth Butter",
+   "zh-CN": "黄油",
+   "zh-TW": "黃油",
+   "ja": "バター"
+  },
+  "desc": {
+   "en": "A smooth, fatty cream made by churning buffalo milk.",
+   "zh-CN": "搅拌奶油制作出的乳酪。是菜肴和点心的材料。",
+   "zh-TW": "攪拌奶油製作出的乳酪。是菜餚和點心的材料。",
+   "ja": "クリームをかき回して作った乳酪。料理や菓子の材料"
+  }
+ },
+ {
+  "slug": "kukuru-butter",
+  "en": "Kukuru Butter",
+  "n": {
+   "en": "Kukuru Butter",
+   "zh-CN": "可可油",
+   "zh-TW": "可可油",
+   "ja": "ククルバター"
+  },
+  "desc": {
+   "en": "A thick oil extracted from kukuru beans. Used in making chocolate.",
+   "zh-CN": "从可可豆中提取的脂肪，是做巧克力的原料。",
+   "zh-TW": "從可可豆中提取的脂肪，是做巧克力的原料。",
+   "ja": "ククルビーンから採取した脂肪。チョコレートの原料"
+  }
+ },
+ {
+  "slug": "kukuru-powder",
+  "en": "Kukuru Powder",
+  "n": {
+   "en": "Kukuru Powder",
+   "zh-CN": "可可粉",
+   "zh-TW": "可可粉",
+   "ja": "ククルマス"
+  },
+  "desc": {
+   "en": "Roasted kukuru beans ground into a fine powder. Used in making chocolate.",
+   "zh-CN": "炒熟可可豆之后磨出的粉末，是做巧克力的原料。",
+   "zh-TW": "炒熟可可豆之後磨出的粉末，是做巧克力的原料。",
+   "ja": "炒ったククルビーンの粉末。チョコレートの原料"
+  }
+ },
+ {
+  "slug": "clove-oil",
+  "en": "Clove Oil",
+  "n": {
+   "en": "Clove Oil",
+   "zh-CN": "丁香油",
+   "zh-TW": "丁香油",
+   "ja": "クローヴオイル"
+  },
+  "desc": {
+   "en": "Clove-infused cooking oil.",
+   "zh-CN": "从丁香花中提炼出的清香精油。",
+   "zh-TW": "從丁香花中提煉出的清香精油。",
+   "ja": "クローヴから抽出した香り高い精油"
+  }
+ },
+ {
+  "slug": "olive-oil",
+  "en": "Olive Oil",
+  "n": {
+   "en": "Olive Oil",
+   "zh-CN": "橄榄油",
+   "zh-TW": "橄欖油",
+   "ja": "オリーヴオイル"
+  },
+  "desc": {
+   "en": "A fragrant light-green oil extracted from pressed olives.",
+   "zh-CN": "用橄榄果实榨出的食用、药用油。",
+   "zh-TW": "用橄欖果實榨出的食用、藥用油。",
+   "ja": "オリーヴの実から抽出した食用、薬用油"
+  }
+ },
+ {
+  "slug": "lavender-oil",
+  "en": "Lavender Oil",
+  "n": {
+   "en": "Lavender Oil",
+   "zh-CN": "薰衣草油",
+   "zh-TW": "薰衣草油",
+   "ja": "ラベンダーオイル"
+  },
+  "desc": {
+   "en": "Lavender-infused cooking oil.",
+   "zh-CN": "用薰衣草中提炼出的清香精油。",
+   "zh-TW": "用薰衣草中提煉出的清香精油。",
+   "ja": "ラベンダーから抽出した香り高い精油"
+  }
+ },
+ {
+  "slug": "cider-vinegar",
+  "en": "Cider Vinegar",
+  "n": {
+   "en": "Cider Vinegar",
+   "zh-CN": "苹果醋",
+   "zh-TW": "蘋果醋",
+   "ja": "サイダービネガー"
+  },
+  "desc": {
+   "en": "A fruity vinegar made from fermenting faerie apples.",
+   "zh-CN": "用苹果制成的醋。",
+   "zh-TW": "用蘋果製成的醋。",
+   "ja": "リンゴから作られた酢"
+  }
+ },
+ {
+  "slug": "dark-vinegar",
+  "en": "Dark Vinegar",
+  "n": {
+   "en": "Dark Vinegar",
+   "zh-CN": "黑果醋",
+   "zh-TW": "黑果醋",
+   "ja": "バルサミコビネガー"
+  },
+  "desc": {
+   "en": "A high-quality distilled vinegar made from select lowland grapes.",
+   "zh-CN": "用低地葡萄制成的醋。",
+   "zh-TW": "用低地葡萄製成的醋。",
+   "ja": "ローランドグレープから作った高級醸造酢"
+  }
+ },
+ {
+  "slug": "pie-dough",
+  "en": "Pie Dough",
+  "n": {
+   "en": "Pie Dough",
+   "zh-CN": "馅饼坯",
+   "zh-TW": "餡餅坯",
+   "ja": "パイ生地"
+  },
+  "desc": {
+   "en": "Simple pie dough made of flour and butter.",
+   "zh-CN": "用小麦粉做出的馅饼的坯子。",
+   "zh-TW": "用小麥粉做出的餡餅的坯子。",
+   "ja": "小麦粉をこねて作ったパイの土台"
+  }
+ },
+ {
+  "slug": "sour-red",
+  "en": "Sour Red",
+  "n": {
+   "en": "Sour Red",
+   "zh-CN": "料酒",
+   "zh-TW": "料酒",
+   "ja": "クッキングワイン"
+  },
+  "desc": {
+   "en": "Made from lowland grapes grown on arid soil, this vinegary wine is more suited to cooking than it is to drinking (though that does little to stop most Lominsan pirates from drowning their sorrows in the phenolic seepage).",
+   "zh-CN": "烹饪用葡萄酒。",
+   "zh-TW": "烹飪用葡萄酒。",
+   "ja": "調理用のブドウ酒"
+  }
+ },
+ {
+  "slug": "gelatin",
+  "en": "Gelatin",
+  "n": {
+   "en": "Gelatin",
+   "zh-CN": "明胶",
+   "zh-TW": "明膠",
+   "ja": "ゼラチン"
+  },
+  "desc": {
+   "en": "A clear gelling agent extracted from animal skin and fish bones.",
+   "zh-CN": "用兽皮和鱼煮制出来的食材。",
+   "zh-TW": "用獸皮和魚煮製出來的食材。",
+   "ja": "煮込んだ獣皮や魚から抽出した食材"
+  }
+ },
+ {
+  "slug": "fish-stock",
+  "en": "Fish Stock",
+  "n": {
+   "en": "Fish Stock",
+   "zh-CN": "鱼高汤",
+   "zh-TW": "魚高湯",
+   "ja": "出汁"
+  },
+  "desc": {
+   "en": "Broth created from boiling down the flesh and bones of various types of seafood.",
+   "zh-CN": "用各种鱼肉鱼骨熬出的浓汤。",
+   "zh-TW": "用各種魚肉魚骨熬出的濃湯。",
+   "ja": "魚介から煮出した出し汁"
+  }
+ },
+ {
+  "slug": "tomato-sauce",
+  "en": "Tomato Sauce",
+  "n": {
+   "en": "Tomato Sauce",
+   "zh-CN": "番茄汁",
+   "zh-TW": "番茄汁",
+   "ja": "ポモドーロソース"
+  },
+  "desc": {
+   "en": "A tangy sauce made from crushed tomatoes.",
+   "zh-CN": "捣碎的西红柿的汤汁。",
+   "zh-TW": "搗碎的西紅柿的湯汁。",
+   "ja": "潰したトマトのソース"
+  }
+ },
+ {
+  "slug": "dodo-stuffing",
+  "en": "Dodo Stuffing",
+  "n": {
+   "en": "Dodo Stuffing",
+   "zh-CN": "渡渡鸟填料",
+   "zh-TW": "渡渡鳥填料",
+   "ja": "ドードースタッフィング"
+  },
+  "desc": {
+   "en": "A mixture of dried bread, nuts, and fruit, blended with several savory spices.",
+   "zh-CN": "各种食材的混合物，用于填入烤全渡渡鸟的肚子里。",
+   "zh-TW": "各種食材的混合物，用於填入烤全渡渡鳥的肚子裏。",
+   "ja": "ローストドードー用の詰め物"
+  }
+ },
+ {
+  "slug": "chicken-stock",
+  "en": "Chicken Stock",
+  "n": {
+   "en": "Chicken Stock",
+   "zh-CN": "鸡高汤",
+   "zh-TW": "雞高湯",
+   "ja": "チキンストック"
+  },
+  "desc": {
+   "en": "A clear golden broth made by boiling chicken bones.",
+   "zh-CN": "用鸡架熬出的浓汤。",
+   "zh-TW": "用雞架熬出的濃湯。",
+   "ja": "鶏がらから煮出した出し汁"
+  }
+ },
+ {
+  "slug": "allagan-snail",
+  "en": "Allagan Snail",
+  "n": {
+   "en": "Allagan Snail",
+   "zh-CN": "亚拉戈蜗牛",
+   "zh-TW": "亞拉戈蝸牛",
+   "ja": "アラガンスネイル"
+  },
+  "desc": {
+   "en": "A giant snail believed to have been bred for consumption during the reign of the Great Allagan Empire.",
+   "zh-CN": "一种大型蜗牛，据说是古代亚拉戈帝国的人们喜欢的食物。",
+   "zh-TW": "一種大型蝸牛，據說是古代亞拉戈帝國的人們喜歡的食物。",
+   "ja": "古代アラグ帝国人が好んで食していたと云う大型カタツムリ"
+  }
+ },
+ {
+  "slug": "tree-toad",
+  "en": "Tree Toad",
+  "n": {
+   "en": "Tree Toad",
+   "zh-CN": "绿树蟾蜍",
+   "zh-TW": "綠樹蟾蜍",
+   "ja": "ツリートード"
+  },
+  "desc": {
+   "en": "A giant green toad found in nearly all of the lakes and swamps of Aldenard.",
+   "zh-CN": "一种绿褐色的蟾蜍，栖息在阿尔迪纳德大陆的湖沼地区。",
+   "zh-TW": "一種綠褐色的蟾蜍，棲息在阿爾迪納德大陸的湖沼地區。",
+   "ja": "アルデナード大陸の湖沼に棲息する、緑褐色のヒキガエル"
+  }
+ },
+ {
+  "slug": "lava-toad",
+  "en": "Lava Toad",
+  "n": {
+   "en": "Lava Toad",
+   "zh-CN": "熔岩蟾蜍",
+   "zh-TW": "熔岩蟾蜍",
+   "ja": "ラーヴァトード"
+  },
+  "desc": {
+   "en": "This giant red toad, native to the swamps of Vylbrand but now found throughout Aldenard, earns its name from the red firerock which once spewed forth from the now-dormant volcano, O'Ghomoro.",
+   "zh-CN": "一种赤褐色的蟾蜍，栖息在阿尔迪纳德大陆上的湖沼地区。",
+   "zh-TW": "一種赤褐色的蟾蜍，棲息在阿爾迪納德大陸上的湖沼地區。",
+   "ja": "アルデナード大陸の湖沼に棲息する、赤褐色のヒキガエル"
+  }
+ },
+ {
+  "slug": "noble-grapes",
+  "en": "Noble Grapes",
+  "n": {
+   "en": "Noble Grapes",
+   "zh-CN": "贵族葡萄",
+   "zh-TW": "貴族葡萄",
+   "ja": "ノーブルグレープ"
+  },
+  "desc": {
+   "en": "Lowland grapes crossbred over generations to produce maximum sweetness. Their bitter skin makes them unsuitable for eating off the vine, and they are better consumed as juice or wine.",
+   "zh-CN": "通过细菌的作用令低地葡萄变得更加香甜可口，不过不合适生吃，主要用来榨果汁。",
+   "zh-TW": "通過細菌的作用令低地葡萄變得更加香甜可口，不過不合適生喫，主要用來榨果汁。",
+   "ja": "菌の作用で変質し、甘みと香りが増したローランドグレープ。生食には適さず、果汁を用いる"
+  }
+ },
+ {
+  "slug": "mirror-apple",
+  "en": "Mirror Apple",
+  "n": {
+   "en": "Mirror Apple",
+   "zh-CN": "晶亮苹果",
+   "zh-TW": "晶亮蘋果",
+   "ja": "シャインアップル"
+  },
+  "desc": {
+   "en": "A sweet yet sour variety of apples native to Coerthas. When polished, the skins become so shiny it is said one can see their own reflection in them.",
+   "zh-CN": "原产于库尔札斯地区的稀少品种，非常非常甜。",
+   "zh-TW": "原產於庫爾札斯地區的稀少品種，非常非常甜。",
+   "ja": "クルザス原産の甘酸っぱいリンゴの果実。特に甘みが強い稀少な品種"
+  }
+ },
+ {
+  "slug": "honey-lemon",
+  "en": "Honey Lemon",
+  "n": {
+   "en": "Honey Lemon",
+   "zh-CN": "蜜柠檬",
+   "zh-TW": "蜜檸檬",
+   "ja": "ハニーレモン"
+  },
+  "desc": {
+   "en": "This rare type of lemon native to the continent of Othard is so sweet, it can be eaten raw.",
+   "zh-CN": "原产于近东地区的稀少品种，味道虽然很酸，不过也混有些微甜味。",
+   "zh-TW": "原產於近東地區的稀少品種，味道雖然很酸，不過也混有些微甜味。",
+   "ja": "近東原産の酸味の強い果実。微かな甘みを併せ持つ稀少な品種"
+  }
+ },
+ {
+  "slug": "dzemael-tomato",
+  "en": "Dzemael Tomato",
+  "n": {
+   "en": "Dzemael Tomato",
+   "zh-CN": "泽梅尔番茄",
+   "zh-TW": "澤梅爾番茄",
+   "ja": "ゼーメルトマト"
+  },
+  "desc": {
+   "en": "A rare crossbreed of ruby tomato developed and perfected by House Dzemael botanists.",
+   "zh-CN": "稀少品种的红色果菜，由名门泽梅尔家出身的修行僧加以改良，味道无与伦比。",
+   "zh-TW": "稀少品種的紅色果菜，由名門澤梅爾家出身的修行僧加以改良，味道無與倫比。",
+   "ja": "名門ゼーメル家出身の修道僧が品種改良した真紅の果菜。濃厚な旨味がある稀少な品種"
+  }
+ },
+ {
+  "slug": "night-milk",
+  "en": "Night Milk",
+  "n": {
+   "en": "Night Milk",
+   "zh-CN": "野牛奶",
+   "zh-TW": "野牛奶",
+   "ja": "ワイルドミルク"
+  },
+  "desc": {
+   "en": "Rich and creamy buffalo milk harvested immediately before the beast falls asleep.",
+   "zh-CN": "野生水牛的奶，味道很浓。",
+   "zh-TW": "野生水牛的奶，味道很濃。",
+   "ja": "コクのある野生のバッファローの乳"
+  }
+ },
+ {
+  "slug": "coeurl-meat",
+  "en": "Coeurl Meat",
+  "n": {
+   "en": "Coeurl Meat",
+   "zh-CN": "长须豹肉",
+   "zh-TW": "長鬚豹肉",
+   "ja": "クァールの肉"
+  },
+  "desc": {
+   "en": "A bloody strip of extra-lean coeurl meat.",
+   "zh-CN": "长须豹的肉，非常有弹性。",
+   "zh-TW": "長鬚豹的肉，非常有彈性。",
+   "ja": "しなやかなクァールの肉"
+  }
+ },
+ {
+  "slug": "cooking-sherry",
+  "en": "Cooking Sherry",
+  "n": {
+   "en": "Cooking Sherry",
+   "zh-CN": "高级料酒",
+   "zh-TW": "高級料酒",
+   "ja": "高級クッキングワイン"
+  },
+  "desc": {
+   "en": "Fine Lominsan white wine fortified with grape spirit to increase alcohol content and improve its aroma, making it perfect for a variety of culinary dishes.",
+   "zh-CN": "烹饪用的高级葡萄酒。",
+   "zh-TW": "烹飪用的高級葡萄酒。",
+   "ja": "調理用に調整された高級ブドウ酒"
+  }
+ },
+ {
+  "slug": "apricot",
+  "en": "Apricot",
+  "n": {
+   "en": "Apricot",
+   "zh-CN": "黄杏",
+   "zh-TW": "黃杏",
+   "ja": "アプリコット"
+  },
+  "desc": {
+   "en": "A variety of stone fruit borne over from the Near East. Its orange flesh is at once sweet and tart.",
+   "zh-CN": "原产于近东地区的果实，通过贸易传到了艾欧泽亚。",
+   "zh-TW": "原產於近東地區的果實，通過貿易傳到了艾歐澤亞。",
+   "ja": "交易を通じて流入した、近東原産のアンズの果実"
+  }
+ },
+ {
+  "slug": "la-noscean-leek",
+  "en": "La Noscean Leek",
+  "n": {
+   "en": "La Noscean Leek",
+   "zh-CN": "拉诺西亚韭葱",
+   "zh-TW": "拉諾西亞韭蔥",
+   "ja": "ラノシアリーキ"
+  },
+  "desc": {
+   "en": "A rare variety of leek, typically harvested young for a milder flavor.",
+   "zh-CN": "原产于拉诺西亚的叶菜，青嫩的时期采下来是一种不可多得的美味。",
+   "zh-TW": "原產於拉諾西亞的葉菜，青嫩的時期採下來是一種不可多得的美味。",
+   "ja": "ラノシア原産の稀少な葉菜。若採りすると美味"
+  }
+ },
+ {
+  "slug": "young-cieldalaes-spinach",
+  "en": "Young Cieldalaes Spinach",
+  "n": {
+   "en": "Young Cieldalaes Spinach",
+   "zh-CN": "谢尔达莱嫩菠菜",
+   "zh-TW": "謝爾達萊嫩菠菜",
+   "ja": "ソフトスピナッチ"
+  },
+  "desc": {
+   "en": "This bunch of Cieldalaes spinach has been picked young to reduce bitterness.",
+   "zh-CN": "原产于谢尔达莱群岛的叶菜，味道没有普通菠菜那么重，吃起来很爽口。",
+   "zh-TW": "原產於謝爾達萊羣島的葉菜，味道沒有普通菠菜那麼重，喫起來很爽口。",
+   "ja": "シェルダレー諸島原産の稀少な葉菜。えぐみが少なく食べやすい"
+  }
+ },
+ {
+  "slug": "blood-orange",
+  "en": "Blood Orange",
+  "n": {
+   "en": "Blood Orange",
+   "zh-CN": "鲜血橙",
+   "zh-TW": "鮮血橙",
+   "ja": "ブラッドオレンジ"
+  },
+  "desc": {
+   "en": "A rare variety of orange grown in La Noscea, named for its unusual red flesh.",
+   "zh-CN": "在拉诺西亚栽培的一种果实，有着鲜红果肉的品种十分罕见。",
+   "zh-TW": "在拉諾西亞栽培的一種果實，有着鮮紅果肉的品種十分罕見。",
+   "ja": "ラノシアで栽培される稀少な果実。果肉が赤い珍しい品種"
+  }
+ },
+ {
+  "slug": "star-anise",
+  "en": "Star Anise",
+  "n": {
+   "en": "Star Anise",
+   "zh-CN": "星八角",
+   "zh-TW": "星八角",
+   "ja": "スターアニス"
+  },
+  "desc": {
+   "en": "Originating from the Far East, this fragrant spice is shaped like eight-pointed stars.",
+   "zh-CN": "东方传来的一种香料，名字得自八角星一样的外型。",
+   "zh-TW": "東方傳來的一種香料，名字得自八角星一樣的外型。",
+   "ja": "八角の星形が特徴的な東方由来のスパイス"
+  }
+ },
+ {
+  "slug": "dalamud-popoto",
+  "en": "Dalamud Popoto",
+  "n": {
+   "en": "Dalamud Popoto",
+   "zh-CN": "卫月新薯",
+   "zh-TW": "衛月新薯",
+   "ja": "ダラガブポポト"
+  },
+  "desc": {
+   "en": "Hailing also from the western continent, this cousin to the common popoto is lurid red in color.",
+   "zh-CN": "新大陆传来的一种根菜，与普通的新薯外型差不多，但是颜色像卫月一样红。",
+   "zh-TW": "新大陸傳來的一種根菜，與普通的新薯外型差不多，但是顏色像衛月一樣紅。",
+   "ja": "新大陸伝来の稀少な根菜。ダラガブのように赤い"
+  }
+ },
+ {
+  "slug": "royal-kukuru-bean",
+  "en": "Royal Kukuru Bean",
+  "n": {
+   "en": "Royal Kukuru Bean",
+   "zh-CN": "皇家可可豆",
+   "zh-TW": "皇家可可豆",
+   "ja": "ロイヤルククルビーン"
+  },
+  "desc": {
+   "en": "A king among kukuru bean varieties, prized for its high nutritional value.",
+   "zh-CN": "这种可可树的种子十分罕见，其高营养价值带来了犹如皇族的地位。",
+   "zh-TW": "這種可可樹的種子十分罕見，其高營養價值帶來了猶如皇族的地位。",
+   "ja": "ククルの木の種。栄養価が高い稀少種"
+  }
+ },
+ {
+  "slug": "canard-breast",
+  "en": "Canard Breast",
+  "n": {
+   "en": "Canard Breast",
+   "zh-CN": "填鸭胸肉",
+   "zh-TW": "填鴨胸肉",
+   "ja": "マグレカナールの胸肉"
+  },
+  "desc": {
+   "en": "A tender piece of meat taken from the breast of a farm-fattened duck.",
+   "zh-CN": "取自人工填喂催肥的鸭子，味道不一般。",
+   "zh-TW": "取自人工填喂催肥的鴨子，味道不一般。",
+   "ja": "人工的に肝臓を肥大化させた鴨の胸肉"
+  }
+ },
+ {
+  "slug": "spicy-tomato-relish",
+  "en": "Spicy Tomato Relish",
+  "n": {
+   "en": "Spicy Tomato Relish",
+   "zh-CN": "番茄酱",
+   "zh-TW": "番茄醬",
+   "ja": "トマトケチャップ"
+  },
+  "desc": {
+   "en": "A zesty Near Eastern relish made by stewing tomatoes with select spices and seasoning.",
+   "zh-CN": "将番茄搭配香料煮制的一种调味料，有着近东地区的风味。",
+   "zh-TW": "將番茄搭配香料煮制的一種調味料，有着近東地區的風味。",
+   "ja": "トマトと香辛料を煮詰めた近東風の調味料"
+  }
+ },
+ {
+  "slug": "rich-tomato-relish",
+  "en": "Rich Tomato Relish",
+  "n": {
+   "en": "Rich Tomato Relish",
+   "zh-CN": "浓厚番茄酱",
+   "zh-TW": "濃厚番茄醬",
+   "ja": "濃厚トマトケチャップ"
+  },
+  "desc": {
+   "en": "A zesty Near Eastern relish made by stewing tomatoes with select spices and seasoning. An extra turn of the sun over a cookfire has boiled off excess water, leaving a remarkably rich reduction sure to titillate the tongue.",
+   "zh-CN": "更加浓厚的番茄酱。",
+   "zh-TW": "更加濃厚的番茄醬。",
+   "ja": "通常よりも濃厚なトマトケチャップ"
+  }
+ },
+ {
+  "slug": "smoked-bacon",
+  "en": "Smoked Bacon",
+  "n": {
+   "en": "Smoked Bacon",
+   "zh-CN": "烟肉",
+   "zh-TW": "煙肉",
+   "ja": "ロースベーコン"
+  },
+  "desc": {
+   "en": "A large side of boar, cured and then smoked. It is widely accepted across Eorzea that “everything goes better” with this flavorful meat.",
+   "zh-CN": "腌制之后再用烟熏过的猪肉，只有熟练的厨师才能精准地掌控用料和火候。",
+   "zh-TW": "醃製之後再用煙燻過的豬肉，只有熟練的廚師才能精準地掌控用料和火候。",
+   "ja": "熟練の職人が手間暇かけて、塩漬けにしたロース肉の燻製"
+  }
+ },
+ {
+  "slug": "roasted-coffee-beans",
+  "en": "Roasted Coffee Beans",
+  "n": {
+   "en": "Roasted Coffee Beans",
+   "zh-CN": "烘焙咖啡豆",
+   "zh-TW": "烘焙咖啡豆",
+   "ja": "ローストコーヒー"
+  },
+  "desc": {
+   "en": "Seeds harvested from the coffee plants which grow in volcanic mountainous soils, and then slow-roasted over an indirect flame for several bells to remove bitterness and bring out flavor.",
+   "zh-CN": "将生咖啡豆用慢火烘焙之后会散发出一种独特的芳香。",
+   "zh-TW": "將生咖啡豆用慢火烘焙之後會散發出一種獨特的芳香。",
+   "ja": "焙煎されたコーヒービーン"
+  }
+ },
+ {
+  "slug": "vintage-cooking-sherry",
+  "en": "Vintage Cooking Sherry",
+  "n": {
+   "en": "Vintage Cooking Sherry",
+   "zh-CN": "珍藏料酒",
+   "zh-TW": "珍藏料酒",
+   "ja": "秘蔵クッキングワイン"
+  },
+  "desc": {
+   "en": "Fine Lominsan white wine fortified with grape spirit and allowed to mature to the point of perfection, though the flavor may be too strong for weaker palates.",
+   "zh-CN": "用于烹饪的葡萄酒，可是怎么散发着一股危险的气味。",
+   "zh-TW": "用於烹飪的葡萄酒，可是怎麼散發着一股危險的氣味。",
+   "ja": "熟成しきった料理用のブドウ酒。何やら危険な匂いがする"
+  }
+ },
+ {
+  "slug": "duck-broth",
+  "en": "Duck Broth",
+  "n": {
+   "en": "Duck Broth",
+   "zh-CN": "鸭高汤",
+   "zh-TW": "鴨高湯",
+   "ja": "フォン・ド・カナール"
+  },
+  "desc": {
+   "en": "While this broth can be made by simply boiling down the bones of a duck, true culinarians make it a point to brown the bones before adding them to a mixture of savory vegetables and fresh spring water.",
+   "zh-CN": "将鸭骨与带有香味的蔬菜一同熬煮后得到的汤水。",
+   "zh-TW": "將鴨骨與帶有香味的蔬菜一同熬煮後得到的湯水。",
+   "ja": "焼き色を付けた鴨の骨を、香味野菜と共に煮込んだ出汁"
+  }
+ },
+ {
+  "slug": "duck-bones",
+  "en": "Duck Bones",
+  "n": {
+   "en": "Duck Bones",
+   "zh-CN": "鸭骨",
+   "zh-TW": "鴨骨",
+   "ja": "カナールの骨片"
+  },
+  "desc": {
+   "en": "It is an oft-forgotten fact that Frandelont Raimdelle, famed naturalist, father of modern taxonomy, and author of the Raimdelle Codex, tried multiple times (without success) to classify the common duck—most obviously a cloudkin—as a spoken, believing their incessant quackings to be a highly developed language beyond the comprehension of mankind.",
+   "zh-CN": "用来熬汤的鸭子的碎骨。",
+   "zh-TW": "用來熬湯的鴨子的碎骨。",
+   "ja": "よい出汁の出る鴨の骨の欠片"
+  }
+ },
+ {
+  "slug": "gastornis-egg",
+  "en": "Gastornis Egg",
+  "n": {
+   "en": "Gastornis Egg",
+   "zh-CN": "冠恐鸟蛋",
+   "zh-TW": "冠恐鳥蛋",
+   "ja": "ガストルニスの卵"
+  },
+  "desc": {
+   "en": "The hard-shelled egg of a gastornis.",
+   "zh-CN": "冠恐鸟的蛋，十分硬。",
+   "zh-TW": "冠恐鳥的蛋，十分硬。",
+   "ja": "ガストルニスの硬い卵"
+  }
+ },
+ {
+  "slug": "okeanis-egg",
+  "en": "Okeanis Egg",
+  "n": {
+   "en": "Okeanis Egg",
+   "zh-CN": "俄刻阿尼斯蛋",
+   "zh-TW": "俄刻阿尼斯蛋",
+   "ja": "オーケアニスの卵"
+  },
+  "desc": {
+   "en": "The soft-shelled, slime-covered, ever-so-slightly warm egg of an okeanis.",
+   "zh-CN": "俄刻阿尼斯的蛋，粘糊糊的。",
+   "zh-TW": "俄刻阿尼斯的蛋，粘糊糊的。",
+   "ja": "オーケアニスのぬめりとした卵"
+  }
+ },
+ {
+  "slug": "loaghtan-chump",
+  "en": "Loaghtan Chump",
+  "n": {
+   "en": "Loaghtan Chump",
+   "zh-CN": "洛夫坦山羊雪花肉",
+   "zh-TW": "洛夫坦山羊雪花肉",
+   "ja": "ロフタンのフランク"
+  },
+  "desc": {
+   "en": "A marbled piece of meat taken from the rump of a loaghtan where the leg meets the loin.",
+   "zh-CN": "洛夫坦山羊的雪花肉。",
+   "zh-TW": "洛夫坦山羊的雪花肉。",
+   "ja": "ロフタンの霜降り肉"
+  }
+ },
+ {
+  "slug": "dhalmel-meat",
+  "en": "Dhalmel Meat",
+  "n": {
+   "en": "Dhalmel Meat",
+   "zh-CN": "长颈驼肉",
+   "zh-TW": "長頸駝肉",
+   "ja": "ダルメルの肉"
+  },
+  "desc": {
+   "en": "A gristle-filled slice of meat that will require extensive simmering for it to be rendered palatable.",
+   "zh-CN": "长颈驼的肉，十分有嚼劲。",
+   "zh-TW": "長頸駝的肉，十分有嚼勁。",
+   "ja": "ダルメルの筋張った肉"
+  }
+ },
+ {
+  "slug": "okeanis-tail",
+  "en": "Okeanis Tail",
+  "n": {
+   "en": "Okeanis Tail",
+   "zh-CN": "俄刻阿尼斯肉",
+   "zh-TW": "俄刻阿尼斯肉",
+   "ja": "オーケアニスの肉"
+  },
+  "desc": {
+   "en": "When skinned, this slice of serpent-like meat almost appears edible.",
+   "zh-CN": "俄刻阿尼斯的肉，十分柔软。",
+   "zh-TW": "俄刻阿尼斯的肉，十分柔軟。",
+   "ja": "オーケアニスのしなやかな肉"
+  }
+ },
+ {
+  "slug": "cockatrice-thigh",
+  "en": "Cockatrice Thigh",
+  "n": {
+   "en": "Cockatrice Thigh",
+   "zh-CN": "魔蛇鸟肉",
+   "zh-TW": "魔蛇鳥肉",
+   "ja": "コカトリスの肉"
+  },
+  "desc": {
+   "en": "A lean slice of cockatrice meat good for flavorful broths.",
+   "zh-CN": "魔蛇鸟的肉，十分美味。",
+   "zh-TW": "魔蛇鳥的肉，十分美味。",
+   "ja": "コカトリスの旨み豊かな肉"
+  }
+ },
+ {
+  "slug": "pearl-sprouts",
+  "en": "Pearl Sprouts",
+  "n": {
+   "en": "Pearl Sprouts",
+   "zh-CN": "小包心菜",
+   "zh-TW": "小包心菜",
+   "ja": "プチキャベツ"
+  },
+  "desc": {
+   "en": "Tiny cabbage-like vegetables native to the highlands of Coerthas.",
+   "zh-CN": "原产于库尔札斯地区，小型球状叶菜。",
+   "zh-TW": "原產於庫爾札斯地區，小型球狀葉菜。",
+   "ja": "クルザス原産の小さな球状の葉菜"
+  }
+ },
+ {
+  "slug": "cyclops-onion",
+  "en": "Cyclops Onion",
+  "n": {
+   "en": "Cyclops Onion",
+   "zh-CN": "云海洋葱",
+   "zh-TW": "雲海洋蔥",
+   "ja": "サイクロプスオニオン"
+  },
+  "desc": {
+   "en": "A giant yellow onion often found growing on Abalathia's Spine.",
+   "zh-CN": "生长在阿巴拉提亚山脉的可食用球根。",
+   "zh-TW": "生長在阿巴拉提亞山脈的可食用球根。",
+   "ja": "アバラシア山脈に自生する食用の球根"
+  }
+ },
+ {
+  "slug": "emerald-beans",
+  "en": "Emerald Beans",
+  "n": {
+   "en": "Emerald Beans",
+   "zh-CN": "绿宝石豆",
+   "zh-TW": "綠寶石豆",
+   "ja": "エメラルドビーン"
+  },
+  "desc": {
+   "en": "A deep-green legume recently discovered growing on the floating islets above the Sea of Clouds.",
+   "zh-CN": "适应浮岛环境的绿宝石色豆子。",
+   "zh-TW": "適應浮島環境的綠寶石色豆子。",
+   "ja": "浮島の環境に適応したエメラルド色の豆"
+  }
+ },
+ {
+  "slug": "highland-wheat",
+  "en": "Highland Wheat",
+  "n": {
+   "en": "Highland Wheat",
+   "zh-CN": "高地小麦",
+   "zh-TW": "高地小麥",
+   "ja": "ハイランド小麦"
+  },
+  "desc": {
+   "en": "A variety of dark-colored wheat suited to the rocky soil, shorter days, and colder temperatures of the Coerthas highlands.",
+   "zh-CN": "在高地栽培的小麦。",
+   "zh-TW": "在高地栽培的小麥。",
+   "ja": "高地で栽培される小麦"
+  }
+ },
+ {
+  "slug": "highland-flour",
+  "en": "Highland Flour",
+  "n": {
+   "en": "Highland Flour",
+   "zh-CN": "高地小麦粉",
+   "zh-TW": "高地小麥粉",
+   "ja": "ハイランド小麦粉"
+  },
+  "desc": {
+   "en": "Finely milled highland wheat. It has a rich, earthy aroma.",
+   "zh-CN": "高地小麦磨成的粉。",
+   "zh-TW": "高地小麥磨成的粉。",
+   "ja": "ハイランド小麦を挽いて作られた粉"
+  }
+ },
+ {
+  "slug": "coerthan-tea-leaves",
+  "en": "Coerthan Tea Leaves",
+  "n": {
+   "en": "Coerthan Tea Leaves",
+   "zh-CN": "库尔札斯茶叶",
+   "zh-TW": "庫爾札斯茶葉",
+   "ja": "クルザス茶葉"
+  },
+  "desc": {
+   "en": "Considerably smaller than Thanalan tea leaves, more than double the amount of Ishgardian tea leaves are required to brew a single cup of tea.",
+   "zh-CN": "库尔札斯地区栽培的茶叶。",
+   "zh-TW": "庫爾札斯地區栽培的茶葉。",
+   "ja": "クルザスで栽培された茶葉"
+  }
+ },
+ {
+  "slug": "mist-dill",
+  "en": "Mist Dill",
+  "n": {
+   "en": "Mist Dill",
+   "zh-CN": "茴香",
+   "zh-TW": "茴香",
+   "ja": "イノンド"
+  },
+  "desc": {
+   "en": "A fragrant herb characterized by its thin leaves. It is used in both medicines and culinary dishes.",
+   "zh-CN": "叶子部分可做香料，味道芳香醇厚，还可以用来制药。",
+   "zh-TW": "葉子部分可做香料，味道芳香醇厚，還可以用來製藥。",
+   "ja": "葉から成るスパイス。爽やかな芳香をもち、薬品や香料に用いられる"
+  }
+ },
+ {
+  "slug": "chives",
+  "en": "Chives",
+  "n": {
+   "en": "Chives",
+   "zh-CN": "库尔札斯青葱",
+   "zh-TW": "庫爾札斯青蔥",
+   "ja": "チャイブ"
+  },
+  "desc": {
+   "en": "A thin green onion used in many Ishgardian dishes.",
+   "zh-CN": "原产于库尔札斯地区的细长叶菜。",
+   "zh-TW": "原產於庫爾札斯地區的細長葉菜。",
+   "ja": "クルザス原産の細長い葉菜"
+  }
+ },
+ {
+  "slug": "magma-beet",
+  "en": "Magma Beet",
+  "n": {
+   "en": "Magma Beet",
+   "zh-CN": "熔岩甜菜",
+   "zh-TW": "熔岩甜菜",
+   "ja": "マグマビート"
+  },
+  "desc": {
+   "en": "A sweet, easy-to-grow tuber native to Abalathia's Spine, these deep-red beets are a staple in Ishgardian culinary culture.",
+   "zh-CN": "原产于阿巴拉提亚山脉的香甜根菜。",
+   "zh-TW": "原產於阿巴拉提亞山脈的香甜根菜。",
+   "ja": "アバラシア山脈原産の甘い根菜"
+  }
+ },
+ {
+  "slug": "heavenly-kukuru-powder",
+  "en": "Heavenly Kukuru Powder",
+  "n": {
+   "en": "Heavenly Kukuru Powder",
+   "zh-CN": "皇家可可豆粉",
+   "zh-TW": "皇家可可豆粉",
+   "ja": "チャーチココアパウダー"
+  },
+  "desc": {
+   "en": "A sweet, fragrant powder ground from high-quality kukuru beans imported from exotic lands at a great price. A delicacy only available to the Holy See's most privileged.",
+   "zh-CN": "精挑细选的高级可可粉，教皇厅御用。",
+   "zh-TW": "精挑細選的高級可可粉，教皇廳御用。",
+   "ja": "厳選された高級ココアの粉末。教皇庁御用達"
+  }
+ },
+ {
+  "slug": "sesame-seeds",
+  "en": "Sesame Seeds",
+  "n": {
+   "en": "Sesame Seeds",
+   "zh-CN": "美拉西迪亚芝麻",
+   "zh-TW": "美拉西迪亞芝麻",
+   "ja": "セサミ"
+  },
+  "desc": {
+   "en": "A tiny seed rich in aromatic oil, sesame is native to Meracydia, and thought to have first been brought to Eorzea by migrating Miqo'te.",
+   "zh-CN": "原产于美拉西迪亚的植物，种子可做食材或香油。",
+   "zh-TW": "原產於美拉西迪亞的植物，種子可做食材或香油。",
+   "ja": "メラシディア原産の一年草。種子を食材や香油に用いる"
+  }
+ },
+ {
+  "slug": "yak-milk",
+  "en": "Yak Milk",
+  "n": {
+   "en": "Yak Milk",
+   "zh-CN": "牦牛奶",
+   "zh-TW": "犛牛奶",
+   "ja": "ヤクの乳"
+  },
+  "desc": {
+   "en": "The unique flavor of yak milk can be somewhat off-putting to those raised on cow or aldgoat milk.",
+   "zh-CN": "味道独特的牦牛奶。",
+   "zh-TW": "味道獨特的犛牛奶。",
+   "ja": "独特の風味を持つヤクの乳"
+  }
+ },
+ {
+  "slug": "heavens-lemon",
+  "en": "Heavens Lemon",
+  "n": {
+   "en": "Heavens Lemon",
+   "zh-CN": "伊修加德柠檬",
+   "zh-TW": "伊修加德檸檬",
+   "ja": "ヘヴンズドレモン"
+  },
+  "desc": {
+   "en": "Possibly due to the increased sunlight it receives growing above the clouds, heavens lemons lack the acidity of normal sun lemons.",
+   "zh-CN": "味道温和的柠檬。",
+   "zh-TW": "味道溫和的檸檬。",
+   "ja": "酸味のマイルドなレモンの亜種"
+  }
+ },
+ {
+  "slug": "hollandaise-sauce",
+  "en": "Hollandaise Sauce",
+  "n": {
+   "en": "Hollandaise Sauce",
+   "zh-CN": "蛋黄酱",
+   "zh-TW": "蛋黃醬",
+   "ja": "オランデーズソース"
+  },
+  "desc": {
+   "en": "A rich sauce created with butter, egg yolks, and a hint of lemon.",
+   "zh-CN": "用蛋黄制作的奶油酱。",
+   "zh-TW": "用蛋黃製作的奶油醬。",
+   "ja": "卵黄から作られたクリーミーなソース"
+  }
+ },
+ {
+  "slug": "birch-sap",
+  "en": "Birch Sap",
+  "n": {
+   "en": "Birch Sap",
+   "zh-CN": "桦木树汁",
+   "zh-TW": "樺木樹汁",
+   "ja": "バーチ樹液"
+  },
+  "desc": {
+   "en": "A thin clear sap harvested from birch trees.",
+   "zh-CN": "从桦树上采取的树汁。",
+   "zh-TW": "從樺樹上採取的樹汁。",
+   "ja": "シラカバから採取した樹液"
+  }
+ },
+ {
+  "slug": "birch-syrup",
+  "en": "Birch Syrup",
+  "n": {
+   "en": "Birch Syrup",
+   "zh-CN": "桦木糖浆",
+   "zh-TW": "樺木糖漿",
+   "ja": "バーチシロップ"
+  },
+  "desc": {
+   "en": "Birch sap boiled down to a thick, sweet syrup.",
+   "zh-CN": "用桦木树汁煮制而成的糖蜜，味道醇厚香甜。",
+   "zh-TW": "用樺木樹汁煮制而成的糖蜜，味道醇厚香甜。",
+   "ja": "バーチの樹液を煮詰めた濃厚な糖蜜"
+  }
+ },
+ {
+  "slug": "dark-chestnut",
+  "en": "Dark Chestnut",
+  "n": {
+   "en": "Dark Chestnut",
+   "zh-CN": "毛栗子",
+   "zh-TW": "毛栗子",
+   "ja": "ダークマロン"
+  },
+  "desc": {
+   "en": "The spine-encased fruit of the dark chestnut tree.",
+   "zh-CN": "覆满刺的栗子。",
+   "zh-TW": "覆滿刺的栗子。",
+   "ja": "いがに覆われた洋栗"
+  }
+ },
+ {
+  "slug": "sour-cream",
+  "en": "Sour Cream",
+  "n": {
+   "en": "Sour Cream",
+   "zh-CN": "牦牛奶油",
+   "zh-TW": "犛牛奶油",
+   "ja": "サワークリーム"
+  },
+  "desc": {
+   "en": "A thick cream created by fermenting yak milk.",
+   "zh-CN": "用牦牛奶制成，味道十分酸爽。",
+   "zh-TW": "用犛牛奶製成，味道十分酸爽。",
+   "ja": "ヤクの乳から作った、爽やかな酸味を持つクリーム"
+  }
+ },
+ {
+  "slug": "fermented-butter",
+  "en": "Fermented Butter",
+  "n": {
+   "en": "Fermented Butter",
+   "zh-CN": "发酵黄油",
+   "zh-TW": "發酵黃油",
+   "ja": "発酵バター"
+  },
+  "desc": {
+   "en": "Slightly pungent butter allowed to ferment for several days after churning.",
+   "zh-CN": "用牦牛奶制成，味道十分酸爽。",
+   "zh-TW": "用犛牛奶製成，味道十分酸爽。",
+   "ja": "ヤクの乳から作った、爽やかな酸味を持つバター"
+  }
+ },
+ {
+  "slug": "old-world-fig",
+  "en": "Old World Fig",
+  "n": {
+   "en": "Old World Fig",
+   "zh-CN": "旧世界无花果",
+   "zh-TW": "舊世界無花果",
+   "ja": "オールドワールドフィグ"
+  },
+  "desc": {
+   "en": "A symbol of long life and femininity, this autumn fruit was originally brought from their homeland to Eorzea by the Sharlayans.",
+   "zh-CN": "也被称为长寿果。",
+   "zh-TW": "也被稱爲長壽果。",
+   "ja": "不老長寿の果物とも呼ばれる高木の果実"
+  }
+ },
+ {
+  "slug": "cloud-banana",
+  "en": "Cloud Banana",
+  "n": {
+   "en": "Cloud Banana",
+   "zh-CN": "云海香蕉",
+   "zh-TW": "雲海香蕉",
+   "ja": "クラウドバナナ"
+  },
+  "desc": {
+   "en": "Though it resembles a tree, cloud bananas actually grow from an oversized herb. That does not, however, make them any less sweet.",
+   "zh-CN": "甜味十分浓郁。",
+   "zh-TW": "甜味十分濃郁。",
+   "ja": "濃厚な甘味を持つ果実"
+  }
+ },
+ {
+  "slug": "morel",
+  "en": "Morel",
+  "n": {
+   "en": "Morel",
+   "zh-CN": "伞蘑",
+   "zh-TW": "傘蘑",
+   "ja": "モリーユ"
+  },
+  "desc": {
+   "en": "This rare mushroom with an oblong webbed cap is highly sought after by culinarians the realm over.",
+   "zh-CN": "伞帽显网状，是十分高级的食用蘑菇。",
+   "zh-TW": "傘帽顯網狀，是十分高級的食用蘑菇。",
+   "ja": "網状の笠を持つ高級食用キノコ"
+  }
+ },
+ {
+  "slug": "porcini",
+  "en": "Porcini",
+  "n": {
+   "en": "Porcini",
+   "zh-CN": "牛肝菌",
+   "zh-TW": "牛肝菌",
+   "ja": "ポルチーニ"
+  },
+  "desc": {
+   "en": "A large fragrant mushroom popular in Coerthan cuisine.",
+   "zh-CN": "香味沁人的食用蘑菇。",
+   "zh-TW": "香味沁人的食用蘑菇。",
+   "ja": "薫り高い食用キノコ"
+  }
+ },
+ {
+  "slug": "chysahl-greens",
+  "en": "Chysahl Greens",
+  "n": {
+   "en": "Chysahl Greens",
+   "zh-CN": "卡贝基野菜",
+   "zh-TW": "卡貝基野菜",
+   "ja": "カベイジの野菜"
+  },
+  "desc": {
+   "en": "Though nearly identical in shape and color to gysahl greens, chysahl greens have a deeper, earthier flavor that chocobos (and man) seem to prefer.",
+   "zh-CN": "库尔札斯原产野菜，和基萨尔野菜十分相似。",
+   "zh-TW": "庫爾札斯原產野菜，和基薩爾野菜十分相似。",
+   "ja": "ギサールの野菜に似たクルザス原産の地野菜"
+  }
+ },
+ {
+  "slug": "abalathian-rock-salt",
+  "en": "Abalathian Rock Salt",
+  "n": {
+   "en": "Abalathian Rock Salt",
+   "zh-CN": "阿巴拉提亚岩盐",
+   "zh-TW": "阿巴拉提亞岩鹽",
+   "ja": "アバラシア岩塩"
+  },
+  "desc": {
+   "en": "Mined from veins found in Abalathia's Spine, this pinkish salt has a high mineral content which adds depth to its flavor.",
+   "zh-CN": "含有深邃的咸味，在阿巴拉提亚地区能够采到。",
+   "zh-TW": "含有深邃的鹹味，在阿巴拉提亞地區能夠採到。",
+   "ja": "主にアバラシアで採取される、深みのある味わいの岩塩"
+  }
+ },
+ {
+  "slug": "honeydew-almonds",
+  "en": "Honeydew Almonds",
+  "n": {
+   "en": "Honeydew Almonds",
+   "zh-CN": "甜扁桃",
+   "zh-TW": "甜扁桃",
+   "ja": "スイートアーモンド"
+  },
+  "desc": {
+   "en": "A sweet variety of rare white almonds.",
+   "zh-CN": "甘甜的扁桃，十分稀有。",
+   "zh-TW": "甘甜的扁桃，十分稀有。",
+   "ja": "甘味の強い稀少なアーモンド"
+  }
+ },
+ {
+  "slug": "dravanian-paprika",
+  "en": "Dravanian Paprika",
+  "n": {
+   "en": "Dravanian Paprika",
+   "zh-CN": "龙堡红辣椒",
+   "zh-TW": "龍堡紅辣椒",
+   "ja": "ドラヴァニアパプリカ"
+  },
+  "desc": {
+   "en": "A rare pepper that is more sweet than it is spicy.",
+   "zh-CN": "几乎没有苦味的红辣椒，十分稀有。",
+   "zh-TW": "幾乎沒有苦味的紅辣椒，十分稀有。",
+   "ja": "苦みの少ない稀少なパプリカ"
+  }
+ },
+ {
+  "slug": "snurbleberry",
+  "en": "Snurbleberry",
+  "n": {
+   "en": "Snurbleberry",
+   "zh-CN": "鲜红罗兰莓",
+   "zh-TW": "鮮紅羅蘭莓",
+   "ja": "スナーブルベリー"
+  },
+  "desc": {
+   "en": "This sweet, yet tart red berry is covered in tiny soft hairs that can be removed by lightly rubbing the fruit between one's palms.",
+   "zh-CN": "鲜红的罗兰莓，像红宝石一样漂亮。",
+   "zh-TW": "鮮紅的羅蘭莓，像紅寶石一樣漂亮。",
+   "ja": "ルビーのように鮮やかなベリー"
+  }
+ },
+ {
+  "slug": "bouillon-cube",
+  "en": "Bouillon Cube",
+  "n": {
+   "en": "Bouillon Cube",
+   "zh-CN": "鲜汤宝",
+   "zh-TW": "鮮湯寶",
+   "ja": "固形ブイヨン"
+  },
+  "desc": {
+   "en": "Animal broth that has been reduced down to a paste and hardened into cubes which will keep for an extended duration.",
+   "zh-CN": "将肉汤凝固起来制成的调味料。",
+   "zh-TW": "將肉湯凝固起來製成的調味料。",
+   "ja": "スープの基礎となる出汁を固めた調味料"
+  }
+ },
+ {
+  "slug": "oriental-soy-sauce",
+  "en": "Oriental Soy Sauce",
+  "n": {
+   "en": "Oriental Soy Sauce",
+   "zh-CN": "酱油",
+   "zh-TW": "醬油",
+   "ja": "醤油"
+  },
+  "desc": {
+   "en": "Similar to Mun-Tuy sauce, this Far Eastern seasoning is made by fermenting soybeans in salt and then pressing the beans to collect the remaining savory liquid.",
+   "zh-CN": "由豆子发酵制成，是东方特有的液体调味料。",
+   "zh-TW": "由豆子發酵製成，是東方特有的液體調味料。",
+   "ja": "豆から作られた東方特有の液状発酵調味料"
+  }
+ },
+ {
+  "slug": "oriental-miso-paste",
+  "en": "Oriental Miso Paste",
+  "n": {
+   "en": "Oriental Miso Paste",
+   "zh-CN": "味噌",
+   "zh-TW": "味噌",
+   "ja": "味噌"
+  },
+  "desc": {
+   "en": "Similar to Mun-Tuy paste, this Far Eastern seasoning is made by fermenting soybeans in salt.",
+   "zh-CN": "由豆子发酵制成，是东方特有的糊状调味料。",
+   "zh-TW": "由豆子發酵製成，是東方特有的糊狀調味料。",
+   "ja": "豆から作られた東方特有のペースト状発酵調味料"
+  }
+ },
+ {
+  "slug": "vermicelli",
+  "en": "Vermicelli",
+  "n": {
+   "en": "Vermicelli",
+   "zh-CN": "高地干面",
+   "zh-TW": "高地乾麪",
+   "ja": "ヴァーミセリ"
+  },
+  "desc": {
+   "en": "Thin noodles made with highland flour, eggs, water, and salt. These have been dried and will keep indefinitely.",
+   "zh-CN": "高地小麦粉制成的干面。",
+   "zh-TW": "高地小麥粉製成的乾麪。",
+   "ja": "ハイランド小麦粉から作られた乾麺"
+  }
+ },
+ {
+  "slug": "void-nut",
+  "en": "Void Nut",
+  "n": {
+   "en": "Void Nut",
+   "zh-CN": "虚无坚果",
+   "zh-TW": "虛無堅果",
+   "ja": "ヴォイドナッツ"
+  },
+  "desc": {
+   "en": "Some of Eorzea's more superstitious smallfolk believe the pattern of grooves found upon the shell of this otherwise ordinary walnut to be proof that an evil voidsent has possessed the poor fruit.",
+   "zh-CN": "外壳的花纹看起来非常像妖异的脸。",
+   "zh-TW": "外殼的花紋看起來非常像妖異的臉。",
+   "ja": "殻の模様が妖異の顔のように見えるクルミ"
+  }
+ },
+ {
+  "slug": "heavensnut",
+  "en": "Heavensnut",
+  "n": {
+   "en": "Heavensnut",
+   "zh-CN": "苍穹坚果",
+   "zh-TW": "蒼穹堅果",
+   "ja": "ヘヴンスナッツ"
+  },
+  "desc": {
+   "en": "Some of Eorzea's more pious peasants believe the pattern of grooves found upon the shell of this otherwise ordinary walnut to be proof that a messenger of the heavens has blessed the fruit.",
+   "zh-CN": "外壳的花纹看起来非常像天使的脸。",
+   "zh-TW": "外殼的花紋看起來非常像天使的臉。",
+   "ja": "殻の模様が天の使いの顔のように見えるクルミ"
+  }
+ },
+ {
+  "slug": "highland-oregano",
+  "en": "Highland Oregano",
+  "n": {
+   "en": "Highland Oregano",
+   "zh-CN": "牛至",
+   "zh-TW": "牛至",
+   "ja": "オレガノ"
+  },
+  "desc": {
+   "en": "Due to its higher oil content, highland oregano is preferred over other breeds of oregano by apothecaries and perfumeries across Eorzea.",
+   "zh-CN": "用于制作药品及香料的香草。",
+   "zh-TW": "用於製作藥品及香料的香草。",
+   "ja": "薬品や香料に用いられるハーブ"
+  }
+ },
+ {
+  "slug": "furymint",
+  "en": "Furymint",
+  "n": {
+   "en": "Furymint",
+   "zh-CN": "留兰",
+   "zh-TW": "留蘭",
+   "ja": "スペアミント"
+  },
+  "desc": {
+   "en": "Named after the spear-like shape of its leaves, this variety of mint has a cooler, less biting flavor than its darker-leaved cousin peppermint.",
+   "zh-CN": "用于制作香料及精油的香草。",
+   "zh-TW": "用於製作香料及精油的香草。",
+   "ja": "香料や精油に用いられるハーブ"
+  }
+ },
+ {
+  "slug": "clary-sage",
+  "en": "Clary Sage",
+  "n": {
+   "en": "Clary Sage",
+   "zh-CN": "鼠尾草",
+   "zh-TW": "鼠尾草",
+   "ja": "クラリーセージ"
+  },
+  "desc": {
+   "en": "A fragrant herb used in medicines, perfumes, and cooking.",
+   "zh-CN": "用于制作药品及香料的香草。",
+   "zh-TW": "用於製作藥品及香料的香草。",
+   "ja": "薬品や香料に用いられるハーブ"
+  }
+ },
+ {
+  "slug": "golden-apple",
+  "en": "Golden Apple",
+  "n": {
+   "en": "Golden Apple",
+   "zh-CN": "金苹果",
+   "zh-TW": "金蘋果",
+   "ja": "ゴールデンアップル"
+  },
+  "desc": {
+   "en": "A mildly sweet apple with a tart aftertaste, this rare fruit is highly sought after amongst bakers.",
+   "zh-CN": "酸甜的苹果，果皮显金黄色，十分稀有。",
+   "zh-TW": "酸甜的蘋果，果皮顯金黃色，十分稀有。",
+   "ja": "甘酸っぱいリンゴの果実。黄金色の皮をした稀少な品種"
+  }
+ },
+ {
+  "slug": "solstice-garlic",
+  "en": "Solstice Garlic",
+  "n": {
+   "en": "Solstice Garlic",
+   "zh-CN": "至日大蒜",
+   "zh-TW": "至日大蒜",
+   "ja": "ソルガーリック"
+  },
+  "desc": {
+   "en": "Favored by chefs for leaving one's breath scant of odor after a meal, this zesty garlic is often used in gourmet dishes.",
+   "zh-CN": "以球根为主的香料。颗粒饱满，营养丰富，是珍贵的稀有品种。",
+   "zh-TW": "以球根爲主的香料。顆粒飽滿，營養豐富，是珍貴的稀有品種。",
+   "ja": "球根からなるスパイス。大粒で滋養分に富む稀少な品種"
+  }
+ },
+ {
+  "slug": "mature-olive-oil",
+  "en": "Mature Olive Oil",
+  "n": {
+   "en": "Mature Olive Oil",
+   "zh-CN": "完熟橄榄油",
+   "zh-TW": "完熟橄欖油",
+   "ja": "完熟オリーヴオイル"
+  },
+  "desc": {
+   "en": "A rich-tasting oil produced with pressed olives at the peak of ripeness.",
+   "zh-CN": "从完全成熟的橄榄中提取出的高级食用油。",
+   "zh-TW": "從完全成熟的橄欖中提取出的高級食用油。",
+   "ja": "厳選された完熟オリーヴの実から抽出した高級食用油"
+  }
+ },
+ {
+  "slug": "loaghtan-fillet",
+  "en": "Loaghtan Fillet",
+  "n": {
+   "en": "Loaghtan Fillet",
+   "zh-CN": "洛夫坦山羊里脊",
+   "zh-TW": "洛夫坦山羊裏脊",
+   "ja": "ロフタンのフィレ"
+  },
+  "desc": {
+   "en": "Taken from the upper loin of a domesticated loaghtan, this meat is tender enough that it does not require any preparation before cooking.",
+   "zh-CN": "家养洛夫坦山羊的里脊肉，这个部位的肉质十分柔软，但也十分稀少。",
+   "zh-TW": "家養洛夫坦山羊的裏脊肉，這個部位的肉質十分柔軟，但也十分稀少。",
+   "ja": "家畜化されたロフタンの赤身肉。非常にやわらかな稀少部位"
+  }
+ },
+ {
+  "slug": "heavensegg",
+  "en": "Heavensegg",
+  "n": {
+   "en": "Heavensegg",
+   "zh-CN": "苍穹鸡蛋",
+   "zh-TW": "蒼穹雞蛋",
+   "ja": "ヘヴンスエッグ"
+  },
+  "desc": {
+   "en": "A premium chicken's egg, named for its distinguishable shell tinged blue as the heavens.",
+   "zh-CN": "蓝色蛋壳的鸡蛋，十分罕见。",
+   "zh-TW": "藍色蛋殼的雞蛋，十分罕見。",
+   "ja": "空色の殻を持つ稀少なニワトリの卵"
+  }
+ },
+ {
+  "slug": "lover-s-laurel",
+  "en": "Lover's Laurel",
+  "n": {
+   "en": "Lover's Laurel",
+   "zh-CN": "梅茵菲娜月桂",
+   "zh-TW": "梅茵菲娜月桂",
+   "ja": "メネフィナローレル"
+  },
+  "desc": {
+   "en": "A highly fragrant variety of laurel named for the goddess of the moon, Menphina.",
+   "zh-CN": "以月亮神梅茵菲娜名字命名的香草，散发着浓浓的幽香。",
+   "zh-TW": "以月亮神梅茵菲娜名字命名的香草，散發着濃濃的幽香。",
+   "ja": "月神メネフィナの名を冠した香り高い香草"
+  }
+ },
+ {
+  "slug": "brown-mushroom",
+  "en": "Brown Mushroom",
+  "n": {
+   "en": "Brown Mushroom",
+   "zh-CN": "棕菇",
+   "zh-TW": "棕菇",
+   "ja": "ブラウンマッシュルーム"
+  },
+  "desc": {
+   "en": "An earthen fungus that can commonly be found sprouting beneath trees growing in the Churning Mists.",
+   "zh-CN": "生长在翻云雾海的茶色蘑菇。",
+   "zh-TW": "生長在翻雲霧海的茶色蘑菇。",
+   "ja": "ドラヴァニア雲海に自生する茶色のキノコ"
+  }
+ },
+ {
+  "slug": "noble-sage",
+  "en": "Noble Sage",
+  "n": {
+   "en": "Noble Sage",
+   "zh-CN": "显贵鼠尾草",
+   "zh-TW": "顯貴鼠尾草",
+   "ja": "ノーブルセージ"
+  },
+  "desc": {
+   "en": "A fragrant herb used in medicines, perfumes, and cooking. Its deep blue flowers set it apart from its cousin, clary sage.",
+   "zh-CN": "用于制作药品及香料的香草，会开出深藏青色的花朵。",
+   "zh-TW": "用於製作藥品及香料的香草，會開出深藏青色的花朵。",
+   "ja": "濃紺の花が咲く、薬品や香料に用いられるハーブ"
+  }
+ },
+ {
+  "slug": "sweet-cream-milk",
+  "en": "Sweet Cream Milk",
+  "n": {
+   "en": "Sweet Cream Milk",
+   "zh-CN": "甜牛奶",
+   "zh-TW": "甜牛奶",
+   "ja": "スイートミルク"
+  },
+  "desc": {
+   "en": "Fat-rich milk taken from buffaloes raised in a controlled, stress-free environment.",
+   "zh-CN": "在特别的环境下培育出的大水牛的牛奶。",
+   "zh-TW": "在特別的環境下培育出的大水牛的牛奶。",
+   "ja": "特別な環境で飼育されたバッファローの乳"
+  }
+ },
+ {
+  "slug": "stone-cheese",
+  "en": "Stone Cheese",
+  "n": {
+   "en": "Stone Cheese",
+   "zh-CN": "岩石奶酪",
+   "zh-TW": "岩石奶酪",
+   "ja": "ストーンチーズ"
+  },
+  "desc": {
+   "en": "Gas which forms during the fermentation process creates hollow bubbles throughout this otherwise hard, flavorful cheese.",
+   "zh-CN": "一种硬质奶酪，在成熟加工过程中产生了很多气体，从而形成了好多洞。",
+   "zh-TW": "一種硬質奶酪，在成熟加工過程中產生了很多氣體，從而形成了好多洞。",
+   "ja": "熟成中に発生したガスにより各所に穴が開いた硬質チーズ"
+  }
+ },
+ {
+  "slug": "crownbrush",
+  "en": "Crownbrush",
+  "n": {
+   "en": "Crownbrush",
+   "zh-CN": "云冠香草",
+   "zh-TW": "雲冠香草",
+   "ja": "クラウンハーブ"
+  },
+  "desc": {
+   "en": "A fragrant herb most commonly found on the floating islands of the Diadem. Uses include the removal of unpleasant odors from boots, the removal of unpleasant odors from gauntlets, and the removal of unpleasant odors from codpieces.",
+   "zh-CN": "生长在云冠群岛的香草。",
+   "zh-TW": "生長在雲冠羣島的香草。",
+   "ja": "ディアデム諸島に自生する香草"
+  }
+ },
+ {
+  "slug": "wild-popoto",
+  "en": "Wild Popoto",
+  "n": {
+   "en": "Wild Popoto",
+   "zh-CN": "野生新薯",
+   "zh-TW": "野生新薯",
+   "ja": "ワイルドポポト"
+  },
+  "desc": {
+   "en": "Allowed to grow unchecked in the wild, it only took a matter of generations for this transplant from the New World to become decidedly different than its farm-grown cousins.",
+   "zh-CN": "野生新薯的芽块。",
+   "zh-TW": "野生新薯的芽塊。",
+   "ja": "野生化したポポトの種芋"
+  }
+ },
+ {
+  "slug": "walker-s-popoto",
+  "en": "Walker's Popoto",
+  "n": {
+   "en": "Walker's Popoto",
+   "zh-CN": "女王薯",
+   "zh-TW": "女王薯",
+   "ja": "メークインポポト"
+  },
+  "desc": {
+   "en": "A variety of popoto bred by a botanist named Walker to withstand the harsh winds and rocky soil of southern La Noscea.",
+   "zh-CN": "曾在拉诺西亚大量种植的一种新薯。",
+   "zh-TW": "曾在拉諾西亞大量種植的一種新薯。",
+   "ja": "かつてラノシアで盛んに栽培されていたポポト"
+  }
+ },
+ {
+  "slug": "nanoriso",
+  "en": "Nanoriso",
+  "n": {
+   "en": "Nanoriso",
+   "zh-CN": "莫告藻",
+   "zh-TW": "莫告藻",
+   "ja": "ナノリソ"
+  },
+  "desc": {
+   "en": "This light brown seaweed with spiked “leaves” is quite common in the seas off Hingashi, and collected and dried for use in cuisine.",
+   "zh-CN": "一种海藻，针一样的叶子是其特征。",
+   "zh-TW": "一種海藻，針一樣的葉子是其特徵。",
+   "ja": "披針形の葉が特徴的な海藻"
+  }
+ },
+ {
+  "slug": "tea-brick",
+  "en": "Tea Brick",
+  "n": {
+   "en": "Tea Brick",
+   "zh-CN": "茶饼",
+   "zh-TW": "茶餅",
+   "ja": "団茶"
+  },
+  "desc": {
+   "en": "The fermenting of tea leaves is common practice in the Far East where tea is consumed multiple times a day. Fermentation is thought to enhance flavor while dulling the leaves' natural bitterness. Fermented leaves are pressed into bricks to save space when shipping.",
+   "zh-CN": "经过发酵而成的茶叶块。",
+   "zh-TW": "經過發酵而成的茶葉塊。",
+   "ja": "発酵させた茶葉の塊"
+  }
+ },
+ {
+  "slug": "gyr-abanian-flour",
+  "en": "Gyr Abanian Flour",
+  "n": {
+   "en": "Gyr Abanian Flour",
+   "zh-CN": "高原小麦粉",
+   "zh-TW": "高原小麥粉",
+   "ja": "高原小麦粉"
+  },
+  "desc": {
+   "en": "Finely milled Gyr Abanian wheat.",
+   "zh-CN": "用高原小麦碾成的小麦粉。",
+   "zh-TW": "用高原小麥碾成的小麥粉。",
+   "ja": "高原小麦を挽いて作られた粉"
+  }
+ },
+ {
+  "slug": "firm-tofu",
+  "en": "Firm Tofu",
+  "n": {
+   "en": "Firm Tofu",
+   "zh-CN": "木棉豆腐",
+   "zh-TW": "木棉豆腐",
+   "ja": "木綿豆腐"
+  },
+  "desc": {
+   "en": "A traditional source of protein in the Far East, tofu is made from curdled soy bean extract.",
+   "zh-CN": "一种将豆乳凝固后制成的东方柔软食物。",
+   "zh-TW": "一種將豆乳凝固後製成的東方柔軟食物。",
+   "ja": "豆乳を固めた東方伝来の柔らかい食品"
+  }
+ },
+ {
+  "slug": "rice-vinegar",
+  "en": "Rice Vinegar",
+  "n": {
+   "en": "Rice Vinegar",
+   "zh-CN": "米醋",
+   "zh-TW": "米醋",
+   "ja": "米酢"
+  },
+  "desc": {
+   "en": "One of Far Eastern cuisine's five main seasonings, rice vinegar is slightly more sweet and mild than Aldenard's vinegars of popoto or apple.",
+   "zh-CN": "用米制成的一种东方的醋。",
+   "zh-TW": "用米制成的一種東方的醋。",
+   "ja": "米から作られた東方伝来の醸造酢"
+  }
+ },
+ {
+  "slug": "beet-sugar",
+  "en": "Beet Sugar",
+  "n": {
+   "en": "Beet Sugar",
+   "zh-CN": "甜菜糖",
+   "zh-TW": "甜菜糖",
+   "ja": "ビートシュガー"
+  },
+  "desc": {
+   "en": "A sweetener made by juicing sugar beets and then boiling the extract down until all the water has evaporated, leaving only a fine, grey powder.",
+   "zh-CN": "用甜菜汁熬制成的甜味调料。",
+   "zh-TW": "用甜菜汁熬製成的甜味調料。",
+   "ja": "シュガービートの絞り汁を煮詰めて作った甘味料"
+  }
+ },
+ {
+  "slug": "cooking-sake",
+  "en": "Cooking Sake",
+  "n": {
+   "en": "Cooking Sake",
+   "zh-CN": "味淋酒",
+   "zh-TW": "味淋酒",
+   "ja": "料理酒"
+  },
+  "desc": {
+   "en": "Far Eastern rice wine prepared with other ingredients for use in cooking. Often added to seafood dishes to remove unpleasant aromas.",
+   "zh-CN": "调味用米酒。",
+   "zh-TW": "調味用米酒。",
+   "ja": "調理用の米酒"
+  }
+ },
+ {
+  "slug": "cottonseed-oil",
+  "en": "Cottonseed Oil",
+  "n": {
+   "en": "Cottonseed Oil",
+   "zh-CN": "棉籽油",
+   "zh-TW": "棉籽油",
+   "ja": "綿実油"
+  },
+  "desc": {
+   "en": "Cooking oil pressed from ruby cotton seeds. Its high flash point and lack of odor make it ideal for deep-frying.",
+   "zh-CN": "从红玉棉的种子中提取出的食用油。",
+   "zh-TW": "從紅玉棉的種子中提取出的食用油。",
+   "ja": "紅玉綿花の種子から抽出した食用油"
+  }
+ },
+ {
+  "slug": "algae-salt",
+  "en": "Algae Salt",
+  "n": {
+   "en": "Algae Salt",
+   "zh-CN": "海藻盐",
+   "zh-TW": "海藻鹽",
+   "ja": "藻塩"
+  },
+  "desc": {
+   "en": "A briny salt harvested by sun-drying then burning sea algae.",
+   "zh-CN": "将海藻烧制后提取的盐，风味独特。",
+   "zh-TW": "將海藻燒製後提取的鹽，風味獨特。",
+   "ja": "焼いた海藻から取れる滋味あふれる塩"
+  }
+ },
+ {
+  "slug": "koshu-sticky-rice",
+  "en": "Koshu Sticky Rice",
+  "n": {
+   "en": "Koshu Sticky Rice",
+   "zh-CN": "粳米",
+   "zh-TW": "粳米",
+   "ja": "うるち米"
+  },
+  "desc": {
+   "en": "Unlike the drier varieties common in Aldenard and Ilsabard, this particular strand of Far Eastern rice becomes extremely sticky when cooked.",
+   "zh-CN": "一种粘稠的谷物，原产自东方。",
+   "zh-TW": "一種粘稠的穀物，原產自東方。",
+   "ja": "東方原産の粘りがある穀物"
+  }
+ },
+ {
+  "slug": "buckwheat-kernels",
+  "en": "Buckwheat Kernels",
+  "n": {
+   "en": "Buckwheat Kernels",
+   "zh-CN": "荞麦果实",
+   "zh-TW": "蕎麥果實",
+   "ja": "蕎麦の実"
+  },
+  "desc": {
+   "en": "A nutty grain that can be substituted for flour in breads and noodles. Found across the Three Great Continents, but grown in abundance in the heart of Gyr Abania.",
+   "zh-CN": "基拉巴尼亚栽培的谷物。",
+   "zh-TW": "基拉巴尼亞栽培的穀物。",
+   "ja": "ギラバニアで栽培される穀物"
+  }
+ },
+ {
+  "slug": "loquat",
+  "en": "Loquat",
+  "n": {
+   "en": "Loquat",
+   "zh-CN": "枇杷",
+   "zh-TW": "枇杷",
+   "ja": "ロークワット"
+  },
+  "desc": {
+   "en": "A sweet yet slightly tangy fruit with a thin skin and a fleshy orange interior. Can be found in the warmer valleys of Gyr Abania.",
+   "zh-CN": "基拉巴尼亚栽培的果实。",
+   "zh-TW": "基拉巴尼亞栽培的果實。",
+   "ja": "ギラバニアで栽培される果実"
+  }
+ },
+ {
+  "slug": "othardian-plum",
+  "en": "Othardian Plum",
+  "n": {
+   "en": "Othardian Plum",
+   "zh-CN": "奥萨德梅",
+   "zh-TW": "奧薩德梅",
+   "ja": "オサードプラム"
+  },
+  "desc": {
+   "en": "A greenish pink plum common across the eastern continent of Othard.",
+   "zh-CN": "原产于奥萨德次大陆的果实。",
+   "zh-TW": "原產於奧薩德次大陸的果實。",
+   "ja": "オサード小大陸原産の果実"
+  }
+ },
+ {
+  "slug": "kudzu-root",
+  "en": "Kudzu Root",
+  "n": {
+   "en": "Kudzu Root",
+   "zh-CN": "葛根",
+   "zh-TW": "葛根",
+   "ja": "葛根"
+  },
+  "desc": {
+   "en": "The root of the quick-growing kudzu vine is dug up and processed into kudzu powder which serves as a substitute for animal-based gelatins in Far Eastern desserts. It also is believed to exhibit healing properties, and can be found in most Hingan and Doman apothecaries.",
+   "zh-CN": "一种东方植物，富含药效。",
+   "zh-TW": "一種東方植物，富含藥效。",
+   "ja": "東方で薬効を持つとされる葛の根"
+  }
+ },
+ {
+  "slug": "doman-eggplant",
+  "en": "Doman Eggplant",
+  "n": {
+   "en": "Doman Eggplant",
+   "zh-CN": "多玛茄子",
+   "zh-TW": "多瑪茄子",
+   "ja": "ドマ茄子"
+  },
+  "desc": {
+   "en": "While just as brilliantly purple, this Far Eastern cousin of the wizard eggplant is noticeably thinner, and thus requires less time to cook.",
+   "zh-CN": "原产于奥萨德次大陆的紫色蔬菜。",
+   "zh-TW": "原產於奧薩德次大陸的紫色蔬菜。",
+   "ja": "オサード小大陸原産の紫色の果菜"
+  }
+ },
+ {
+  "slug": "daikon-radish",
+  "en": "Daikon Radish",
+  "n": {
+   "en": "Daikon Radish",
+   "zh-CN": "白萝卜",
+   "zh-TW": "白蘿蔔",
+   "ja": "大根"
+  },
+  "desc": {
+   "en": "The spicy daikon radishes of Othard are known to grow as long and thick as a grown Hyur's forearm.",
+   "zh-CN": "原产于奥萨德次大陆的大型根菜。",
+   "zh-TW": "原產於奧薩德次大陸的大型根菜。",
+   "ja": "オサード小大陸原産の大型の根菜"
+  }
+ },
+ {
+  "slug": "sugar-beet",
+  "en": "Sugar Beet",
+  "n": {
+   "en": "Sugar Beet",
+   "zh-CN": "甜菜",
+   "zh-TW": "甜菜",
+   "ja": "シュガービート"
+  },
+  "desc": {
+   "en": "These tubers can be several times sweeter than most fruit, and as such are commonly processed into sugar for sweetening cakes and other confections.",
+   "zh-CN": "通过精制能变得味道甘甜的根菜。",
+   "zh-TW": "通過精製能變得味道甘甜的根菜。",
+   "ja": "精製することで甘味を得ることのできる根菜"
+  }
+ },
+ {
+  "slug": "jhammel-ginger",
+  "en": "Jhammel Ginger",
+  "n": {
+   "en": "Jhammel Ginger",
+   "zh-CN": "长颈骆姜",
+   "zh-TW": "長頸駱姜",
+   "ja": "ジャムメルジンジャー"
+  },
+  "desc": {
+   "en": "Jhammel ginger's bulbous, aromatic roots can be sliced fresh and added to stews and seafood dishes to remove gaminess, ground and steeped in hot water to cure head colds, or dried and ground into a powder to use as a spice for breads and cookies.",
+   "zh-CN": "用根茎制成的调味料，是辣味比较淡的稀有品种。",
+   "zh-TW": "用根莖製成的調味料，是辣味比較淡的稀有品種。",
+   "ja": "根茎から成るスパイス。辛味が少ない稀少な品種"
+  }
+ },
+ {
+  "slug": "gyr-abanian-carrot",
+  "en": "Gyr Abanian Carrot",
+  "n": {
+   "en": "Gyr Abanian Carrot",
+   "zh-CN": "基拉巴尼亚胡萝卜",
+   "zh-TW": "基拉巴尼亞胡蘿蔔",
+   "ja": "ギラバニアカロット"
+  },
+  "desc": {
+   "en": "Gyr Abanian carrots are not only longer, but a far deeper orange—nay, crimson—than those grown in central and western Eorzea.",
+   "zh-CN": "基拉巴尼亚栽培的一种细长橘红色根菜。",
+   "zh-TW": "基拉巴尼亞栽培的一種細長橘紅色根菜。",
+   "ja": "ギラバニアで栽培される細長い根菜。赤味が強い品種"
+  }
+ },
+ {
+  "slug": "green-leek",
+  "en": "Green Leek",
+  "n": {
+   "en": "Green Leek",
+   "zh-CN": "绿韭葱",
+   "zh-TW": "綠韭蔥",
+   "ja": "グリーンリーキ"
+  },
+  "desc": {
+   "en": "Similar to green onions in flavor, the leeks of Gyr Abania are several times thicker, and far more piquant.",
+   "zh-CN": "原产于基拉巴尼亚的一种细长的叶菜。",
+   "zh-TW": "原產於基拉巴尼亞的一種細長的葉菜。",
+   "ja": "ギラバニア原産の細長い葉菜"
+  }
+ },
+ {
+  "slug": "bamboo-shoot",
+  "en": "Bamboo Shoot",
+  "n": {
+   "en": "Bamboo Shoot",
+   "zh-CN": "竹笋",
+   "zh-TW": "竹筍",
+   "ja": "タケノコ"
+  },
+  "desc": {
+   "en": "If removed from the ground when less than a fulm in length, bamboo shoots can be peeled and the fleshy interior eaten. A popular ingredient in Far Eastern stews and stir-fries.",
+   "zh-CN": "竹子的嫩芽，在东方是一种食材。",
+   "zh-TW": "竹子的嫩芽，在東方是一種食材。",
+   "ja": "竹の若芽。東方では食材として用いられる"
+  }
+ },
+ {
+  "slug": "mountain-popoto",
+  "en": "Mountain Popoto",
+  "n": {
+   "en": "Mountain Popoto",
+   "zh-CN": "山芋",
+   "zh-TW": "山芋",
+   "ja": "マウンテンポポト"
+  },
+  "desc": {
+   "en": "Crisp mountain popotoes contain high quantities of starch that create a viscous paste when the tubers are ground. This paste can be eaten raw, fried into cakes, or added to stews for thickening.",
+   "zh-CN": "原产于基拉巴尼亚的一种根菜，具有黏性。",
+   "zh-TW": "原產於基拉巴尼亞的一種根菜，具有黏性。",
+   "ja": "ギラバニア原産の粘り気のある根菜"
+  }
+ },
+ {
+  "slug": "soybeans",
+  "en": "Soybeans",
+  "n": {
+   "en": "Soybeans",
+   "zh-CN": "大豆",
+   "zh-TW": "大豆",
+   "ja": "大豆"
+  },
+  "desc": {
+   "en": "These emerald legumes grow two to three beans per pod on stout bushes that are ready for harvest in the early fall. The beans are most often pressed into the milk which is used to make tofu, or fermented into various savory pastes and sauces.",
+   "zh-CN": "包裹在细长的豆荚中的翠绿色豆子。",
+   "zh-TW": "包裹在細長的豆莢中的翠綠色豆子。",
+   "ja": "細長い鞘に包まれた翠緑色の豆"
+  }
+ },
+ {
+  "slug": "shiitake-mushroom",
+  "en": "Shiitake Mushroom",
+  "n": {
+   "en": "Shiitake Mushroom",
+   "zh-CN": "香菇",
+   "zh-TW": "香菇",
+   "ja": "椎茸"
+  },
+  "desc": {
+   "en": "These fungi native to the Far East are rarely eaten raw, the majority of those harvested dried, then used to make soup stock.",
+   "zh-CN": "原产于东方的食用菇，干燥后能够用来制作汤汁。",
+   "zh-TW": "原產於東方的食用菇，乾燥後能夠用來製作湯汁。",
+   "ja": "東方原産の食用キノコ。干したものは出汁を取るのに用いられる"
+  }
+ },
+ {
+  "slug": "cumin-seeds",
+  "en": "Cumin Seeds",
+  "n": {
+   "en": "Cumin Seeds",
+   "zh-CN": "孜然",
+   "zh-TW": "孜然",
+   "ja": "馬芹"
+  },
+  "desc": {
+   "en": "A pungent spice that can be used in seed form, or ground into a powder, enhancing the aroma tenfold.",
+   "zh-CN": "一种可以作为香料的种子。",
+   "zh-TW": "一種可以作爲香料的種子。",
+   "ja": "香辛料として用いられる種子"
+  }
+ },
+ {
+  "slug": "lotus-root",
+  "en": "Lotus Root",
+  "n": {
+   "en": "Lotus Root",
+   "zh-CN": "莲藕",
+   "zh-TW": "蓮藕",
+   "ja": "蓮根"
+  },
+  "desc": {
+   "en": "Though they appear solid from the outside, the cylindrical root nodules of the lotus flower are riddled with holes, possibly to accommodate for the waterlogged environments in which the plant grows.",
+   "zh-CN": "莲花肥大的地下茎，在东方是一种食材。",
+   "zh-TW": "蓮花肥大的地下莖，在東方是一種食材。",
+   "ja": "肥大化したハスの地下茎。東方では食材として用いられる"
+  }
+ },
+ {
+  "slug": "sun-cabbage",
+  "en": "Sun Cabbage",
+  "n": {
+   "en": "Sun Cabbage",
+   "zh-CN": "日出甘蓝",
+   "zh-TW": "日出甘藍",
+   "ja": "サンキャベツ"
+  },
+  "desc": {
+   "en": "The sweet, tightly packed leaves of Othardian sun cabbages are deceptively sweet, making them perfect in salads or stews.",
+   "zh-CN": "原产于奥萨德次大陆的球状叶菜。",
+   "zh-TW": "原產於奧薩德次大陸的球狀葉菜。",
+   "ja": "オサード小大陸原産の球状の葉菜"
+  }
+ },
+ {
+  "slug": "fennel",
+  "en": "Fennel",
+  "n": {
+   "en": "Fennel",
+   "zh-CN": "甜茴香",
+   "zh-TW": "甜茴香",
+   "ja": "フェンネル"
+  },
+  "desc": {
+   "en": "With an aroma similar to licorice, both the stalks and the seeds of this Othardian herb can be used to enhance the flavor of exotic Far Eastern dishes.",
+   "zh-CN": "原产于奥萨德次大陆的一种香草，其叶子与种子可以用作香料。",
+   "zh-TW": "原產於奧薩德次大陸的一種香草，其葉子與種子可以用作香料。",
+   "ja": "オサード小大陸原産のハーブ。葉や種子がスパイスとして用いられる"
+  }
+ },
+ {
+  "slug": "gyr-abanian-wheat",
+  "en": "Gyr Abanian Wheat",
+  "n": {
+   "en": "Gyr Abanian Wheat",
+   "zh-CN": "高原小麦",
+   "zh-TW": "高原小麥",
+   "ja": "高原小麦"
+  },
+  "desc": {
+   "en": "A close cousin to highland wheat, Gyr Abanian wheat has been improved by Ala Mhigan farmers over generations to increase both flavor and yield.",
+   "zh-CN": "基拉巴尼亚栽培的小麦。",
+   "zh-TW": "基拉巴尼亞栽培的小麥。",
+   "ja": "ギラバニアで栽培される小麦"
+  }
+ },
+ {
+  "slug": "persimmon",
+  "en": "Persimmon",
+  "n": {
+   "en": "Persimmon",
+   "zh-CN": "柿子",
+   "zh-TW": "柿子",
+   "ja": "パーシモン"
+  },
+  "desc": {
+   "en": "A hard, orange fruit common in eastern Othard. It is well known that seven summers must pass before a newly planted persimmon tree will bear fruit.",
+   "zh-CN": "原产自东方的一种橙色果实。",
+   "zh-TW": "原產自東方的一種橙色果實。",
+   "ja": "東方原産の橙色の果実"
+  }
+ },
+ {
+  "slug": "dzo-chuck",
+  "en": "Dzo Chuck",
+  "n": {
+   "en": "Dzo Chuck",
+   "zh-CN": "犏牛肩肉",
+   "zh-TW": "犏牛肩肉",
+   "ja": "ケナガウシの肩肉"
+  },
+  "desc": {
+   "en": "The unbearably tough shoulder meat of a steppe dzo.",
+   "zh-CN": "犏牛的肩肉，十分有嚼劲。",
+   "zh-TW": "犏牛的肩肉，十分有嚼勁。",
+   "ja": "歯ごたえのあるケナガウシの肩肉"
+  }
+ },
+ {
+  "slug": "hornbill-tenderloin",
+  "en": "Hornbill Tenderloin",
+  "n": {
+   "en": "Hornbill Tenderloin",
+   "zh-CN": "红角犀鸟胸肉",
+   "zh-TW": "紅角犀鳥胸肉",
+   "ja": "ベニツノの笹身"
+  },
+  "desc": {
+   "en": "A lean piece of meat taken from under the short ribs of an Othardian hornbill.",
+   "zh-CN": "红角犀鸟的胸肉，肥肉很少。",
+   "zh-TW": "紅角犀鳥的胸肉，肥肉很少。",
+   "ja": "脂身の少ないベニツノの胸肉"
+  }
+ },
+ {
+  "slug": "jhammel-haunch",
+  "en": "Jhammel Haunch",
+  "n": {
+   "en": "Jhammel Haunch",
+   "zh-CN": "长颈骆肉",
+   "zh-TW": "長頸駱肉",
+   "ja": "ジャムメルの肉"
+  },
+  "desc": {
+   "en": "Heavy salting and spicing are methods commonly employed to remove the oft overpowering gaminess of this beastkin flesh.",
+   "zh-CN": "长颈骆的肉，有一点臭。",
+   "zh-TW": "長頸駱的肉，有一點臭。",
+   "ja": "少し臭みのあるジャムメルの肉"
+  }
+ },
+ {
+  "slug": "koshu-pork",
+  "en": "Koshu Pork",
+  "n": {
+   "en": "Koshu Pork",
+   "zh-CN": "红州黑猪肉",
+   "zh-TW": "紅州黑豬肉",
+   "ja": "コウシュウ黒豚肉"
+  },
+  "desc": {
+   "en": "A dark-haired variety of swine bred on Hingashi's Koshu island. Its carefully selected diet is believed to render its meat tender and its fat flavorful.",
+   "zh-CN": "在远东之国的红州用特殊饲料精心饲养的黑猪的肉。",
+   "zh-TW": "在遠東之國的紅州用特殊飼料精心飼養的黑豬的肉。",
+   "ja": "ひんがしの国のコウシュウにて、特別な飼料で大切に育てられた黒豚の肉"
+  }
+ },
+ {
+  "slug": "gagana-egg",
+  "en": "Gagana Egg",
+  "n": {
+   "en": "Gagana Egg",
+   "zh-CN": "迦迦纳怪鸟蛋",
+   "zh-TW": "迦迦納怪鳥蛋",
+   "ja": "ガガナの卵"
+  },
+  "desc": {
+   "en": "The massive egg of a gagana.",
+   "zh-CN": "迦迦纳怪鸟的蛋，个头很大。",
+   "zh-TW": "迦迦納怪鳥的蛋，個頭很大。",
+   "ja": "ガガナの大きな卵"
+  }
+ },
+ {
+  "slug": "steppe-milk",
+  "en": "Steppe Milk",
+  "n": {
+   "en": "Steppe Milk",
+   "zh-CN": "草原牛奶",
+   "zh-TW": "草原牛奶",
+   "ja": "ステップミルク"
+  },
+  "desc": {
+   "en": "Compared to that of an aldgoat, marid, or deathmouse, the milk of a steppe dzo is high in fat and flavor.",
+   "zh-CN": "营养价值很高的犏牛奶。",
+   "zh-TW": "營養價值很高的犏牛奶。",
+   "ja": "栄養価の高いケナガウシの乳"
+  }
+ },
+ {
+  "slug": "ama-nori",
+  "en": "Ama Nori",
+  "n": {
+   "en": "Ama Nori",
+   "zh-CN": "紫菜",
+   "zh-TW": "紫菜",
+   "ja": "アマノリ"
+  },
+  "desc": {
+   "en": "This edible seaweed can be consumed raw, or dried into paper-like squares and wrapped around sticky rice.",
+   "zh-CN": "分布在红玉海的食用海藻。",
+   "zh-TW": "分佈在紅玉海的食用海藻。",
+   "ja": "紅玉海に分布する食用の海藻"
+  }
+ },
+ {
+  "slug": "ruby-tide-kelp",
+  "en": "Ruby Tide Kelp",
+  "n": {
+   "en": "Ruby Tide Kelp",
+   "zh-CN": "红玉海带",
+   "zh-TW": "紅玉海帶",
+   "ja": "紅玉昆布"
+  },
+  "desc": {
+   "en": "A distant cousin of malm kelp, Ruby Tide kelp is harvested and dried in the sun to enhance flavor. Squares of the seaweed are cut and steeped in boiling water to create one of the savory broths used in Hingan cuisine.",
+   "zh-CN": "分布在红玉海的海藻，干燥后能够用来制作汤汁。",
+   "zh-TW": "分佈在紅玉海的海藻，乾燥後能夠用來製作湯汁。",
+   "ja": "紅玉海に分布する海藻。干したものは出汁を取るのに用いられる"
+  }
+ },
+ {
+  "slug": "gem-algae",
+  "en": "Gem Algae",
+  "n": {
+   "en": "Gem Algae",
+   "zh-CN": "红玉藻",
+   "zh-TW": "紅玉藻",
+   "ja": "玉藻"
+  },
+  "desc": {
+   "en": "A variety of algae found in the Ruby Sea, commonly harvested for its salt.",
+   "zh-CN": "分布在红玉海的海藻，能够用来提取海藻盐。",
+   "zh-TW": "分佈在紅玉海的海藻，能夠用來提取海藻鹽。",
+   "ja": "紅玉海に分布する海藻。藻塩を取るのに用いられる"
+  }
+ },
+ {
+  "slug": "secret-recipe-broth",
+  "en": "Secret Recipe Broth",
+  "n": {
+   "en": "Secret Recipe Broth",
+   "zh-CN": "秘制高汤",
+   "zh-TW": "祕製高湯",
+   "ja": "秘伝出汁"
+  },
+  "desc": {
+   "en": "A clear, briny broth made by boiling down fish. There really is no secret.",
+   "zh-CN": "根据东方的秘籍制作出的高汤。",
+   "zh-TW": "根據東方的祕籍製作出的高湯。",
+   "ja": "東方に伝わる秘伝の出し汁"
+  }
+ },
+ {
+  "slug": "crimson-pepper",
+  "en": "Crimson Pepper",
+  "n": {
+   "en": "Crimson Pepper",
+   "zh-CN": "粉红胡椒",
+   "zh-TW": "粉紅胡椒",
+   "ja": "クリムゾンペッパー"
+  },
+  "desc": {
+   "en": "A pungent spice with just a hint of bitterness behind its bite.",
+   "zh-CN": "有着独特香气的微苦香辛料。",
+   "zh-TW": "有着獨特香氣的微苦香辛料。",
+   "ja": "独特のフレーバーと苦みがある香辛料"
+  }
+ },
+ {
+  "slug": "dzo-sirloin",
+  "en": "Dzo Sirloin",
+  "n": {
+   "en": "Dzo Sirloin",
+   "zh-CN": "犏牛里脊肉",
+   "zh-TW": "犏牛裏脊肉",
+   "ja": "ケナガウシのサーロイン"
+  },
+  "desc": {
+   "en": "A remarkably lean slice of red meat from the back of a steppe-grazing dzo.",
+   "zh-CN": "犏牛的里脊肉。",
+   "zh-TW": "犏牛的裏脊肉。",
+   "ja": "ケナガウシの赤身肉"
+  }
+ },
+ {
+  "slug": "doman-rice",
+  "en": "Doman Rice",
+  "n": {
+   "en": "Doman Rice",
+   "zh-CN": "多玛的黎明",
+   "zh-TW": "多瑪的黎明",
+   "ja": "ドマノヨアケ"
+  },
+  "desc": {
+   "en": "A hardy hybrid of sweet, sticky rice perfected by Far Eastern farmers after countless generations of cross-pollination. Known in Yanxia as “Doman Sunrise.”",
+   "zh-CN": "延夏杂交培育出的米，具有软糯的口感。",
+   "zh-TW": "延夏雜交培育出的米，具有軟糯的口感。",
+   "ja": "ヤンサで交配を重ねて育てられた、もちもちとして粘りのある米"
+  }
+ },
+ {
+  "slug": "honeydew-honey",
+  "en": "Honeydew Honey",
+  "n": {
+   "en": "Honeydew Honey",
+   "zh-CN": "甘露蜜",
+   "zh-TW": "甘露蜜",
+   "ja": "甘露蜜"
+  },
+  "desc": {
+   "en": "Instead of from collecting pollen, this deep, flavorful variety of honey is made from bees collecting honeydew excreted by the aphids that gather on the flowers.",
+   "zh-CN": "产量有限的蜂蜜，甜度非常高。",
+   "zh-TW": "產量有限的蜂蜜，甜度非常高。",
+   "ja": "採集量の限られたとても甘い蜂蜜"
+  }
+ },
+ {
+  "slug": "steppe-rock-salt",
+  "en": "Steppe Rock Salt",
+  "n": {
+   "en": "Steppe Rock Salt",
+   "zh-CN": "草原的岩盐",
+   "zh-TW": "草原的岩鹽",
+   "ja": "草原の岩塩"
+  },
+  "desc": {
+   "en": "Salt naturally occurring on the Azim Steppe.",
+   "zh-CN": "在太阳神草原采到的岩盐。",
+   "zh-TW": "在太陽神草原採到的岩鹽。",
+   "ja": "アジムステップで採れる岩塩"
+  }
+ },
+ {
+  "slug": "azim-strawberry",
+  "en": "Azim Strawberry",
+  "n": {
+   "en": "Azim Strawberry",
+   "zh-CN": "太阳神草莓",
+   "zh-TW": "太陽神草莓",
+   "ja": "アジムイチゴ"
+  },
+  "desc": {
+   "en": "A small, blood red fruit.",
+   "zh-CN": "如血液般鲜红的小果实。",
+   "zh-TW": "如血液般鮮紅的小果實。",
+   "ja": "血のように赤い小さな果実"
+  }
+ },
+ {
+  "slug": "steppe-candyfruit",
+  "en": "Steppe Candyfruit",
+  "n": {
+   "en": "Steppe Candyfruit",
+   "zh-CN": "草原的果实",
+   "zh-TW": "草原的果實",
+   "ja": "草原の果実"
+  },
+  "desc": {
+   "en": "Do not let its unappealing exterior fool you—this steppe delicacy is worth the effort of finding one.",
+   "zh-CN": "在太阳神草原采到的果实。",
+   "zh-TW": "在太陽神草原採到的果實。",
+   "ja": "アジムステップで採れる果実"
+  }
+ },
+ {
+  "slug": "steppe-onion",
+  "en": "Steppe Onion",
+  "n": {
+   "en": "Steppe Onion",
+   "zh-CN": "草原的洋葱",
+   "zh-TW": "草原的洋蔥",
+   "ja": "ステップオニオン"
+  },
+  "desc": {
+   "en": "A common and easily recognizable vegetable found growing wild on the Azim Steppe.",
+   "zh-CN": "在太阳神草原采到的洋葱。",
+   "zh-TW": "在太陽神草原採到的洋蔥。",
+   "ja": "アジムステップで採れる食用の球根"
+  }
+ },
+ {
+  "slug": "fava-beans",
+  "en": "Fava Beans",
+  "n": {
+   "en": "Fava Beans",
+   "zh-CN": "草原的蚕豆",
+   "zh-TW": "草原的蠶豆",
+   "ja": "草原の空豆"
+  },
+  "desc": {
+   "en": "A large green legume harvested from the Azim Steppe.",
+   "zh-CN": "在太阳神草原采到的蚕豆。",
+   "zh-TW": "在太陽神草原採到的蠶豆。",
+   "ja": "アジムステップで採れる空豆"
+  }
+ },
+ {
+  "slug": "steppe-tea-leaves",
+  "en": "Steppe Tea Leaves",
+  "n": {
+   "en": "Steppe Tea Leaves",
+   "zh-CN": "草原的茶叶",
+   "zh-TW": "草原的茶葉",
+   "ja": "草原の茶葉"
+  },
+  "desc": {
+   "en": "Tannin-rich tea leaves sourced from the Azim Steppe.",
+   "zh-CN": "在太阳神草原采到的富含单宁的茶叶。",
+   "zh-TW": "在太陽神草原採到的富含單寧的茶葉。",
+   "ja": "アジムステップで採れるタンニン豊富な茶葉"
+  }
+ },
+ {
+  "slug": "steppe-radish",
+  "en": "Steppe Radish",
+  "n": {
+   "en": "Steppe Radish",
+   "zh-CN": "草原的根菜",
+   "zh-TW": "草原的根菜",
+   "ja": "草原の根菜"
+  },
+  "desc": {
+   "en": "An Azim Steppe root vegetable known for its unforgiving bite.",
+   "zh-CN": "在太阳神草原采到的根菜。",
+   "zh-TW": "在太陽神草原採到的根菜。",
+   "ja": "アジムステップで採れる根菜"
+  }
+ },
+ {
+  "slug": "fibrous-melon",
+  "en": "Fibrous Melon",
+  "n": {
+   "en": "Fibrous Melon",
+   "zh-CN": "草原的果菜",
+   "zh-TW": "草原的果菜",
+   "ja": "草原の果菜"
+  },
+  "desc": {
+   "en": "A tough-looking specimen harvested from near Mol Iloh.",
+   "zh-CN": "在太阳神草原采到的果菜。",
+   "zh-TW": "在太陽神草原採到的果菜。",
+   "ja": "アジムステップで採れる果菜"
+  }
+ },
+ {
+  "slug": "ripe-steppe-fruit",
+  "en": "Ripe Steppe Fruit",
+  "n": {
+   "en": "Ripe Steppe Fruit",
+   "zh-CN": "草原的成熟果实",
+   "zh-TW": "草原的成熟果實",
+   "ja": "草原の熟成果実"
+  },
+  "desc": {
+   "en": "This fruit's bright-orange color speaks to its ripeness...if it is indeed the type of fruit that turns orange when ripe.",
+   "zh-CN": "在太阳神草原采到的成熟果实。",
+   "zh-TW": "在太陽神草原採到的成熟果實。",
+   "ja": "アジムステップで採れる熟した果実"
+  }
+ },
+ {
+  "slug": "yanxian-verbena",
+  "en": "Yanxian Verbena",
+  "n": {
+   "en": "Yanxian Verbena",
+   "zh-CN": "延夏马鞭草",
+   "zh-TW": "延夏馬鞭草",
+   "ja": "ヤンサバーベナ"
+  },
+  "desc": {
+   "en": "A hearty plant that can proliferate on nearly any surface, including tree trunks. Its leaves release a pleasant scent when touched.",
+   "zh-CN": "触碰叶子便会散发出清新香气的香草。",
+   "zh-TW": "觸碰葉子便會散發出清新香氣的香草。",
+   "ja": "葉に触れるとすがすがしい香りがたちこめる香草。"
+  }
+ },
+ {
+  "slug": "reishi-mushroom",
+  "en": "Reishi Mushroom",
+  "n": {
+   "en": "Reishi Mushroom",
+   "zh-CN": "灵芝",
+   "zh-TW": "靈芝",
+   "ja": "霊芝"
+  },
+  "desc": {
+   "en": "This rare mushroom is known for its high nutritive content...and not much else.",
+   "zh-CN": "被认为是拥有很高滋养效果的稀有菌类。",
+   "zh-TW": "被認爲是擁有很高滋養效果的稀有菌類。",
+   "ja": "滋養の高いことで知られる珍しいキノコ"
+  }
+ },
+ {
+  "slug": "pagos-sage",
+  "en": "Pagos Sage",
+  "n": {
+   "en": "Pagos Sage",
+   "zh-CN": "恒冰地带的鼠尾草",
+   "zh-TW": "恆冰地帶的鼠尾草",
+   "ja": "パゴスセージ"
+  },
+  "desc": {
+   "en": "A fragrant herb that can be used medicinally or to add a pleasant flavor to cuisine. The variety found in Pagos is notably crisp and hearty.",
+   "zh-CN": "用于香料或是药品的香辛料。",
+   "zh-TW": "用於香料或是藥品的香辛料。",
+   "ja": "香料や薬用に使われるスパイス"
+  }
+ },
+ {
+  "slug": "rooibos-leaves",
+  "en": "Rooibos Leaves",
+  "n": {
+   "en": "Rooibos Leaves",
+   "zh-CN": "路易波士红茶茶叶",
+   "zh-TW": "路易波士紅茶茶葉",
+   "ja": "ルイボス茶葉"
+  },
+  "desc": {
+   "en": "Red bush leaves whose prickly texture belies the marvelously velvety brew they can be steeped to create.",
+   "zh-CN": "烘干后的路易波士红茶茶叶。",
+   "zh-TW": "烘乾後的路易波士紅茶茶葉。",
+   "ja": "乾燥させたルイボスの茶葉"
+  }
+ },
+ {
+  "slug": "reunion-cheese",
+  "en": "Reunion Cheese",
+  "n": {
+   "en": "Reunion Cheese",
+   "zh-CN": "洗浸软质奶酪",
+   "zh-TW": "洗浸軟質奶酪",
+   "ja": "リユニオンチーズ"
+  },
+  "desc": {
+   "en": "A washed-rind cheese made possible by the fortuitous meeting of a Steppe cheesemaker and an itinerant winemaker. It possesses a creamy texture and nutty flavor—though one would be forgiven for being skeptical, given the smell.",
+   "zh-CN": "这种奶酪虽然闻起来气味强烈，但是口感却是非常绵柔。",
+   "zh-TW": "這種奶酪雖然聞起來氣味強烈，但是口感卻是非常綿柔。",
+   "ja": "香りは強いが、口当たりが柔らかくコクがあるチーズ"
+  }
+ },
+ {
+  "slug": "purple-carrot",
+  "en": "Purple Carrot",
+  "n": {
+   "en": "Purple Carrot",
+   "zh-CN": "紫色胡萝卜",
+   "zh-TW": "紫色胡蘿蔔",
+   "ja": "パープルカロット"
+  },
+  "desc": {
+   "en": "A dark purple root vegetable with a reddish stalk, differing somewhat in vitamin content from the orange carrot.",
+   "zh-CN": "紫色的细长根菜，芯的部分是红色。",
+   "zh-TW": "紫色的細長根菜，芯的部分是紅色。",
+   "ja": "紫色に染まった細長い根菜。芯の部分は赤い"
+  }
+ },
+ {
+  "slug": "harcot",
+  "en": "Harcot",
+  "n": {
+   "en": "Harcot",
+   "zh-CN": "香杏",
+   "zh-TW": "香杏",
+   "ja": "ハーコット"
+  },
+  "desc": {
+   "en": "A particularly fragrant variety of apricot.",
+   "zh-CN": "拥有强烈香味的黄杏。",
+   "zh-TW": "擁有強烈香味的黃杏。",
+   "ja": "香りの強いアプリコット"
+  }
+ },
+ {
+  "slug": "frantoio",
+  "en": "Frantoio",
+  "n": {
+   "en": "Frantoio",
+   "zh-CN": "油橄榄",
+   "zh-TW": "油橄欖",
+   "ja": "フラントーヨ"
+  },
+  "desc": {
+   "en": "This olive cultivar can be used to produce a large amount of high-quality cooking oil.",
+   "zh-CN": "含油量非常高的橄榄果实。",
+   "zh-TW": "含油量非常高的橄欖果實。",
+   "ja": "油の含有量が非常に多いオリーヴの果実"
+  }
+ },
+ {
+  "slug": "amber-cloves",
+  "en": "Amber Cloves",
+  "n": {
+   "en": "Amber Cloves",
+   "zh-CN": "琥珀丁香",
+   "zh-TW": "琥珀丁香",
+   "ja": "アンバークローヴ"
+  },
+  "desc": {
+   "en": "This sweet spice made from the dried floral buds is used both as flavoring and in essential oils.",
+   "zh-CN": "用花蕾制成的调味剂。具有独特的甜味，用作香料或精油。",
+   "zh-TW": "用花蕾製成的調味劑。具有獨特的甜味，用作香料或精油。",
+   "ja": "花蕾から成るスパイス。独特の甘い風味をもち、香料や精油に用いられる"
+  }
+ },
+ {
+  "slug": "russet-popoto",
+  "en": "Russet Popoto",
+  "n": {
+   "en": "Russet Popoto",
+   "zh-CN": "黄新薯",
+   "zh-TW": "黃新薯",
+   "ja": "ラセットポポト"
+  },
+  "desc": {
+   "en": "An easy-to-peel variety of popoto with thin skin and a high starch content.",
+   "zh-CN": "薄皮富含淀粉的新薯。",
+   "zh-TW": "薄皮富含澱粉的新薯。",
+   "ja": "皮が薄く、特に澱粉に富んだポポト"
+  }
+ },
+ {
+  "slug": "curly-parsley",
+  "en": "Curly Parsley",
+  "n": {
+   "en": "Curly Parsley",
+   "zh-CN": "卷叶芹",
+   "zh-TW": "卷葉芹",
+   "ja": "カーリーパセリ"
+  },
+  "desc": {
+   "en": "This fancifully frilly parsley has an unobtrusive flavor that makes it perfect for use in otherwise bland dishes or as a garnish.",
+   "zh-CN": "叶子卷曲味道清爽的叶菜。",
+   "zh-TW": "葉子捲曲味道清爽的葉菜。",
+   "ja": "縮れた葉を持つ、爽快な風味の葉菜"
+  }
+ },
+ {
+  "slug": "garden-beet",
+  "en": "Garden Beet",
+  "n": {
+   "en": "Garden Beet",
+   "zh-CN": "野园甜菜",
+   "zh-TW": "野園甜菜",
+   "ja": "ガーデンビート"
+  },
+  "desc": {
+   "en": "This common root vegetable doubles as a source of inexpensive sugar.",
+   "zh-CN": "通过精制能变得味道甘甜的根菜。",
+   "zh-TW": "通過精製能變得味道甘甜的根菜。",
+   "ja": "精製することで甘味を得ることのできる根菜"
+  }
+ },
+ {
+  "slug": "blood-tomato",
+  "en": "Blood Tomato",
+  "n": {
+   "en": "Blood Tomato",
+   "zh-CN": "血番茄",
+   "zh-TW": "血番茄",
+   "ja": "ブラッドトマト"
+  },
+  "desc": {
+   "en": "The slight acidity of this bright tomato is guaranteed to whet one's appetite, making it a long-standing favorite of tavern owners throughout Norvrandt.",
+   "zh-CN": "拥有微微的酸味，能够促进食欲的红色果菜。",
+   "zh-TW": "擁有微微的酸味，能夠促進食慾的紅色果菜。",
+   "ja": "仄かな酸味が食欲をそそる真紅の果菜"
+  }
+ },
+ {
+  "slug": "royal-grapes",
+  "en": "Royal Grapes",
+  "n": {
+   "en": "Royal Grapes",
+   "zh-CN": "皇家葡萄",
+   "zh-TW": "皇家葡萄",
+   "ja": "ロイヤルグレープ"
+  },
+  "desc": {
+   "en": "The flavor of these cultivated grapes has been intensified using a special bacteria. Though unpleasant to eat whole, they are suitable for juicing and fermentation.",
+   "zh-CN": "通过细菌的作用令葡萄变得更加香甜可口，不过不合适生吃，主要用来榨果汁。",
+   "zh-TW": "通過細菌的作用令葡萄變得更加香甜可口，不過不合適生喫，主要用來榨果汁。",
+   "ja": "菌の作用で変質し、甘みと香りが増したグレープ。生食には適さず、果汁を用いる"
+  }
+ },
+ {
+  "slug": "night-pepper",
+  "en": "Night Pepper",
+  "n": {
+   "en": "Night Pepper",
+   "zh-CN": "黑夜胡椒",
+   "zh-TW": "黑夜胡椒",
+   "ja": "ダークペッパー"
+  },
+  "desc": {
+   "en": "A dark aromatic spice used in cooking as well as pickling.",
+   "zh-CN": "用种子制成的调味料。具有独特的风味，用作保存剂或香料。",
+   "zh-TW": "用種子製成的調味料。具有獨特的風味，用作保存劑或香料。",
+   "ja": "種子から成るスパイス。独特の風味があり、保存料や香料に用いられる"
+  }
+ },
+ {
+  "slug": "mist-spinach",
+  "en": "Mist Spinach",
+  "n": {
+   "en": "Mist Spinach",
+   "zh-CN": "迷雾菠菜",
+   "zh-TW": "迷霧菠菜",
+   "ja": "ミストスピナッチ"
+  },
+  "desc": {
+   "en": "A highly nutritious, deep-green vegetable.",
+   "zh-CN": "拥有很高营养价值的深绿色叶菜。",
+   "zh-TW": "擁有很高營養價值的深綠色葉菜。",
+   "ja": "栄養価の高い深緑色の葉菜"
+  }
+ },
+ {
+  "slug": "creamtop-mushroom",
+  "en": "Creamtop Mushroom",
+  "n": {
+   "en": "Creamtop Mushroom",
+   "zh-CN": "奶油菇",
+   "zh-TW": "奶油菇",
+   "ja": "クリームマッシュルーム"
+  },
+  "desc": {
+   "en": "A bulbous white mushroom that grows wild in forests.",
+   "zh-CN": "生长在森林的白色蘑菇。",
+   "zh-TW": "生長在森林的白色蘑菇。",
+   "ja": "森林地帯に自生する白色のキノコ"
+  }
+ },
+ {
+  "slug": "bomba-rice",
+  "en": "Bomba Rice",
+  "n": {
+   "en": "Bomba Rice",
+   "zh-CN": "邦巴米",
+   "zh-TW": "邦巴米",
+   "ja": "ボンバライス"
+  },
+  "desc": {
+   "en": "This short-grain rice is more absorbent than other varieties and does not clump together when cooked.",
+   "zh-CN": "粒粒分明，粘度很低的米。",
+   "zh-TW": "粒粒分明，粘度很低的米。",
+   "ja": "パラパラとした、粘りの少ないライス"
+  }
+ },
+ {
+  "slug": "pixie-apple",
+  "en": "Pixie Apple",
+  "n": {
+   "en": "Pixie Apple",
+   "zh-CN": "仙子苹果",
+   "zh-TW": "仙子蘋果",
+   "ja": "ピクシーアップル"
+  },
+  "desc": {
+   "en": "A powerfully sweet variety of apple.",
+   "zh-CN": "拥有浓厚甜味的苹果。",
+   "zh-TW": "擁有濃厚甜味的蘋果。",
+   "ja": "強い甘みが特徴的なリンゴの果実"
+  }
+ },
+ {
+  "slug": "upland-wheat",
+  "en": "Upland Wheat",
+  "n": {
+   "en": "Upland Wheat",
+   "zh-CN": "山地小麦",
+   "zh-TW": "山地小麥",
+   "ja": "アップランド小麦"
+  },
+  "desc": {
+   "en": "This staple grain was grown at high elevation.",
+   "zh-CN": "生长在高海拔地区的野生小麦。",
+   "zh-TW": "生長在高海拔地區的野生小麥。",
+   "ja": "標高の高い場所で野生化した小麦"
+  }
+ },
+ {
+  "slug": "broad-beans",
+  "en": "Broad Beans",
+  "n": {
+   "en": "Broad Beans",
+   "zh-CN": "蚕豆",
+   "zh-TW": "蠶豆",
+   "ja": "ブロードビーン"
+  },
+  "desc": {
+   "en": "These large, spring green beans are easy to cultivate, and have served as a staple food for millennia.",
+   "zh-CN": "拥有细长豆荚的青绿色豆类。",
+   "zh-TW": "擁有細長豆莢的青綠色豆類。",
+   "ja": "細長い鞘に包まれた若葉色の豆"
+  }
+ },
+ {
+  "slug": "gianthive-chip",
+  "en": "Gianthive Chip",
+  "n": {
+   "en": "Gianthive Chip",
+   "zh-CN": "大蜜蜂的巢",
+   "zh-TW": "大蜜蜂的巢",
+   "ja": "オオミツバチの巣"
+  },
+  "desc": {
+   "en": "A normal-sized piece of a massive hive created by a giant honey bee swarm.",
+   "zh-CN": "由大蜜蜂的分泌物做成的六角结构的巢。",
+   "zh-TW": "由大蜜蜂的分泌物做成的六角結構的巢。",
+   "ja": "オオミツバチの分泌物からできた六角構造の巣"
+  }
+ },
+ {
+  "slug": "lemonette",
+  "en": "Lemonette",
+  "n": {
+   "en": "Lemonette",
+   "zh-CN": "小柠檬",
+   "zh-TW": "小檸檬",
+   "ja": "リトルレモン"
+  },
+  "desc": {
+   "en": "A tiny lemon replete with sour juice.",
+   "zh-CN": "虽然个小，但拥有丰富果汁的柠檬。",
+   "zh-TW": "雖然個小，但擁有豐富果汁的檸檬。",
+   "ja": "小粒ながら果汁の詰まったレモン"
+  }
+ },
+ {
+  "slug": "peppermint",
+  "en": "Peppermint",
+  "n": {
+   "en": "Peppermint",
+   "zh-CN": "欧薄荷",
+   "zh-TW": "歐薄荷",
+   "ja": "ペパーミント"
+  },
+  "desc": {
+   "en": "This refreshing herb is suitable for use in cooking, essential oils, and tea.",
+   "zh-CN": "用作香料或精油的香草。",
+   "zh-TW": "用作香料或精油的香草。",
+   "ja": "香料や精油に用いられるハーブ"
+  }
+ },
+ {
+  "slug": "coffee-beans",
+  "en": "Coffee Beans",
+  "n": {
+   "en": "Coffee Beans",
+   "zh-CN": "咖啡豆",
+   "zh-TW": "咖啡豆",
+   "ja": "コーヒービーン"
+  },
+  "desc": {
+   "en": "Beans that, with some effort, will become grounds suitable for brewing fragrant coffee.",
+   "zh-CN": "拥有香味的生咖啡豆。",
+   "zh-TW": "擁有香味的生咖啡豆。",
+   "ja": "香味のあるコーヒーの生豆"
+  }
+ },
+ {
+  "slug": "frantoio-oil",
+  "en": "Frantoio Oil",
+  "n": {
+   "en": "Frantoio Oil",
+   "zh-CN": "油橄榄油",
+   "zh-TW": "油橄欖油",
+   "ja": "フラントーヨオイル"
+  },
+  "desc": {
+   "en": "Oil extracted from frantoio olives, suitable for cooking and certain medicinal concoctions.",
+   "zh-CN": "用油橄榄果实榨出的食用、药用油。",
+   "zh-TW": "用油橄欖果實榨出的食用、藥用油。",
+   "ja": "フラントーヨの実から抽出した食用、薬用油"
+  }
+ },
+ {
+  "slug": "garden-beet-sugar",
+  "en": "Garden Beet Sugar",
+  "n": {
+   "en": "Garden Beet Sugar",
+   "zh-CN": "野园甜菜糖",
+   "zh-TW": "野園甜菜糖",
+   "ja": "ガーデンビートシュガー"
+  },
+  "desc": {
+   "en": "A sweetener made by boiling down the juice extracted from garden beets.",
+   "zh-CN": "用野园甜菜汁熬制成的甜味调料。",
+   "zh-TW": "用野園甜菜汁熬製成的甜味調料。",
+   "ja": "ガーデンビートの絞り汁を煮詰めて作った甘味料"
+  }
+ },
+ {
+  "slug": "squid-ink",
+  "en": "Squid Ink",
+  "n": {
+   "en": "Squid Ink",
+   "zh-CN": "乌贼墨汁",
+   "zh-TW": "烏賊墨汁",
+   "ja": "スクイッドインク"
+  },
+  "desc": {
+   "en": "This sticky, stygian liquid—decidedly an acquired taste—was harvested from a spearhead squid.",
+   "zh-CN": "从尖枪乌贼身上提取到的高粘度液体。",
+   "zh-TW": "從尖槍烏賊身上提取到的高粘度液體。",
+   "ja": "スピアヘッドから抽出した粘度の高い液体"
+  }
+ },
+ {
+  "slug": "upland-wheat-flour",
+  "en": "Upland Wheat Flour",
+  "n": {
+   "en": "Upland Wheat Flour",
+   "zh-CN": "山地小麦粉",
+   "zh-TW": "山地小麥粉",
+   "ja": "アップランド小麦粉"
+  },
+  "desc": {
+   "en": "Finely milled upland wheat.",
+   "zh-CN": "用山地小麦磨成的小麦粉。",
+   "zh-TW": "用山地小麥磨成的小麥粉。",
+   "ja": "アップランド小麦を挽いて作られた粉"
+  }
+ },
+ {
+  "slug": "golden-honey",
+  "en": "Golden Honey",
+  "n": {
+   "en": "Golden Honey",
+   "zh-CN": "黄金蜂蜜",
+   "zh-TW": "黃金蜂蜜",
+   "ja": "黄金蜂蜜"
+  },
+  "desc": {
+   "en": "This shimmering, pure-gold honey comes courtesy of the giant honey bee.",
+   "zh-CN": "大蜜蜂收集到的闪耀着黄金般光泽的花蜜。",
+   "zh-TW": "大蜜蜂收集到的閃耀着黃金般光澤的花蜜。",
+   "ja": "オオミツバチが集めた黄金に輝く花の蜜"
+  }
+ },
+ {
+  "slug": "night-vinegar",
+  "en": "Night Vinegar",
+  "n": {
+   "en": "Night Vinegar",
+   "zh-CN": "黑夜醋",
+   "zh-TW": "黑夜醋",
+   "ja": "ダークビネガー"
+  },
+  "desc": {
+   "en": "A high-quality distilled vinegar made from royal grapes.",
+   "zh-CN": "用皇家葡萄制作的高级酿造醋。",
+   "zh-TW": "用皇家葡萄製作的高級釀造醋。",
+   "ja": "ロイヤルグレープから作った高級醸造酢"
+  }
+ },
+ {
+  "slug": "robe-lettuce",
+  "en": "Robe Lettuce",
+  "n": {
+   "en": "Robe Lettuce",
+   "zh-CN": "巫师莴苣",
+   "zh-TW": "巫師萵苣",
+   "ja": "ウィザードレタス"
+  },
+  "desc": {
+   "en": "So named for its supposed resemblance to a faerie tale sorcerer's robes, this variety of lettuce grows at altitude and is known for its crisp leaves.",
+   "zh-CN": "生长于高原，富含水分的叶菜。",
+   "zh-TW": "生長於高原，富含水分的葉菜。",
+   "ja": "高原で栽培された水分の多い葉菜"
+  }
+ },
+ {
+  "slug": "kriollo-kukuru-bean",
+  "en": "Kriollo Kukuru Bean",
+  "n": {
+   "en": "Kriollo Kukuru Bean",
+   "zh-CN": "克里奥罗可可豆",
+   "zh-TW": "克里奧羅可可豆",
+   "ja": "クリオロククルビーン"
+  },
+  "desc": {
+   "en": "This variety of kukuru bean is hard to cultivate, and therefore coveted by gourmands—regardless of how little difference to the taste of the end product it actually makes.",
+   "zh-CN": "难以栽培的可可树的种子。",
+   "zh-TW": "難以栽培的可可樹的種子。",
+   "ja": "栽培が難しいことで知られるククルの木の種"
+  }
+ },
+ {
+  "slug": "pixieberry",
+  "en": "Pixieberry",
+  "n": {
+   "en": "Pixieberry",
+   "zh-CN": "仙子莓",
+   "zh-TW": "仙子莓",
+   "ja": "ピクシーベリー"
+  },
+  "desc": {
+   "en": "A dainty, capricious variety of fruit—one can never quite be sure whether any given berry will be mild, sweet, or tart.",
+   "zh-CN": "味道酸甜的淡红色果实。",
+   "zh-TW": "味道酸甜的淡紅色果實。",
+   "ja": "淡赤色に染まった甘酸っぱい果実"
+  }
+ },
+ {
+  "slug": "dzo-tenderloin",
+  "en": "Dzo Tenderloin",
+  "n": {
+   "en": "Dzo Tenderloin",
+   "zh-CN": "高级犏牛肉",
+   "zh-TW": "高級犏牛肉",
+   "ja": "ケナガウシの高級肉"
+  },
+  "desc": {
+   "en": "A superior carving of meat from a carefully raised domestic dzo.",
+   "zh-CN": "精心养育的犏牛的肉。",
+   "zh-TW": "精心養育的犏牛的肉。",
+   "ja": "手間暇かけて育てられたケナガウシの肉"
+  }
+ },
+ {
+  "slug": "sheep-casings",
+  "en": "Sheep Casings",
+  "n": {
+   "en": "Sheep Casings",
+   "zh-CN": "羊肠",
+   "zh-TW": "羊腸",
+   "ja": "シープケーシング"
+  },
+  "desc": {
+   "en": "Intestine casings for use in cooking.",
+   "zh-CN": "用来烹饪的羊肠。",
+   "zh-TW": "用來烹飪的羊腸。",
+   "ja": "調理用の羊の腸"
+  }
+ },
+ {
+  "slug": "rail-tenderloin",
+  "en": "Rail Tenderloin",
+  "n": {
+   "en": "Rail Tenderloin",
+   "zh-CN": "秧鸡胸脯肉",
+   "zh-TW": "秧雞胸脯肉",
+   "ja": "レイルの笹身"
+  },
+  "desc": {
+   "en": "A lean piece of meat stripped from an island rail.",
+   "zh-CN": "优质的岛屿秧鸡胸肉。",
+   "zh-TW": "優質的島嶼秧雞胸肉。",
+   "ja": "アイランド・レイルの胸の上質肉"
+  }
+ },
+ {
+  "slug": "lorikeet-egg",
+  "en": "Lorikeet Egg",
+  "n": {
+   "en": "Lorikeet Egg",
+   "zh-CN": "鹦鹉蛋",
+   "zh-TW": "鸚鵡蛋",
+   "ja": "ロリキートの卵"
+  },
+  "desc": {
+   "en": "The delicate egg of the rainbow lorikeet.",
+   "zh-CN": "彩虹鹦鹉的蛋，很轻。",
+   "zh-TW": "彩虹鸚鵡的蛋，很輕。",
+   "ja": "レインボー・ロリキートの軽い卵"
+  }
+ },
+ {
+  "slug": "ovim-meat",
+  "en": "Ovim Meat",
+  "n": {
+   "en": "Ovim Meat",
+   "zh-CN": "力山羊肉",
+   "zh-TW": "力山羊肉",
+   "ja": "オヴィムの肉"
+  },
+  "desc": {
+   "en": "A large, marbled slab of meat cut from the loin of a mountain-dwelling ovim.",
+   "zh-CN": "力山羊的雪花肉。",
+   "zh-TW": "力山羊的雪花肉。",
+   "ja": "大山羊の霜降り肉"
+  }
+ },
+ {
+  "slug": "skybuilders-tea-leaves",
+  "en": "Skybuilders' Tea Leaves",
+  "n": {
+   "en": "Skybuilders' Tea Leaves",
+   "zh-CN": "重建用的茶叶",
+   "zh-TW": "重建用的茶葉",
+   "ja": "復興用の茶葉"
+  },
+  "desc": {
+   "en": "The thought of happy skybuilders drinking delicious tea was the only motivation you needed as you risked life and limb gathering these leaves in the Sea of Clouds.",
+   "zh-CN": "可以在阿巴拉提亚云海采集到的用来重建伊修加德的资材。",
+   "zh-TW": "可以在阿巴拉提亞雲海採集到的用來重建伊修加德的資材。",
+   "ja": "アバラシア雲海で採れるイシュガルド復興用資材"
+  }
+ },
+ {
+  "slug": "skybuilders-wheat",
+  "en": "Skybuilders' Wheat",
+  "n": {
+   "en": "Skybuilders' Wheat",
+   "zh-CN": "重建用的小麦",
+   "zh-TW": "重建用的小麥",
+   "ja": "復興用の小麦"
+  },
+  "desc": {
+   "en": "Were the other contributors to hear that you traveled to Amh Araeng in the First simply to procure wheat, they would think you are just trying to show off.",
+   "zh-CN": "可以在安穆·艾兰采集到的用来重建伊修加德的资材。",
+   "zh-TW": "可以在安穆·艾蘭採集到的用來重建伊修加德的資材。",
+   "ja": "アム・アレーンで採れるイシュガルド復興用資材"
+  }
+ },
+ {
+  "slug": "lingonberry",
+  "en": "Lingonberry",
+  "n": {
+   "en": "Lingonberry",
+   "zh-CN": "山莓",
+   "zh-TW": "山莓",
+   "ja": "リンゴンベリー"
+  },
+  "desc": {
+   "en": "Plump, ripe, and bursting with flavor. Perfect for jams and sweet treats.",
+   "zh-CN": "红色熟透了的酸味强烈的果实。",
+   "zh-TW": "紅色熟透了的酸味強烈的果實。",
+   "ja": "赤く熟した酸味の強い果実"
+  }
+ },
+ {
+  "slug": "strong-flour",
+  "en": "Strong Flour",
+  "n": {
+   "en": "Strong Flour",
+   "zh-CN": "高筋粉",
+   "zh-TW": "高筋粉",
+   "ja": "強力粉"
+  },
+  "desc": {
+   "en": "While there may be nothing particularly strong about it in its present state, the difference soon becomes clear when using it to bake bread.",
+   "zh-CN": "韧性很强的小麦粉，适合拿来制作面包。",
+   "zh-TW": "韌性很強的小麥粉，適合拿來製作麪包。",
+   "ja": "パンづくりに適した粘り気の強い小麦粉"
+  }
+ },
+ {
+  "slug": "highland-cabbage",
+  "en": "Highland Cabbage",
+  "n": {
+   "en": "Highland Cabbage",
+   "zh-CN": "高地甘蓝",
+   "zh-TW": "高地甘藍",
+   "ja": "ハイランドキャベツ"
+  },
+  "desc": {
+   "en": "Some particularly hardy Highlanders have been seen to grasp a cabbage in one hand and take great bites from it, though this is not recommended.",
+   "zh-CN": "产自高地的球状叶菜。",
+   "zh-TW": "產自高地的球狀葉菜。",
+   "ja": "高地で栽培された球状の葉菜"
+  }
+ },
+ {
+  "slug": "silkie-egg",
+  "en": "Silkie Egg",
+  "n": {
+   "en": "Silkie Egg",
+   "zh-CN": "乌鸡蛋",
+   "zh-TW": "烏雞蛋",
+   "ja": "烏骨鶏卵"
+  },
+  "desc": {
+   "en": "The breed of chicken that lays these eggs is known for its incredibly voluminous plumage. The eggs, on the other hand, are entirely indistinguishable from that of any other chicken.",
+   "zh-CN": "一种和乌鸦一样黑的鸡所下的蛋。",
+   "zh-TW": "一種和烏鴉一樣黑的雞所下的蛋。",
+   "ja": "カラスのように黒いニワトリの卵"
+  }
+ },
+ {
+  "slug": "splendid-ant-egg",
+  "en": "Splendid Ant Egg",
+  "n": {
+   "en": "Splendid Ant Egg",
+   "zh-CN": "采掘队用蚁蛋",
+   "zh-TW": "採掘隊用蟻蛋",
+   "ja": "発掘隊向けのアントエッグ"
+  },
+  "desc": {
+   "en": "Savory-sweet and nourishing, this ant egg will have any Qitari exclaiming “Splendid!”",
+   "zh-CN": "微甜且营养丰富的蚂蚁蛋。",
+   "zh-TW": "微甜且營養豐富的螞蟻蛋。",
+   "ja": "ほのかに甘く栄養たっぷりの蟻の卵"
+  }
+ },
+ {
+  "slug": "serpent-pepper",
+  "en": "Serpent Pepper",
+  "n": {
+   "en": "Serpent Pepper",
+   "zh-CN": "蛇山椒",
+   "zh-TW": "蛇山椒",
+   "ja": "蛇山椒"
+  },
+  "desc": {
+   "en": "A pungent spice often used by the Night's Blessed in preparing meals and medicines to warm the body.",
+   "zh-CN": "一种香料，在蛇行枝用作生药以驱寒暖身。",
+   "zh-TW": "一種香料，在蛇行枝用作生藥以驅寒暖身。",
+   "ja": "スリザーバウで生薬として用いられる、身体を温める作用がある香辛料"
+  }
+ },
+ {
+  "slug": "splendid-wild-berries",
+  "en": "Splendid Wild Berries",
+  "n": {
+   "en": "Splendid Wild Berries",
+   "zh-CN": "采掘队用草莓",
+   "zh-TW": "採掘隊用草莓",
+   "ja": "発掘隊向けのベリー"
+  },
+  "desc": {
+   "en": "Fairly bursting with juice, these berries make a truly splendid treat.",
+   "zh-CN": "鲜嫩多汁的草莓。",
+   "zh-TW": "鮮嫩多汁的草莓。",
+   "ja": "果汁たっぷりのベリーの果実"
+  }
+ },
+ {
+  "slug": "splendid-turmeric",
+  "en": "Splendid Turmeric",
+  "n": {
+   "en": "Splendid Turmeric",
+   "zh-CN": "采掘队用姜黄",
+   "zh-TW": "採掘隊用薑黃",
+   "ja": "発掘隊向けのターメリック"
+  },
+  "desc": {
+   "en": "Through the work of masters in the ways of spice, this root of decidedly unremarkable appearance is transformed into a bright-orange powder. This would make for a rather impressive magic trick, were it not for the fact the process takes several days to complete, which is somewhat longer than the attention span of the average audience.",
+   "zh-CN": "可以用来制作染料的香料。",
+   "zh-TW": "可以用來製作染料的香料。",
+   "ja": "染料の材料としても使えるスパイス"
+  }
+ },
+ {
+  "slug": "approved-grade-2-skybuilders-tea-leaves",
+  "en": "Approved Grade 2 Skybuilders' Tea Leaves",
+  "n": {
+   "en": "Approved Grade 2 Skybuilders' Tea Leaves",
+   "zh-CN": "第二期重建用的上级茶叶（检）",
+   "zh-TW": "第二期重建用的上級茶葉（檢）",
+   "ja": "第二次復興用の上級茶葉【検】"
+  },
+  "desc": {
+   "en": "For Ishgardians, discussing the virtues of various blends of tea is almost as much of a pastime as actually drinking the stuff. This fine selection of choice leaves could be placed in the center of a table to serve to facilitate stimulating conversation, while the skybuilders continue to labor away in the bitter cold outside.",
+   "zh-CN": "在云冠群岛采集的用来重建伊修加德的资材。",
+   "zh-TW": "在雲冠羣島採集的用來重建伊修加德的資材。",
+   "ja": "ディアデム諸島で採れるイシュガルド復興用資材"
+  }
+ },
+ {
+  "slug": "approved-grade-2-skybuilders-wheat",
+  "en": "Approved Grade 2 Skybuilders' Wheat",
+  "n": {
+   "en": "Approved Grade 2 Skybuilders' Wheat",
+   "zh-CN": "第二期重建用的最高级小麦（检）",
+   "zh-TW": "第二期重建用的最高級小麥（檢）",
+   "ja": "第二次復興用の最高級小麦【検】"
+  },
+  "desc": {
+   "en": "There is a possibility that some grade 1 wheat slipped in by mistake.",
+   "zh-CN": "在云冠群岛采集的用来重建伊修加德的资材。",
+   "zh-TW": "在雲冠羣島採集的用來重建伊修加德的資材。",
+   "ja": "ディアデム諸島で採れるイシュガルド復興用資材"
+  }
+ },
+ {
+  "slug": "approved-grade-2-artisanal-skybuilders-wheat",
+  "en": "Approved Grade 2 Artisanal Skybuilders' Wheat",
+  "n": {
+   "en": "Approved Grade 2 Artisanal Skybuilders' Wheat",
+   "zh-CN": "第二期重建用的特供小麦（检）",
+   "zh-TW": "第二期重建用的特供小麥（檢）",
+   "ja": "第二次復興用の特注小麦【検】"
+  },
+  "desc": {
+   "en": "What about this wheat makes it artisanal? Those in the know claim it is massaged daily and fed beer, which is the reason for the delicious marbled texture. Or perhaps they were talking about some sort of cow?",
+   "zh-CN": "在云冠群岛采集的用来重建伊修加德的资材。",
+   "zh-TW": "在雲冠羣島採集的用來重建伊修加德的資材。",
+   "ja": "ディアデム諸島で採れるイシュガルド復興用資材"
+  }
+ },
+ {
+  "slug": "approved-grade-2-skybuilders-umbral-earthcap",
+  "en": "Approved Grade 2 Skybuilders' Umbral Earthcap",
+  "n": {
+   "en": "Approved Grade 2 Skybuilders' Umbral Earthcap",
+   "zh-CN": "第二期重建用的幻土茸（检）",
+   "zh-TW": "第二期重建用的幻土茸（檢）",
+   "ja": "第二次復興用の幻土茸【検】"
+  },
+  "desc": {
+   "en": "Charged with aether drawn from the earth. In actual fact, most mushrooms possess some earth-aspected aether, but this particular species is especially greedy.",
+   "zh-CN": "在云冠群岛采集的用来重建伊修加德的资材。",
+   "zh-TW": "在雲冠羣島採集的用來重建伊修加德的資材。",
+   "ja": "ディアデム諸島で採れるイシュガルド復興用資材。"
+  }
+ },
+ {
+  "slug": "grade-2-skybuilders-tea-leaves",
+  "en": "Grade 2 Skybuilders' Tea Leaves",
+  "n": {
+   "en": "Grade 2 Skybuilders' Tea Leaves",
+   "zh-CN": "第二期重建用的上级茶叶",
+   "zh-TW": "第二期重建用的上級茶葉",
+   "ja": "第二次復興用の上級茶葉"
+  },
+  "desc": {
+   "en": "For Ishgardians, discussing the virtues of various blends of tea is almost as much of a pastime as actually drinking the stuff. This fine selection of choice leaves could be placed in the center of a table to serve to facilitate stimulating conversation, while the skybuilders continue to labor away in the bitter cold outside.",
+   "zh-CN": "在云冠群岛采集的用来重建伊修加德的资材。",
+   "zh-TW": "在雲冠羣島採集的用來重建伊修加德的資材。",
+   "ja": "ディアデム諸島で採れるイシュガルド復興用資材"
+  }
+ },
+ {
+  "slug": "grade-2-skybuilders-wheat",
+  "en": "Grade 2 Skybuilders' Wheat",
+  "n": {
+   "en": "Grade 2 Skybuilders' Wheat",
+   "zh-CN": "第二期重建用的最高级小麦",
+   "zh-TW": "第二期重建用的最高級小麥",
+   "ja": "第二次復興用の最高級小麦"
+  },
+  "desc": {
+   "en": "There is a possibility that some grade 1 wheat slipped in by mistake.",
+   "zh-CN": "在云冠群岛采集的用来重建伊修加德的资材。",
+   "zh-TW": "在雲冠羣島採集的用來重建伊修加德的資材。",
+   "ja": "ディアデム諸島で採れるイシュガルド復興用資材"
+  }
+ },
+ {
+  "slug": "grade-2-artisanal-skybuilders-wheat",
+  "en": "Grade 2 Artisanal Skybuilders' Wheat",
+  "n": {
+   "en": "Grade 2 Artisanal Skybuilders' Wheat",
+   "zh-CN": "第二期重建用的特供小麦",
+   "zh-TW": "第二期重建用的特供小麥",
+   "ja": "第二次復興用の特注小麦"
+  },
+  "desc": {
+   "en": "What about this wheat makes it artisanal? Those in the know claim it is massaged daily and fed beer, which is the reason for the delicious marbled texture. Or perhaps they were talking about some sort of cow?",
+   "zh-CN": "在云冠群岛采集的用来重建伊修加德的资材。",
+   "zh-TW": "在雲冠羣島採集的用來重建伊修加德的資材。",
+   "ja": "ディアデム諸島で採れるイシュガルド復興用資材"
+  }
+ },
+ {
+  "slug": "grade-2-skybuilders-umbral-earthcap",
+  "en": "Grade 2 Skybuilders' Umbral Earthcap",
+  "n": {
+   "en": "Grade 2 Skybuilders' Umbral Earthcap",
+   "zh-CN": "第二期重建用的幻土茸",
+   "zh-TW": "第二期重建用的幻土茸",
+   "ja": "第二次復興用の幻土茸"
+  },
+  "desc": {
+   "en": "Charged with aether drawn from the earth. In actual fact, most mushrooms possess some earth-aspected aether, but this particular species is especially greedy.",
+   "zh-CN": "在云冠群岛采集的用来重建伊修加德的资材。",
+   "zh-TW": "在雲冠羣島採集的用來重建伊修加德的資材。",
+   "ja": "ディアデム諸島で採れるイシュガルド復興用資材。"
+  }
+ },
+ {
+  "slug": "oddly-specific-aloe",
+  "en": "Oddly Specific Aloe",
+  "n": {
+   "en": "Oddly Specific Aloe",
+   "zh-CN": "改良用芦荟",
+   "zh-TW": "改良用蘆薈",
+   "ja": "改良用のアロエ"
+  },
+  "desc": {
+   "en": "Should only be harvested after being lightly dusted by the scales of an endangered species of moth, which also has its own set of oddly specific requirements.",
+   "zh-CN": "具有适合改良天钢工具性质的芦荟。",
+   "zh-TW": "具有適合改良天鋼工具性質的蘆薈。",
+   "ja": "スカイスチールツールの改良に適した性質を持つアロエ"
+  }
+ },
+ {
+  "slug": "approved-grade-3-skybuilders-tea-leaves",
+  "en": "Approved Grade 3 Skybuilders' Tea Leaves",
+  "n": {
+   "en": "Approved Grade 3 Skybuilders' Tea Leaves",
+   "zh-CN": "第三期重建用的上级茶叶（检）",
+   "zh-TW": "第三期重建用的上級茶葉（檢）",
+   "ja": "第三次復興用の上級茶葉【検】"
+  },
+  "desc": {
+   "en": "This variety is often used in tea leaf reading, and is said to result in a high rate of good fortunes, though most tasseomancers base their readings more on what they think the customer wants to hear than the patterns left in the cup.",
+   "zh-CN": "在云冠群岛采集的用来重建伊修加德的资材。",
+   "zh-TW": "在雲冠羣島採集的用來重建伊修加德的資材。",
+   "ja": "ディアデム諸島で採れるイシュガルド復興用資材"
+  }
+ },
+ {
+  "slug": "approved-grade-3-skybuilders-wheat",
+  "en": "Approved Grade 3 Skybuilders' Wheat",
+  "n": {
+   "en": "Approved Grade 3 Skybuilders' Wheat",
+   "zh-CN": "第三期重建用的最高级小麦（检）",
+   "zh-TW": "第三期重建用的最高級小麥（檢）",
+   "ja": "第三次復興用の最高級小麦【検】"
+  },
+  "desc": {
+   "en": "May contain traces of chaff.",
+   "zh-CN": "在云冠群岛采集的用来重建伊修加德的资材。",
+   "zh-TW": "在雲冠羣島採集的用來重建伊修加德的資材。",
+   "ja": "ディアデム諸島で採れるイシュガルド復興用資材"
+  }
+ },
+ {
+  "slug": "approved-grade-3-artisanal-skybuilders-rice",
+  "en": "Approved Grade 3 Artisanal Skybuilders' Rice",
+  "n": {
+   "en": "Approved Grade 3 Artisanal Skybuilders' Rice",
+   "zh-CN": "第三期重建用的特供大米（检）",
+   "zh-TW": "第三期重建用的特供大米（檢）",
+   "ja": "第三次復興用の特注ライス【検】"
+  },
+  "desc": {
+   "en": "Rice remains something of a novelty in Ishgard, though the skybuilders seem to be experts on the subject regardless. Apparently, they can tell the difference between the truly artisanal and the merely humdrum.",
+   "zh-CN": "在云冠群岛采集的用来重建伊修加德的资材。",
+   "zh-TW": "在雲冠羣島採集的用來重建伊修加德的資材。",
+   "ja": "ディアデム諸島で採れるイシュガルド復興用資材"
+  }
+ },
+ {
+  "slug": "grade-3-skybuilders-tea-leaves",
+  "en": "Grade 3 Skybuilders' Tea Leaves",
+  "n": {
+   "en": "Grade 3 Skybuilders' Tea Leaves",
+   "zh-CN": "第三期重建用的上级茶叶",
+   "zh-TW": "第三期重建用的上級茶葉",
+   "ja": "第三次復興用の上級茶葉"
+  },
+  "desc": {
+   "en": "This variety is often used in tea leaf reading, and is said to result in a high rate of good fortunes, though most tasseomancers base their readings more on what they think the customer wants to hear than the patterns left in the cup.",
+   "zh-CN": "在云冠群岛采集的用来重建伊修加德的资材。",
+   "zh-TW": "在雲冠羣島採集的用來重建伊修加德的資材。",
+   "ja": "ディアデム諸島で採れるイシュガルド復興用資材"
+  }
+ },
+ {
+  "slug": "grade-3-skybuilders-wheat",
+  "en": "Grade 3 Skybuilders' Wheat",
+  "n": {
+   "en": "Grade 3 Skybuilders' Wheat",
+   "zh-CN": "第三期重建用的最高级小麦",
+   "zh-TW": "第三期重建用的最高級小麥",
+   "ja": "第三次復興用の最高級小麦"
+  },
+  "desc": {
+   "en": "May contain traces of chaff.",
+   "zh-CN": "在云冠群岛采集的用来重建伊修加德的资材。",
+   "zh-TW": "在雲冠羣島採集的用來重建伊修加德的資材。",
+   "ja": "ディアデム諸島で採れるイシュガルド復興用資材"
+  }
+ },
+ {
+  "slug": "grade-3-artisanal-skybuilders-rice",
+  "en": "Grade 3 Artisanal Skybuilders' Rice",
+  "n": {
+   "en": "Grade 3 Artisanal Skybuilders' Rice",
+   "zh-CN": "第三期重建用的特供大米",
+   "zh-TW": "第三期重建用的特供大米",
+   "ja": "第三次復興用の特注ライス"
+  },
+  "desc": {
+   "en": "Rice remains something of a novelty in Ishgard, though the skybuilders seem to be experts on the subject regardless. Apparently, they can tell the difference between the truly artisanal and the merely humdrum.",
+   "zh-CN": "在云冠群岛采集的用来重建伊修加德的资材。",
+   "zh-TW": "在雲冠羣島採集的用來重建伊修加德的資材。",
+   "ja": "ディアデム諸島で採れるイシュガルド復興用資材"
+  }
+ },
+ {
+  "slug": "mozzarella",
+  "en": "Mozzarella",
+  "n": {
+   "en": "Mozzarella",
+   "zh-CN": "马苏里拉奶酪",
+   "zh-TW": "馬蘇里拉奶酪",
+   "ja": "モッツァレッラ"
+  },
+  "desc": {
+   "en": "A fresh, springy cheese made from buffalo milk.",
+   "zh-CN": "具有很强弹性的新鲜奶酪。",
+   "zh-TW": "具有很強彈性的新鮮奶酪。",
+   "ja": "強い弾力を持つフレッシュチーズ"
+  }
+ },
+ {
+  "slug": "chicken-thigh",
+  "en": "Chicken Thigh",
+  "n": {
+   "en": "Chicken Thigh",
+   "zh-CN": "土鸡的腿肉",
+   "zh-TW": "土雞的腿肉",
+   "ja": "地鶏のモモ肉"
+  },
+  "desc": {
+   "en": "The thigh of a breed of chicken known for the superior flavor and texture of its flesh.",
+   "zh-CN": "费工费时精心养育出的土鸡的腿肉。",
+   "zh-TW": "費工費時精心養育出的土雞的腿肉。",
+   "ja": "手間暇かけて育てられたニワトリのモモ肉"
+  }
+ },
+ {
+  "slug": "golden-pineapple",
+  "en": "Golden Pineapple",
+  "n": {
+   "en": "Golden Pineapple",
+   "zh-CN": "黄金菠萝",
+   "zh-TW": "黃金菠蘿",
+   "ja": "ゴールドパイン"
+  },
+  "desc": {
+   "en": "A golden-hued variety of pineapple touted for its tart flavor.",
+   "zh-CN": "黄金色具有强烈酸味的菠萝。",
+   "zh-TW": "黃金色具有強烈酸味的菠蘿。",
+   "ja": "黄金色の、酸味の強いパイナップル"
+  }
+ },
+ {
+  "slug": "twilight-apple",
+  "en": "Twilight Apple",
+  "n": {
+   "en": "Twilight Apple",
+   "zh-CN": "暮光苹果",
+   "zh-TW": "暮光蘋果",
+   "ja": "トワイライトアップル"
+  },
+  "desc": {
+   "en": "A sweet-sour variety of apple named for the gentle gleam of its peel.",
+   "zh-CN": "酸甜可口的苹果，其颜色常被比喻成黄昏色。",
+   "zh-TW": "酸甜可口的蘋果，其顏色常被比喻成黃昏色。",
+   "ja": "甘酸っぱいリンゴの果実。その黄金の輝きが黄昏に喩えられる"
+  }
+ },
+ {
+  "slug": "cardamom",
+  "en": "Cardamom",
+  "n": {
+   "en": "Cardamom",
+   "zh-CN": "豆蔻",
+   "zh-TW": "豆蔻",
+   "ja": "カルダモン"
+  },
+  "desc": {
+   "en": "Boasting a unique fragrance, these seeds are the secret spice in myriad recipes.",
+   "zh-CN": "由种子制作出来的具有优雅香味的香辛料。",
+   "zh-TW": "由種子製作出來的具有優雅香味的香辛料。",
+   "ja": "種子から作られる、上品な香りを持つ香辛料"
+  }
+ },
+ {
+  "slug": "approved-grade-4-skybuilders-tea-leaves",
+  "en": "Approved Grade 4 Skybuilders' Tea Leaves",
+  "n": {
+   "en": "Approved Grade 4 Skybuilders' Tea Leaves",
+   "zh-CN": "第四期重建用的上级茶叶（检）",
+   "zh-TW": "第四期重建用的上級茶葉（檢）",
+   "ja": "第四次復興用の上級茶葉【検】"
+  },
+  "desc": {
+   "en": "“There are few problems that cannot be resolved—or at least, forgotten about—over a nice cup of tea.”",
+   "zh-CN": "在云冠群岛采集的用来重建伊修加德的资材。",
+   "zh-TW": "在雲冠羣島採集的用來重建伊修加德的資材。",
+   "ja": "ディアデム諸島で採れるイシュガルド復興用資材"
+  }
+ },
+ {
+  "slug": "approved-grade-4-skybuilders-wheat",
+  "en": "Approved Grade 4 Skybuilders' Wheat",
+  "n": {
+   "en": "Approved Grade 4 Skybuilders' Wheat",
+   "zh-CN": "第四期重建用的最高级小麦（检）",
+   "zh-TW": "第四期重建用的最高級小麥（檢）",
+   "ja": "第四次復興用の最高級小麦【検】"
+  },
+  "desc": {
+   "en": "Ishgardian bakers organize a gathering known as a “wheat and greet,” in which they discuss a range of topics, such as the perfect method for wafting the smell of freshly baked bread into the streets to maximize profits.",
+   "zh-CN": "在云冠群岛采集的用来重建伊修加德的资材。",
+   "zh-TW": "在雲冠羣島採集的用來重建伊修加德的資材。",
+   "ja": "ディアデム諸島で採れるイシュガルド復興用資材"
+  }
+ },
+ {
+  "slug": "approved-grade-4-artisanal-skybuilders-raspberry",
+  "en": "Approved Grade 4 Artisanal Skybuilders' Raspberry",
+  "n": {
+   "en": "Approved Grade 4 Artisanal Skybuilders' Raspberry",
+   "zh-CN": "第四期重建用的特供蔓越莓（检）",
+   "zh-TW": "第四期重建用的特供蔓越莓（檢）",
+   "ja": "第四次復興用の特注ラズベリー【検】"
+  },
+  "desc": {
+   "en": "Being rather small, it is unusual for raspberries to be handled individually rather than by weight. This may also be because fruiterers are keen to avoid counting anything other than coins.",
+   "zh-CN": "在云冠群岛采集的用来重建伊修加德的资材。",
+   "zh-TW": "在雲冠羣島採集的用來重建伊修加德的資材。",
+   "ja": "ディアデム諸島で採れるイシュガルド復興用資材"
+  }
+ },
+ {
+  "slug": "grade-4-skybuilders-tea-leaves",
+  "en": "Grade 4 Skybuilders' Tea Leaves",
+  "n": {
+   "en": "Grade 4 Skybuilders' Tea Leaves",
+   "zh-CN": "第四期重建用的上级茶叶",
+   "zh-TW": "第四期重建用的上級茶葉",
+   "ja": "第四次復興用の上級茶葉"
+  },
+  "desc": {
+   "en": "“There are few problems that cannot be resolved—or at least, forgotten about—over a nice cup of tea.”",
+   "zh-CN": "在云冠群岛采集的用来重建伊修加德的资材。",
+   "zh-TW": "在雲冠羣島採集的用來重建伊修加德的資材。",
+   "ja": "ディアデム諸島で採れるイシュガルド復興用資材"
+  }
+ },
+ {
+  "slug": "grade-4-skybuilders-wheat",
+  "en": "Grade 4 Skybuilders' Wheat",
+  "n": {
+   "en": "Grade 4 Skybuilders' Wheat",
+   "zh-CN": "第四期重建用的最高级小麦",
+   "zh-TW": "第四期重建用的最高級小麥",
+   "ja": "第四次復興用の最高級小麦"
+  },
+  "desc": {
+   "en": "Ishgardian bakers organize a gathering known as a “wheat and greet,” in which they discuss a range of topics, such as the perfect method for wafting the smell of freshly baked bread into the streets to maximize profits.",
+   "zh-CN": "在云冠群岛采集的用来重建伊修加德的资材。",
+   "zh-TW": "在雲冠羣島採集的用來重建伊修加德的資材。",
+   "ja": "ディアデム諸島で採れるイシュガルド復興用資材"
+  }
+ },
+ {
+  "slug": "grade-4-artisanal-skybuilders-raspberry",
+  "en": "Grade 4 Artisanal Skybuilders' Raspberry",
+  "n": {
+   "en": "Grade 4 Artisanal Skybuilders' Raspberry",
+   "zh-CN": "第四期重建用的特供蔓越莓",
+   "zh-TW": "第四期重建用的特供蔓越莓",
+   "ja": "第四次復興用の特注ラズベリー"
+  },
+  "desc": {
+   "en": "Being rather small, it is unusual for raspberries to be handled individually rather than by weight. This may also be because fruiterers are keen to avoid counting anything other than coins.",
+   "zh-CN": "在云冠群岛采集的用来重建伊修加德的资材。",
+   "zh-TW": "在雲冠羣島採集的用來重建伊修加德的資材。",
+   "ja": "ディアデム諸島で採れるイシュガルド復興用資材"
+  }
+ },
+ {
+  "slug": "pot-marjoram",
+  "en": "Pot Marjoram",
+  "n": {
+   "en": "Pot Marjoram",
+   "zh-CN": "盆栽墨角兰",
+   "zh-TW": "盆栽墨角蘭",
+   "ja": "ポットマジョラム"
+  },
+  "desc": {
+   "en": "An aromatic herb used in various dishes and remedies.",
+   "zh-CN": "用于制作药品及香料的香草。",
+   "zh-TW": "用於製作藥品及香料的香草。",
+   "ja": "薬品や香料に用いられるハーブ"
+  }
+ },
+ {
+  "slug": "water-mint",
+  "en": "Water Mint",
+  "n": {
+   "en": "Water Mint",
+   "zh-CN": "水薄荷",
+   "zh-TW": "水薄荷",
+   "ja": "ウォーターミント"
+  },
+  "desc": {
+   "en": "A versatile herb that grows easily in moist soil.",
+   "zh-CN": "用于制作香料及香草茶的香草。",
+   "zh-TW": "用於製作香料及香草茶的香草。",
+   "ja": "香料やハーブティーに用いられるハーブ"
+  }
+ },
+ {
+  "slug": "wild-sage",
+  "en": "Wild Sage",
+  "n": {
+   "en": "Wild Sage",
+   "zh-CN": "野生鼠尾草",
+   "zh-TW": "野生鼠尾草",
+   "ja": "ワイルドセージ"
+  },
+  "desc": {
+   "en": "A fragrant herb popular with culinarians...and their customers.",
+   "zh-CN": "用于制作药品及香料的香草。",
+   "zh-TW": "用於製作藥品及香料的香草。",
+   "ja": "薬品や香料に用いられるハーブ"
+  }
+ },
+ {
+  "slug": "dark-rye-flour",
+  "en": "Dark Rye Flour",
+  "n": {
+   "en": "Dark Rye Flour",
+   "zh-CN": "裸麦粉",
+   "zh-TW": "裸麥粉",
+   "ja": "黒麦粉"
+  },
+  "desc": {
+   "en": "A fine flour made from dark rye.",
+   "zh-CN": "裸麦碾碎后制成的粉末。",
+   "zh-TW": "裸麥碾碎後製成的粉末。",
+   "ja": "黒麦を挽いて作られた粉"
+  }
+ },
+ {
+  "slug": "northern-sea-salt",
+  "en": "Northern Sea Salt",
+  "n": {
+   "en": "Northern Sea Salt",
+   "zh-CN": "北洋食盐",
+   "zh-TW": "北洋食鹽",
+   "ja": "北洋食塩"
+  },
+  "desc": {
+   "en": "A mineral-rich condiment made from Sharlayan rock salt.",
+   "zh-CN": "将北洋岩盐细细的碾碎之后制成的食用盐，含有丰富的矿物质。",
+   "zh-TW": "將北洋岩鹽細細的碾碎之後製成的食用鹽，含有豐富的礦物質。",
+   "ja": "北洋岩塩を細かく砕いた、ミネラル豊富な食塩"
+  }
+ },
+ {
+  "slug": "perilla-oil",
+  "en": "Perilla Oil",
+  "n": {
+   "en": "Perilla Oil",
+   "zh-CN": "紫苏油",
+   "zh-TW": "紫蘇油",
+   "ja": "ペリラオイル"
+  },
+  "desc": {
+   "en": "A cooking oil made from Thavnairian perilla leaves.",
+   "zh-CN": "从萨维奈紫苏的种子中提取出的食用油。",
+   "zh-TW": "從薩維奈紫蘇的種子中提取出的食用油。",
+   "ja": "サベネアンペリラの種子から抽出した食用油"
+  }
+ },
+ {
+  "slug": "palm-sugar",
+  "en": "Palm Sugar",
+  "n": {
+   "en": "Palm Sugar",
+   "zh-CN": "棕榈糖",
+   "zh-TW": "棕櫚糖",
+   "ja": "パームシュガー"
+  },
+  "desc": {
+   "en": "A sweetener made from boiling down palm syrup.",
+   "zh-CN": "熬煮棕榈糖浆制作出来的甜味调味料。",
+   "zh-TW": "熬煮棕櫚糖漿製作出來的甜味調味料。",
+   "ja": "パームシロップを煮詰めて作った甘味料"
+  }
+ },
+ {
+  "slug": "garlean-cheese",
+  "en": "Garlean Cheese",
+  "n": {
+   "en": "Garlean Cheese",
+   "zh-CN": "加雷马奶酪",
+   "zh-TW": "加雷馬奶酪",
+   "ja": "ガレアンチーズ"
+  },
+  "desc": {
+   "en": "A fresh cheese known for both its rich yet refreshingly tangy flavor, as well as for the strict measures enacted to ensure its quality.",
+   "zh-CN": "以清爽的酸味和浓厚的口感为特征的鲜奶酪。因为加雷马帝国严格的品质管理而闻名。",
+   "zh-TW": "以清爽的酸味和濃厚的口感爲特徵的鮮奶酪。因爲加雷馬帝國嚴格的品質管理而聞名。",
+   "ja": "爽やかな酸味と濃厚なコクが特徴のフレッシュチーズ。ガレマール帝国では、厳しい品質管理がなされることで有名"
+  }
+ },
+ {
+  "slug": "coconut-milk",
+  "en": "Coconut Milk",
+  "n": {
+   "en": "Coconut Milk",
+   "zh-CN": "椰奶",
+   "zh-TW": "椰奶",
+   "ja": "ココナッツミルク"
+  },
+  "desc": {
+   "en": "A liquid made from boiling the fruit's flesh and juice, then straining.",
+   "zh-CN": "使用椰子里的椰子水熬煮椰子白肉后经过过滤得到的液体。",
+   "zh-TW": "使用椰子裏的椰子水熬煮椰子白肉後經過過濾得到的液體。",
+   "ja": "ココナッツの固形胚乳を、液状胚乳と共に煮込んで裏ごしした液体"
+  }
+ },
+ {
+  "slug": "dark-rye",
+  "en": "Dark Rye",
+  "n": {
+   "en": "Dark Rye",
+   "zh-CN": "裸麦",
+   "zh-TW": "裸麥",
+   "ja": "黒麦"
+  },
+  "desc": {
+   "en": "A superlative grain cultivated over time to withstand disease and produce greater harvests.",
+   "zh-CN": "经过多次品种改良之后，抗病能力大幅加强并且产量大幅提升的黑麦。",
+   "zh-TW": "經過多次品種改良之後，抗病能力大幅加強並且產量大幅提升的黑麥。",
+   "ja": "品種改良を重ね、病気への耐性や収量を高めたライ麦"
+  }
+ },
+ {
+  "slug": "sharlayan-rock-salt",
+  "en": "Sharlayan Rock Salt",
+  "n": {
+   "en": "Sharlayan Rock Salt",
+   "zh-CN": "北洋岩盐",
+   "zh-TW": "北洋岩鹽",
+   "ja": "北洋岩塩"
+  },
+  "desc": {
+   "en": "A bluish grey salt extracted from the islands of the northern seas.",
+   "zh-CN": "在北洋群岛采集到的青灰色岩盐。",
+   "zh-TW": "在北洋羣島採集到的青灰色岩鹽。",
+   "ja": "北洋諸島で採取される青灰色の岩塩"
+  }
+ },
+ {
+  "slug": "thavnairian-perilla-leaf",
+  "en": "Thavnairian Perilla Leaf",
+  "n": {
+   "en": "Thavnairian Perilla Leaf",
+   "zh-CN": "萨维奈紫苏",
+   "zh-TW": "薩維奈紫蘇",
+   "ja": "サベネアンペリラ"
+  },
+  "desc": {
+   "en": "An annual herb, grown on the island of Thavnair and known for its superb medicinal properties.",
+   "zh-CN": "原产萨维奈岛，作为药草十分有效的一年生草本植物。",
+   "zh-TW": "原產薩維奈島，作爲藥草十分有效的一年生草本植物。",
+   "ja": "サベネア島原産の、薬効に優れた一年草"
+  }
+ },
+ {
+  "slug": "palm-syrup",
+  "en": "Palm Syrup",
+  "n": {
+   "en": "Palm Syrup",
+   "zh-CN": "棕榈糖浆",
+   "zh-TW": "棕櫚糖漿",
+   "ja": "パームシロップ"
+  },
+  "desc": {
+   "en": "A sweet sap extracted from the same trees that produce coconuts.",
+   "zh-CN": "从椰子树树干上采集到的树液，尝起来甜甜的。",
+   "zh-TW": "從椰子樹樹幹上採集到的樹液，嚐起來甜甜的。",
+   "ja": "ヤシの木から採取した甘味のある樹液"
+  }
+ },
+ {
+  "slug": "coconut",
+  "en": "Coconut",
+  "n": {
+   "en": "Coconut",
+   "zh-CN": "椰子",
+   "zh-TW": "椰子",
+   "ja": "ココナッツ"
+  },
+  "desc": {
+   "en": "In the southern seas, Lalafells will launch their brave comrades from catapults in order to fetch these palm seedlings from tall trees.",
+   "zh-CN": "椰树的种子。在南洋群岛，传统的方式是将训练有素的拉拉菲尔族用投石机扔到椰树上，让他们从树顶上采集椰子。",
+   "zh-TW": "椰樹的種子。在南洋羣島，傳統的方式是將訓練有素的拉拉菲爾族用投石機扔到椰樹上，讓他們從樹頂上採集椰子。",
+   "ja": "ヤシの種子。南洋諸島では、訓練されたララフェル族を投石機で投げ、高いヤシの木から実を落とす風習がある"
+  }
+ },
+ {
+  "slug": "iceberg-lettuce",
+  "en": "Iceberg Lettuce",
+  "n": {
+   "en": "Iceberg Lettuce",
+   "zh-CN": "冰山莴苣",
+   "zh-TW": "冰山萵苣",
+   "ja": "アイスバーグレタス"
+  },
+  "desc": {
+   "en": "A leafy, moisture-rich vegetable cultivated in Labyrinthos.",
+   "zh-CN": "在迷津经过品种改良，富含水分的莴苣菜。",
+   "zh-TW": "在迷津經過品種改良，富含水分的萵苣菜。",
+   "ja": "ラヴィリンソスで品種改良された、水分の多い葉菜"
+  }
+ },
+ {
+  "slug": "giant-popoto",
+  "en": "Giant Popoto",
+  "n": {
+   "en": "Giant Popoto",
+   "zh-CN": "巨人新薯",
+   "zh-TW": "巨人新薯",
+   "ja": "ジャイアントポポト"
+  },
+  "desc": {
+   "en": "An alarmingly overgrown popoto suitable for raising hearty Lalafells. (Any Lalafells reading this may rest assured that this does not qualify as cannibalism.)",
+   "zh-CN": "大得令人毛骨悚然的新薯。正合适那些想把拉拉菲尔族喂得又大又肥的人。",
+   "zh-TW": "大得令人毛骨悚然的新薯。正合適那些想把拉拉菲爾族喂得又大又肥的人。",
+   "ja": "不気味なほど大きいポポト。ララフェル族を大きく育てたい場合に最適"
+  }
+ },
+ {
+  "slug": "carrot-of-happiness",
+  "en": "Carrot of Happiness",
+  "n": {
+   "en": "Carrot of Happiness",
+   "zh-CN": "开心胡萝卜",
+   "zh-TW": "開心胡蘿蔔",
+   "ja": "ハピネスキャロット"
+  },
+  "desc": {
+   "en": "A nutrient-rich vegetable beloved by Loporrits. Just one nibble is enough to inspire feelings of euphoria.",
+   "zh-CN": "兔兔族特制胡萝卜，营养满分。只要吃过一口，就会为它神魂颠倒，爱它爱到不可自拔。",
+   "zh-TW": "兔兔族特製胡蘿蔔，營養滿分。只要喫過一口，就會爲它神魂顛倒，愛它愛到不可自拔。",
+   "ja": "栄養満点のレポリット特製キャロット。食べると、なぜか多幸感に包まれる"
+  }
+ },
+ {
+  "slug": "cucumber",
+  "en": "Cucumber",
+  "n": {
+   "en": "Cucumber",
+   "zh-CN": "黄瓜",
+   "zh-TW": "黃瓜",
+   "ja": "キューカンバー"
+  },
+  "desc": {
+   "en": "Garleans will often pickle this vine-grown fruit and then drink the juice as a hangover cure.",
+   "zh-CN": "一年生蔓生草本植物的果实。加雷马人认为将腌制后的黄瓜搅碎榨汁后喝完有助于治疗宿醉。",
+   "zh-TW": "一年生蔓生草本植物的果實。加雷馬人認爲將醃製後的黃瓜攪碎榨汁後喝完有助於治療宿醉。",
+   "ja": "蔓性一年草の果実。ガレマルドでは塩漬けにしたものをジュースにして、二日酔い対策に用いる"
+  }
+ },
+ {
+  "slug": "eblan-lentils",
+  "en": "Eblan Lentils",
+  "n": {
+   "en": "Eblan Lentils",
+   "zh-CN": "艾布拉纳小扁豆",
+   "zh-TW": "艾布拉納小扁豆",
+   "ja": "エブラーナレンティル"
+  },
+  "desc": {
+   "en": "Legumes that grow well in cold climates.",
+   "zh-CN": "即使是在苦寒之地也能种植的小扁豆。",
+   "zh-TW": "即使是在苦寒之地也能種植的小扁豆。",
+   "ja": "極寒地でも育つレンズ豆"
+  }
+ },
+ {
+  "slug": "beet",
+  "en": "Beet",
+  "n": {
+   "en": "Beet",
+   "zh-CN": "红菜",
+   "zh-TW": "紅菜",
+   "ja": "ビーツ"
+  },
+  "desc": {
+   "en": "A Garlean root vegetable that boasts a deep red color from its stem to its bulb.",
+   "zh-CN": "连根茎都是深红色的蔬菜，原产加雷马。",
+   "zh-TW": "連根莖都是深紅色的蔬菜，原產加雷馬。",
+   "ja": "茎まで真っ赤に染まったガレマルド原産の根菜"
+  }
+ },
+ {
+  "slug": "sideritis-leaves",
+  "en": "Sideritis Leaves",
+  "n": {
+   "en": "Sideritis Leaves",
+   "zh-CN": "高山茶叶",
+   "zh-TW": "高山茶葉",
+   "ja": "シデリティス茶葉"
+  },
+  "desc": {
+   "en": "The tea produced from this plant is somewhat bitter but possesses incredible medicinal properties.",
+   "zh-CN": "口感略微苦涩，但药效极佳的药茶茶叶。",
+   "zh-TW": "口感略微苦澀，但藥效極佳的藥茶茶葉。",
+   "ja": "渋みがあるが薬効に優れた茶葉"
+  }
+ },
+ {
+  "slug": "elder-nutmeg-seeds",
+  "en": "Elder Nutmeg Seeds",
+  "n": {
+   "en": "Elder Nutmeg Seeds",
+   "zh-CN": "古代肉豆蔻",
+   "zh-TW": "古代肉豆蔻",
+   "ja": "エルダーナツメグ"
+  },
+  "desc": {
+   "en": "An ancient spice that emits a sweet aroma. Used in cooking as well as in medicine.",
+   "zh-CN": "甜美芬芳的古代香料。常用在作为药品或者香料。",
+   "zh-TW": "甜美芬芳的古代香料。常用在作爲藥品或者香料。",
+   "ja": "甘やかな香りを放つ古代のスパイス。薬品や香料に用いられる"
+  }
+ },
+ {
+  "slug": "sykon",
+  "en": "Sykon",
+  "n": {
+   "en": "Sykon",
+   "zh-CN": "无花果",
+   "zh-TW": "無花果",
+   "ja": "シューコン"
+  },
+  "desc": {
+   "en": "A fruit known as a symbol of vitality and the lushness of nature.",
+   "zh-CN": "象征着生命力与自然丰饶的果实。",
+   "zh-TW": "象徵着生命力與自然豐饒的果實。",
+   "ja": "生命力や自然の豊かさの象徴ともされた果実"
+  }
+ },
+ {
+  "slug": "alien-onion",
+  "en": "Alien Onion",
+  "n": {
+   "en": "Alien Onion",
+   "zh-CN": "星外洋葱",
+   "zh-TW": "星外洋蔥",
+   "ja": "エイリアンオニオン"
+  },
+  "desc": {
+   "en": "A bizarre bulb that isn't actually an onion but looks vaguely reminiscent of one...",
+   "zh-CN": "某种白色球茎，并不是真正的洋葱，但吃着还算像……",
+   "zh-TW": "某種白色球莖，並不是真正的洋蔥，但喫着還算像……",
+   "ja": "オニオンに似た、得体の知れない白色の球根"
+  }
+ },
+ {
+  "slug": "thavnairian-paprika",
+  "en": "Thavnairian Paprika",
+  "n": {
+   "en": "Thavnairian Paprika",
+   "zh-CN": "萨维奈彩椒",
+   "zh-TW": "薩維奈彩椒",
+   "ja": "サベネアンパプリカ"
+  },
+  "desc": {
+   "en": "A brightly colored pepper produced on the island of Thavnair.",
+   "zh-CN": "原产萨维奈岛，艳丽多彩的辣椒。",
+   "zh-TW": "原產薩維奈島，豔麗多彩的辣椒。",
+   "ja": "サベネア島原産の色鮮やかなパプリカ"
+  }
+ },
+ {
+  "slug": "butterbeef",
+  "en": "Butterbeef",
+  "n": {
+   "en": "Butterbeef",
+   "zh-CN": "高级牛肉",
+   "zh-TW": "高級牛肉",
+   "ja": "高級牛肉"
+  },
+  "desc": {
+   "en": "This marbled meat is so tender that it practically melts in one's mouth.",
+   "zh-CN": "美味的精华都浓缩在里面的最高级牛肉。",
+   "zh-TW": "美味的精華都濃縮在裏面的最高級牛肉。",
+   "ja": "旨味が凝縮された最高級牛肉"
+  }
+ },
+ {
+  "slug": "giant-pumpkin",
+  "en": "Giant Pumpkin",
+  "n": {
+   "en": "Giant Pumpkin",
+   "zh-CN": "巨型南瓜",
+   "zh-TW": "巨型南瓜",
+   "ja": "ジャイアントパンプキン"
+  },
+  "desc": {
+   "en": "This gourd has been selectively cultivated and grown to a massive size—though many a La Noscean field hand would tell you they've seen bigger.",
+   "zh-CN": "经过品种改良变得巨大的南瓜。",
+   "zh-TW": "經過品種改良變得巨大的南瓜。",
+   "ja": "品種改良により大きくなったパンプキン"
+  }
+ },
+ {
+  "slug": "white-peach",
+  "en": "White Peach",
+  "n": {
+   "en": "White Peach",
+   "zh-CN": "白桃",
+   "zh-TW": "白桃",
+   "ja": "白桃"
+  },
+  "desc": {
+   "en": "A plump white peach highly sought after for its sweet aroma and rich flavor.",
+   "zh-CN": "一种又甜又香的水果。",
+   "zh-TW": "一種又甜又香的水果。",
+   "ja": "非常に甘く香り高い果物"
+  }
+ },
+ {
+  "slug": "subtle-cinnamon-sticks",
+  "en": "Subtle Cinnamon Sticks",
+  "n": {
+   "en": "Subtle Cinnamon Sticks",
+   "zh-CN": "高级桂皮",
+   "zh-TW": "高級桂皮",
+   "ja": "高級シナモン"
+  },
+  "desc": {
+   "en": "Finely stripped sticks of cinnamon with a complex flavor detectable to well-developed palates.",
+   "zh-CN": "完美无瑕的高级桂皮，散发着更优雅更细腻的香味。",
+   "zh-TW": "完美無瑕的高級桂皮，散發着更優雅更細膩的香味。",
+   "ja": "傷ひとつない高級シナモン。より上品で繊細な香りを放つ"
+  }
+ },
+ {
+  "slug": "potent-spice",
+  "en": "Potent Spice",
+  "n": {
+   "en": "Potent Spice",
+   "zh-CN": "天然香料",
+   "zh-TW": "天然香料",
+   "ja": "天然香辛料"
+  },
+  "desc": {
+   "en": "Not for the weak of heart or palate, this powdered mixture of natural spices gives any dish a flavorsome kick.",
+   "zh-CN": "最为合适为菜肴调味的天然香料。",
+   "zh-TW": "最爲合適爲菜餚調味的天然香料。",
+   "ja": "料理の風味付けに最適な天然の香辛料"
+  }
+ },
+ {
+  "slug": "hamsa-tenderloin",
+  "en": "Hamsa Tenderloin",
+  "n": {
+   "en": "Hamsa Tenderloin",
+   "zh-CN": "桓娑鸟胸肉",
+   "zh-TW": "桓娑鳥胸肉",
+   "ja": "ハンサの笹身"
+  },
+  "desc": {
+   "en": "Tender breast meat that is hopefully not poisonous.",
+   "zh-CN": "桓娑鸟的优质胸肉。理论上应该是没有毒的。",
+   "zh-TW": "桓娑鳥的優質胸肉。理論上應該是沒有毒的。",
+   "ja": "ハンサの胸の上質肉。おそらく毒液はかかっていない"
+  }
+ },
+ {
+  "slug": "yakow-chuck",
+  "en": "Yakow Chuck",
+  "n": {
+   "en": "Yakow Chuck",
+   "zh-CN": "亚考牛肩肉",
+   "zh-TW": "亞考牛肩肉",
+   "ja": "ヤーコウの肩肉"
+  },
+  "desc": {
+   "en": "A bit on the sinewy side, but highly nutritious.",
+   "zh-CN": "肉筋较多，但营养丰富的亚考牛肩肉。",
+   "zh-TW": "肉筋較多，但營養豐富的亞考牛肩肉。",
+   "ja": "やや筋張っているが栄養豊富なヤーコウの肩肉"
+  }
+ },
+ {
+  "slug": "ovibos-milk",
+  "en": "Ovibos Milk",
+  "n": {
+   "en": "Ovibos Milk",
+   "zh-CN": "麝牛奶",
+   "zh-TW": "麝牛奶",
+   "ja": "オウヴィボスの乳"
+  },
+  "desc": {
+   "en": "Possesses a unique taste one might not normally associate with milk.",
+   "zh-CN": "风味独特的麝牛奶。",
+   "zh-TW": "風味獨特的麝牛奶。",
+   "ja": "独特な風味を持つオウヴィボスの乳"
+  }
+ },
+ {
+  "slug": "egg-of-elpis",
+  "en": "Egg of Elpis",
+  "n": {
+   "en": "Egg of Elpis",
+   "zh-CN": "厄尔庇斯之鸟蛋",
+   "zh-TW": "厄爾庇斯之鳥蛋",
+   "ja": "エッグ・オブ・エルピス"
+  },
+  "desc": {
+   "en": "Birthed by a bird of Elpis, the hope within this egg seems unwilling to come out...",
+   "zh-CN": "厄尔庇斯之鸟又重又大的蛋，就当是希望的重量吧。",
+   "zh-TW": "厄爾庇斯之鳥又重又大的蛋，就當是希望的重量吧。",
+   "ja": "バード・オブ・エルピスの重い卵。中に希望が詰まっている"
+  }
+ },
+ {
+  "slug": "amra",
+  "en": "Amra",
+  "n": {
+   "en": "Amra",
+   "zh-CN": "庵摩罗果",
+   "zh-TW": "庵摩羅果",
+   "ja": "アームラ"
+  },
+  "desc": {
+   "en": "The signature fruit of Thavnair, the amra is often spotted clutched in the tail of a vajralangula.",
+   "zh-CN": "被萨维奈人视为圣果的果实。金刚尾进行求偶行为时也会使用这种果实。",
+   "zh-TW": "被薩維奈人視爲聖果的果實。金剛尾進行求偶行爲時也會使用這種果實。",
+   "ja": "サベネアで聖果とも呼ばれる果実。ヴァジュララングラが求愛行動にも用いる"
+  }
+ },
+ {
+  "slug": "bird-of-elpis-breast",
+  "en": "Bird of Elpis Breast",
+  "n": {
+   "en": "Bird of Elpis Breast",
+   "zh-CN": "厄尔庇斯之鸟胸肉",
+   "zh-TW": "厄爾庇斯之鳥胸肉",
+   "ja": "ブレスト・オブ・エルピス"
+  },
+  "desc": {
+   "en": "The most tender meat this bird has to offer.",
+   "zh-CN": "厄尔庇斯之鸟健壮发达的胸部肉。",
+   "zh-TW": "厄爾庇斯之鳥健壯發達的胸部肉。",
+   "ja": "バード・オブ・エルピスのよく発達した胸肉"
+  }
+ },
+ {
+  "slug": "thavnairian-corn",
+  "en": "Thavnairian Corn",
+  "n": {
+   "en": "Thavnairian Corn",
+   "zh-CN": "萨维奈玉米",
+   "zh-TW": "薩維奈玉米",
+   "ja": "サベネアンコーン"
+  },
+  "desc": {
+   "en": "A selectively bred variant cultivated from the maize once brought to Thavnair from the New World. Valued for its nutritional value and alchemical uses alike.",
+   "zh-CN": "从新大陆流传到萨维奈的谷物，在当地经历了品种改良。这种谷物除了作为食品和饲料的常规用途以外，也是一种备受关注的炼金材料。",
+   "zh-TW": "從新大陸流傳到薩維奈的穀物，在當地經歷了品種改良。這種穀物除了作爲食品和飼料的常規用途以外，也是一種備受關注的鍊金材料。",
+   "ja": "新大陸からサベネア島へと持ち込まれ、品種改良された穀類。食材・飼料としては勿論、錬金素材としての用途に注目されている"
+  }
+ },
+ {
+  "slug": "thundermelon",
+  "en": "Thundermelon",
+  "n": {
+   "en": "Thundermelon",
+   "zh-CN": "电感蜜瓜",
+   "zh-TW": "電感蜜瓜",
+   "ja": "サンダーメロン"
+  },
+  "desc": {
+   "en": "This fruit is sweet, but its rich and electrifying acidity numbs the tongue.",
+   "zh-CN": "浅绿色的水果，为任何试图尝试这种果实的人带来五雷轰顶般的酸爽。",
+   "zh-TW": "淺綠色的水果，爲任何試圖嘗試這種果實的人帶來五雷轟頂般的酸爽。",
+   "ja": "口にした者が痺れを感じるほどの豊かな酸味を持つ、薄緑色の果菜"
+  }
+ },
+ {
+  "slug": "sunset-carrot",
+  "en": "Sunset Carrot",
+  "n": {
+   "en": "Sunset Carrot",
+   "zh-CN": "落日胡萝卜",
+   "zh-TW": "落日胡蘿蔔",
+   "ja": "サンセットカロット"
+  },
+  "desc": {
+   "en": "Crepuscular carrots packed with nutrients.",
+   "zh-CN": "有着黄昏般美丽色泽的胡萝卜，有较高的营养价值。",
+   "zh-TW": "有着黃昏般美麗色澤的胡蘿蔔，有較高的營養價值。",
+   "ja": "夕焼け色に染まった栄養価の高いカロット"
+  }
+ },
+ {
+  "slug": "prime-loaghtan-rump",
+  "en": "Prime Loaghtan Rump",
+  "n": {
+   "en": "Prime Loaghtan Rump",
+   "zh-CN": "洛夫坦山羊臀肉",
+   "zh-TW": "洛夫坦山羊臀肉",
+   "ja": "ロフタンの高級ランプ肉"
+  },
+  "desc": {
+   "en": "A sumptuous slice of meat cut from a loved and nurtured loaghtan.",
+   "zh-CN": "从精心饲养的洛夫坦山羊身上取得的高级洛夫坦山羊臀肉。",
+   "zh-TW": "從精心飼養的洛夫坦山羊身上取得的高級洛夫坦山羊臀肉。",
+   "ja": "手間暇かけて育てられたロフタンの上質なランプ肉"
+  }
+ },
+ {
+  "slug": "piennolo-tomato",
+  "en": "Piennolo Tomato",
+  "n": {
+   "en": "Piennolo Tomato",
+   "zh-CN": "悬挂番茄",
+   "zh-TW": "懸掛番茄",
+   "ja": "ピエンノロトマト"
+  },
+  "desc": {
+   "en": "A juicy, thick-skinned tomato brimming with essential minerals.",
+   "zh-CN": "有着厚实表皮和丰富果汁的番茄，富含矿物质。",
+   "zh-TW": "有着厚實表皮和豐富果汁的番茄，富含礦物質。",
+   "ja": "厚い皮を持ち、ミネラルを豊富に含むジューシーなトマト"
+  }
+ },
+ {
+  "slug": "select-pixieberry",
+  "en": "Select Pixieberry",
+  "n": {
+   "en": "Select Pixieberry",
+   "zh-CN": "卓越商会特选仙子莓",
+   "zh-TW": "卓越商會特選仙子莓",
+   "ja": "モーエン商会特選ピクシーベリー"
+  },
+  "desc": {
+   "en": "A dainty and delectable pixieberry, selected for its quality by a Boutique of Splendors procurer.",
+   "zh-CN": "莫雯卓越商会从某处筹集到的优质仙子莓。",
+   "zh-TW": "莫雯卓越商會從某處籌集到的優質仙子莓。",
+   "ja": "モーエン商会が調達した上質なピクシーベリー"
+  }
+ },
+ {
+  "slug": "select-squid-ink",
+  "en": "Select Squid Ink",
+  "n": {
+   "en": "Select Squid Ink",
+   "zh-CN": "卓越商会特选乌贼墨汁",
+   "zh-TW": "卓越商會特選烏賊墨汁",
+   "ja": "モーエン商会特選スクイッドインク"
+  },
+  "desc": {
+   "en": "A jar of rich and silky squid ink, selected for its quality by a Boutique of Splendors procurer.",
+   "zh-CN": "莫雯卓越商会从某处筹集到的优质乌贼墨汁。",
+   "zh-TW": "莫雯卓越商會從某處籌集到的優質烏賊墨汁。",
+   "ja": "モーエン商会が調達した上質なスクイッドインク"
+  }
+ },
+ {
+  "slug": "connoisseur-s-miracle-apple",
+  "en": "Connoisseur's Miracle Apple",
+  "n": {
+   "en": "Connoisseur's Miracle Apple",
+   "zh-CN": "面向收藏家的仙果",
+   "zh-TW": "面向收藏家的仙果",
+   "ja": "好事家向けのミラクルアップル"
+  },
+  "desc": {
+   "en": "A fruit harvested with the discerning standards of an avid collector in mind, and well suited to aetherial reduction (or consumption by hungry artisans).",
+   "zh-CN": "面向有眼光的收藏家收集的优质仙果。精选后有可能获得用于改良的稀有素材。",
+   "zh-TW": "面向有眼光的收藏家收集的優質仙果。精選後有可能獲得用於改良的稀有素材。",
+   "ja": "審美眼の厳しい好事家が収集しているというミラクルアップル。精選を行うことで、改良に適した稀少素材を得ることができるらしい"
+  }
+ },
+ {
+  "slug": "connoisseur-s-cloves",
+  "en": "Connoisseur's Cloves",
+  "n": {
+   "en": "Connoisseur's Cloves",
+   "zh-CN": "面向收藏家的丁香",
+   "zh-TW": "面向收藏家的丁香",
+   "ja": "好事家向けのクローヴ"
+  },
+  "desc": {
+   "en": "A material harvested with the discerning standards of an avid collector in mind, and well suited to aetherial reduction. Also, pies.",
+   "zh-CN": "面向有眼光的收藏家收集的优质丁香。精选后有可能获得用于改良的稀有素材。",
+   "zh-TW": "面向有眼光的收藏家收集的優質丁香。精選後有可能獲得用於改良的稀有素材。",
+   "ja": "審美眼の厳しい好事家が収集しているというクローヴ。精選を行うことで、改良に適した稀少素材を得ることができるらしい"
+  }
+ },
+ {
+  "slug": "dragonfruit",
+  "en": "Dragonfruit",
+  "n": {
+   "en": "Dragonfruit",
+   "zh-CN": "火龙果",
+   "zh-TW": "火龍果",
+   "ja": "ドラゴンフルーツ"
+  },
+  "desc": {
+   "en": "This milky white fruit is shielded by scaly skin not entirely unlike that of dragonkind, though whether any member of the race approves of this comparison to vividly pink produce remains an open question.",
+   "zh-CN": "红色的外皮仿佛龙鳞一般，里面白色的果实味道鲜甜。",
+   "zh-TW": "紅色的外皮彷彿龍鱗一般，裏面白色的果實味道鮮甜。",
+   "ja": "竜鱗のような紅い皮に守られた、甘い白色の果実"
+  }
+ },
+ {
+  "slug": "dark-eggplant",
+  "en": "Dark Eggplant",
+  "n": {
+   "en": "Dark Eggplant",
+   "zh-CN": "暗色茄子",
+   "zh-TW": "暗色茄子",
+   "ja": "ダークエッグプラント"
+  },
+  "desc": {
+   "en": "When asked to explain its flavor profile, a culinarian claimed that this subtropical eggplant is “a little, hmm...richer?” than the average wizard eggplant. This presumably means something to those versed in the inscrutable art of cuisine, who employ this nightshade in a wide variety of dishes.",
+   "zh-CN": "原产于亚热带，能够广泛适用于各种烹饪技法的绛紫色蔬菜。",
+   "zh-TW": "原產於亞熱帶，能夠廣泛適用於各種烹飪技法的絳紫色蔬菜。",
+   "ja": "幅広い調理法に適した、亜熱帯原産の濃紫色の果菜"
+  }
+ },
+ {
+  "slug": "pure-cumin",
+  "en": "Pure Cumin",
+  "n": {
+   "en": "Pure Cumin",
+   "zh-CN": "高级孜然",
+   "zh-TW": "高級孜然",
+   "ja": "高級クミン"
+  },
+  "desc": {
+   "en": "This bright, earthy spice is prized for its versatility both culinary and otherwise, appearing in all manner of medicinal tinctures and beauty treatments.",
+   "zh-CN": "原产自亚热带的一种高级香辛料，兼具药用以及美容的效果。",
+   "zh-TW": "原產自亞熱帶的一種高級香辛料，兼具藥用以及美容的效果。",
+   "ja": "薬用・美容にも用いられる、亜熱帯由来の高級香辛料"
+  }
+ },
+ {
+  "slug": "broccoflower",
+  "en": "Broccoflower",
+  "n": {
+   "en": "Broccoflower",
+   "zh-CN": "球形甘蓝",
+   "zh-TW": "球形甘藍",
+   "ja": "ブロコフラワー"
+  },
+  "desc": {
+   "en": "A unique vegetable boasting a fractal form that has baffled botanists for generations. Though tempting, it is best not to stare directly at its illusory buds.",
+   "zh-CN": "花蕾呈现出螺旋形几何学纹样的蔬菜。",
+   "zh-TW": "花蕾呈現出螺旋形幾何學紋樣的蔬菜。",
+   "ja": "幾何学模様を帯びた螺旋形の花蕾が特徴的な野菜"
+  }
+ },
+ {
+  "slug": "connoisseur-s-glimshroom",
+  "en": "Connoisseur's Glimshroom",
+  "n": {
+   "en": "Connoisseur's Glimshroom",
+   "zh-CN": "面向收藏家的灯火茸",
+   "zh-TW": "面向收藏家的燈火茸",
+   "ja": "好事家向けのトモシビダケ"
+  },
+  "desc": {
+   "en": "A material harvested with the discerning standards of an avid collector in mind, and well suited to aetherial reduction. Contains all the luminous convenience of a torch without the fire.",
+   "zh-CN": "面向有眼光的收藏家收集的灯火茸。精选后有可能获得用于改良的稀有素材。",
+   "zh-TW": "面向有眼光的收藏家收集的燈火茸。精選後有可能獲得用於改良的稀有素材。",
+   "ja": "審美眼の厳しい好事家が収集しているというトモシビダケ。精選を行うことで、改良に適した稀少素材を得ることができるらしい"
+  }
+ },
+ {
+  "slug": "prime-kukuru-beans",
+  "en": "Prime Kukuru Beans",
+  "n": {
+   "en": "Prime Kukuru Beans",
+   "zh-CN": "不定性可可豆",
+   "zh-TW": "不定性可可豆",
+   "ja": "不定性ククルビーン"
+  },
+  "desc": {
+   "en": "This bean is born of a kukuru tree cultivated within Labyrinthos's precisely controlled climate. Under the right conditions, it could become sublime.",
+   "zh-CN": "在迷津培育的可可树的种子。收藏品采集时，有升华为“升华可可豆”的可能性。",
+   "zh-TW": "在迷津培育的可可樹的種子。收藏品採集時，有昇華爲“昇華可可豆”的可能性。",
+   "ja": "ラヴィリンソスで育ったククルの木の実。収集品採集時に「昇華ククルビーン」に昇華する可能性がある"
+  }
+ },
+ {
+  "slug": "sublime-kukuru-beans",
+  "en": "Sublime Kukuru Beans",
+  "n": {
+   "en": "Sublime Kukuru Beans",
+   "zh-CN": "升华可可豆",
+   "zh-TW": "昇華可可豆",
+   "ja": "昇華ククルビーン"
+  },
+  "desc": {
+   "en": "This wondrous kukuru bean has gone from prime to sublime through a process you don't understand and aren't going to worry about. What's important is that it promises an impressive yield from aetherial reduction.",
+   "zh-CN": "“不定性可可豆”升华后得到的果实。能精选出更为优质的道具。",
+   "zh-TW": "“不定性可可豆”昇華後得到的果實。能精選出更爲優質的道具。",
+   "ja": "「不定性ククルビーン」が昇華した木の実。精選での成果がより期待できる"
+  }
+ },
+ {
+  "slug": "cooking-mezcal",
+  "en": "Cooking Mezcal",
+  "n": {
+   "en": "Cooking Mezcal",
+   "zh-CN": "梅斯卡料酒",
+   "zh-TW": "梅斯卡料酒",
+   "ja": "メスカル料理酒"
+  },
+  "desc": {
+   "en": "Distilled from the fermented pulp of megamaguey pineapples.",
+   "zh-CN": "将巨龙舌兰的球茎发酵，把榨好的汁液加工后得到的料酒。",
+   "zh-TW": "將巨龍舌蘭的球莖發酵，把榨好的汁液加工後得到的料酒。",
+   "ja": "メガマゲイの球茎を醗酵させ、絞り出した汁を加工した料理酒"
+  }
+ },
+ {
+  "slug": "ut-ohmu-chili-sauce",
+  "en": "Ut'ohmu Chili Sauce",
+  "n": {
+   "en": "Ut'ohmu Chili Sauce",
+   "zh-CN": "乌托姆辣酱",
+   "zh-TW": "烏託姆辣醬",
+   "ja": "ウトォームチリソース"
+  },
+  "desc": {
+   "en": "A sweet and spicy condiment crafted from the paste of Ut'ohmu tomatoes.",
+   "zh-CN": "将乌托姆番茄加工成糊状并加入辣椒调味的甜辣酱。",
+   "zh-TW": "將烏託姆番茄加工成糊狀並加入辣椒調味的甜辣醬。",
+   "ja": "ウトォームトマトをペースト状に加工して辛味を加えた甘辛いソース"
+  }
+ },
+ {
+  "slug": "royal-maple-syrup",
+  "en": "Royal Maple Syrup",
+  "n": {
+   "en": "Royal Maple Syrup",
+   "zh-CN": "高级枫糖浆",
+   "zh-TW": "高級楓糖漿",
+   "ja": "ロイヤルメープルシロップ"
+  },
+  "desc": {
+   "en": "A viscous, sugary reduction of royal maple sap.",
+   "zh-CN": "将高级枫树树汁浓缩后得到的浓稠糖蜜。",
+   "zh-TW": "將高級楓樹樹汁濃縮後得到的濃稠糖蜜。",
+   "ja": "ロイヤルメープル樹液を煮詰めた濃厚な糖蜜"
+  }
+ },
+ {
+  "slug": "whipped-cream",
+  "en": "Whipped Cream",
+  "n": {
+   "en": "Whipped Cream",
+   "zh-CN": "泡沫奶油",
+   "zh-TW": "泡沫奶油",
+   "ja": "ホイップクリーム"
+  },
+  "desc": {
+   "en": "A fluffy and faintly sweet plant-based cream made with oilseed extract.",
+   "zh-CN": "用菜籽油做成的又甜又轻盈的植物性奶油。",
+   "zh-TW": "用菜籽油做成的又甜又輕盈的植物性奶油。",
+   "ja": "ラプシードの油から作った、甘くふんわりとした植物性クリーム"
+  }
+ },
+ {
+  "slug": "turali-corn-oil",
+  "en": "Turali Corn Oil",
+  "n": {
+   "en": "Turali Corn Oil",
+   "zh-CN": "图拉尔玉米油",
+   "zh-TW": "圖拉爾玉米油",
+   "ja": "トラルコーンオイル"
+  },
+  "desc": {
+   "en": "Extracted from the dried germ of Turali corn, this oil is perfect for frying.",
+   "zh-CN": "用图拉尔玉米榨出的油，适合烹饪热菜。",
+   "zh-TW": "用圖拉爾玉米榨出的油，適合烹飪熱菜。",
+   "ja": "トラルコーンから抽出した油。加熱調理にも適している"
+  }
+ },
+ {
+  "slug": "mountain-salt",
+  "en": "Mountain Salt",
+  "n": {
+   "en": "Mountain Salt",
+   "zh-CN": "高山食盐",
+   "zh-TW": "高山食鹽",
+   "ja": "高山食塩"
+  },
+  "desc": {
+   "en": "Fine grains of “divine blessing” mined from the mountains of Urqopacha.",
+   "zh-CN": "用奥阔帕恰山出产的高山岩盐制成的食盐。",
+   "zh-TW": "用奧闊帕恰山出產的高山岩鹽製成的食鹽。",
+   "ja": "オルコ・パチャの恵みである、高山岩塩から削り出した食塩"
+  }
+ },
+ {
+  "slug": "ut-ohmu-tomato",
+  "en": "Ut'ohmu Tomato",
+  "n": {
+   "en": "Ut'ohmu Tomato",
+   "zh-CN": "乌托姆番茄",
+   "zh-TW": "烏託姆番茄",
+   "ja": "ウトォームトマト"
+  },
+  "desc": {
+   "en": "Cultivated under the harsh sun of the Ut'ohmu Horizon, these ruby-red tomatoes are prized for their sweetness.",
+   "zh-CN": "生长在亚克特尔树海的红色果蔬。在乌托姆地平线的阳光照射下茁壮成长，以高糖度而闻名。",
+   "zh-TW": "生長在亞克特爾樹海的紅色果蔬。在烏託姆地平線的陽光照射下茁壯成長，以高糖度而聞名。",
+   "ja": "ヤクテル樹海に生育する真紅の果菜。ウトォームの地平線で太陽を受けて育ち、高い糖度で知られる"
+  }
+ },
+ {
+  "slug": "royal-maple-sap",
+  "en": "Royal Maple Sap",
+  "n": {
+   "en": "Royal Maple Sap",
+   "zh-CN": "高级枫树树汁",
+   "zh-TW": "高級楓樹樹汁",
+   "ja": "ロイヤルメープル樹液"
+  },
+  "desc": {
+   "en": "A clear, sticky substance extracted from royal maple trees.",
+   "zh-CN": "从高级枫树采集到的树汁。",
+   "zh-TW": "從高級楓樹採集到的樹汁。",
+   "ja": "ロイヤルメープルから採取した樹液"
+  }
+ },
+ {
+  "slug": "shaaloani-oilseeds",
+  "en": "Shaaloani Oilseeds",
+  "n": {
+   "en": "Shaaloani Oilseeds",
+   "zh-CN": "夏劳尼油菜籽",
+   "zh-TW": "夏勞尼油菜籽",
+   "ja": "シャーローニ・オイルシード"
+  },
+  "desc": {
+   "en": "Indigenous to the wilds of Shaaloani, these robust seeds are developed over a period of months, then processed into oil for cooking.",
+   "zh-CN": "在荒野经过漫长岁月结出的优质油菜籽。小粒但出油量很高。",
+   "zh-TW": "在荒野經過漫長歲月結出的優質油菜籽。小粒但出油量很高。",
+   "ja": "荒野で長い年月をかけて実った、上質なアブラナの種子。小さな粒だが、大量に絞ることで油を抽出できる"
+  }
+ },
+ {
+  "slug": "turali-corn",
+  "en": "Turali Corn",
+  "n": {
+   "en": "Turali Corn",
+   "zh-CN": "图拉尔玉米",
+   "zh-TW": "圖拉爾玉米",
+   "ja": "トラルコーン"
+  },
+  "desc": {
+   "en": "A superb species of grain native to the continent of Tural.",
+   "zh-CN": "原产于图拉尔大陆的多实谷物。",
+   "zh-TW": "原產於圖拉爾大陸的多實穀物。",
+   "ja": "トラル大陸原産の粒ぞろいの穀類"
+  }
+ },
+ {
+  "slug": "mountain-rock-salt",
+  "en": "Mountain Rock Salt",
+  "n": {
+   "en": "Mountain Rock Salt",
+   "zh-CN": "高山岩盐",
+   "zh-TW": "高山岩鹽",
+   "ja": "高山岩塩"
+  },
+  "desc": {
+   "en": "Naturally occurring crystals of mineral-rich meltwater that flows down from the peaks of Urqopacha.",
+   "zh-CN": "在奥阔帕恰山丰富的矿物质水以及融雪水的浸透下形成的岩盐。",
+   "zh-TW": "在奧闊帕恰山豐富的礦物質水以及融雪水的浸透下形成的岩鹽。",
+   "ja": "オルコ・パチャのミネラル豊富な湧き水や雪解け水が染み込んで生成された岩塩"
+  }
+ },
+ {
+  "slug": "broccoli",
+  "en": "Broccoli",
+  "n": {
+   "en": "Broccoli",
+   "zh-CN": "西兰花",
+   "zh-TW": "西蘭花",
+   "ja": "ブロッコリー"
+  },
+  "desc": {
+   "en": "A cruciferous vegetable whose many florets form a distinct tree-like shape.",
+   "zh-CN": "花蕾像树木一样分岔的蔬菜。",
+   "zh-TW": "花蕾像樹木一樣分岔的蔬菜。",
+   "ja": "多くの花蕾が木のように枝分かれした形が特徴的な野菜"
+  }
+ },
+ {
+  "slug": "bell-pepper",
+  "en": "Bell Pepper",
+  "n": {
+   "en": "Bell Pepper",
+   "zh-CN": "柿子椒",
+   "zh-TW": "柿子椒",
+   "ja": "ピーマン"
+  },
+  "desc": {
+   "en": "This faintly bitter Turali vegetable is also sometimes used in medicines and perfumes.",
+   "zh-CN": "原产于图拉尔大陆，略带苦味的绿色蔬菜。除了食材以外，还被用作药品和香料。",
+   "zh-TW": "原產於圖拉爾大陸，略帶苦味的綠色蔬菜。除了食材以外，還被用作藥品和香料。",
+   "ja": "トラル大陸原産の、やや苦みがある緑色の野菜。食材の他、薬品や香料としても用いられる"
+  }
+ },
+ {
+  "slug": "yyasulani-garlic",
+  "en": "Yyasulani Garlic",
+  "n": {
+   "en": "Yyasulani Garlic",
+   "zh-CN": "亚斯拉尼蒜头",
+   "zh-TW": "亞斯拉尼蒜頭",
+   "ja": "ヤースラニガーリック"
+  },
+  "desc": {
+   "en": "What this Tural-grown garlic lacks in size, it makes up for with richness of aroma and nutrients.",
+   "zh-CN": "球根本身可用作香辛料。和其他品种相比个头偏小，但营养丰富，气味也更冲。",
+   "zh-TW": "球根本身可用作香辛料。和其他品種相比個頭偏小，但營養豐富，氣味也更衝。",
+   "ja": "球根からなるスパイス。他品種に比べ小振りだが、濃厚な臭みと豊富な栄養素を持つ"
+  }
+ },
+ {
+  "slug": "white-pepper",
+  "en": "White Pepper",
+  "n": {
+   "en": "White Pepper",
+   "zh-CN": "白胡椒",
+   "zh-TW": "白胡椒",
+   "ja": "ホワイトペッパー"
+  },
+  "desc": {
+   "en": "An aromatic spice with a comparatively milder, sweeter heat.",
+   "zh-CN": "种子本身可用作香辛料。同时具有辛辣与甜味两种独特的风味。",
+   "zh-TW": "種子本身可用作香辛料。同時具有辛辣與甜味兩種獨特的風味。",
+   "ja": "種子からなるスパイス。独特の風味があり、辛さと甘さを併せ持つ"
+  }
+ },
+ {
+  "slug": "mesquite-beans",
+  "en": "Mesquite Beans",
+  "n": {
+   "en": "Mesquite Beans",
+   "zh-CN": "牧豆树豆子",
+   "zh-TW": "牧豆樹豆子",
+   "ja": "メスキート豆"
+  },
+  "desc": {
+   "en": "Prized for their adaptability, these beans can be planted even in the most arid of environs.",
+   "zh-CN": "繁殖力旺盛，在干燥地域也能茁壮生长的豆类。",
+   "zh-TW": "繁殖力旺盛，在乾燥地域也能茁壯生長的豆類。",
+   "ja": "繁殖力が強く、乾燥地域でもよく育つ豆"
+  }
+ },
+ {
+  "slug": "turali-pineapple",
+  "en": "Turali Pineapple",
+  "n": {
+   "en": "Turali Pineapple",
+   "zh-CN": "图拉尔菠萝",
+   "zh-TW": "圖拉爾菠蘿",
+   "ja": "トラルパイナップル"
+  },
+  "desc": {
+   "en": "This sweet and tangy Turali fruit is protected by a tough, spiky rind.",
+   "zh-CN": "原产于图拉尔大陆的酸甜果实，外表有一层厚皮。",
+   "zh-TW": "原產於圖拉爾大陸的酸甜果實，外表有一層厚皮。",
+   "ja": "トラル大陸原産の、厚い皮に包まれた甘酸っぱい果実"
+  }
+ },
+ {
+  "slug": "turali-aloe",
+  "en": "Turali Aloe",
+  "n": {
+   "en": "Turali Aloe",
+   "zh-CN": "图拉尔芦荟",
+   "zh-TW": "圖拉爾蘆薈",
+   "ja": "トラルアロエ"
+  },
+  "desc": {
+   "en": "Distantly related to the strain that grows in Meracydia, this hardy succulent stores water in its leaves to survive in dry climates.",
+   "zh-CN": "与南方大陆美拉西迪亚的芦荟不同，属于另一品种的多肉植物的叶菜。富含水分，在干燥地带也能茁壮成长。",
+   "zh-TW": "與南方大陸美拉西迪亞的蘆薈不同，屬於另一品種的多肉植物的葉菜。富含水分，在乾燥地帶也能茁壯成長。",
+   "ja": "南方メラシディアとは別品種の多肉植物の葉菜。水分が豊富に含まれ、乾燥地帯でもよく育つ"
+  }
+ },
+ {
+  "slug": "wild-ja-tiika-bananas",
+  "en": "Wild Ja Tiika Bananas",
+  "n": {
+   "en": "Wild Ja Tiika Bananas",
+   "zh-CN": "野生加提卡香蕉",
+   "zh-TW": "野生加提卡香蕉",
+   "ja": "ワイルドジャティーカバナナ"
+  },
+  "desc": {
+   "en": "These luminescent blue bananas are the direct predecessor of the selectively crossbred strain now grown in Golmajiik Grove. Under the peel, the fruit is mild in color and flavor both.",
+   "zh-CN": "鲜甜蜜园改良之前的品种，有着青色外皮的香蕉。果肉为淡白色，味道还算不错。",
+   "zh-TW": "鮮甜蜜園改良之前的品種，有着青色外皮的香蕉。果肉爲淡白色，味道還算不錯。",
+   "ja": "ゴルマジーカ蜜園の改良品種の原種にあたる、青く輝く皮を持つバナナ。その果肉は淡白な色で、至って普通に美味"
+  }
+ },
+ {
+  "slug": "sweet-kukuru-bean",
+  "en": "Sweet Kukuru Bean",
+  "n": {
+   "en": "Sweet Kukuru Bean",
+   "zh-CN": "甜可可豆",
+   "zh-TW": "甜可可豆",
+   "ja": "スイートククルビーン"
+  },
+  "desc": {
+   "en": "An overpoweringly sweet variety of kukuru bean indigenous to Tural.",
+   "zh-CN": "原产于图拉尔大陆，具有强烈甜味的可可树种子。",
+   "zh-TW": "原產於圖拉爾大陸，具有強烈甜味的可可樹種子。",
+   "ja": "トラル大陸原産の、強い甘味を持つククルの木の種"
+  }
+ },
+ {
+  "slug": "alpaca-fillet",
+  "en": "Alpaca Fillet",
+  "n": {
+   "en": "Alpaca Fillet",
+   "zh-CN": "羊驼的里脊肉",
+   "zh-TW": "羊駝的裏脊肉",
+   "ja": "アルパカのフィレ肉"
+  },
+  "desc": {
+   "en": "A choice cut of alpaca meat commonly reserved for celebratory banquets.",
+   "zh-CN": "柔软没有异味的羊驼里脊肉，是常见于喜事或庆典中的贵重食材。",
+   "zh-TW": "柔軟沒有異味的羊駝裏脊肉，是常見於喜事或慶典中的貴重食材。",
+   "ja": "柔らかく癖のないアルパカのフィレ肉。慶事や祭りなどに用いられる貴重な食材"
+  }
+ },
+ {
+  "slug": "swampmonk-thigh",
+  "en": "Swampmonk Thigh",
+  "n": {
+   "en": "Swampmonk Thigh",
+   "zh-CN": "沼泽鬼鱼的腿肉",
+   "zh-TW": "沼澤鬼魚的腿肉",
+   "ja": "スワンプモンクのモモ肉"
+  },
+  "desc": {
+   "en": "A moist, tender slice of meat taken from the leg of a swampmonk.",
+   "zh-CN": "多汁又有弹性的沼泽鬼鱼的腿肉。",
+   "zh-TW": "多汁又有彈性的沼澤鬼魚的腿肉。",
+   "ja": "潤いを保った歯ごたえのあるスワンプモンクのモモ肉"
+  }
+ },
+ {
+  "slug": "branchbearer-fruit",
+  "en": "Branchbearer Fruit",
+  "n": {
+   "en": "Branchbearer Fruit",
+   "zh-CN": "拟鸟枝的果实",
+   "zh-TW": "擬鳥枝的果實",
+   "ja": "ブランチベアラーの果実"
+  },
+  "desc": {
+   "en": "Harvested from the body of a branchbearer. The green flesh is exceedingly sour.",
+   "zh-CN": "拟鸟枝的果实，果肉呈绿色，具有很强的酸味。",
+   "zh-TW": "擬鳥枝的果實，果肉呈綠色，具有很強的酸味。",
+   "ja": "ブランチベアラーに生る果実。酸味の強い緑色の果肉を持つ"
+  }
+ },
+ {
+  "slug": "nopalitender-tuna",
+  "en": "Nopalitender Tuna",
+  "n": {
+   "en": "Nopalitender Tuna",
+   "zh-CN": "圆扇刺梨",
+   "zh-TW": "圓扇刺梨",
+   "ja": "ノパルテンダーのトゥナ"
+  },
+  "desc": {
+   "en": "Harvested from the body of a nopalitender. Its flesh is watery, yet sweet.",
+   "zh-CN": "圆扇刺的果实，味道甜美、富含水分。",
+   "zh-TW": "圓扇刺的果實，味道甜美、富含水分。",
+   "ja": "ノパルテンダーに生る果実。水分豊富な甘い果肉を持つ"
+  }
+ },
+ {
+  "slug": "megamaguey-pineapple",
+  "en": "Megamaguey Pineapple",
+  "n": {
+   "en": "Megamaguey Pineapple",
+   "zh-CN": "巨龙舌兰的球茎",
+   "zh-TW": "巨龍舌蘭的球莖",
+   "ja": "メガマゲイの球茎"
+  },
+  "desc": {
+   "en": "Harvested from the body of a megamaguey. Like agave, it can be used to produce mezcal with a rich and full-bodied flavor.",
+   "zh-CN": "巨龙舌兰的球茎，和龙舌兰一样可以酿造醇厚的梅斯卡酒。",
+   "zh-TW": "巨龍舌蘭的球莖，和龍舌蘭一樣可以釀造醇厚的梅斯卡酒。",
+   "ja": "メガマゲイの球茎部分。アガベ同様、芳醇なメスカルの材料となる"
+  }
+ },
+ {
+  "slug": "rroneek-chuck",
+  "en": "Rroneek Chuck",
+  "n": {
+   "en": "Rroneek Chuck",
+   "zh-CN": "犎牛肩肉",
+   "zh-TW": "犎牛肩肉",
+   "ja": "ロネークの肩肉"
+  },
+  "desc": {
+   "en": "The tough, sinewy shoulder meat of a rroneek.",
+   "zh-CN": "没有什么膻味，略带嚼头的犎牛的红瘦肉。",
+   "zh-TW": "沒有什麼羶味，略帶嚼頭的犎牛的紅瘦肉。",
+   "ja": "歯ごたえのある、臭みの少ないロネークの赤身肉"
+  }
+ },
+ {
+  "slug": "cherimoya",
+  "en": "Cherimoya",
+  "n": {
+   "en": "Cherimoya",
+   "zh-CN": "冷园果",
+   "zh-TW": "冷園果",
+   "ja": "チェリモヤ"
+  },
+  "desc": {
+   "en": "Tural's most famed export. Beneath the scaly green skin is a soft, sweet pulp.",
+   "zh-CN": "图莱尤拉特产的甜味果实。外皮像鳞片，果肉洁白柔软。",
+   "zh-TW": "圖萊尤拉特產的甜味果實。外皮像鱗片，果肉潔白柔軟。",
+   "ja": "トライヨラの特産品である甘い果実。鱗のような見た目の皮を持つが、果肉は白く柔らかい"
+  }
+ },
+ {
+  "slug": "rumpless-chicken",
+  "en": "Rumpless Chicken",
+  "n": {
+   "en": "Rumpless Chicken",
+   "zh-CN": "无尾鸡",
+   "zh-TW": "無尾雞",
+   "ja": "ラムプレスチキン"
+  },
+  "desc": {
+   "en": "It has no rump. It has some grace. This chicken has a gamy taste.",
+   "zh-CN": "某部族选育出的无尾鸡的肉，有着充满自然气息的粗犷风味。",
+   "zh-TW": "某部族選育出的無尾雞的肉，有着充滿自然氣息的粗獷風味。",
+   "ja": "ある部族が育てていた尾のない鶏の肉。野性味のある味が特徴"
+  }
+ },
+ {
+  "slug": "brown-cardamom",
+  "en": "Brown Cardamom",
+  "n": {
+   "en": "Brown Cardamom",
+   "zh-CN": "棕豆蔻",
+   "zh-TW": "棕豆蔻",
+   "ja": "ブラウンカルダモン"
+  },
+  "desc": {
+   "en": "These earthy spice pods bear a smoky-yet-sophisticated fragrance coveted by many a culinarian.",
+   "zh-CN": "颗粒饱满、香味优雅浓郁的稀有香料。",
+   "zh-TW": "顆粒飽滿、香味優雅濃郁的稀有香料。",
+   "ja": "大粒に育った、上品な香りを持つ希少な香辛料"
+  }
+ },
+ {
+  "slug": "wild-coffee-beans",
+  "en": "Wild Coffee Beans",
+  "n": {
+   "en": "Wild Coffee Beans",
+   "zh-CN": "野咖啡豆",
+   "zh-TW": "野咖啡豆",
+   "ja": "ワイルドコーヒービーン"
+  },
+  "desc": {
+   "en": "Slowly and carefully grown at mountainous altitudes, these fresh coffee beans are known to produce more complex flavors than most.",
+   "zh-CN": "在高地的严酷环境中长出的芬芳生咖啡豆。",
+   "zh-TW": "在高地的嚴酷環境中長出的芬芳生咖啡豆。",
+   "ja": "高地の過酷な環境で育った、香味のあるコーヒーの生豆"
+  }
+ },
+ {
+  "slug": "navel-orange",
+  "en": "Navel Orange",
+  "n": {
+   "en": "Navel Orange",
+   "zh-CN": "脐橙",
+   "zh-TW": "臍橙",
+   "ja": "ネーブルオレンジ"
+  },
+  "desc": {
+   "en": "Renowned for its natural sweetness and tender, aromatic flesh, this bright citrus is easily recognized by the small hollow in its skin.",
+   "zh-CN": "果顶生有特征性凹坑的橙子。",
+   "zh-TW": "果頂生有特徵性凹坑的橙子。",
+   "ja": "果頂部に独特の窪みがあるオレンジ"
+  }
+ },
+ {
+  "slug": "cassava",
+  "en": "Cassava",
+  "n": {
+   "en": "Cassava",
+   "zh-CN": "木薯",
+   "zh-TW": "木薯",
+   "ja": "キャッサバ"
+  },
+  "desc": {
+   "en": "A root vegetable cultivated across Tural and staple of myriad different local cuisines.",
+   "zh-CN": "图拉尔大陆广泛栽培的根菜，被许多部落当做主食食用，各地都有自己独特的烹饪方法。",
+   "zh-TW": "圖拉爾大陸廣泛栽培的根菜，被許多部落當做主食食用，各地都有自己獨特的烹飪方法。",
+   "ja": "トラル大陸で広く栽培されている特産品の根菜。主食として用いられ、部族ごとに異なった調理法があるという"
+  }
+ },
+ {
+  "slug": "splendid-mate-leaves",
+  "en": "Splendid Mate Leaves",
+  "n": {
+   "en": "Splendid Mate Leaves",
+   "zh-CN": "最高级马黛茶",
+   "zh-TW": "最高級馬黛茶",
+   "ja": "最高級マテ茶葉"
+  },
+  "desc": {
+   "en": "Grown only in a few select regions, these premium leaves are brewed into an invigorating beverage which many believe has innate magical properties.",
+   "zh-CN": "仅在少部分地区栽培的最高级马黛茶。被视为能给予人们无限活力的魔法叶片。",
+   "zh-TW": "僅在少部分地區栽培的最高級馬黛茶。被視爲能給予人們無限活力的魔法葉片。",
+   "ja": "限られた地域でのみ栽培される最高級のマテ茶葉。活力を与える魔法の葉と考えられてきた"
+  }
+ },
+ {
+  "slug": "aji-amarillo",
+  "en": "Aji Amarillo",
+  "n": {
+   "en": "Aji Amarillo",
+   "zh-CN": "黄风铃椒",
+   "zh-TW": "黃風鈴椒",
+   "ja": "アヒ・アマリージョ"
+  },
+  "desc": {
+   "en": "A vibrant and versatile orange pepper. Equally delicious eaten raw, ground into a paste, or pickled with salt.",
+   "zh-CN": "主要食用其亮橙色果实的食用辣椒。除了直接生食之外，也会制成辣椒酱或用盐腌制后食用。",
+   "zh-TW": "主要食用其亮橙色果實的食用辣椒。除了直接生食之外，也會製成辣椒醬或用鹽醃製後食用。",
+   "ja": "明るいオレンジ色の実からなる食用ペッパー。生食のほか、ペーストや塩漬けなどに広く利用される"
+  }
+ },
+ {
+  "slug": "queso-fresco",
+  "en": "Queso Fresco",
+  "n": {
+   "en": "Queso Fresco",
+   "zh-CN": "新鲜奶酪",
+   "zh-TW": "新鮮奶酪",
+   "ja": "ケソ・フレスコ"
+  },
+  "desc": {
+   "en": "This fresh cheese is beloved by countless Turali for its mild, creamy flavor.",
+   "zh-CN": "居住在图拉尔大陆的人们最熟悉的奶酪，因其新鲜而柔和的口味广受好评。",
+   "zh-TW": "居住在圖拉爾大陸的人們最熟悉的奶酪，因其新鮮而柔和的口味廣受好評。",
+   "ja": "トラル大陸で親しまれているチーズ。新鮮かつマイルドな味がすると評判"
+  }
+ },
+ {
+  "slug": "woolback-loin",
+  "en": "Woolback Loin",
+  "n": {
+   "en": "Woolback Loin",
+   "zh-CN": "鬃背兽里脊肉",
+   "zh-TW": "鬃背獸裏脊肉",
+   "ja": "ウールバックのロース肉"
+  },
+  "desc": {
+   "en": "A prime cut of meat sourced from a woolback native to Yyasulani.",
+   "zh-CN": "从一整只栖息在亚斯拉尼荒野的鬃背兽身上只能采集到一小块的珍稀兽肉。",
+   "zh-TW": "從一整隻棲息在亞斯拉尼荒野的鬃背獸身上只能採集到一小塊的珍稀獸肉。",
+   "ja": "ヤースラニ荒野に棲息するウールバックから採れた希少部位の肉"
+  }
+ },
+ {
+  "slug": "glowing-seeds",
+  "en": "Glowing Seeds",
+  "n": {
+   "en": "Glowing Seeds",
+   "zh-CN": "微光木果",
+   "zh-TW": "微光木果",
+   "ja": "淡く輝く木の実"
+  },
+  "desc": {
+   "en": "Softly luminescent seeds that have been heavily influenced by meteorites.",
+   "zh-CN": "在延根天坑附近采集到的树木果实，富含源自陨石的以太。",
+   "zh-TW": "在延根天坑附近採集到的樹木果實，富含源自隕石的以太。",
+   "ja": "セノーテ・ネヨーゾテ付近で採集した、隕石由来のエーテルを多く含む木の実"
+  }
+ },
+ {
+  "slug": "ja-tiika-cranberries",
+  "en": "Ja Tiika Cranberries",
+  "n": {
+   "en": "Ja Tiika Cranberries",
+   "zh-CN": "加提卡越橘",
+   "zh-TW": "加提卡越橘",
+   "ja": "ジャティーカコケモモ"
+  },
+  "desc": {
+   "en": "The fruit of a shrub which grows only in central Ja Tiika. Unsuited for general consumption, the bitter juice of the berries is boiled and mixed into vitality tonics.",
+   "zh-CN": "加提卡海心特有的灌木果实。直接吃很涩，并不好吃，但煎煮出来的药汁有让人精力充沛的药效。",
+   "zh-TW": "加提卡海心特有的灌木果實。直接喫很澀，並不好喫，但煎煮出來的藥汁有讓人精力充沛的藥效。",
+   "ja": "ジャティーカ央森固有の低木の果実。渋くて食用には向かないが、煎じ汁は活力剤として用いられる"
+  }
+ },
+ {
+  "slug": "spicy-white-pepper",
+  "en": "Spicy White Pepper",
+  "n": {
+   "en": "Spicy White Pepper",
+   "zh-CN": "蔬菜汤用的白胡椒",
+   "zh-TW": "蔬菜湯用的白胡椒",
+   "ja": "野菜スープ用のホワイトペッパー"
+  },
+  "desc": {
+   "en": "The zesty kick of this white pepper is said to bring out the flavor of vegetable ingredients.",
+   "zh-CN": "辉鳞族也很喜欢的风味醇厚的胡椒。",
+   "zh-TW": "輝鱗族也很喜歡的風味醇厚的胡椒。",
+   "ja": "マムージャ族の舌にも合うまろやかな風味のペッパー"
+  }
+ },
+ {
+  "slug": "leopardfang-tea-leaves",
+  "en": "Leopardfang Tea Leaves",
+  "n": {
+   "en": "Leopardfang Tea Leaves",
+   "zh-CN": "豹牙茶叶",
+   "zh-TW": "豹牙茶葉",
+   "ja": "豹牙茶葉"
+  },
+  "desc": {
+   "en": "Requiring a special brewing process, these leaves produce a deeply flavorful tea.",
+   "zh-CN": "在乌托姆地平线采集到的树叶。经过特殊的煎焙操作后可以制成一种风味浓厚的茶汤。",
+   "zh-TW": "在烏託姆地平線採集到的樹葉。經過特殊的煎焙操作後可以製成一種風味濃厚的茶湯。",
+   "ja": "ウトォームの地平線で採れる樹木の葉。特別な工程で煎じることで深い風味の茶汁を得ることができる"
+  }
+ },
+ {
+  "slug": "flint-corn",
+  "en": "Flint Corn",
+  "n": {
+   "en": "Flint Corn",
+   "zh-CN": "燧石玉米",
+   "zh-TW": "燧石玉米",
+   "ja": "フリントコーン"
+  },
+  "desc": {
+   "en": "The flint-like kernels of this rare purple corn burst open when heated.",
+   "zh-CN": "紫色的稀有图拉尔玉米。特点是颗粒很硬，受热就会绽开。",
+   "zh-TW": "紫色的稀有圖拉爾玉米。特點是顆粒很硬，受熱就會綻開。",
+   "ja": "紫色をした珍しい品種のトラルコーン。粒が硬く、熱すると弾けるという特徴がある"
+  }
+ },
+ {
+  "slug": "turali-plum",
+  "en": "Turali Plum",
+  "n": {
+   "en": "Turali Plum",
+   "zh-CN": "图拉尔梅",
+   "zh-TW": "圖拉爾梅",
+   "ja": "トラルプラム"
+  },
+  "desc": {
+   "en": "A somewhat bitter fruit native to the shores of Tural.",
+   "zh-CN": "图拉尔大陆原产的微苦果实。",
+   "zh-TW": "圖拉爾大陸原產的微苦果實。",
+   "ja": "トラル大陸原産のほろ苦い果実"
+  }
+ },
+ {
+  "slug": "rroneek-milk",
+  "en": "Rroneek Milk",
+  "n": {
+   "en": "Rroneek Milk",
+   "zh-CN": "犎牛奶",
+   "zh-TW": "犎牛奶",
+   "ja": "ロネークの乳"
+  },
+  "desc": {
+   "en": "As rroneek only produce small quantities of milk, this creamy, nourishing liquid is highly prized.",
+   "zh-CN": "雌性犎牛产的牛奶，产量有限，十分珍贵。",
+   "zh-TW": "雌性犎牛產的牛奶，產量有限，十分珍貴。",
+   "ja": "雌のロネークからわずかに採れる、稀少性の高い乳"
+  }
+ },
+ {
+  "slug": "rock-fist-popoto",
+  "en": "Rock-fist Popoto",
+  "n": {
+   "en": "Rock-fist Popoto",
+   "zh-CN": "剑山芋",
+   "zh-TW": "劍山芋",
+   "ja": "げんこつポポト"
+  },
+  "desc": {
+   "en": "A popoto variety that makes up for its lack of moisture with a glutinous abundance of starch.",
+   "zh-CN": "淀粉含量极高的根菜，水分少，粘度高。",
+   "zh-TW": "澱粉含量極高的根菜，水分少，粘度高。",
+   "ja": "水分が少なく粘り気が強い、澱粉質に富む根菜"
+  }
+ }
+]

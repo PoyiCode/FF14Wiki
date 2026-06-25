@@ -1,0 +1,6 @@
+id: butterbeef
+category: ingredients
+type: ingredient
+ingredient: "Butterbeef"
+tags: [ingredient, food, cooking]
+status: stable

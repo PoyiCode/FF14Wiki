@@ -1,0 +1,6 @@
+id: garden-beet
+category: ingredients
+type: ingredient
+ingredient: "Garden Beet"
+tags: [ingredient, food, cooking]
+status: stable

@@ -1,0 +1,6 @@
+id: ratstool
+category: ingredients
+type: ingredient
+ingredient: "Ratstool"
+tags: [ingredient, food, cooking]
+status: stable

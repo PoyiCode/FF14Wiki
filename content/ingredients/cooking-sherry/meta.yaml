@@ -1,0 +1,6 @@
+id: cooking-sherry
+category: ingredients
+type: ingredient
+ingredient: "Cooking Sherry"
+tags: [ingredient, food, cooking]
+status: stable

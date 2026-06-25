@@ -1,0 +1,6 @@
+id: sunflower-seeds
+category: ingredients
+type: ingredient
+ingredient: "Sunflower Seeds"
+tags: [ingredient, food, cooking]
+status: stable

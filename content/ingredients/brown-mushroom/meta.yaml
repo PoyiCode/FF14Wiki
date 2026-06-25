@@ -1,0 +1,6 @@
+id: brown-mushroom
+category: ingredients
+type: ingredient
+ingredient: "Brown Mushroom"
+tags: [ingredient, food, cooking]
+status: stable

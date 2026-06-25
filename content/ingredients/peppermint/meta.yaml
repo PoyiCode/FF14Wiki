@@ -1,0 +1,6 @@
+id: peppermint
+category: ingredients
+type: ingredient
+ingredient: "Peppermint"
+tags: [ingredient, food, cooking]
+status: stable

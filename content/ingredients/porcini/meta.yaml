@@ -1,0 +1,6 @@
+id: porcini
+category: ingredients
+type: ingredient
+ingredient: "Porcini"
+tags: [ingredient, food, cooking]
+status: stable

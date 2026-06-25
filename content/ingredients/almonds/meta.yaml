@@ -1,0 +1,6 @@
+id: almonds
+category: ingredients
+type: ingredient
+ingredient: "Almonds"
+tags: [ingredient, food, cooking]
+status: stable

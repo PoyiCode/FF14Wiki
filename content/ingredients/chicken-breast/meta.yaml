@@ -1,0 +1,6 @@
+id: chicken-breast
+category: ingredients
+type: ingredient
+ingredient: "Chicken Breast"
+tags: [ingredient, food, cooking]
+status: stable

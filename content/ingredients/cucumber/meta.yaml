@@ -1,0 +1,6 @@
+id: cucumber
+category: ingredients
+type: ingredient
+ingredient: "Cucumber"
+tags: [ingredient, food, cooking]
+status: stable

@@ -1,0 +1,6 @@
+id: mole-meat
+category: ingredients
+type: ingredient
+ingredient: "Mole Meat"
+tags: [ingredient, food, cooking]
+status: stable

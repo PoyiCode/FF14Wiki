@@ -1,0 +1,6 @@
+id: olive-oil
+category: ingredients
+type: ingredient
+ingredient: "Olive Oil"
+tags: [ingredient, food, cooking]
+status: stable

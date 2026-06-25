@@ -1,0 +1,6 @@
+id: beet
+category: ingredients
+type: ingredient
+ingredient: "Beet"
+tags: [ingredient, food, cooking]
+status: stable

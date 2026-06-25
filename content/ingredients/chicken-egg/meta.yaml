@@ -1,0 +1,6 @@
+id: chicken-egg
+category: ingredients
+type: ingredient
+ingredient: "Chicken Egg"
+tags: [ingredient, food, cooking]
+status: stable

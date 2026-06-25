@@ -1,0 +1,6 @@
+id: queso-fresco
+category: ingredients
+type: ingredient
+ingredient: "Queso Fresco"
+tags: [ingredient, food, cooking]
+status: stable

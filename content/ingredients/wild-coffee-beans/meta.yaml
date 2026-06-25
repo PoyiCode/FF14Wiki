@@ -1,0 +1,6 @@
+id: wild-coffee-beans
+category: ingredients
+type: ingredient
+ingredient: "Wild Coffee Beans"
+tags: [ingredient, food, cooking]
+status: stable

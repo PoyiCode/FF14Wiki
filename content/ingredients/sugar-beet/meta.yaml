@@ -1,0 +1,6 @@
+id: sugar-beet
+category: ingredients
+type: ingredient
+ingredient: "Sugar Beet"
+tags: [ingredient, food, cooking]
+status: stable

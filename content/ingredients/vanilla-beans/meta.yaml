@@ -1,0 +1,6 @@
+id: vanilla-beans
+category: ingredients
+type: ingredient
+ingredient: "Vanilla Beans"
+tags: [ingredient, food, cooking]
+status: stable

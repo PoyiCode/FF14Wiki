@@ -1,0 +1,6 @@
+id: mozzarella
+category: ingredients
+type: ingredient
+ingredient: "Mozzarella"
+tags: [ingredient, food, cooking]
+status: stable

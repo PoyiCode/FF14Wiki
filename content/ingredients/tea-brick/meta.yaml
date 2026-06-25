@@ -1,0 +1,6 @@
+id: tea-brick
+category: ingredients
+type: ingredient
+ingredient: "Tea Brick"
+tags: [ingredient, food, cooking]
+status: stable

@@ -1,0 +1,6 @@
+id: yak-milk
+category: ingredients
+type: ingredient
+ingredient: "Yak Milk"
+tags: [ingredient, food, cooking]
+status: stable

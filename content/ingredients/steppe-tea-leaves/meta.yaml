@@ -1,0 +1,6 @@
+id: steppe-tea-leaves
+category: ingredients
+type: ingredient
+ingredient: "Steppe Tea Leaves"
+tags: [ingredient, food, cooking]
+status: stable

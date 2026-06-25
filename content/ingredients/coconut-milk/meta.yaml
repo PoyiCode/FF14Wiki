@@ -1,0 +1,6 @@
+id: coconut-milk
+category: ingredients
+type: ingredient
+ingredient: "Coconut Milk"
+tags: [ingredient, food, cooking]
+status: stable

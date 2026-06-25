@@ -1,0 +1,6 @@
+id: secret-recipe-broth
+category: ingredients
+type: ingredient
+ingredient: "Secret Recipe Broth"
+tags: [ingredient, food, cooking]
+status: stable

@@ -1,0 +1,6 @@
+id: faerie-apple
+category: ingredients
+type: ingredient
+ingredient: "Faerie Apple"
+tags: [ingredient, food, cooking]
+status: stable

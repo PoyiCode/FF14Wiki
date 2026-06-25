@@ -1,0 +1,6 @@
+id: smoked-bacon
+category: ingredients
+type: ingredient
+ingredient: "Smoked Bacon"
+tags: [ingredient, food, cooking]
+status: stable

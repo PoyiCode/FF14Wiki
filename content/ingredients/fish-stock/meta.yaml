@@ -1,0 +1,6 @@
+id: fish-stock
+category: ingredients
+type: ingredient
+ingredient: "Fish Stock"
+tags: [ingredient, food, cooking]
+status: stable

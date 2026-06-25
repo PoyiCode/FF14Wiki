@@ -1,0 +1,6 @@
+id: sweet-cream
+category: ingredients
+type: ingredient
+ingredient: "Sweet Cream"
+tags: [ingredient, food, cooking]
+status: stable

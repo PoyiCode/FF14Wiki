@@ -1,0 +1,6 @@
+id: gelatin
+category: ingredients
+type: ingredient
+ingredient: "Gelatin"
+tags: [ingredient, food, cooking]
+status: stable

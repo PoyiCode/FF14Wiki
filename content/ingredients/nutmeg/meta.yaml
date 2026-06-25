@@ -1,0 +1,6 @@
+id: nutmeg
+category: ingredients
+type: ingredient
+ingredient: "Nutmeg"
+tags: [ingredient, food, cooking]
+status: stable

@@ -1,0 +1,6 @@
+id: dragonfruit
+category: ingredients
+type: ingredient
+ingredient: "Dragonfruit"
+tags: [ingredient, food, cooking]
+status: stable

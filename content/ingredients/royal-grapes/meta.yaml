@@ -1,0 +1,6 @@
+id: royal-grapes
+category: ingredients
+type: ingredient
+ingredient: "Royal Grapes"
+tags: [ingredient, food, cooking]
+status: stable
