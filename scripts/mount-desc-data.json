@@ -1,0 +1,2060 @@
+{
+ "company-chocobo": {
+  "en": "Summon your Grand Company-issued battle chocobo.",
+  "ja": "マイチョコボに騎乗する。 グランドカンパニーから支給された軍用チョコボ",
+  "zh-CN": "伊修加德产军用陆行鸟。除常见的旅行种以外，还有能够承载鲁加族的大型狩猎种以及专门为拉拉菲尔族改良的贝拉哈迪亚小型种等种类。",
+  "zh-TW": "伊修加德產軍用陸行鳥。除常見的旅行種以外，還有能夠承載魯加族的大型狩獵種以及專門爲拉拉菲爾族改良的貝拉哈迪亞小型種等種類。"
+ },
+ "goobbue": {
+  "en": "Use the odd-shaped horn gifted to you by the wandering minstrel to call a massive goobbue to your side.",
+  "ja": "グゥーブーに騎乗する。 不思議なホルンによって呼び出されるグゥーブー",
+  "zh-CN": "异国的诗人为了表示谢意，赠予了冒险者一把魔法的角笛，可以召唤出这只古菩猩猩。虽然这种动物并不温顺，但独自徘徊在艾欧泽亚的这只古菩猩猩却因为喜爱诗人的歌声，而跟随着他一起旅行。",
+  "zh-TW": "異國的詩人爲了表示謝意，贈予了冒險者一把魔法的角笛，可以召喚出這隻古菩猩猩。雖然這種動物並不溫順，但獨自徘徊在艾歐澤亞的這隻古菩猩猩卻因爲喜愛詩人的歌聲，而跟隨着他一起旅行。"
+ },
+ "legacy-chocobo": {
+  "en": "Five years and a realm-shaking Calamity were not enough to break the bonds between you and your loyal steed. A single whistle and he will be at your side once again.",
+  "ja": "レガシーチョコボに騎乗する。 時を越えて巡り会った名チョコボ",
+  "zh-CN": "因为贤者路易索瓦的秘术，被送往次元缝隙的冒险者们穿越了5年的时光终于能和这只陆行鸟再会。经历了长期无主的流浪生活，这只陆行鸟已经成长得非常勇悍，风貌上别具一格。",
+  "zh-TW": "因爲賢者路易索瓦的祕術，被送往次元縫隙的冒險者們穿越了5年的時光終於能和這隻陸行鳥再會。經歷了長期無主的流浪生活，這隻陸行鳥已經成長得非常勇悍，風貌上別具一格。"
+ },
+ "magitek-armor": {
+  "en": "Call into battle your suit of Garlond Ironworks-modified magitek armor.",
+  "ja": "魔導アーマーに騎乗する。 シドが改良したガーロンド・アイアンワークスカスタム",
+  "zh-CN": "加雷马帝国军制式配备的骑乘用魔导装甲“死神”型。西德等人用魔法人偶的核心作为控制装置，对这台缴获的装甲进行了各种改造，现在可以说是加隆德炼铁厂式样了。",
+  "zh-TW": "加雷馬帝國軍制式配備的騎乘用魔導裝甲“死神”型。西德等人用魔法人偶的核心作爲控制裝置，對這臺繳獲的裝甲進行了各種改造，現在可以說是加隆德煉鐵廠式樣了。"
+ },
+ "coeurl": {
+  "en": "Summon your fleet-footed battle coeurl, trained from a pup to recognize you as a friend...not food.",
+  "ja": "クァールに騎乗する。 訓練された若く俊敏なクァール",
+  "zh-CN": "年轻而敏捷的长须豹。野生的长须豹是非常凶猛的魔兽，但在其原产地的近东地区也发展出了独特的驯养法。这只长须豹好像是在萨维奈岛接受过作为坐骑的训练。",
+  "zh-TW": "年輕而敏捷的長鬚豹。野生的長鬚豹是非常兇猛的魔獸，但在其原產地的近東地區也發展出了獨特的馴養法。這隻長鬚豹好像是在薩維奈島接受過作爲坐騎的訓練。"
+ },
+ "ahriman": {
+  "en": "Summon forth a riding ahriman, bound to this realm with powerful magicks guaranteed to never fade.",
+  "ja": "アーリマンに騎乗する。 魔法によって操ることを可能にした妖異アーリマン",
+  "zh-CN": "长有翅膀的独眼魔物。根据妖异学者们的分类，是属于妖异十二阶中第5位的中阶妖异。用动物的眼球作媒介可以将其从异界召唤出来，通过强力的魔法加以束缚后可以进行使唤。",
+  "zh-TW": "長有翅膀的獨眼魔物。根據妖異學者們的分類，是屬於妖異十二階中第5位的中階妖異。用動物的眼球作媒介可以將其從異界召喚出來，通過強力的魔法加以束縛後可以進行使喚。"
+ },
+ "unicorn": {
+  "en": "Summon forth the single-horned steed you befriended in the Black Shroud.",
+  "ja": "ユニコーンに騎乗する。 黒衣森で出会った純白の一角獣",
+  "zh-CN": "在黑衣森林中偶遇的纯白独角兽。独角兽原产自库尔札斯，在当地也是非常罕见，不知为何会迷路进了森林。因为感激冒险者帮它治伤，成为了冒险者的好伙伴。",
+  "zh-TW": "在黑衣森林中偶遇的純白獨角獸。獨角獸原產自庫爾札斯，在當地也是非常罕見，不知爲何會迷路進了森林。因爲感激冒險者幫它治傷，成爲了冒險者的好夥伴。"
+ },
+ "behemoth": {
+  "en": "Summon your mighty behemoth, trained from birth to carry you...not trample you underfoot like an ant.",
+  "ja": "ベヒーモスに騎乗する。 幼獣の頃から人の手で育てた若く堅強なベヒーモス",
+  "zh-CN": "冒险者行会赠给冒险者的强力坐骑。灵灾之后，一名冒险者在库尔札斯的深山捡到了这只被父母遗弃的贝希摩斯幼崽。付出心血将其养大后，这只巨兽奇迹般地很亲近人类。",
+  "zh-TW": "冒險者行會贈給冒險者的強力坐騎。靈災之後，一名冒險者在庫爾札斯的深山撿到了這隻被父母遺棄的貝希摩斯幼崽。付出心血將其養大後，這隻巨獸奇蹟般地很親近人類。"
+ },
+ "cavalry-drake": {
+  "en": "Summon your cavalry drake, trained by the drake whisperer of the Brotherhood of Ash.",
+  "ja": "キャバルリー・ドレイクに騎乗する。 灰の一党が育て上げた騎乗用バトルドレイク",
+  "zh-CN": "灰党培育的战斗火蛟坐骑。从小就接受蜥蜴人族驯兽人的严格训练，吃着成年火蛟的火炎袋长大，被驯服的同时兼具野性。",
+  "zh-TW": "灰黨培育的戰鬥火蛟坐騎。從小就接受蜥蜴人族馴獸人的嚴格訓練，喫着成年火蛟的火炎袋長大，被馴服的同時兼具野性。"
+ },
+ "laurel-goobbue": {
+  "en": "Summon your laurel goobbue, towering friend to the sylphs.",
+  "ja": "ローレル・グゥーブーに騎乗する。 仮宿のシルフたちの大きなお友達",
+  "zh-CN": "暂留地妖精们的大块头朋友。因为坏妖精们的恶作剧，头部的植物被拔走，变成了秃子。暂留地妖精们看它可怜，用花草给它编了头冠，由此结下了友谊。",
+  "zh-TW": "暫留地妖精們的大塊頭朋友。因爲壞妖精們的惡作劇，頭部的植物被拔走，變成了禿子。暫留地妖精們看它可憐，用花草給它編了頭冠，由此結下了友誼。"
+ },
+ "gilded-magitek-armor": {
+  "en": "Call into battle your gilded suit of magitek armor. Its golden coating serves to resist magicks while impressing members of the opposite sex.",
+  "ja": "C式魔導アーマーに騎乗する。 耐魔法コーティングを施した魔導リーパー",
+  "zh-CN": "加雷马帝国军秘密开发的改良型“死神”。金色的装甲是用了新开发的特殊涂料，可以抵抗艾欧泽亚同盟军使用的魔法攻击。",
+  "zh-TW": "加雷馬帝國軍祕密開發的改良型“死神”。金色的裝甲是用了新開發的特殊塗料，可以抵抗艾歐澤亞同盟軍使用的魔法攻擊。"
+ },
+ "nightmare": {
+  "en": "Summon forth the single-horned steed with a temperament as black as his coat.",
+  "ja": "ナイトメアに騎乗する。 調教された妖馬。性格は非常に好戦的かつ執念深い",
+  "zh-CN": "经过驯养的妖马“梦魇”。是由“无影”带给蛮族们的，详细的情况不明。性格好战，但对持有魔法笛的人会无条件地服从。",
+  "zh-TW": "經過馴養的妖馬“夢魘”。是由“無影”帶給蠻族們的，詳細的情況不明。性格好戰，但對持有魔法笛的人會無條件地服從。"
+ },
+ "fat-chocobo": {
+  "en": "Summon forth your fat chocobo mount. Take care that there is sufficient room for his ample girth.",
+  "ja": "でぶチョコボに騎乗する。 食い意地の張ったチョコボの親分。こんなとこで笛吹くなよ",
+  "zh-CN": "为了食物而奔波的陆行鸟老大。如果用笛子召唤它，始终都会是一副好像要说“不要没事乱吹笛”的态度。不过一旦最喜欢的基萨尔野菜挂在眼前，它就抛弃了一切的矜持，全心全意地开始奔跑。",
+  "zh-TW": "爲了食物而奔波的陸行鳥老大。如果用笛子召喚它，始終都會是一副好像要說“不要沒事亂吹笛”的態度。不過一旦最喜歡的基薩爾野菜掛在眼前，它就拋棄了一切的矜持，全心全意地開始奔跑。"
+ },
+ "cavalry-elbst": {
+  "en": "Summon your cavalry elbst, raised from an egg by Pahh of Novv's Clutch.",
+  "ja": "キャバルリー・エルブストに騎乗する。 海獣使いのパァアが育て上げた騎乗用エルブスト",
+  "zh-CN": "诺布一伙里的海兽驯养人帕阿培育出的水龙蜥坐骑。在陆地上行走的话蹼会碍事，所以在蹼上做出切口，使得它拥有了不输给陆行鸟的速度，代价则是海里游泳时的速度会变慢。",
+  "zh-TW": "諾布一夥裏的海獸馴養人帕阿培育出的水龍蜥坐騎。在陸地上行走的話蹼會礙事，所以在蹼上做出切口，使得它擁有了不輸給陸行鳥的速度，代價則是海里游泳時的速度會變慢。"
+ },
+ "bomb-palanquin": {
+  "en": "Summon forth a bevy of bombs who will bear you in comfort upon a hovering palanquin.",
+  "ja": "ボムバルーンに騎乗する。 ガス生物ボムに牽引させたゴンドラ。騎乗時は火気厳禁",
+  "zh-CN": "第789团辅祭巴戈制作的爆弹怪里有一些爆炸力马马虎虎的，被判定为失败作。这些失败作品被用来牵引这个吊椅。不过它们毕竟还是爆弹怪，乘坐时一定要小心火烛。",
+  "zh-TW": "第789團輔祭巴戈製作的爆彈怪裏有一些爆炸力馬馬虎虎的，被判定爲失敗作。這些失敗作品被用來牽引這個吊椅。不過它們畢竟還是爆彈怪，乘坐時一定要小心火燭。"
+ },
+ "aithon": {
+  "en": "Summon forth Aithon, the legendary steed favored of the primal Ifrit. Its breath is said to be as hot as the seventh hell.",
+  "ja": "アイトーンに騎乗する。 焔神に祝福された妖馬。その息すらも熱気を放つ",
+  "zh-CN": "受到火神伊弗利特祝福的妖马，身缠熊熊烈火。很可能是蜥蜴人族将妖马梦魇献祭给蛮神时产生出来的。呼吸中带有宛如地狱业火的热流。",
+  "zh-TW": "受到火神伊弗利特祝福的妖馬，身纏熊熊烈火。很可能是蜥蜴人族將妖馬夢魘獻祭給蠻神時產生出來的。呼吸中帶有宛如地獄業火的熱流。"
+ },
+ "xanthos": {
+  "en": "Summon forth Xanthos, the legendary steed favored of the primal Garuda. At full gallop, it is said to be the very wind itself.",
+  "ja": "クサントスに騎乗する。 嵐神に祝福された妖馬。風に乗り舞うように駆ける",
+  "zh-CN": "受到风神迦楼罗祝福的妖马，身缠凛冽狂风。很可能是鸟人族将妖马梦魇献祭给蛮神时产生出来的。跑动时宛如疾风掠过。",
+  "zh-TW": "受到風神迦樓羅祝福的妖馬，身纏凜冽狂風。很可能是鳥人族將妖馬夢魘獻祭給蠻神時產生出來的。跑動時宛如疾風掠過。"
+ },
+ "gullfaxi": {
+  "en": "Summon forth Gullfaxi, the legendary steed favored of the primal Titan. Its powerful legs set off tremors that can be felt from malms away.",
+  "ja": "グルファクシに騎乗する。 岩神に祝福された妖馬。逞しき脚で大地を踏みしめる",
+  "zh-CN": "受到土神泰坦祝福的妖马，身缠熔岩。很可能是地灵族将妖马梦魇献祭给蛮神时产生出来的。坚实的脚步可以撼动大地。",
+  "zh-TW": "受到土神泰坦祝福的妖馬，身纏熔岩。很可能是地靈族將妖馬夢魘獻祭給蠻神時產生出來的。堅實的腳步可以撼動大地。"
+ },
+ "enbarr": {
+  "en": "Summon forth Enbarr, the legendary steed favored of the primal Leviathan. It is said to have been born of the surging waves.",
+  "ja": "エンバールに騎乗する。 水神に祝福された妖馬。魔力の泡より産まれたという",
+  "zh-CN": "受到水神利维亚桑祝福的妖马，身缠水流漩涡。很可能是鱼人族将妖马梦魇献祭给蛮神时产生出来的。传说中它诞生于魔力水泡。",
+  "zh-TW": "受到水神利維亞桑祝福的妖馬，身纏水流漩渦。很可能是魚人族將妖馬夢魘獻祭給蠻神時產生出來的。傳說中它誕生於魔力水泡。"
+ },
+ "warlion": {
+  "en": "Summon forth your fearless warlion to rule over the battlefield, such is his station as king of the beasts.",
+  "ja": "ウォーライオンに騎乗する。 戦闘用に調教された軍獅子。百獣の王の風格を持つ",
+  "zh-CN": "专门为了战斗而训练的军用狮子。萨纳兰地区虽然没有野生的狮子，但过去却通过交易从近东进口了一些，曾经被近卫兵团“银胄团”训练为坐骑。现在已经是非常少见。",
+  "zh-TW": "專門爲了戰鬥而訓練的軍用獅子。薩納蘭地區雖然沒有野生的獅子，但過去卻通過交易從近東進口了一些，曾經被近衛兵團“銀胄團”訓練爲坐騎。現在已經是非常少見。"
+ },
+ "warbear": {
+  "en": "Summon forth your fearless warbear, veteran of a thousand battles, to fill your enemies with dread.",
+  "ja": "ウォーベアーに騎乗する。 戦闘用に調教された軍熊。数々の戦場を生き抜いてきた",
+  "zh-CN": "专门为了战斗而训练的军用大熊。在北阿巴拉提亚山脉深处，有着和蛮熊角力、将其打倒后加以驯服的习俗。因此，在古代勇猛战士们的传说里面，经常会有战熊出场。",
+  "zh-TW": "專門爲了戰鬥而訓練的軍用大熊。在北阿巴拉提亞山脈深處，有着和蠻熊角力、將其打倒後加以馴服的習俗。因此，在古代勇猛戰士們的傳說裏面，經常會有戰熊出場。"
+ },
+ "draught-chocobo": {
+  "en": "Summon forth your draught chocobo, a massive bird large and strong enough to bear two riders.",
+  "ja": "グランチョコボに騎乗する。 体格に優れた大型チョコボ。2人乗りが可能",
+  "zh-CN": "一位库尔札斯出身的陆行鸟猎人在陆行鸟之森中捕获到的野生种。身体素质远远超过牧场驯养的那些鸟，也有着很高的运输能力，只可惜品性过于狂野，不适合供人骑乘。不过在驯养员的苦心之下好像已经被训练成可以同时乘坐两人了。",
+  "zh-TW": "一位庫爾札斯出身的陸行鳥獵人在陸行鳥之森中捕獲到的野生種。身體素質遠遠超過牧場馴養的那些鳥，也有着很高的運輸能力，只可惜品性過於狂野，不適合供人騎乘。不過在馴養員的苦心之下好像已經被訓練成可以同時乘坐兩人了。"
+ },
+ "direwolf": {
+  "en": "Summon forth your deadly direwolf, one of five pups found huddling together in the snow near the corpse of their slain mother.",
+  "ja": "ダイアウルフに騎乗する。 古代種の血を引く軍狼。戦場でも動じない心を持つ",
+  "zh-CN": "鸟人族驯兽人所培养出的军狼，鸟人族在塞尔法特尔的深处找到了这种被认为已经灭绝了的生物。在经过一番辛苦的训练之后，它现在已经大到足以载人的程度了，而且绝对服从主人的命令。",
+  "zh-TW": "鳥人族馴獸人所培養出的軍狼，鳥人族在塞爾法特爾的深處找到了這種被認爲已經滅絕了的生物。在經過一番辛苦的訓練之後，它現在已經大到足以載人的程度了，而且絕對服從主人的命令。"
+ },
+ "storm-warsteed": {
+  "en": "Summon forth your Maelstrom-issued warhorse and try to push from your mind the fact that your chocobo is sitting somewhere hungry and alone.",
+  "ja": "ロミンサン・スティードに騎乗する。 ひんがしの国原産の軍馬。たくましい脚で大地を駆ける",
+  "zh-CN": "黑涡团作为试验采用的军马。在来自东方的马奉行的主张，冒险者的推广下，艾欧泽亚也终于开始引入马这种生物了，当然选种时特别注意选择了适应气候的品种。",
+  "zh-TW": "黑渦團作爲試驗採用的軍馬。在來自東方的馬奉行的主張，冒險者的推廣下，艾歐澤亞也終於開始引入馬這種生物了，當然選種時特別注意選擇了適應氣候的品種。"
+ },
+ "serpent-warsteed": {
+  "en": "Summon forth your Order of the Twin Adder-issued warhorse and try to push from your mind the fact that your chocobo is sitting somewhere hungry and alone.",
+  "ja": "グリダニアン・スティードに騎乗する。 ひんがしの国原産の軍馬。たくましい脚で大地を駆ける",
+  "zh-CN": "双蛇党作为试验采用的军马。在来自东方的马奉行的主张，冒险者的推广下，艾欧泽亚也终于开始引入马这种生物了，当然选种时特别注意选择了适应气候的品种。",
+  "zh-TW": "雙蛇黨作爲試驗採用的軍馬。在來自東方的馬奉行的主張，冒險者的推廣下，艾歐澤亞也終於開始引入馬這種生物了，當然選種時特別注意選擇了適應氣候的品種。"
+ },
+ "flame-warsteed": {
+  "en": "Summon forth your Immortal Flames-issued warhorse and try to push from your mind the fact that your chocobo is sitting somewhere hungry and alone.",
+  "ja": "ウルダハン・スティードに騎乗する。 ひんがしの国原産の軍馬。たくましい脚で大地を駆ける",
+  "zh-CN": "恒辉队作为试验采用的军马。在来自东方的马奉行的主张，冒险者的推广下，艾欧泽亚也终于开始引入马这种生物了，当然选种时特别注意选择了适应气候的品种。",
+  "zh-TW": "恆輝隊作爲試驗採用的軍馬。在來自東方的馬奉行的主張，冒險者的推廣下，艾歐澤亞也終於開始引入馬這種生物了，當然選種時特別注意選擇了適應氣候的品種。"
+ },
+ "markab": {
+  "en": "Summon forth Markab, the legendary steed favored of the primal Ramuh. It is said to have been born of a single thunderbolt.",
+  "ja": "マルカブに騎乗する。 雷神に祝福された妖馬。そのいななきは雷気を発する",
+  "zh-CN": "受到雷神拉姆祝福的妖马，身缠撕裂天空的闪电。很可能是妖精族将妖马梦魇献祭给蛮神时产生出来的。它的嘶鸣会发出震撼空气的闪电。",
+  "zh-TW": "受到雷神拉姆祝福的妖馬，身纏撕裂天空的閃電。很可能是妖精族將妖馬夢魘獻祭給蠻神時產生出來的。它的嘶鳴會發出震撼空氣的閃電。"
+ },
+ "ceremony-chocobo": {
+  "en": "Summon forth your ceremony chocobo, large enough to bear both you and your special someone.",
+  "ja": "エターナルチョコボに騎乗する。 セレモニーの正装をした大型チョコボ。2人乗りが可能",
+  "zh-CN": "原产于伊修加德的大型陆行鸟。由于要在庄严的仪式上使用，养鸟人特地培养出了这种纯白的羽毛。同时严格的训练也使得这种陆行鸟拥有稳重的个性和健壮的体格，即使坐上两个人都不会有任何问题。",
+  "zh-TW": "原產於伊修加德的大型陸行鳥。由於要在莊嚴的儀式上使用，養鳥人特地培養出了這種純白的羽毛。同時嚴格的訓練也使得這種陸行鳥擁有穩重的個性和健壯的體格，即使坐上兩個人都不會有任何問題。"
+ },
+ "sleipnir": {
+  "en": "Summon forth Sleipnir—undying steed of the elder primal Odin. His coat is as dark as void, while his eyes glow a sanguine red.",
+  "ja": "スレイプニルに騎乗する。 闘神に祝福された妖馬。魔力を帯びた眼が真紅に輝く",
+  "zh-CN": "受到斗神奥丁祝福的妖马，身缠令人绝命的斗气。血红色的鬃毛给人带来无比的威压感。虽说这匹马在战场上无所畏惧，不过一旦它遇到认可的主人，甚至会迎合主人的体型改变自己的大小。",
+  "zh-TW": "受到鬥神奧丁祝福的妖馬，身纏令人絕命的鬥氣。血紅色的鬃毛給人帶來無比的威壓感。雖說這匹馬在戰場上無所畏懼，不過一旦它遇到認可的主人，甚至會迎合主人的體型改變自己的大小。"
+ },
+ "boreas": {
+  "en": "Summon forth Boreas, the legendary steed favored of the primal Shiva. His breath is said to beget the winter's storms.",
+  "ja": "ボレアスに騎乗する。 氷神に祝福された妖馬。空気さえ凍て付かせる",
+  "zh-CN": "受到冰神希瓦祝福的妖马，身披凛凛寒风。很可能是库尔札斯地区的独角兽得到了蛮神的祝福变化而成的。它在奔跑时甚至能够将沿途的空气冻结。",
+  "zh-TW": "受到冰神希瓦祝福的妖馬，身披凜凜寒風。很可能是庫爾札斯地區的獨角獸得到了蠻神的祝福變化而成的。它在奔跑時甚至能夠將沿途的空氣凍結。"
+ },
+ "parade-chocobo": {
+  "en": "Summon forth your parade chocobo who, by the looks of him, has not marched in many parades.",
+  "ja": "パレードチョコボに騎乗する。 凱旋パレード用に装飾されたでぶチョコボ。堂々と練り歩く",
+  "zh-CN": "冒险者行会为了准备凯旋游行进行了很多的准备工作，他们向商人发出了“想要体型宽厚的陆行鸟”的订单，结果得到的却是这种结果……由于饲料费过于昂贵，所以这只鸟也就变成了奖励给优秀冒险者的奖品。",
+  "zh-TW": "冒險者行會爲了準備凱旋遊行進行了很多的準備工作，他們向商人發出了“想要體型寬厚的陸行鳥”的訂單，結果得到的卻是這種結果……由於飼料費過於昂貴，所以這隻鳥也就變成了獎勵給優秀冒險者的獎品。"
+ },
+ "black-chocobo": {
+  "en": "Summon de forth your black de chocobo.",
+  "ja": "黒チョコボに騎乗する。 フライヤー種のチョコボ。幼い頃から飛行訓練を重ねてきた",
+  "zh-CN": "原产自伊修加德的黑色陆行鸟。这一品种天生就是一身黑色的羽毛，有着能够飞行的能力。福尔唐家的骑士奥尔什方为了最重要的挚友亲手调教出了这只鸟，身上的肌肉充满了美感。",
+  "zh-TW": "原產自伊修加德的黑色陸行鳥。這一品種天生就是一身黑色的羽毛，有着能夠飛行的能力。福爾唐家的騎士奧爾什方爲了最重要的摯友親手調教出了這隻鳥，身上的肌肉充滿了美感。"
+ },
+ "adamantoise": {
+  "en": "Summon forth your adamantoise mount. He(?) is actually quite faster than he appears.",
+  "ja": "アダマンタスに騎乗する。 近東原産の巨大陸亀。見た目に反して意外と素早い",
+  "zh-CN": "原产自近东地区的萨维奈岛，乌尔达哈的动物学家经过不断地尝试终于成功驯化了这种外来的野生生物，并通过咒术师行会的古代魔法再现实验，让其具备了飞翔的能力。",
+  "zh-TW": "原產自近東地區的薩維奈島，烏爾達哈的動物學家經過不斷地嘗試終於成功馴化了這種外來的野生生物，並通過咒術師行會的古代魔法再現實驗，讓其具備了飛翔的能力。"
+ },
+ "kirin": {
+  "en": "Summon forth Kirin, Far Eastern king of the beasts.",
+  "ja": "麒麟に騎乗する。 東方由来の魔笛により、呼び出される伝説の幻獣",
+  "zh-CN": "在东洲，无论什么人都知道万兽的主宰乃是天上的麒麟。人们相信这种传说中的仙兽已经生活了千年之久。虽然人类可以通过仙人制作的魔笛向麒麟发出呼唤，但是万兽之主仅会回应它认可的英雄。",
+  "zh-TW": "在東洲，無論什麼人都知道萬獸的主宰乃是天上的麒麟。人們相信這種傳說中的仙獸已經生活了千年之久。雖然人類可以通過仙人制作的魔笛向麒麟發出呼喚，但是萬獸之主僅會回應它認可的英雄。"
+ },
+ "logistics-system": {
+  "en": "Call into battle your Allagan logistics system. For your safety and the safety of those around you, all weaponry has been disabled.",
+  "ja": "騎乗システムに騎乗する。 古代アラグ帝国時代に設計された汎用球形防衛システム",
+  "zh-CN": "圣寇伊纳克财团所挖掘出来的古代亚拉戈帝国球形防卫系统。经过调查之后再由尼禄将危险的武器都移除了下去，变成了纯粹的观赏物品。后来为了筹集研究经费而转卖给了罗薇娜。不过当初的调整好像有些小问题……时不时就会电两下……",
+  "zh-TW": "聖寇伊納克財團所挖掘出來的古代亞拉戈帝國球形防衛系統。經過調查之後再由尼祿將危險的武器都移除了下去，變成了純粹的觀賞物品。後來爲了籌集研究經費而轉賣給了羅薇娜。不過當初的調整好像有些小問題……時不時就會電兩下……"
+ },
+ "fenrir": {
+  "en": "Summon forth a purebred Abalathian hoarhound named after its pack's legendary leader.",
+  "ja": "フェンリルに騎乗する。 アバラシア山脈の奥地に生息する幻の古代獣",
+  "zh-CN": "曾君临艾欧泽亚的古代野兽“霜狼”。原本人们都以为这种生物已经灭绝了，可近年来在阿巴拉提亚山脉深处再次发现了它们的身影。因其让人联想起清冷月光的鬃毛和凛然雄姿，人们常以传说中的幻兽芬里尔的名字来称呼它们。",
+  "zh-TW": "曾君臨艾歐澤亞的古代野獸“霜狼”。原本人們都以爲這種生物已經滅絕了，可近年來在阿巴拉提亞山脈深處再次發現了它們的身影。因其讓人聯想起清冷月光的鬃毛和凜然雄姿，人們常以傳說中的幻獸芬里爾的名字來稱呼它們。"
+ },
+ "midgardsormr": {
+  "en": "Summon forth Midgardsormr, the slightly bigger one, but still not *the* big one.",
+  "ja": "ミドガルズオルムに騎乗する。",
+  "zh-CN": "世界最初之龙，所有龙族的始祖，尘世幻龙为了观察光之战士的行动而创造了这个分身。光之战士完成了所有的试炼，成功打破了龙爪的封印并取回了光之加护，尘世幻龙认为光之战士已经具备了与自己共同行动的资格，于是改变了分身的外形，让同行者能够乘上自己的背部以便今后的行动。",
+  "zh-TW": "世界最初之龍，所有龍族的始祖，塵世幻龍爲了觀察光之戰士的行動而創造了這個分身。光之戰士完成了所有的試煉，成功打破了龍爪的封印並取回了光之加護，塵世幻龍認爲光之戰士已經具備了與自己共同行動的資格，於是改變了分身的外形，讓同行者能夠乘上自己的背部以便今後的行動。"
+ },
+ "amber-draught-chocobo": {
+  "en": "Summon forth your amber draught chocobo, a rare breed large and strong enough to bear two riders.",
+  "ja": "赤グランチョコボに騎乗する。 体格に優れた大型チョコボ。2人乗りが可能",
+  "zh-CN": "在龙堡参天高地有一处秘境名为陆行鸟之森，在那里生活着多种野生陆行鸟，其中更是存在十分罕见的红色大鸟。在伊修加德，红色象征着纯爱与博爱，这种大鸟最适合与挚友一同乘坐了。",
+  "zh-TW": "在龍堡參天高地有一處祕境名爲陸行鳥之森，在那裏生活着多種野生陸行鳥，其中更是存在十分罕見的紅色大鳥。在伊修加德，紅色象徵着純愛與博愛，這種大鳥最適合與摯友一同乘坐了。"
+ },
+ "sanuwa": {
+  "en": "Summon forth your sanuwa, specially bred and trained for riding by Gundu merchant Luna Vanu.",
+  "ja": "サヌワに騎乗する。 グンド族の商人ルナバヌが、心を込めて育てたサヌワ",
+  "zh-CN": "衮杜族商人鲁纳瓦努费尽心血养育而成的腾云蛇。飞舞在云海上空时如同肆虐的狂风般刚强有力。它的主人鲁纳瓦努非常坚定地表示，在有资格骑上这只腾云蛇的勇者出现之前，别人开价多少他也不卖。",
+  "zh-TW": "袞杜族商人魯納瓦努費盡心血養育而成的騰雲蛇。飛舞在雲海上空時如同肆虐的狂風般剛強有力。它的主人魯納瓦努非常堅定地表示，在有資格騎上這隻騰雲蛇的勇者出現之前，別人開價多少他也不賣。"
+ },
+ "griffin": {
+  "en": "Summon forth your griffin—half eagle, half lion, all business.",
+  "ja": "グリフィンに騎乗する。 アバラシア山脈原産の有翼の魔獣",
+  "zh-CN": "原产于阿巴拉提亚山脉的有翼魔兽。虽然性情十分凶悍，但是在阿拉米格能够从幼崽时期开始训练最终成为出色的坐骑。阿拉米格特有的魔兽军团便是由狮鹫骑兵所组成。",
+  "zh-TW": "原產於阿巴拉提亞山脈的有翼魔獸。雖然性情十分兇悍，但是在阿拉米格能夠從幼崽時期開始訓練最終成爲出色的坐騎。阿拉米格特有的魔獸軍團便是由獅鷲騎兵所組成。"
+ },
+ "manacutter": {
+  "en": "Call into battle your manacutter, a single-rider airship constructed at the Garlond Ironworks.",
+  "ja": "マナカッターに騎乗する。 ガーロンド・アイアンワークス社製の小型飛空艇",
+  "zh-CN": "加隆德炼铁厂的魏吉和比格斯共同设计开发出的单人飞空艇，这可是史上第一架搭载偏属性水晶浮空装置的机体。",
+  "zh-TW": "加隆德煉鐵廠的魏吉和比格斯共同設計開發出的單人飛空艇，這可是史上第一架搭載偏屬性水晶浮空裝置的機體。"
+ },
+ "war-panther": {
+  "en": "Summon forth your war panther—a silent killer trained to maim anyone and everything...excepting you, of course.",
+  "ja": "ウォーパンサーに騎乗する。 戦闘用に調教された軍豹。影のように静かに走る",
+  "zh-CN": "专门为了战斗而训练的军用黑豹。与长须豹是近亲生物，能够本能地利用魔力提高自己的身体能力。据传，初代暗黑骑士正是通过观察黑豹狩猎时的情况而领悟出了暗黑剑法。",
+  "zh-TW": "專門爲了戰鬥而訓練的軍用黑豹。與長鬚豹是近親生物，能夠本能地利用魔力提高自己的身體能力。據傳，初代暗黑騎士正是通過觀察黑豹狩獵時的情況而領悟出了暗黑劍法。"
+ },
+ "gobwalker": {
+  "en": "Call into battle your gobwalker, a steam-powered war vehicle designed by the infamous Illuminati.",
+  "ja": "ゴブリウォーカーに騎乗する。 科学者集団「青の手」が開発した騎乗用ウォーカーマシン",
+  "zh-CN": "原本那些哥布林科学家想要制作的是一款能够代替盗龙搬运货物的机器。不过后来还是在机器上加上了武器投入到了战斗。而这台机器因为是战利品，武器已经卸掉了。",
+  "zh-TW": "原本那些哥布林科學家想要製作的是一款能夠代替盜龍搬運貨物的機器。不過後來還是在機器上加上了武器投入到了戰鬥。而這臺機器因爲是戰利品，武器已經卸掉了。"
+ },
+ "twintania": {
+  "en": "Summon forth Twintania, an ancient wyvern who secretly dreams of freedom...and devouring you.",
+  "ja": "ツインタニアに騎乗する。 アラグ文明の秘術により操作されたエルダーワイバーン",
+  "zh-CN": "这孩子一直期待着能有一天 和龙族战斗，想不到那一天 永远也不会到来了…… ——斯特凡诺",
+  "zh-TW": "這孩子一直期待着能有一天 和龍族戰鬥，想不到那一天 永遠也不會到來了…… ——斯特凡諾"
+ },
+ "pegasus": {
+  "en": "Summon forth a pegasus—winged white horse of legend.",
+  "ja": "ペガサスに騎乗する。 雲海の果てに棲まうという幻の天翔る馬",
+  "zh-CN": "可以自由翱翔于天空的幻之马，在云冠群岛成为了冒险者的伙伴。人们曾经认为天马只存在于传说之中，但这一说法随着大航空时代的到来被证明是错误的。据说它还曾救助过云海遇难的空贼，作为一桩逸闻也流传甚广。",
+  "zh-TW": "可以自由翱翔於天空的幻之馬，在雲冠羣島成爲了冒險者的夥伴。人們曾經認爲天馬只存在於傳說之中，但這一說法隨着大航空時代的到來被證明是錯誤的。據說它還曾救助過雲海遇難的空賊，作爲一樁逸聞也流傳甚廣。"
+ },
+ "white-devil": {
+  "en": "Call into battle the White Devil—Livia sas Junius's custom-made battle armor, now *your* custom-made battle armor.",
+  "ja": "リウィア専用魔導アーマーに騎乗する。 リウィア・サス・ユニウス用にカスタマイズされた魔導アーマー",
+  "zh-CN": "加雷马帝国军第十四军团军政官莉维亚·萨斯·尤尼乌斯的专用魔导装甲。作为在北洲扩张战争中有着活跃表现的“达尔马斯卡魔女”的爱机而广为人知。通称“纯白恶魔”。",
+  "zh-TW": "加雷馬帝國軍第十四軍團軍政官莉維亞·薩斯·尤尼烏斯的專用魔導裝甲。作爲在北洲擴張戰爭中有着活躍表現的“達爾馬斯卡魔女”的愛機而廣爲人知。通稱“純白惡魔”。"
+ },
+ "red-baron": {
+  "en": "Call into battle the Red Baron—Nero tol Scaeva's custom-made battle armor, now *your* custom-made battle armor.",
+  "ja": "ネロ専用魔導アーマーに騎乗する。 ネロ・トル・スカエウァ用にカスタマイズされた魔導アーマー",
+  "zh-CN": "加雷马帝国军第十四军团幕僚长尼禄·托尔·斯卡艾瓦的专用魔导装甲。经由优秀的机械师尼禄本人之手，强化了青磷引擎的功率和足部行走系统。通称“血红男爵”。",
+  "zh-TW": "加雷馬帝國軍第十四軍團幕僚長尼祿·托爾·斯卡艾瓦的專用魔導裝甲。經由優秀的機械師尼祿本人之手，強化了青磷引擎的功率和足部行走系統。通稱“血紅男爵”。"
+ },
+ "wyvern": {
+  "en": "Summon forth your wyvern, master of the skies and forever-loyal servant.",
+  "ja": "ワイバーンに騎乗する。 雲海を舞う忠義のワイバーン。魔物退治を己の使命とする",
+  "zh-CN": "飞翔于云海之间的双足飞龙。千年以前曾和它的挚友骑士立下誓言，共同打倒了无数邪恶的魔物。龙诗战争爆发后，由于与人类的交流被断绝，它在悲愤之余决心寻找新的伙伴，继续未竟的魔物讨伐事业。",
+  "zh-TW": "飛翔於雲海之間的雙足飛龍。千年以前曾和它的摯友騎士立下誓言，共同打倒了無數邪惡的魔物。龍詩戰爭爆發後，由於與人類的交流被斷絕，它在悲憤之餘決心尋找新的夥伴，繼續未竟的魔物討伐事業。"
+ },
+ "sds-fenrir": {
+  "en": "Call into battle the SDS Fenrir, a lore-bending battlebike that looks as if it was driven straight from an age unknown.",
+  "ja": "SDSフェンリルに騎乗する。 幻獣フェンリルの名を持つ戦闘バイク",
+  "zh-CN": "以幻兽芬里尔命名的战斗机车。是一辆名副其实拥有大排气量、能够高速行驶的机车。顺便一提，SDS是斯特莱夫配送服务的简称。",
+  "zh-TW": "以幻獸芬里爾命名的戰鬥機車。是一輛名副其實擁有大排氣量、能夠高速行駛的機車。順便一提，SDS是斯特萊夫配送服務的簡稱。"
+ },
+ "kongamato": {
+  "en": "Summon forth your kongamato, raised with care by the Vath stickpeddler.",
+  "ja": "コンガマトーに騎乗する。 アキンドが育てたコンガマトー。素顔は謎に包まれている",
+  "zh-CN": "自由脑窟穴的做买卖从幼虫期一直精心培养长大的恐甲蚂蜓。最初是产在水边的卵中孵化出的幼虫，作为水栖昆虫度过幼年期后，会羽化蜕变为带有翅膀可以飞行的成虫。",
+  "zh-TW": "自由腦窟穴的做買賣從幼蟲期一直精心培養長大的恐甲螞蜓。最初是產在水邊的卵中孵化出的幼蟲，作爲水棲昆蟲度過幼年期後，會羽化蛻變爲帶有翅膀可以飛行的成蟲。"
+ },
+ "zu": {
+  "en": "Summon forth your zu. Its weighty wings have carried it from the Near East.",
+  "ja": "ズーに騎乗する。 近東から飛来する怪鳥ズー。大空を悠然と羽ばたく",
+  "zh-CN": "来自近东的怪鸟祖的成鸟。嘴部呈锯齿状并生有利牙，是为了牢牢捕获住挣扎的野兽。当它咬住猎物后，便会来回甩动长长的脖子，弄死猎物后再一口吞掉。",
+  "zh-TW": "來自近東的怪鳥祖的成鳥。嘴部呈鋸齒狀並生有利牙，是爲了牢牢捕獲住掙扎的野獸。當它咬住獵物後，便會來回甩動長長的脖子，弄死獵物後再一口吞掉。"
+ },
+ "bennu": {
+  "en": "Summon forth the mythical bennu. Very few have had the privilege of viewing this bird up close.",
+  "ja": "ベンヌに騎乗する。 魔力を帯びた角笛により、呼び出される伝説の幻獣",
+  "zh-CN": "经过第七灵灾时现身于加尔提诺上空的不死鸟的以太沐浴而得以重生的怪鸟。因其外形酷似幻之灵鸟而得名“贝努”，意为“绚丽起舞的闪光之物”。",
+  "zh-TW": "經過第七靈災時現身於加爾提諾上空的不死鳥的以太沐浴而得以重生的怪鳥。因其外形酷似幻之靈鳥而得名“貝努”，意爲“絢麗起舞的閃光之物”。"
+ },
+ "white-lanner": {
+  "en": "Summon forth the white lanner. Favored of the primal Bismarck, he soars the skies unchallenged.",
+  "ja": "ホワイトラナーに騎乗する。 雲神に祝福された大隼。雲のように悠々と空を舞う",
+  "zh-CN": "受到云神俾斯麦的祝福，全身包裹着腾云的巨隼。其用途似乎是像腾云蛇一样，用来将瓦努族的战士送至云神身边。那云朵一般悠然飞舞在天空之中的身姿，宛如拂面而来的东风一般美丽。",
+  "zh-TW": "受到雲神俾斯麥的祝福，全身包裹着騰雲的巨隼。其用途似乎是像騰雲蛇一樣，用來將瓦努族的戰士送至雲神身邊。那雲朵一般悠然飛舞在天空之中的身姿，宛如拂面而來的東風一般美麗。"
+ },
+ "rose-lanner": {
+  "en": "Summon forth the rose lanner. Favored of the primal Ravana, his wings pierce the night sky like a blade of moonlight.",
+  "ja": "ラースラナーに騎乗する。 武神に祝福された大隼。月剣の如く、鋭く風を切る",
+  "zh-CN": "受到武神罗波那的祝福，全身缠绕着令人战栗的斗气的巨隼。它在空中飞翔时那撕裂狂风的凛然身姿，仿佛让人联想到月剑“明月之笑”。要想驯服它，恐怕需要有和武神相当的霸气才行。",
+  "zh-TW": "受到武神羅波那的祝福，全身纏繞着令人戰慄的鬥氣的巨隼。它在空中飛翔時那撕裂狂風的凜然身姿，彷彿讓人聯想到月劍“明月之笑”。要想馴服它，恐怕需要有和武神相當的霸氣纔行。"
+ },
+ "round-lanner": {
+  "en": "Summon forth the round lanner. Favored of the primal King Thordan, he serves his master's knights dutifully.",
+  "ja": "ラナー・オブ・ラウンドに騎乗する。 騎神に祝福された大隼。聖騎士たちに従い、獲物を狩る",
+  "zh-CN": "受到骑神托尔丹的祝福，充满圣骑士风格装扮的巨隼。这种装扮想必是来源于伊修加德的骑士们自古以来喜爱猎鹰的传统。它犀利的目光不会放过地面上的任何猎物。",
+  "zh-TW": "受到騎神托爾丹的祝福，充滿聖騎士風格裝扮的巨隼。這種裝扮想必是來源於伊修加德的騎士們自古以來喜愛獵鷹的傳統。它犀利的目光不會放過地面上的任何獵物。"
+ },
+ "warring-lanner": {
+  "en": "Summon forth the warring lanner. Favored of the primal Sephirot, it carries the seeds of the World Tree.",
+  "ja": "ウォーリングラナーに騎乗する。 魔神に祝福された大隼。世界樹の種を運ぶという",
+  "zh-CN": "受到魔神萨菲洛特的祝福，威风堂堂的巨隼。据说在南方大陆美拉西迪亚的树状种族神话体系中，原初之树“世界树”的种子被播撒到世界各地，令整个世界枝叶繁茂，而它就是用来播撒世界树种子的灵鸟。",
+  "zh-TW": "受到魔神薩菲洛特的祝福，威風堂堂的巨隼。據說在南方大陸美拉西迪亞的樹狀種族神話體系中，原初之樹“世界樹”的種子被播撒到世界各地，令整個世界枝葉繁茂，而它就是用來播撒世界樹種子的靈鳥。"
+ },
+ "gloria-class-airship": {
+  "en": "Summon forth the Gloria-class airship. This single-occupancy airship is a singular feat of engineering.",
+  "ja": "グローリア号に騎乗する。 単座の小型飛空艇。その名は、とある小説に由来する",
+  "zh-CN": "年轻而富有才华的技师塔塔拉姆所设计的小型单人式飞空艇，是将他的祖父塔塔诺拉毕生追求的螺旋桨型飞空艇以最新技术小型化后的产物。名称来源于某本小说中的一艘“能自由飞翔于空中的船”。",
+  "zh-TW": "年輕而富有才華的技師塔塔拉姆所設計的小型單人式飛空艇，是將他的祖父塔塔諾拉畢生追求的螺旋槳型飛空艇以最新技術小型化後的產物。名稱來源於某本小說中的一艘“能自由飛翔於空中的船”。"
+ },
+ "flying-cumulus": {
+  "en": "Summon forth the flying cumulus. It is unclear whether its previous owner was a boy with a tail or simply a monkey.",
+  "ja": "筋斗雲に騎乗する。 東方の仙人が編み出した秘術。魔法の雲を創り出す",
+  "zh-CN": "据说是隐居在东洲奥萨德大陆边境深山中的某位伟大仙人所创造的秘术，用魔力将云朵固定在一起，然后便可以乘着它飞翔在天空中。只有天生拥有魔法才能而且心地善良的人才能驾驭它。",
+  "zh-TW": "據說是隱居在東洲奧薩德大陸邊境深山中的某位偉大仙人所創造的祕術，用魔力將雲朵固定在一起，然後便可以乘着它飛翔在天空中。只有天生擁有魔法才能而且心地善良的人才能駕馭它。"
+ },
+ "original-fat-chocobo": {
+  "en": "Summon forth the original fat chocobo. Of course, being the original, it can eat much more than its peers.",
+  "ja": "初代でぶチョコボに騎乗する。 食い意地の張ったチョコボの大親分。初代は白かった",
+  "zh-CN": "胖陆行鸟闪亮登场！虽然近来黄色羽毛的个体比较常见，但作为超级贪吃的陆行鸟大前辈，初代胖陆行鸟的毛色却是白色的。由于它来者不拒的性格，除非吃到撑死，不管是武器还是防具都会吃给你看。",
+  "zh-TW": "胖陸行鳥閃亮登場！雖然近來黃色羽毛的個體比較常見，但作爲超級貪喫的陸行鳥大前輩，初代胖陸行鳥的毛色卻是白色的。由於它來者不拒的性格，除非喫到撐死，不管是武器還是防具都會喫給你看。"
+ },
+ "astrope": {
+  "en": "Summon forth Astrope. A fully grown pegasus large enough to bear you and a companion across gentle skies.",
+  "ja": "アストロペに騎乗する。 世にも珍しい大型のペガサス。2人乗りが可能",
+  "zh-CN": "阿斯特洛珀经过长时间的进化，成长为了可以驮动两个人的大型天马。本来是很凶猛的野兽，连接近都很困难。但是对那些拥有献身精神的善良之士会敞开心扉。",
+  "zh-TW": "阿斯特洛珀經過長時間的進化，成長爲了可以馱動兩個人的大型天馬。本來是很兇猛的野獸，連接近都很困難。但是對那些擁有獻身精神的善良之士會敞開心扉。"
+ },
+ "fat-moogle": {
+  "en": "Summon forth the fat moogle. How can he fly? Because magic. How can he fly bearing two riders? MAGIC.",
+  "ja": "でぶモーグリに騎乗する。 食い意地の張ったモーグリの大親分、飛べるのは魔法のおかげ。2人乗りが可能",
+  "zh-CN": "胖莫古力闪亮登场！吃光了森林，最终变成了如此庞大的身躯。即使胖成这样还能飞是多亏了魔法的力量，他自己的翅膀已经起不了什么作用了。",
+  "zh-TW": "胖莫古力閃亮登場！喫光了森林，最終變成了如此龐大的身軀。即使胖成這樣還能飛是多虧了魔法的力量，他自己的翅膀已經起不了什麼作用了。"
+ },
+ "cloud-mallow": {
+  "en": "Summon forth a cloud mallow. It will carry you wherever the wind blows. Or, wherever you steer it.",
+  "ja": "クラウドマロウに騎乗する。 雲海に自生する浮行性植物。モーグリの魔法により操作できる",
+  "zh-CN": "生长在云海的浮行性植物“轻飘飘浮草”。生活在莫古力之家的莫古力施以魔法，将其作为坐骑使用。此外，它的绒毛对莫古力族有治愈效果。",
+  "zh-TW": "生長在雲海的浮行性植物“輕飄飄浮草”。生活在莫古力之家的莫古力施以魔法，將其作爲坐騎使用。此外，它的絨毛對莫古力族有治癒效果。"
+ },
+ "whisper-go": {
+  "en": "Summon forth the Whisper-go. A small, flying vessel designed in the likeness of a Yo-kai named Whisper.",
+  "ja": "ウィスパー号に騎乗する。 妖怪ウィスパーを模した小型飛空艇。うぃす！",
+  "zh-CN": "以妖怪管家维斯帕的形象设计的小型飞空艇。加入了金碟游乐场游乐设施的概念要素，据说可活动的部件很多，且性能很高。虽然座位的空间看上去狭小，但实际坐上去非常舒服。",
+  "zh-TW": "以妖怪管家維斯帕的形象設計的小型飛空艇。加入了金碟遊樂場遊樂設施的概念要素，據說可活動的部件很多，且性能很高。雖然座位的空間看上去狹小，但實際坐上去非常舒服。"
+ },
+ "dark-lanner": {
+  "en": "Summon forth the dark lanner. Favored of Nidhogg, it fearlessly soars the skies of the Churning Mists.",
+  "ja": "ダークラナーに騎乗する。 邪竜の魔力を浴びた大隼。暗き翼を得て、大空を舞う",
+  "zh-CN": "沐浴了邪龙尼德霍格的魔力，得到了暗之翼的巨隼。切碎雷云在天空中飞舞的姿态被人误认为是君临龙族的七大天龙之一。甚至会让目击者以为邪龙再临，慌张地准备逃跑。",
+  "zh-TW": "沐浴了邪龍尼德霍格的魔力，得到了暗之翼的巨隼。切碎雷雲在天空中飛舞的姿態被人誤認爲是君臨龍族的七大天龍之一。甚至會讓目擊者以爲邪龍再臨，慌張地準備逃跑。"
+ },
+ "aerodynamics-system": {
+  "en": "Summon forth your aerodynamics system—marvel of ancient Allagan ingenuity.",
+  "ja": "浮行システムに騎乗する。 古代アラグ帝国時代に設計された汎用球形防衛システム",
+  "zh-CN": "库尔札斯东部低地发掘出来的古代亚拉戈帝国的通用球形防卫系统。虽然已经无法作为兵器使用了，但还是可以用来骑乘的。美中不足的是，每次启动都会自动推荐自卫系统的升级。",
+  "zh-TW": "庫爾札斯東部低地發掘出來的古代亞拉戈帝國的通用球形防衛系統。雖然已經無法作爲兵器使用了，但還是可以用來騎乘的。美中不足的是，每次啓動都會自動推薦自衛系統的升級。"
+ },
+ "disembodied-head": {
+  "en": "Summon forth your disembodied head. Not *your* disembodied head. *A* disembodied head. That's yours.",
+  "ja": "ヘッドマウントに騎乗する。 巨大な顔の彫像に、魔法を込めた浮行式ゴーレム",
+  "zh-CN": "向巨大的头颅雕像中注入了魔法而创造出的浮空型巨像兵。据说是角尊艾·乌纳在研究无限城文明的雕像型守护者的过程中实验创造出的。至于这尊头颅雕像的创作主题，知情人士对此全都缄口不言。",
+  "zh-TW": "向巨大的頭顱雕像中注入了魔法而創造出的浮空型巨像兵。據說是角尊艾·烏納在研究無限城文明的雕像型守護者的過程中實驗創造出的。至於這尊頭顱雕像的創作主題，知情人士對此全都緘口不言。"
+ },
+ "managarm": {
+  "en": "Summon forth Managarm, a legendary hound said to dwell in the hidden depths of Abalathia's Spine.",
+  "ja": "マーナガルムに騎乗する。 アバラシア山脈の奥地に生息する幻の古代獣",
+  "zh-CN": "古老的幻兽，人们都以为这种生物早已灭绝。在阿巴拉提亚山脉的民间传说中，这种生物总是在追逐月亮，并且能够吞噬阳光。而事实上，玛纳加尔姆有着非常强大的魔力，能够发出幻象之火，还能够在天空中驰骋。",
+  "zh-TW": "古老的幻獸，人們都以爲這種生物早已滅絕。在阿巴拉提亞山脈的民間傳說中，這種生物總是在追逐月亮，並且能夠吞噬陽光。而事實上，瑪納加爾姆有着非常強大的魔力，能夠發出幻象之火，還能夠在天空中馳騁。"
+ },
+ "whisper-a-go-go": {
+  "en": "Summon forth the Whisper A-go-go. A flashy upgrade to a small flying vessel designed in the likeness of a Yo-kai named Whisper.",
+  "ja": "ウィスパー号改に騎乗する。 妖怪ウィスパーを模した改良型の小型飛空艇。うぃす！",
+  "zh-CN": "以妖怪管家维斯帕的形象设计的改良型小型飞空艇。上面的华丽装饰是为了表彰与众多妖怪成为朋友并共同突破试炼这一伟业。据说是异国的诗人和来自异国的总裁赠予的礼物。",
+  "zh-TW": "以妖怪管家維斯帕的形象設計的改良型小型飛空艇。上面的華麗裝飾是爲了表彰與衆多妖怪成爲朋友並共同突破試煉這一偉業。據說是異國的詩人和來自異國的總裁贈予的禮物。"
+ },
+ "goten": {
+  "en": "Summon forth Goten. A man-made aberration from a land that exists only in whispers. Its name is said to mean “roaring heavens.”",
+  "ja": "轟天に騎乗する。 黄金に輝く装甲をまとった存在",
+  "zh-CN": "装甲闪耀着金色光芒的魔导马。只有通过“内心的试炼”的强者才被允许骑乘。",
+  "zh-TW": "裝甲閃耀着金色光芒的魔導馬。只有通過“內心的試煉”的強者才被允許騎乘。"
+ },
+ "ginga": {
+  "en": "Summon forth Ginga. A man-made aberration from a land that exists only in whispers. Its name is said to mean “silver fang.”",
+  "ja": "銀牙に騎乗する。 銀色に輝く装甲をまとった存在",
+  "zh-CN": "装甲闪耀着银色光芒的魔导马。只有斩杀了无数敌人并且通过“内心的试炼”的强者才被允许骑乘。",
+  "zh-TW": "裝甲閃耀着銀色光芒的魔導馬。只有斬殺了無數敵人並且通過“內心的試煉”的強者才被允許騎乘。"
+ },
+ "mystic-panda": {
+  "en": "Summon forth your mystic panda. From Doma. From a thousand years ago.",
+  "ja": "仙術熊猫に騎乗する。 千年の時を生き、仙術を体得したと噂される",
+  "zh-CN": "我说你啊，以前去过宽 慰河的上游那边吗？ 那附近有些<Sheet(BNpcName,3566,0)/>在 游荡着，让我很头疼啊。 ——尾羽集落的猎人",
+  "zh-TW": "我說你啊，以前去過寬 慰河的上游那邊嗎？ 那附近有些<Sheet(BNpcName,3566,0)/>在 遊蕩着，讓我很頭疼啊。 ——尾羽集落的獵人"
+ },
+ "sophic-lanner": {
+  "en": "Summon forth your Sophic lanner. A once faithful servant to a fickle goddess.",
+  "ja": "ゴッデスラナーに騎乗する。 女神に祝福された大隼。天秤に調和の分銅を落とすという",
+  "zh-CN": "受到女神索菲娅祝福，散发着神圣氛围的巨隼。传说，当世间陷入混乱之际，女神会派遣神鸟播撒天平的砝码，来确保平衡。另外还有种说法称，这“砝码”指的就是生于人世的“英雄”。",
+  "zh-TW": "受到女神索菲婭祝福，散發着神聖氛圍的巨隼。傳說，當世間陷入混亂之際，女神會派遣神鳥播撒天平的砝碼，來確保平衡。另外還有種說法稱，這“砝碼”指的就是生於人世的“英雄”。"
+ },
+ "starlight-bear": {
+  "en": "Summon forth your Starlight bear, and delight the younglings to no end.",
+  "ja": "スターライト・ベアーに騎乗する。 星芒祭のため芸を学んだ熊",
+  "zh-CN": "星芒节执行委员贝恩费尔德饲养的熊，名叫<Switch(PlayerParameter(71))><Case(1)>帝星</Case><Case(2)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case><Case(3)>太子</Case><Case(4)>帝星</Case><Case(5)>北极星</Case><Case(6)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case><Case(7)>北极星</Case><Case(8)>帝星</Case></Switch>。为了哄孩子们开心而学会了投掷礼花筒的技艺，还用这招教训了偷窃星芒节装饰物的树精。",
+  "zh-TW": "星芒節執行委員貝恩費爾德飼養的熊，名叫<Switch(PlayerParameter(71))><Case(1)>帝星</Case><Case(2)><If(PlayerParameter(4))>帝星<Else/>北極星</If></Case><Case(3)>太子</Case><Case(4)>帝星</Case><Case(5)>北極星</Case><Case(6)><If(PlayerParameter(4))>帝星<Else/>北極星</If></Case><Case(7)>北極星</Case><Case(8)>帝星</Case></Switch>。爲了哄孩子們開心而學會了投擲禮花筒的技藝，還用這招教訓了偷竊星芒節裝飾物的樹精。"
+ },
+ "black-pegasus": {
+  "en": "Summon forth a black pegasus—winged horse of legend and bringer of death.",
+  "ja": "ブラックペガサスに騎乗する。 世にも珍しい黒色のペガサス。「黒死馬」の別名でも知られる",
+  "zh-CN": "十分罕见的黑色天马，据说是在曾属于魔大陆一部分的传承之地发现的。如果是庸人骑在它的背上将会必死无疑，因此也称它是黑死马。",
+  "zh-TW": "十分罕見的黑色天馬，據說是在曾屬於魔大陸一部分的傳承之地發現的。如果是庸人騎在它的背上將會必死無疑，因此也稱它是黑死馬。"
+ },
+ "arrhidaeus": {
+  "en": "Arrhidaeus, Arrhidaeus. Arrhidaeus. Arrhidaeus, Arrhidaeus. Arrhidaeus. Arrhidaeus, Arrhidaeus. Oh, oh, oh, Arrhidaeus. Summon forth your Arrhidaeus.",
+  "ja": "アリダイオスに騎乗する。 アレキサンダー製の攻撃端末。武装解除を受け、乗用に利用されることになった",
+  "zh-CN": "使用亚历山大机神城内部的设备自动生成的攻击性终端。据说是用于时间干涉攻击而制造出来的。在激烈的战斗过后，对其进行了改造，解除了武装，现在可以作为骑乘工具来使用。",
+  "zh-TW": "使用亞歷山大機神城內部的設備自動生成的攻擊性終端。據說是用於時間干涉攻擊而製造出來的。在激烈的戰鬥過後，對其進行了改造，解除了武裝，現在可以作爲騎乘工具來使用。"
+ },
+ "raigo": {
+  "en": "Summon forth Raigo. Whether or not he heeds the call depends entirely on the number of bloodied laurels in your crown.",
+  "ja": "雷剛に騎乗する。 幾多の戦場を駆け抜けてきた真の強者のみが従え得る魔導馬",
+  "zh-CN": "只有经过无数战场洗礼的真正强者才配拥有的魔导马。雷刚比其他魔导马都要强壮，其装甲闪耀着黑色的光芒，似乎象征着背负的罪业……",
+  "zh-TW": "只有經過無數戰場洗禮的真正強者才配擁有的魔導馬。雷剛比其他魔導馬都要強壯，其裝甲閃耀着黑色的光芒，似乎象徵着揹負的罪業……"
+ },
+ "demonic-lanner": {
+  "en": "Summon forth your Demonic lanner—a symbol of justice for the Zurvan-worshipping races which once thrived on the southern continent of Meracydia.",
+  "ja": "デモンラナーに騎乗する。 鬼神に祝福された大隼。先触れとして正義の執行を告げる",
+  "zh-CN": "受到鬼神祖尔宛祝福，全身缠绕着惊人杀气的巨隼。根据南方大陆人马族的传说，当与邪恶敌人开战前，鬼神会派遣它来宣告正义的裁决。",
+  "zh-TW": "受到鬼神祖爾宛祝福，全身纏繞着驚人殺氣的巨隼。根據南方大陸人馬族的傳說，當與邪惡敵人開戰前，鬼神會派遣它來宣告正義的裁決。"
+ },
+ "firebird": {
+  "en": "Summon forth your Firebird. Not Phoenix. Definitely not Phoenix.",
+  "ja": "鳳凰に騎乗する。 東方由来の魔笛により、呼び出される伝説の幻獣",
+  "zh-CN": "在东洲传说有这样一种神鸟——每当它寿命将至，就会用如同太阳一般耀眼的金色火焰烧尽自己，然后从灰中复活。虽然人类可以通过仙人制作的魔笛向凤凰发出呼唤，但是百鸟之王仅会回应它认可的英雄。",
+  "zh-TW": "在東洲傳說有這樣一種神鳥——每當它壽命將至，就會用如同太陽一般耀眼的金色火焰燒盡自己，然後從灰中復活。雖然人類可以通過仙人制作的魔笛向鳳凰發出呼喚，但是百鳥之王僅會回應它認可的英雄。"
+ },
+ "eggshilaration-system": {
+  "en": "Call into battle your eggshilaration system. Egg puns required for propulsion.",
+  "ja": "エッグシステムに騎乗する。 空飛ぶ不思議な飾りタマゴ",
+  "zh-CN": "用不可思议的力量浮在空中的彩蛋。是诺诺塔他们为了实现吉莉·阿里亚珀的梦境而用圣寇伊纳克财团发掘的古代文明遗物改造的。",
+  "zh-TW": "用不可思議的力量浮在空中的彩蛋。是諾諾塔他們爲了實現吉莉·阿里亞珀的夢境而用聖寇伊納克財團發掘的古代文明遺物改造的。"
+ },
+ "lone-hellhound": {
+  "en": "Summon forth your lone hellhound, void-spawned aberration loyal to none save you and yours.",
+  "ja": "ローン・ヘルハウンドに騎乗する。 異界ヴォイドに棲まう凶暴な魔獣。孤高の存在！",
+  "zh-CN": "生活在虚无界的残暴魔兽。从不追随任何妖异，以一己之力在那危险的世界存活，目光十分锐利。想必只有浑身充满灼热斗气的身经百战的强者才能够得到它的允许，骑在它的身上。",
+  "zh-TW": "生活在虛無界的殘暴魔獸。從不追隨任何妖異，以一己之力在那危險的世界存活，目光十分銳利。想必只有渾身充滿灼熱鬥氣的身經百戰的強者纔能夠得到它的允許，騎在它的身上。"
+ },
+ "pack-hellhound": {
+  "en": "Summon forth your pack hellhound, void-spawned aberration loyal to none save you and yours.",
+  "ja": "パック・ヘルハウンドに騎乗する。 異界ヴォイドに棲まう凶暴な魔獣。群れのリーダー！",
+  "zh-CN": "生活在虚无界的残暴魔兽。率领众多魔兽在危险的世界连战连胜，散发出令人战栗的威慑感。想必只有浑身充满冰冷杀气的身经百战的强者才能够得到它的允许，骑在它的身上。",
+  "zh-TW": "生活在虛無界的殘暴魔獸。率領衆多魔獸在危險的世界連戰連勝，散發出令人戰慄的威懾感。想必只有渾身充滿冰冷殺氣的身經百戰的強者纔能夠得到它的允許，騎在它的身上。"
+ },
+ "archon-throne": {
+  "en": "Summon forth your Archon throne. Don't call it a high chair.",
+  "ja": "アルコンズ・チェアーに騎乗する。 プカプカと空中に浮かぶ不可思議な椅子",
+  "zh-CN": "浮在空中的不可思议的座椅。是从龙堡参天高地的萨雷安遗迹中发现的。似乎是为了在迦巴勒幻想图书馆中拿到高处的书籍而制造出来的魔法道具。",
+  "zh-TW": "浮在空中的不可思議的座椅。是從龍堡參天高地的薩雷安遺蹟中發現的。似乎是爲了在迦巴勒幻想圖書館中拿到高處的書籍而製造出來的魔法道具。"
+ },
+ "syldra": {
+  "en": "Summon forth Syldra. Even in death, she would want to help.",
+  "ja": "シルドラに騎乗する。 大洋に棲まうと伝えられる幻の海竜。やさしい子だね……",
+  "zh-CN": "相传生活在大洋里的梦幻海龙。它的模样与传说中为自己的女海盗朋友拖拽海盗船的海龙一模一样。虽然不能像龙族那样说话，但据说只要被它视为了朋友，就能与它心意相通。",
+  "zh-TW": "相傳生活在大洋裏的夢幻海龍。它的模樣與傳說中爲自己的女海盜朋友拖拽海盜船的海龍一模一樣。雖然不能像龍族那樣說話，但據說只要被它視爲了朋友，就能與它心意相通。"
+ },
+ "falcon": {
+  "en": "Call into battle the *Falcon*, (unofficially) the fastest single-rider airship ever built in Eorzea.",
+  "ja": "ファルコン号に騎乗する。 単座の小型飛空艇。目指すは世界最速！",
+  "zh-CN": "加隆德炼铁厂生产的小型试制飞空艇，由该厂干劲十足的机械师魏吉开发，目标是成为世界上最快的单座式飞空艇，但却在挑战极限的飞行测试中不幸坠落。现在已经装上了限制器。",
+  "zh-TW": "加隆德煉鐵廠生產的小型試製飛空艇，由該廠幹勁十足的機械師魏吉開發，目標是成爲世界上最快的單座式飛空艇，但卻在挑戰極限的飛行測試中不幸墜落。現在已經裝上了限制器。"
+ },
+ "lone-faehound": {
+  "en": "Summon forth your lone faehound, void-spawned aberration loyal to none save you and yours.",
+  "ja": "ローン・フェイハウンドに騎乗する。 異界ヴォイドに棲まう凶暴な魔獣。孤高の存在！",
+  "zh-CN": "生活在虚无界的狰狞魔兽。闪着银光的皮毛被猎物的血染成了妖艳的色调。虽然一直独自行走在危险的世界中，但据说浑身充满灼热斗气的身经百战的强者却能够得到它的允许，骑在它的身上。",
+  "zh-TW": "生活在虛無界的猙獰魔獸。閃着銀光的皮毛被獵物的血染成了妖豔的色調。雖然一直獨自行走在危險的世界中，但據說渾身充滿灼熱鬥氣的身經百戰的強者卻能夠得到它的允許，騎在它的身上。"
+ },
+ "pack-faehound": {
+  "en": "Summon forth your pack faehound, void-spawned aberration loyal to none save you and yours.",
+  "ja": "パック・フェイハウンドに騎乗する。 異界ヴォイドに棲まう凶暴な魔獣。群れのリーダー！",
+  "zh-CN": "生活在虚无界的狰狞魔兽。闪着银光的皮毛被深沉的黑暗染成了诡异的色调。虽然一直以首领的身份行走在危险的世界中，但据说浑身充满冰冷杀气的身经百战的强者却能够得到它的允许，骑在它的身上。",
+  "zh-TW": "生活在虛無界的猙獰魔獸。閃着銀光的皮毛被深沉的黑暗染成了詭異的色調。雖然一直以首領的身份行走在危險的世界中，但據說渾身充滿冰冷殺氣的身經百戰的強者卻能夠得到它的允許，騎在它的身上。"
+ },
+ "blissful-kamuy": {
+  "en": "Summon forth your blissful kamuy, blessed wolf who shall not be bound by such corporeal laws as gravity or aerodynamics.",
+  "ja": "美のカムイに騎乗する。 美神に祝福された大狼。美しく天を駆ける",
+  "zh-CN": "受到美神吉祥天女的祝福，散发着高贵光芒的巨狼。它的出现有可能是因为阿难陀族把巨狼当成供品献给蛮神的缘故。",
+  "zh-TW": "受到美神吉祥天女的祝福，散發着高貴光芒的巨狼。它的出現有可能是因爲阿難陀族把巨狼當成供品獻給蠻神的緣故。"
+ },
+ "reveling-kamuy": {
+  "en": "Summon forth your reveling kamuy, blessed wolf who shall not be bound by such corporeal laws as gravity or aerodynamics.",
+  "ja": "豪のカムイに騎乗する。 豪神に祝福された大狼。猛々しく天を駆ける",
+  "zh-CN": "受到豪神须佐之男的祝福，散发着豪放之气的巨狼。它的出现有可能是因为甲人族把巨狼当成供品献给蛮神的缘故。",
+  "zh-TW": "受到豪神須佐之男的祝福，散發着豪放之氣的巨狼。它的出現有可能是因爲甲人族把巨狼當成供品獻給蠻神的緣故。"
+ },
+ "magitek-predator": {
+  "en": "Call into battle your magitek predator, and have you some fun.",
+  "ja": "魔導プレデターに騎乗する。 格闘アームを備えた次期主力魔導アーマー",
+  "zh-CN": "被人丢弃在阿拉米格城郭内的魔导猎手。虽然是以魔导死神为原型制作出来的强化近战能力与生产力的类型，但这台机体看上去却像是省略了武装，将剩余输出全部分给飞行功能的试制样品。",
+  "zh-TW": "被人丟棄在阿拉米格城郭內的魔導獵手。雖然是以魔導死神爲原型製作出來的強化近戰能力與生產力的類型，但這臺機體看上去卻像是省略了武裝，將剩餘輸出全部分給飛行功能的試製樣品。"
+ },
+ "battle-lion": {
+  "en": "Summon forth your battle lion, fully armored to protect the majestic beast from the dangers of close combat.",
+  "ja": "バトルライオンに騎乗する。 戦闘用に調教された軍獅子。専用の獣甲冑で身を包む",
+  "zh-CN": "专门为了战斗而训练的军用狮子。乌尔达哈的近卫兵团“银胄团”为了复兴过去的传统而将其选为了坐骑。在从近东萨维奈邀请到的驯兽师的调教下，已经养成了完美的举止。",
+  "zh-TW": "專門爲了戰鬥而訓練的軍用獅子。烏爾達哈的近衛兵團“銀胄團”爲了復興過去的傳統而將其選爲了坐騎。在從近東薩維奈邀請到的馴獸師的調教下，已經養成了完美的舉止。"
+ },
+ "battle-bear": {
+  "en": "Summon forth your battle bear, fully armored to protect the savage beast from singeing its lustrous fur on the smoldering carnage left in its wake.",
+  "ja": "バトルベアーに騎乗する。 戦闘用に調教された軍熊。専用の獣甲冑で身を包む",
+  "zh-CN": "专门为了战斗而训练的军用大熊。虽然被称为北阿巴拉提亚山脉之主，但据说面对驯服了原初之力的真正战士时，只需要四目相交就能让它臣服。想必是它那野生的直觉在瞬间便感受到了能力高低的缘故吧。",
+  "zh-TW": "專門爲了戰鬥而訓練的軍用大熊。雖然被稱爲北阿巴拉提亞山脈之主，但據說面對馴服了原初之力的真正戰士時，只需要四目相交就能讓它臣服。想必是它那野生的直覺在瞬間便感受到了能力高低的緣故吧。"
+ },
+ "battle-panther": {
+  "en": "Summon forth your battle panther, fully armored to protect the stealthy beast from the occasional poison dart, poison arrow, poison-tipped spear, poison spell, and any poison words directed its way.",
+  "ja": "バトルパンサーに騎乗する。 戦闘用に調教された軍豹。専用の獣甲冑で身を包む",
+  "zh-CN": "专门为了战斗而训练的军用黑豹。通过本能操纵魔力的黑豹对暗黑骑士而言堪比自然界之师。据说在历代的暗黑骑士中，还有人与黑兽为友，仿若黑影一般，四处奔走行使正义。",
+  "zh-TW": "專門爲了戰鬥而訓練的軍用黑豹。通過本能操縱魔力的黑豹對暗黑騎士而言堪比自然界之師。據說在歷代的暗黑騎士中，還有人與黑獸爲友，仿若黑影一般，四處奔走行使正義。"
+ },
+ "yol": {
+  "en": "Summon forth your yol, proof of your recognition by the Azim Steppe Xaela as a true warrior.",
+  "ja": "ヨルに騎乗する。 アジムステップに棲まう怪鳥。ゼラの戦士の証",
+  "zh-CN": "栖息在太阳神草原山区的怪鸟。将巴儿达木霸道视为自己的地盘，将进入者视为自己的猎物。虽然是非常狰狞的猛禽，但只要是它承认的实力者，它就会把对方当成狩猎的朋友，并允许对方骑在自己背上。",
+  "zh-TW": "棲息在太陽神草原山區的怪鳥。將巴兒達木霸道視爲自己的地盤，將進入者視爲自己的獵物。雖然是非常猙獰的猛禽，但只要是它承認的實力者，它就會把對方當成狩獵的朋友，並允許對方騎在自己背上。"
+ },
+ "alte-roite": {
+  "en": "Summon forth Alte Roite, fantastical ur-being generated by Omega within the Deltascape.",
+  "ja": "アルテ・ロイテに騎乗する。 オメガによって創造された疑似生物",
+  "zh-CN": "欧米茄创造的类生物体，其名与某古典小说中的老魔法师一致。小说中该魔法师能够变身为龙的姿态，因此欧米茄也将老者创造为了龙的造型。",
+  "zh-TW": "歐米茄創造的類生物體，其名與某古典小說中的老魔法師一致。小說中該魔法師能夠變身爲龍的姿態，因此歐米茄也將老者創造爲了龍的造型。"
+ },
+ "centurio-tiger": {
+  "en": "Summon forth your Centurio tiger, one mark the Clan actually does not want seen slain.",
+  "ja": "セントリオタイガーに騎乗する。 リスキーモブの血を引く猛虎",
+  "zh-CN": "在百家兵团训练的猛虎。曾经有一名怪物猎人在讨伐恶名精英的食人虎时发现了其幼崽，出于同情便将它保护起来，交给了兵团的团员养育。经历过魔法训练，可以在空中飞行。",
+  "zh-TW": "在百家兵團訓練的猛虎。曾經有一名怪物獵人在討伐惡名精英的食人虎時發現了其幼崽，出於同情便將它保護起來，交給了兵團的團員養育。經歷過魔法訓練，可以在空中飛行。"
+ },
+ "ixion": {
+  "en": "Summon forth mighty Ixion, legend of the Gyr Abanian highlands.",
+  "ja": "イクシオンに騎乗する。 ギラバニア地方で語り継がれてきた古の幻獣",
+  "zh-CN": "基拉巴尼亚地区传说中的古代幻兽。在星导教的教义中，它是破坏神拉尔戈的爱马，但来自玛哈的魔法书却将其记载为由魔具强化过的生物。唯一可以确定的就是它具备操纵雷电的能力。",
+  "zh-TW": "基拉巴尼亞地區傳說中的古代幻獸。在星導教的教義中，它是破壞神拉爾戈的愛馬，但來自瑪哈的魔法書卻將其記載爲由魔具強化過的生物。唯一可以確定的就是它具備操縱雷電的能力。"
+ },
+ "legendary-kamuy": {
+  "en": "Summon forth the legendary kamuy, blessed wolf who shall not be bound by such corporeal laws as gravity or aerodynamics.",
+  "ja": "龍のカムイに騎乗する。 神龍に祝福された大狼。神々しく天を駆ける",
+  "zh-CN": "受到神龙的祝福，散发着神圣光芒的巨狼。它的出现有可能是由于阿拉米格军犬被神龙之光照射到了。",
+  "zh-TW": "受到神龍的祝福，散發着神聖光芒的巨狼。它的出現有可能是由於阿拉米格軍犬被神龍之光照射到了。"
+ },
+ "nezha-chariot": {
+  "en": "Summon forth your Nezha chariot and travel the skies like a god.",
+  "ja": "風火二輪に騎乗する。 天を駆ける神器。風と火を噴き出す",
+  "zh-CN": "传说中的英雄所使用的宝物。因二轮均能够喷风生火，故名风火轮，移动速度极快，踏在脚下可以日行千星里。虽然飞行时看起来火苗很大，但是并不会烧到人或物。",
+  "zh-TW": "傳說中的英雄所使用的寶物。因二輪均能夠噴風生火，故名風火輪，移動速度極快，踏在腳下可以日行千星裏。雖然飛行時看起來火苗很大，但是並不會燒到人或物。"
+ },
+ "striped-ray": {
+  "en": "Summon forth your striped ray, a majestic creature native to the Ruby Sea.",
+  "ja": "シマエイに騎乗する。 紅玉海に棲息する海洋生物。コウジン族のエイ飼いが調教した",
+  "zh-CN": "由甲人族的饲鳐员训练出来的斑鳐。整个扁平的身体发挥了以太翼的功能，借助水属性与风属性以太，既可以在水中游泳，也可以在空中飞行。由于被优哉游哉的碧甲族饲养长大，性格十分敦厚。",
+  "zh-TW": "由甲人族的飼鰩員訓練出來的斑鰩。整個扁平的身體發揮了以太翼的功能，藉助水屬性與風屬性以太，既可以在水中游泳，也可以在空中飛行。由於被優哉遊哉的碧甲族飼養長大，性格十分敦厚。"
+ },
+ "aquamarine-carbuncle": {
+  "en": "Summon forth your Aquamarine Carbuncle, an arcane entity given form by the mysteries of aquamarine geometry.",
+  "ja": "カーバンクル・アクアマリンに騎乗する。 アクアマリンの神秘を解き明かした魔紋から生まれた騎乗用魔法生物",
+  "zh-CN": "自称天才秘术师的乌兰创造出的用于骑乘的魔法生物，运用了培育大型宝石兽“钻石”所积累的知识。由于宝石兽的核心使用了大颗的海蓝石，所以即使不是秘术师也可以将其召唤出来。",
+  "zh-TW": "自稱天才祕術師的烏蘭創造出的用於騎乘的魔法生物，運用了培育大型寶石獸“鑽石”所積累的知識。由於寶石獸的核心使用了大顆的海藍石，所以即使不是祕術師也可以將其召喚出來。"
+ },
+ "citrine-carbuncle": {
+  "en": "Summon forth your Citrine Carbuncle, an arcane entity given form by the mysteries of citrine geometry.",
+  "ja": "カーバンクル・シトリンに騎乗する。 シトリンの神秘を解き明かした魔紋から生まれた騎乗用魔法生物",
+  "zh-CN": "自称天才秘术师的乌兰创造出的用于骑乘的魔法生物，运用了培育大型宝石兽“钻石”所积累的知识。由于宝石兽的核心使用了大颗的黄水晶，所以即使不是秘术师也可以将其召唤出来。",
+  "zh-TW": "自稱天才祕術師的烏蘭創造出的用於騎乘的魔法生物，運用了培育大型寶石獸“鑽石”所積累的知識。由於寶石獸的核心使用了大顆的黃水晶，所以即使不是祕術師也可以將其召喚出來。"
+ },
+ "flying-chair": {
+  "en": "Summon forth a flying chair to bear you in high style.",
+  "ja": "フライング・チェアーに騎乗する。 魔法仕掛けの空飛ぶ椅子。さらに高高度に。でも品質はそのままに",
+  "zh-CN": "施了魔法的飞天座椅。飞行高度更高，但质量并没有变。工匠们时刻发明实用的设计与配方，要将手工制作的成品送给全世界的冒险者。多给的内六角扳手让人觉得十分周到。",
+  "zh-TW": "施了魔法的飛天座椅。飛行高度更高，但質量並沒有變。工匠們時刻發明實用的設計與配方，要將手工製作的成品送給全世界的冒險者。多給的內六角扳手讓人覺得十分周到。"
+ },
+ "magitek-avenger": {
+  "en": "Call into battle your magitek avenger, an imperial warmachina made mightier by goblin hands.",
+  "ja": "魔導アヴェンジャー騎乗型に騎乗する。 ゴブリン族が改良した帝国製無人魔導兵器",
+  "zh-CN": "哥布林族改良的帝国制无人魔导兵器。原本是无人机，后来被哥布林族得到。哥布林族为了将其用于骑乘而对其进行了改造，就变成了现在的样子。只是不太明白这究竟算是高科技还是低科技。",
+  "zh-TW": "哥布林族改良的帝國制無人魔導兵器。原本是無人機，後來被哥布林族得到。哥布林族爲了將其用於騎乘而對其進行了改造，就變成了現在的樣子。只是不太明白這究竟算是高科技還是低科技。"
+ },
+ "korpokkur-kolossus": {
+  "en": "Summon forth your korpokkur kolossus, a veritable colossus among its kind.",
+  "ja": "ハコボックルに騎乗する。 大きく成長したコロポックル。ルガディン族をも易々と運ぶ",
+  "zh-CN": "茁壮成长后的叶小妖。一直在寻找理想中的住所，最终来到了金碟游乐场。在穿越撒沟厉沙漠的时候差一点干枯而死，没想到吸水后反弹，得到了让人目瞪口呆的巨大身体。",
+  "zh-TW": "茁壯成長後的葉小妖。一直在尋找理想中的住所，最終來到了金碟遊樂場。在穿越撒溝厲沙漠的時候差一點乾枯而死，沒想到吸水後反彈，得到了讓人目瞪口呆的巨大身體。"
+ },
+ "red-hare": {
+  "en": "Summon forth the Red Hare—legendary steed known for both its unmatchable speed and its fiery red coat.",
+  "ja": "赤兎馬に騎乗する。 紅い毛を持つ名馬。兎のように大地を駆ける",
+  "zh-CN": "赤兔马是统一延夏的名将岩燕的爱马。传说岩燕通过自创的风水术令赤兔也学会了飞上天空的技巧。据说这匹马继承了当年那匹赤兔的血统，不过无人能够分辨是真是假。",
+  "zh-TW": "赤兔馬是統一延夏的名將巖燕的愛馬。傳說巖燕通過自創的風水術令赤兔也學會了飛上天空的技巧。據說這匹馬繼承了當年那匹赤兔的血統，不過無人能夠分辨是真是假。"
+ },
+ "auspicious-kamuy": {
+  "en": "Summon forth the auspicious kamuy, blessed wolf who shall not be bound by such corporeal laws as gravity or aerodynamics.",
+  "ja": "白のカムイに騎乗する。 白虎の神通力を受けた大狼。風を巻き上げ天を駆ける",
+  "zh-CN": "被四圣兽之白虎灌输了神通力的巨狼，周身刮着永不停息的天风。据说是白虎镇压了为祸人间的巨狼后诞生的。",
+  "zh-TW": "被四聖獸之白虎灌輸了神通力的巨狼，周身颳着永不停息的天風。據說是白虎鎮壓了爲禍人間的巨狼後誕生的。"
+ },
+ "magitek-death-claw": {
+  "en": "Call into battle your magitek death claw, an imperial warmachina based on ancient Allagan technology.",
+  "ja": "魔導デスクロー拘束型に騎乗する。 身柄拘束用に改良された帝国製無人魔導兵器",
+  "zh-CN": "帝国将亚拉戈的古代兵器钢铁之爪改进后设计出的魔导兵器。配备给特务宪兵队的这台拘束型经过特别调整，可以拘束犯人将其带走。",
+  "zh-TW": "帝國將亞拉戈的古代兵器鋼鐵之爪改進後設計出的魔導兵器。配備給特務憲兵隊的這臺拘束型經過特別調整，可以拘束犯人將其帶走。"
+ },
+ "marid": {
+  "en": "Summon forth your marid, trained by the Ananta and outfitted with a magicked carpet allowing for flight.",
+  "ja": "マーリドに騎乗する。 アナンタ族が使役する大型獣。魔法の絨毯をまとっている",
+  "zh-CN": "被阿难陀族使役的大型兽。身披魔力纤维织成的魔法绒毯，能够借助魔力浮游。当然魔象是不会飞的，更不会靠扇动耳朵来飞。",
+  "zh-TW": "被阿難陀族使役的大型獸。身披魔力纖維織成的魔法絨毯，能夠藉助魔力浮游。當然魔象是不會飛的，更不會靠扇動耳朵來飛。"
+ },
+ "true-griffin": {
+  "en": "Summon forth your true griffin, a noble winged beast native to the hidden reaches of Abalathia's Spine.",
+  "ja": "トゥルーグリフィンに騎乗する。 アバラシア山脈原産の有翼の魔獣",
+  "zh-CN": "原产于阿巴拉提亚山脉的有翼魔兽。由阿拉米格解放军的驯兽人基弗用心养育。可以听从骑手的命令扇起突风。另外，这只真狮鹫这么白似乎是品种原因。",
+  "zh-TW": "原產於阿巴拉提亞山脈的有翼魔獸。由阿拉米格解放軍的馴獸人基弗用心養育。可以聽從騎手的命令扇起突風。另外，這隻真獅鷲這麼白似乎是品種原因。"
+ },
+ "tyrannosaur": {
+  "en": "Summon forth your tyrannosaur and experience firsthand a lost time when scalekin ruled the world.",
+  "ja": "ティラノサウルスに騎乗する。 「暴君」と渾名される肉食古代獣",
+  "zh-CN": "被人叫做“暴君”的古代肉食兽，由于长时间沐浴在瓦尔岛的风属性以太中，拥有不可思议的浮游能力。虽然性格凶暴无比，但会服从认定了实力的冒险者。",
+  "zh-TW": "被人叫做“暴君”的古代肉食獸，由於長時間沐浴在瓦爾島的風屬性以太中，擁有不可思議的浮游能力。雖然性格兇暴無比，但會服從認定了實力的冒險者。"
+ },
+ "regalia-type-g": {
+  "en": "Summon forth your Regalia Type-G, ceruleum-powered magitek transportation vehicle crafted by Garlond Ironworks.",
+  "ja": "レガリアに騎乗する。 ガーロンド・アイアンワークス社が製造したレプリカ車両",
+  "zh-CN": "西德受到诺克提斯的委托，修理了其爱车雷迦利亚，在解析了修理过程中获得的数据后，制造出了这辆仿造品。由于引擎用青磷引擎进行了替换，并进行了一些改造，于是名字也一同改造成了加隆德炼铁厂风格。",
+  "zh-TW": "西德受到諾克提斯的委託，修理了其愛車雷迦利亞，在解析了修理過程中獲得的數據後，製造出了這輛仿造品。由於引擎用青磷引擎進行了替換，並進行了一些改造，於是名字也一同改造成了加隆德煉鐵廠風格。"
+ },
+ "broken-heart-right": {
+  "en": "Summon forth your broken heart—a magicked chair representing the right half of a Valentione's Day heart.",
+  "ja": "フライング・ライトハートに騎乗する。 ヴァレンティオンデーの祝祭のために作られた空飛ぶ椅子",
+  "zh-CN": "为了庆祝恋人节而特制的飞天椅。是以前恋人节剩下的半心椅改良而成。听说为了让椅子浮起来，瓦伦提昂家动员家里所有人栽培白云花。",
+  "zh-TW": "爲了慶祝戀人節而特製的飛天椅。是以前戀人節剩下的半心椅改良而成。聽說爲了讓椅子浮起來，瓦倫提昂家動員家裏所有人栽培白雲花。"
+ },
+ "broken-heart-left": {
+  "en": "Summon forth your broken heart—a magicked chair representing the left half of a Valentione's Day heart.",
+  "ja": "フライング・レフトハートに騎乗する。 ヴァレンティオンデーの祝祭のために作られた空飛ぶ椅子",
+  "zh-CN": "为了庆祝恋人节而特制的飞天椅。是以前恋人节剩下的半心椅改良而成。听说是莉赛特为了实现飞在天上的蜜月而费尽心力开发的。",
+  "zh-TW": "爲了慶祝戀人節而特製的飛天椅。是以前戀人節剩下的半心椅改良而成。聽說是莉賽特爲了實現飛在天上的蜜月而費盡心力開發的。"
+ },
+ "typhon": {
+  "en": "Summon forth Typhon, hideous voidsent aberration and standout employee at the Manderville Gold Saucer.",
+  "ja": "テュポーン先生に騎乗する。 マンダヴィル・ゴールドソーサーに勤務する謎の存在",
+  "zh-CN": "在咒术师举行的妖异召唤实验中被意外召唤出来的谜一样的生物。经历了各种曲折后，现在正在曼德维尔金碟游乐场繁忙地工作着。虽然不善言谈，但让人意外的是它会很认真地完成自己的工作。",
+  "zh-TW": "在咒術師舉行的妖異召喚實驗中被意外召喚出來的謎一樣的生物。經歷了各種曲折後，現在正在曼德維爾金碟遊樂場繁忙地工作着。雖然不善言談，但讓人意外的是它會很認真地完成自己的工作。"
+ },
+ "air-force": {
+  "en": "Call into battle Air Force, a flying weapon of masculine destruction somehow smuggled from Omega's Sigmascape.",
+  "ja": "エアフォースに騎乗する。 被検世界「シグマ」にて生成された謎の飛行兵器",
+  "zh-CN": "西格玛幻境制造出的谜之飞行器。似乎是某个国家开发的，不过详细无从得知。由于机头被画上了鲨鱼张着嘴的涂鸦，看上去还有点可爱。",
+  "zh-TW": "西格瑪幻境製造出的謎之飛行器。似乎是某個國家開發的，不過詳細無從得知。由於機頭被畫上了鯊魚張着嘴的塗鴉，看上去還有點可愛。"
+ },
+ "lunar-kamuy": {
+  "en": "Summon forth the lunar kamuy, noble wolf blessed by the Lady of the Moon.",
+  "ja": "夜のカムイに騎乗する。 夜神に祝福された大狼。月光をまとい天を駆ける",
+  "zh-CN": "受到夜神的祝福，散发着月光之力的巨狼。它的出现有可能是由于以帝国军设施为领地的野生狼受到了夜神以太的影响。",
+  "zh-TW": "受到夜神的祝福，散發着月光之力的巨狼。它的出現有可能是由於以帝國軍設施爲領地的野生狼受到了夜神以太的影響。"
+ },
+ "dodo": {
+  "en": "Summon forth your noble dodo—hopefully not the last one in existence.",
+  "ja": "ドードーに騎乗する。 東方地域では、絶滅したと考えられていた幻の陸鳥。なぜか飛べる",
+  "zh-CN": "被认为已在东方地域灭绝的幻之陆鸟。为了适应天之御柱上层的封闭环境而获得了超越种族界限的飞行能力。以和冒险者的相遇为契机，下定决心要去外界展翅翱翔。",
+  "zh-TW": "被認爲已在東方地域滅絕的幻之陸鳥。爲了適應天之御柱上層的封閉環境而獲得了超越種族界限的飛行能力。以和冒險者的相遇爲契機，下定決心要去外界展翅翱翔。"
+ },
+ "indigo-whale": {
+  "en": "Summon forth a massive whale straight from the Indigo Deep. If only you could do this with fish as well.",
+  "ja": "ホエールに騎乗する。 瑠璃洋に生息する大型生物",
+  "zh-CN": "栖息于琉璃洋的大型生物。会成群结伴移动很远的距离前往外洋觅食。和斑鳐同样，须鲸也会将身体作为以太翼一样进行飞翔。因为身体巨大，所以可以轻松承载好几个人。",
+  "zh-TW": "棲息於琉璃洋的大型生物。會成羣結伴移動很遠的距離前往外洋覓食。和斑鰩同樣，鬚鯨也會將身體作爲以太翼一樣進行飛翔。因爲身體巨大，所以可以輕鬆承載好幾個人。"
+ },
+ "rathalos": {
+  "en": "Summon forth your mighty Rathalos—a wyvern far, far from home.",
+  "ja": "リオレウスに騎乗する。 空の王者とも称される飛竜種",
+  "zh-CN": "被誉为空之王者的飞龙种，可以喷吐出炽热的吐息。据说在遥远的异国他乡，有很多猎人为了得到它身上的鳞片等素材而孜孜不倦地狩猎着。",
+  "zh-TW": "被譽爲空之王者的飛龍種，可以噴吐出熾熱的吐息。據說在遙遠的異國他鄉，有很多獵人爲了得到它身上的鱗片等素材而孜孜不倦地狩獵着。"
+ },
+ "magitek-conveyor": {
+  "en": "Call into battle your magitek conveyor, a modern-day improvement on ancient Allagan logistics.",
+  "ja": "魔導キャリアーに騎乗する。 魔導院にて開発された次世代型輸送プラットフォーム",
+  "zh-CN": "在加雷马帝国魔导院完成开发的次世代运输平台。运用了飞空艇技术，乘坐感极为舒适。令人忍不住会“哈哈哈……”地笑出来。另外本机为纯粹的运输用机体，因此不具备任何战斗能力。",
+  "zh-TW": "在加雷馬帝國魔導院完成開發的次世代運輸平臺。運用了飛空艇技術，乘坐感極爲舒適。令人忍不住會“哈哈哈……”地笑出來。另外本機爲純粹的運輸用機體，因此不具備任何戰鬥能力。"
+ },
+ "prototype-conveyor": {
+  "en": "Call into battle your prototype magitek conveyor, a modern-day improvement on ancient Allagan logistics.",
+  "ja": "プロトキャリアーに騎乗する。 魔導院にて開発された次世代型輸送プラットフォーム",
+  "zh-CN": "在加雷马帝国魔导院完成开发的次世代运输平台。本机为试做机，跟之后量产的型号相比运用了更高品质的钢材。但是基本性能没有很大差别。",
+  "zh-TW": "在加雷馬帝國魔導院完成開發的次世代運輸平臺。本機爲試做機，跟之後量產的型號相比運用了更高品質的鋼材。但是基本性能沒有很大差別。"
+ },
+ "mikoshi": {
+  "en": "Summon your team of Namazu bearers, carrying a garish mikoshi upon which to precariously perch as they waddle to your destination.",
+  "ja": "オオナマズ御輿に騎乗する。 ナマズオ族の祖先、オオナマズ様を祀った浮行式御輿",
+  "zh-CN": "在大鲶大祭中使用的浮空前进式神轿。神轿顶端装饰着金光闪闪的鲶鱼精祖先——巨鲶鱼大人的雕像，完美重现了鱼信在梦境中遇见的巨鲶鱼大人的身姿。神轿还附有对冒险者忠心耿耿的8位鲶鱼精轿夫跟随。",
+  "zh-TW": "在大鯰大祭中使用的浮空前進式神轎。神轎頂端裝飾着金光閃閃的鯰魚精祖先——巨鯰魚大人的雕像，完美重現了魚信在夢境中遇見的巨鯰魚大人的身姿。神轎還附有對冒險者忠心耿耿的8位鯰魚精轎伕跟隨。"
+ },
+ "juedi": {
+  "en": "Summon Juedi, and jump straight to ludicrous speed.",
+  "ja": "絶地に騎乗する。 地を踏まぬほど疾く駆けるという駿馬",
+  "zh-CN": "在天之御柱中发现的健壮的军马。被古代的君王所钟爱，称其为“快到离开地面的骏马”并得名绝地。事实上，绝地可以在风水术的帮助下在空中飞翔。",
+  "zh-TW": "在天之御柱中發現的健壯的軍馬。被古代的君王所鍾愛，稱其爲“快到離開地面的駿馬”並得名絕地。事實上，絕地可以在風水術的幫助下在空中飛翔。"
+ },
+ "logistics-node": {
+  "en": "Call into battle your Allagan logistics node. For your safety and the safety of those around you, all weaponry has been disabled.",
+  "ja": "輸送システムに騎乗する。 古代アラグ帝国時代に設計された汎用球形運搬システム",
+  "zh-CN": "圣寇伊纳克财团所挖掘出来的古代亚拉戈帝国球形运输系统。由该财团移交给艾欧泽亚同盟军供同盟军使用，因此从运输设备改为载人设备使用。实际使用中，偶发过数起，乘员在输送系统发出超载警报后与输送系统发生争执的事故。",
+  "zh-TW": "聖寇伊納克財團所挖掘出來的古代亞拉戈帝國球形運輸系統。由該財團移交給艾歐澤亞同盟軍供同盟軍使用，因此從運輸設備改爲載人設備使用。實際使用中，偶發過數起，乘員在輸送系統發出超載警報後與輸送系統發生爭執的事故。"
+ },
+ "safeguard-system": {
+  "en": "Call into battle your Allagan safeguard system. For your safety and the safety of those around you, all weaponry has been disabled.",
+  "ja": "護送システムに騎乗する。 古代アラグ帝国時代に設計された汎用球形運搬システム",
+  "zh-CN": "圣寇伊纳克财团所挖掘出来的古代亚拉戈帝国球形运输系统。在更新操作系统之后，安全面得到了强化。与以往的型号相比，美中不足的是操作界面发生了改变。",
+  "zh-TW": "聖寇伊納克財團所挖掘出來的古代亞拉戈帝國球形運輸系統。在更新操作系統之後，安全面得到了強化。與以往的型號相比，美中不足的是操作界面發生了改變。"
+ },
+ "grani": {
+  "en": "Summon Grani, heroic steed from a realm not your own.",
+  "ja": "グラニに騎乗する。 異界由来の魔笛により、呼び出される伝説の幻獣",
+  "zh-CN": "通过来自第一世界的魔笛召唤出来的传说中的幻兽。拥有飞驰于大地的脚力和飞翔于天际的魔力。以性格高傲为人所知，只允许驱逐光明带来黑暗的暗之战士骑乘。",
+  "zh-TW": "通過來自第一世界的魔笛召喚出來的傳說中的幻獸。擁有飛馳於大地的腳力和飛翔於天際的魔力。以性格高傲爲人所知，只允許驅逐光明帶來黑暗的暗之戰士騎乘。"
+ },
+ "fatter-cat": {
+  "en": "Summon your fatter cat—fatter than a fat cat, obviously.",
+  "ja": "ビッグ・ファットキャットに騎乗する。 おでぶな大猫。もはや化け猫の類な気がする",
+  "zh-CN": "长得肥肥的大猫。它摇晃着那巨大的身体撼动着大地与天空，纵横无尽地四处飞奔。感觉已经变成像是猫妖一样的生物，不过身上的脂肪和皮毛给骑乘的人带来非常舒服的体验，所以细节的事情就不要在意了。",
+  "zh-TW": "長得肥肥的大貓。它搖晃着那巨大的身體撼動着大地與天空，縱橫無盡地四處飛奔。感覺已經變成像是貓妖一樣的生物，不過身上的脂肪和皮毛給騎乘的人帶來非常舒服的體驗，所以細節的事情就不要在意了。"
+ },
+ "euphonious-kamuy": {
+  "en": "Summon your euphonious kamuy, noble wolf blessed by the scarlet auspice Suzaku.",
+  "ja": "朱のカムイに騎乗する。 朱雀の神通力を受けた大狼。炎をまとい天を駆ける",
+  "zh-CN": "被四圣兽之朱雀灌输了神通力的巨狼，周身燃烧着朱红色的烈焰。它曾经为了救助人类而奋战至死，朱雀将其苏生后化为了现在的样子。",
+  "zh-TW": "被四聖獸之朱雀灌輸了神通力的巨狼，周身燃燒着硃紅色的烈焰。它曾經爲了救助人類而奮戰至死，朱雀將其蘇生後化爲了現在的樣子。"
+ },
+ "model-o": {
+  "en": "Call into battle your Model O, autonomous aerial transport device constructed in Omega's interdimensional manufactory.",
+  "ja": "オメガに騎乗する。 オメガに似た自律飛翔体。騎乗に使うことができる",
+  "zh-CN": "在时空狭缝中回收到的外形与欧米茄十分相似的自律飞行机器。据猜测应该是在模仿人类时，为了检验坐骑到底是否有用，而被制造出来的机体。因为只限骑乘用，所以不具备任何武装。",
+  "zh-TW": "在時空狹縫中回收到的外形與歐米茄十分相似的自律飛行機器。據猜測應該是在模仿人類時，爲了檢驗坐騎到底是否有用，而被製造出來的機體。因爲只限騎乘用，所以不具備任何武裝。"
+ },
+ "magitek-sky-armor": {
+  "en": "Call into battle your magitek sky armor, state-of-the-art Garlean flight technology at an affordable price.",
+  "ja": "魔導スカイアーマーに騎乗する。 ガレマール帝国軍の単座式スカイアーマー",
+  "zh-CN": "加雷马帝国军开发的单座式浮空装甲。艾欧泽亚同盟军虏获了因为引擎故障而坠落的魔导浮空装甲。经过加隆德炼铁厂的协助完成了修理。曾用于测试评价战斗能力。",
+  "zh-TW": "加雷馬帝國軍開發的單座式浮空裝甲。艾歐澤亞同盟軍虜獲了因爲引擎故障而墜落的魔導浮空裝甲。經過加隆德煉鐵廠的協助完成了修理。曾用於測試評價戰鬥能力。"
+ },
+ "magicked-carpet": {
+  "en": "Summon forth your magicked carpet. Fantasy will set you free. Finally.",
+  "ja": "マジックカーペットに騎乗する。 魔法仕掛けの空飛ぶ絨毯",
+  "zh-CN": "施了魔法的飞天绒毯。根据近东地区的传说，曾经统治科尔沃地区的王，曾命令被自己降服的妖灵制造了同样的飞天绒毯。本品是以近代魔法技术重现这一传说之物的成果。",
+  "zh-TW": "施了魔法的飛天絨毯。根據近東地區的傳說，曾經統治科爾沃地區的王，曾命令被自己降服的妖靈製造了同樣的飛天絨毯。本品是以近代魔法技術重現這一傳說之物的成果。"
+ },
+ "magna-roader": {
+  "en": "Call into battle your magna roader and try not to think too hard on why it is called such.",
+  "ja": "魔導マグナローダーに騎乗する。 人工筋肉を採用した新型魔導兵器",
+  "zh-CN": "哥布林族的技师将从基拉巴尼亚回收的帝国制魔导兵器的残骸进行修理改良后制造出的车辆。原本是自动驾驶的机器，但由于无法重现出自动驾驶功能，于是改造成了人工驾驶型。",
+  "zh-TW": "哥布林族的技師將從基拉巴尼亞回收的帝國制魔導兵器的殘骸進行修理改良後製造出的車輛。原本是自動駕駛的機器，但由於無法重現出自動駕駛功能，於是改造成了人工駕駛型。"
+ },
+ "fat-black-chocobo": {
+  "en": "Summon forth your fat black chocobo and marvel at its flurry of pitch-dark plumage.",
+  "ja": "でぶ黒チョコボに騎乗する。 食い意地の張った黒チョコボの親分。いっただっきまーす",
+  "zh-CN": "贪吃的黑陆行鸟的老大。最喜欢油炸食品，在不断地胡吃海塞下身体变得如此巨大。还有小道消息说其真身并不是陆行鸟而是某一类妖灵生物……",
+  "zh-TW": "貪喫的黑陸行鳥的老大。最喜歡油炸食品，在不斷地胡喫海塞下身體變得如此巨大。還有小道消息說其真身並不是陸行鳥而是某一類妖靈生物……"
+ },
+ "eldthurs": {
+  "en": "Summon forth your Eldthurs, named for a fiery giant who once ruled a realm of flame with his brothers.",
+  "ja": "エルドスルスに騎乗する。 炎のような毛に覆われた巨獣",
+  "zh-CN": "全身被火焰般的皮毛覆盖的巨兽。原本只是随处可见的大脚雪人，但在涌火地带强烈的火属性之力的影响下获得了火焰的魔力。一般都是十分凶暴的个体，但若是能使其屈服的话就能够驾驭对方。",
+  "zh-TW": "全身被火焰般的皮毛覆蓋的巨獸。原本只是隨處可見的大腳雪人，但在湧火地帶強烈的火屬性之力的影響下獲得了火焰的魔力。一般都是十分兇暴的個體，但若是能使其屈服的話就能夠駕馭對方。"
+ },
+ "maxima-roader": {
+  "en": "Call into battle your maxima roader—many times mightier than the mightiest of magna roaders.",
+  "ja": "魔導マグナローダー改に騎乗する。 人工筋肉を採用した新型魔導兵器",
+  "zh-CN": "哥布林族的技师将从基拉巴尼亚回收的帝国制魔导兵器的残骸进行修理改良后制造出的车辆。外壳改为了更加坚固的高强度陶瓷合金，增加的重量由加大了人造肌肉的输出来平衡，由此维持最高速度。",
+  "zh-TW": "哥布林族的技師將從基拉巴尼亞回收的帝國制魔導兵器的殘骸進行修理改良後製造出的車輛。外殼改爲了更加堅固的高強度陶瓷合金，增加的重量由加大了人造肌肉的輸出來平衡，由此維持最高速度。"
+ },
+ "sabotender-emperador": {
+  "en": "Summon forth Sabotender Emperador and bask in his desert sun radiance.",
+  "ja": "サボテンダー・エンペラドールに騎乗する。 マンダヴィル・ゴールドソーサーを模した空飛ぶサボテンダー像",
+  "zh-CN": "仿照曼德维尔金碟游乐场制作的飞行仙人刺雕像。正如其帝王之名，飞向空中的姿态威风凛凛。至于为何金碟游乐场的外形是仙人刺形状的这一点没有人知道。",
+  "zh-TW": "仿照曼德維爾金碟遊樂場製作的飛行仙人刺雕像。正如其帝王之名，飛向空中的姿態威風凜凜。至於爲何金碟遊樂場的外形是仙人刺形狀的這一點沒有人知道。"
+ },
+ "kamuy-of-the-nine-tails": {
+  "en": "Summon Kamuy of the Nine Tails, legendary auspice, completely independent from Kyubi of the Nine Tails.",
+  "ja": "九尾のカムイに騎乗する。 東方由来の魔笛により、呼び出される伝説の幻獣",
+  "zh-CN": "东方地域传说中的幻兽。收服了数匹神威的英雄吹响魔笛之时便会现身，引导其通往天上的世界。身姿与同为九尾狐狸的玉藻御前十分相似，这究竟是不是偶然呢？",
+  "zh-TW": "東方地域傳說中的幻獸。收服了數匹神威的英雄吹響魔笛之時便會現身，引導其通往天上的世界。身姿與同爲九尾狐狸的玉藻御前十分相似，這究竟是不是偶然呢？"
+ },
+ "hallowed-kamuy": {
+  "en": "Summon your hallowed kamuy, noble wolf blessed by the azure auspice Seiryu.",
+  "ja": "青のカムイに騎乗する。 青龍の神通力を受けた大狼。水をまとい天を駆ける",
+  "zh-CN": "被四圣兽之青龙灌输了神通力的巨狼，周身缠绕着青色的云水。它大概是被人类所抛弃了，青龙将其苏生后化为了现在的样子。",
+  "zh-TW": "被四聖獸之青龍灌輸了神通力的巨狼，周身纏繞着青色的雲水。它大概是被人類所拋棄了，青龍將其蘇生後化爲了現在的樣子。"
+ },
+ "war-tiger": {
+  "en": "Summon forth your war tiger to tear the enemy's morale to shreds with its cruel, curved fangs.",
+  "ja": "ウォータイガーに騎乗する。 戦闘用に調教された軍剣虎。サーベルのような牙を持つ",
+  "zh-CN": "经过训练适应了战斗的军剑虎。最值得注目的就是它那犹如军刀般的长牙，军剑虎之名也因此由来。训练军剑虎是一件非常困难的工作，需要从幼崽时期开始进行培养训练，最终才能成为骑乘兽。",
+  "zh-TW": "經過訓練適應了戰鬥的軍劍虎。最值得注目的就是它那猶如軍刀般的長牙，軍劍虎之名也因此由來。訓練軍劍虎是一件非常困難的工作，需要從幼崽時期開始進行培養訓練，最終才能成爲騎乘獸。"
+ },
+ "eurekan-petrel": {
+  "en": "Summon your Eurekan petrel, because who hasn't dreamed of gazing down upon all creation from the mantle of a windborne gastropod?",
+  "ja": "エウレカスワローに騎乗する。 ウミツバメとも呼ばれる水生生物。優雅に空も舞う",
+  "zh-CN": "从博物学上看应当是海参的近亲，但有着如同翅膀一般伸展开来的蓝色的鱼鳍，身姿十分优美，因此经常被比喻为燕子，有时也会被称为青蓝天使。但事实上是会连有毒生物也一起吞下的凶猛食肉捕食者。",
+  "zh-TW": "從博物學上看應當是海蔘的近親，但有着如同翅膀一般伸展開來的藍色的魚鰭，身姿十分優美，因此經常被比喻爲燕子，有時也會被稱爲青藍天使。但事實上是會連有毒生物也一起吞下的兇猛食肉捕食者。"
+ },
+ "magitek-avenger-a1": {
+  "en": "Call into battle your magitek avenger A1—outfitted and optimized for alpine warfare.",
+  "ja": "魔導アヴェンジャー寒冷地仕様に騎乗する。 ゴブリン族が改良した帝国製無人魔導兵器",
+  "zh-CN": "哥布林族改良过的帝国制无人魔导兵器。为了能在寒冷地区使用，增加了生命维持装置。外界气温下降到一定程度时，拘束驾驶员的操纵臂会自动开始加热，以此来保温。其“雪人”的外号来源于白色的涂装。",
+  "zh-TW": "哥布林族改良過的帝國制無人魔導兵器。爲了能在寒冷地區使用，增加了生命維持裝置。外界氣溫下降到一定程度時，拘束駕駛員的操縱臂會自動開始加熱，以此來保溫。其“雪人”的外號來源於白色的塗裝。"
+ },
+ "demi-ozma": {
+  "en": "Call into battle Demi-Ozma—the round mound of spellbound.",
+  "ja": "デミオズマに騎乗する。 バルデシオン委員会の研究員が生成したプロトオズマの模造品",
+  "zh-CN": "巴尔德西昂委员会的研究员在研究针对奥兹玛原型的策略的过程中制造出的仿制品。根据他们的见解，玛哈的黑魔法师创造出的奥兹玛是将奥兹玛原型用魔法再现出的兵器。",
+  "zh-TW": "巴爾德西昂委員會的研究員在研究針對奧茲瑪原型的策略的過程中製造出的仿製品。根據他們的見解，瑪哈的黑魔法師創造出的奧茲瑪是將奧茲瑪原型用魔法再現出的兵器。"
+ },
+ "amaro": {
+  "en": "Summon forth your amaro, Norvrandt's favorite beast of burden.",
+  "ja": "アマロに騎乗する。 ノルヴラントで幅広く活用される飛行獣",
+  "zh-CN": "在诺弗兰特全域获得广泛运用的飞行兽。古代隆卡帝国的魔法师们用魔法对家畜进行品种改良后的产物，偶尔会出现继承了古代血统拥有高度知性的个体。此外原种的卡玛并不具备翅膀与飞行能力。",
+  "zh-TW": "在諾弗蘭特全域獲得廣泛運用的飛行獸。古代隆卡帝國的魔法師們用魔法對家畜進行品種改良後的產物，偶爾會出現繼承了古代血統擁有高度知性的個體。此外原種的卡瑪並不具備翅膀與飛行能力。"
+ },
+ "skyslipper": {
+  "en": "Summon forth your skyslipper, the greatest mechanical marvel to ever resemble a shoe.",
+  "ja": "ホバー船に騎乗する。 クリスタルタワーから発見され、ミーン工芸館の職人が修復したもの",
+  "zh-CN": "在水晶塔被发现，中庸工艺馆的匠人们进行了修复的浮行式移动机械。本身是皇族的超豪华座驾，但却被乘完后丢在了某个洞穴的门口。不得已用飞空艇进行回收后一直被存放在水晶塔的机库里。",
+  "zh-TW": "在水晶塔被發現，中庸工藝館的匠人們進行了修復的浮行式移動機械。本身是皇族的超豪華座駕，但卻被乘完後丟在了某個洞穴的門口。不得已用飛空艇進行回收後一直被存放在水晶塔的機庫裏。"
+ },
+ "fae-gwiber": {
+  "en": "Summon forth your fae gwiber, a draconic arcane entity.",
+  "ja": "ピクシーグイベルに騎乗する。 ティターニアの魔力が充填された魔笛によって召喚された魔法生物",
+  "zh-CN": "用充满了缇坦妮雅魔力的魔笛召唤出来的魔法生物。据说这个魔笛是古代魔法师为了再现架空的生物“龙”而制作出来的。",
+  "zh-TW": "用充滿了緹坦妮雅魔力的魔笛召喚出來的魔法生物。據說這個魔笛是古代魔法師爲了再現架空的生物“龍”而製作出來的。"
+ },
+ "triceratops": {
+  "en": "Summon forth your triceratops seemingly from a page right out of prehistory.",
+  "ja": "トリケラトプスに騎乗する。 三本の角が特徴的な古代獣。魔法の浮遊鞍を装着済み",
+  "zh-CN": "有着三根角的古代兽。其背部配有运用了隆卡文明术式的魔法浮游鞍。据说是狂热兵团的创立者——莫古力族的纳兹将探索古代遗迹时发现的东西进行调整之后得来的。",
+  "zh-TW": "有着三根角的古代獸。其背部配有運用了隆卡文明術式的魔法浮游鞍。據說是狂熱兵團的創立者——莫古力族的納茲將探索古代遺蹟時發現的東西進行調整之後得來的。"
+ },
+ "ironfrog-mover": {
+  "en": "Summon forth your ironfrog mover, a dwarven-made automaton.",
+  "ja": "フロッガーMに騎乗する。 ドワーフ族の職人が製造した中型オートマトン",
+  "zh-CN": "矮人族的工匠制造的中型自走人偶。设计成用于日常使用的机体，因此对脚部周围进行了强化，并且搭载了可供飞行的推进装置。可是其制造方法根据村规被视为机密不得公开。",
+  "zh-TW": "矮人族的工匠製造的中型自走人偶。設計成用於日常使用的機體，因此對腳部周圍進行了強化，並且搭載了可供飛行的推進裝置。可是其製造方法根據村規被視爲機密不得公開。"
+ },
+ "innocent-gwiber": {
+  "en": "Summon forth your innocent gwiber, a draconic arcane entity.",
+  "ja": "イノセントグイベルに騎乗する。 イノセンスの魔力が充填された魔笛によって召喚された魔法生物",
+  "zh-CN": "用充满了无瑕灵君魔力的魔笛召唤出来的魔法生物。其光辉让人联想到无瑕灵君的身影，不过这个个体当然不是食罪灵。",
+  "zh-TW": "用充滿了無瑕靈君魔力的魔笛召喚出來的魔法生物。其光輝讓人聯想到無瑕靈君的身影，不過這個個體當然不是食罪靈。"
+ },
+ "magicked-bed": {
+  "en": "Summon forth your magicked bed, and dream a little dream of never needing to get up.",
+  "ja": "マジックベッドに騎乗する。 魔法仕掛けの空飛ぶ寝台",
+  "zh-CN": "施了魔法的飞天睡床。孚布特王国时代一位绝对不想离开床铺的王族找人设计制作的魔法床。做成后懒惰的王族由于支付不起相应的代价而上了天。",
+  "zh-TW": "施了魔法的飛天睡牀。孚布特王國時代一位絕對不想離開牀鋪的王族找人設計製作的魔法牀。做成後懶惰的王族由於支付不起相應的代價而上了天。"
+ },
+ "circus-ahriman": {
+  "en": "Summon forth your Circus ahriman, a voidsent bred by the Continental Circus.",
+  "ja": "コンチネンタル・アーリマンに騎乗する。 コンチネンタル・サーカスで飼育されていた妖異アーリマン",
+  "zh-CN": "大陆马戏团饲育的用于表演的妖异。本来期待它能用恐怖视线来从人们那里收集恐惧之力，可是它却好像没有这方面的才能。现在成为了尊敬的冒险者的侍从。",
+  "zh-TW": "大陸馬戲團飼育的用於表演的妖異。本來期待它能用恐怖視線來從人們那裏收集恐懼之力，可是它卻好像沒有這方面的才能。現在成爲了尊敬的冒險者的侍從。"
+ },
+ "sunspun-cumulus": {
+  "en": "Summon forth the sunspun cumulus. It is unclear whether its previous owner was a boy with a tail or simply a monkey.",
+  "ja": "金斗雲に騎乗する。 東方の仙人が編み出した秘術。魔法の雲を創り出す",
+  "zh-CN": "据说在东洲奥萨德大陆的边境山中居住着仙人，金斗云正是由这个仙人创造出来的秘术。用魔力将云朵聚集成型，便可乘坐在上面飞翔于空中。散发着金色的云朵传说能给乘坐者带来财运。",
+  "zh-TW": "據說在東洲奧薩德大陸的邊境山中居住着仙人，金斗雲正是由這個仙人創造出來的祕術。用魔力將雲朵聚集成型，便可乘坐在上面飛翔於空中。散發着金色的雲朵傳說能給乘坐者帶來財運。"
+ },
+ "battle-tiger": {
+  "en": "Summon forth your battle tiger, now with 100% more sharp things with which to terrorize your foes.",
+  "ja": "バトルタイガーに騎乗する。 戦闘用に調教された軍剣虎。第三の剣を手に入れた",
+  "zh-CN": "经过训练适应了战斗的军剑虎。在北洲伊尔萨巴德的博兹雅地区有一种传统，这种兽会作为军用兽与步兵部队一起同行。这种部队的士兵们很亲切地将自己的搭档称为“猫咪”。",
+  "zh-TW": "經過訓練適應了戰鬥的軍劍虎。在北洲伊爾薩巴德的博茲雅地區有一種傳統，這種獸會作爲軍用獸與步兵部隊一起同行。這種部隊的士兵們很親切地將自己的搭檔稱爲“貓咪”。"
+ },
+ "morbol": {
+  "en": "Summon forth your morbol. Strong vines, soft heart...middling stench.",
+  "ja": "モルボルに騎乗する。 大きな口が特徴的な草木綱の魔物。ちょっぴり臭い",
+  "zh-CN": "原本是天青斗场为了举办假面狂欢而购入的魔物，可是没想到其性格意外的随和，以至于无法派上用场。为此特地转交给了青魔法师行会，但因为其臭味微弱也无法用于学习青魔法“臭气”，于是最终被当成了坐骑。",
+  "zh-TW": "原本是天青鬥場爲了舉辦假面狂歡而購入的魔物，可是沒想到其性格意外的隨和，以至於無法派上用場。爲此特地轉交給了青魔法師行會，但因爲其臭味微弱也無法用於學習青魔法“臭氣”，於是最終被當成了坐騎。"
+ },
+ "portly-porxie": {
+  "en": "Summon forth your portly porxie. Bears you places to the tantalizing smell of cured meats.",
+  "ja": "ファットポークシーに騎乗する。 騎乗用に創られたポークシー。ほんのりソーセージの香りがする",
+  "zh-CN": "恩莫族的拉各·因克制作的骑乘用仙子猪。非常喜欢香肠的味道，没事就会跑进熏制室，所以身上会有香肠的香味。虽然骑起来很舒适，可总会让人感到饥饿。",
+  "zh-TW": "恩莫族的拉各·因剋制作的騎乘用仙子豬。非常喜歡香腸的味道，沒事就會跑進熏製室，所以身上會有香腸的香味。雖然騎起來很舒適，可總會讓人感到飢餓。"
+ },
+ "epimetheus": {
+  "en": "Summon forth Epimetheus, an unstoppable vehicle of war. Or at least it would be if it were bigger.",
+  "ja": "エピメテウスに騎乗する。 ガーロンド・アイアンワークス社が再現した帝国製魔導兵器",
+  "zh-CN": "加隆德炼铁厂依照拂晓血盟的谍报人员从帝国带回来的设计图再现出的魔导兵器。不过，设计图的情报有欠缺，按照推测摸索制造的结果，使得该兵器变成了小型的单人车辆。",
+  "zh-TW": "加隆德煉鐵廠依照拂曉血盟的諜報人員從帝國帶回來的設計圖再現出的魔導兵器。不過，設計圖的情報有欠缺，按照推測摸索製造的結果，使得該兵器變成了小型的單人車輛。"
+ },
+ "menoetius": {
+  "en": "Summon forth Menoetius. Just like Epimetheus, but more comfortable.",
+  "ja": "メノイティオスに騎乗する。 ガーロンド・アイアンワークス社が試作した帝国製魔導兵器",
+  "zh-CN": "加隆德炼铁厂试作的魔导兵器。通过分析制作厄毗米修斯时的数据，再进行微微改良后，使得该魔导装甲乘坐变得更加舒适且容易量产，稍微遗憾的是没能提高最大速度。",
+  "zh-TW": "加隆德煉鐵廠試作的魔導兵器。通過分析製作厄毗米修斯時的數據，再進行微微改良後，使得該魔導裝甲乘坐變得更加舒適且容易量產，稍微遺憾的是沒能提高最大速度。"
+ },
+ "construct-vii": {
+  "en": "Summon forth your Construct VII. Rumors that it is heavily based on an Ivalician design are entirely unfounded. Well, almost.",
+  "ja": "コンストラクト07に騎乗する。 コボルド族が製造した装甲巨兵。それを黒渦団が鹵獲したもの",
+  "zh-CN": "地灵族制造的装甲巨兵。其本体并非机械而是一种穿着甲胄的巨像兵。黑涡团在与地灵族的一场战斗中将其缴获，经过纳尔迪克&威米利作坊的修理后，将其提供给了冒险者部队。",
+  "zh-TW": "地靈族製造的裝甲巨兵。其本體並非機械而是一種穿着甲冑的巨像兵。黑渦團在與地靈族的一場戰鬥中將其繳獲，經過納爾迪克&威米利作坊的修理後，將其提供給了冒險者部隊。"
+ },
+ "shadow-gwiber": {
+  "en": "Summon forth your shadow gwiber, a draconic arcane entity.",
+  "ja": "シャドウグイベルに騎乗する。 ハーデスの魔力が充填された魔笛によって召喚された魔法生物",
+  "zh-CN": "用充满了哈迪斯魔力的魔笛召唤出来的魔法生物。这应该是爱梅特赛尔克打发时间时创造出来的魔法生物。曾经的古代人可以随意创造出这种级别的生物。",
+  "zh-TW": "用充滿了哈迪斯魔力的魔笛召喚出來的魔法生物。這應該是愛梅特賽爾克打發時間時創造出來的魔法生物。曾經的古代人可以隨意創造出這種級別的生物。"
+ },
+ "spriggan-stonecarrier": {
+  "en": "Summon forth your spriggan stonecarrier. Lives to carry ore, eggs, and you.",
+  "ja": "スプリガン・キャリアーに騎乗する。 巨大なスプリガン。鉱石や卵ではなく、人を運ぶのが大好き",
+  "zh-CN": "很少见的巨大魔石精。因为吃了太多矿石导致身体变得巨大，结果卡在了狭小的坑道中，在被路过的采矿工救出之后，便为了报恩开始搬运人们。最近它变得更加喜欢搬运人了。",
+  "zh-TW": "很少見的巨大魔石精。因爲喫了太多礦石導致身體變得巨大，結果卡在了狹小的坑道中，在被路過的採礦工救出之後，便爲了報恩開始搬運人們。最近它變得更加喜歡搬運人了。"
+ },
+ "forgiven-reticence": {
+  "en": "Summon forth your forgiven reticence. The strong and silent type, so don't expect rousing conversation.",
+  "ja": "フォーギヴン・レティセンスに騎乗する。 世にも珍しい温厚な罪喰い。寡黙に主を運び続ける",
+  "zh-CN": "在游末邦地下室发现的食罪灵。听到传闻的狂热兵团的怪物猎人们为讨伐前往了地下室，发现它不仅不抵抗，还非常顺从。所以变成了骑乘用的食罪灵。",
+  "zh-TW": "在遊末邦地下室發現的食罪靈。聽到傳聞的狂熱兵團的怪物獵人們爲討伐前往了地下室，發現它不僅不抵抗，還非常順從。所以變成了騎乘用的食罪靈。"
+ },
+ "dhalmel": {
+  "en": "Summon forth your dhalmel, a towering herbivore native to the Sea of Clouds.",
+  "ja": "ダルメルに騎乗する。 アバラシア雲海の浮島に棲息する百獣綱の草食獣",
+  "zh-CN": "想吃相邻浮岛上的树叶时，不小心踩空掉下去的长颈驼。在掉落途中，散发出不想死的强烈思念后，觉醒了隐藏于身的才能，可以操控风属性以太在空中自由飞翔。当然，这都是传说。",
+  "zh-TW": "想喫相鄰浮島上的樹葉時，不小心踩空掉下去的長頸駝。在掉落途中，散發出不想死的強烈思念後，覺醒了隱藏於身的才能，可以操控風屬性以太在空中自由飛翔。當然，這都是傳說。"
+ },
+ "albino-karakul": {
+  "en": "Summon forth your albino karakul, a black sheep among its kind. Which is to say it's white.",
+  "ja": "アルビノカラクールに騎乗する。 白い毛並みの黒羊。もはや、それは白羊である",
+  "zh-CN": "在艾因哈特家领地饲养长大的羊。本应该是一身黑毛的黑羊，结果却长着一身白毛。因为太过稀有，所以人们没有吃掉它，以至于长到现在，体型大到能载人。",
+  "zh-TW": "在艾因哈特家領地飼養長大的羊。本應該是一身黑毛的黑羊，結果卻長着一身白毛。因爲太過稀有，所以人們沒有喫掉它，以至於長到現在，體型大到能載人。"
+ },
+ "ufiti": {
+  "en": "Summon forth your ufiti. May carry you to high ground for your own safety.",
+  "ja": "ウフィティに騎乗する。 ディアデム諸島に棲んでいた猿人。かつて乱獲されたことがある",
+  "zh-CN": "栖息在云冠群岛的人猿，曾被人们肆意猎捕。它们有追随强者的习性。为了追随当年打倒自己的强者，巫菲提学会了如何乘坐云海之风，离开了云冠群岛踏上了旅途。",
+  "zh-TW": "棲息在雲冠羣島的人猿，曾被人們肆意獵捕。它們有追隨強者的習性。爲了追隨當年打倒自己的強者，巫菲提學會了如何乘坐雲海之風，離開了雲冠羣島踏上了旅途。"
+ },
+ "deinonychus": {
+  "en": "Summon forth your deinonychus. Cleverer than the average prehistoric carnivore.",
+  "ja": "ディノニクスに騎乗する。 イルサバード大陸南部に棲息する肉食トカゲ。意外と頭が良い",
+  "zh-CN": "栖息在伊尔萨巴德大陆南部的肉食性蜥蜴。属于常见于黑衣森林的盗龙的近亲。常常两只一组结伙进行狩猎，有着不符于外表的智力。为此常有人将其训练后用于战斗或骑行。",
+  "zh-TW": "棲息在伊爾薩巴德大陸南部的肉食性蜥蜴。屬於常見於黑衣森林的盜龍的近親。常常兩隻一組結夥進行狩獵，有着不符於外表的智力。爲此常有人將其訓練後用於戰鬥或騎行。"
+ },
+ "construct-14": {
+  "en": "Summon forth your Construct 14. Will dispose of friend and foe alike if so commanded, so be careful what you wish for.",
+  "ja": "労働十四号に騎乗する。 帝国軍第IV軍団から鹵獲した古代兵器。ワタシハ、トテモ、ハヤイデス！",
+  "zh-CN": "帝国军第四军团从机工都市高古的遗迹发掘出来的被称为劳动型铁巨人的古代兵器。帝国军将其进行了改造加强了战斗力。像这样的机体全都改装了帝国样式。",
+  "zh-TW": "帝國軍第四軍團從機工都市高古的遺蹟發掘出來的被稱爲勞動型鐵巨人的古代兵器。帝國軍將其進行了改造加強了戰鬥力。像這樣的機體全都改裝了帝國樣式。"
+ },
+ "kingly-peacock": {
+  "en": "Summon forth your kingly peacock, an avian embodiment of nobility hailing from Othard.",
+  "ja": "王孔雀に騎乗する。 オサード大陸原産の大型鳥。その飾り羽根は美しい",
+  "zh-CN": "孔雀是捕食毒虫的益鸟，加上其雄性的羽毛非常美丽，在近东至东方地区自古以来都被视作珍禽。王孔雀则是将源自奥萨德次大陆的孔雀用风水术改良后得到的大型品种。",
+  "zh-TW": "孔雀是捕食毒蟲的益鳥，加上其雄性的羽毛非常美麗，在近東至東方地區自古以來都被視作珍禽。王孔雀則是將源自奧薩德次大陸的孔雀用風水術改良後得到的大型品種。"
+ },
+ "great-vessel-of-ronka": {
+  "en": "Summon forth the Great Vessel of Ronka. Don't mind the contents.",
+  "ja": "水蛇様の壺に騎乗する。 それは空っぽの壺のはずだった。だが、なぜか詰まっている",
+  "zh-CN": "明明是一个空罐子，当奏响了罐子中的魔笛后，就变得装不进东西了。就算再怎么调查，也得不到答案。水蛇大人就是如此神秘。",
+  "zh-TW": "明明是一個空罐子，當奏響了罐子中的魔笛後，就變得裝不進東西了。就算再怎麼調查，也得不到答案。水蛇大人就是如此神祕。"
+ },
+ "pteranodon": {
+  "en": "Summon forth your pteranodon, a winged scalekin that has existed since ancient times.",
+  "ja": "プテラノドンに騎乗する。 古代から姿を変えない有翼の甲鱗綱",
+  "zh-CN": "在云冠群岛捕获的甲鳞纲生物。依靠着吃投弃在恩惠号的兽骨和剩饭为生，因此也慢慢变得亲近人类。如今，还会同意习惯了云海的冒险者骑在自己背上。",
+  "zh-TW": "在雲冠羣島捕獲的甲鱗綱生物。依靠着喫投棄在恩惠號的獸骨和剩飯爲生，因此也慢慢變得親近人類。如今，還會同意習慣了雲海的冒險者騎在自己背上。"
+ },
+ "ruby-gwiber": {
+  "en": "Summon forth your ruby gwiber, a draconic arcane entity.",
+  "ja": "ルビーグイベルに騎乗する。 未知の蛮神の魔力が充填された魔笛によって召喚された魔法生物",
+  "zh-CN": "用充满了疑似被红宝石神兵吸收的未知蛮神魔力的魔笛召唤出来的魔法生物。拥有类似甲壳的红色装甲。不知为何，好像有人将魔笛的知识共享给了所有召唤者。",
+  "zh-TW": "用充滿了疑似被紅寶石神兵吸收的未知蠻神魔力的魔笛召喚出來的魔法生物。擁有類似甲殼的紅色裝甲。不知爲何，好像有人將魔笛的知識共享給了所有召喚者。"
+ },
+ "hybodus": {
+  "en": "Summon forth your hybodus to ride the winds and menace the skies.",
+  "ja": "ヒボドゥスに騎乗する。 トルネドシャークの近縁種。風属性のエーテルを操り飛行する",
+  "zh-CN": "龙卷鲨的近亲，腹部的操魔器官可以操控风属性以太使自己飞在空中，以捕食云海的鱼和鸟。头部的四片鱼鳍可以改变风的流向，同时就能改变自身飞行的方向了。",
+  "zh-TW": "龍捲鯊的近親，腹部的操魔器官可以操控風屬性以太使自己飛在空中，以捕食雲海的魚和鳥。頭部的四片魚鰭可以改變風的流向，同時就能改變自身飛行的方向了。"
+ },
+ "ramuh": {
+  "en": "Summon forth Ramuh. No, not that one. The one you fought in the Empty. But not the actual one.",
+  "ja": "ラムウに騎乗する。 エデンによって生成された小結晶に、魔力を注ぐことで生じた魔法生物",
+  "zh-CN": "构想请神副产物的小结晶，注入魔力后会召唤出魔法生物。召唤拉姆时残留的雷属性以太，在召唤希瓦时被排出，瞬间形成了小结晶。正因如此，才会是拉姆的外形吧。",
+  "zh-TW": "構想請神副產物的小結晶，注入魔力後會召喚出魔法生物。召喚拉姆時殘留的雷屬性以太，在召喚希瓦時被排出，瞬間形成了小結晶。正因如此，纔會是拉姆的外形吧。"
+ },
+ "rubellite-carbuncle": {
+  "en": "Summon forth your Rubellite Carbuncle, an arcane entity given form by the mysteries of rubellite geometry.",
+  "ja": "カーバンクル・ルベライトに騎乗する。 ルベライトの神秘を解き明かした魔紋から生まれた騎乗用魔法生物",
+  "zh-CN": "自称天才秘术师的乌兰创造出的用于骑乘的魔法生物，运用了培育大型宝石兽“钻石”所积累的知识。由于宝石兽的核心使用了大颗的红电气石，所以即使不是秘术师也可以将其召唤出来。",
+  "zh-TW": "自稱天才祕術師的烏蘭創造出的用於騎乘的魔法生物，運用了培育大型寶石獸“鑽石”所積累的知識。由於寶石獸的核心使用了大顆的紅電氣石，所以即使不是祕術師也可以將其召喚出來。"
+ },
+ "chocobo-carriage": {
+  "en": "Summon forth your chocobo carriage to ferry your friends around in comfort.",
+  "ja": "チョコボキャリッジに騎乗する。 チョコボが牽引する一羽立て浮行キャリッジ",
+  "zh-CN": "由陆行鸟牵引的浮空篷车。大约在100年前，人们确立了借由填充青磷气体的气球，从而使货台浮空的技术。该技术的灵感来自黑衣森林的鸟人族所发明的装甲气球。",
+  "zh-TW": "由陸行鳥牽引的浮空篷車。大約在100年前，人們確立了藉由填充青磷氣體的氣球，從而使貨臺浮空的技術。該技術的靈感來自黑衣森林的鳥人族所發明的裝甲氣球。"
+ },
+ "rolling-tankard": {
+  "en": "Summon forth your Rolling Tankard, a mighty warmachina built by the blacksmiths of Watts's Anvil.",
+  "ja": "ドワーフ戦車に騎乗する。 ワッツハンマー・ガレージが開発した装輪戦車",
+  "zh-CN": "集结了沃茨之锤的最新技术，制造出了传说中的铁匠沃茨所设想的装甲战车。主体运用了矮人酒精式9缸星形引擎，并装配有用于对付食罪灵的可旋转魔装炮以及机械臂。",
+  "zh-TW": "集結了沃茨之錘的最新技術，製造出了傳說中的鐵匠沃茨所設想的裝甲戰車。主體運用了矮人酒精式9缸星形引擎，並裝配有用於對付食罪靈的可旋轉魔裝炮以及機械臂。"
+ },
+ "gabriel": {
+  "en": "Summon forth your Gabriel α. Magic shield not included. Armaments for decorative purposes only.",
+  "ja": "ガブリエルαに騎乗する。 新型飛行型魔導アーマー「ガブリエル」の縮小実験機",
+  "zh-CN": "在开发新型飞行型魔导装甲“加百列”的开发途中制造的缩小版实验机。据推测开发技术组在建造全尺寸的试作品前，曾用该机体验证空气阻力等特性。",
+  "zh-TW": "在開發新型飛行型魔導裝甲“加百列”的開發途中製造的縮小版實驗機。據推測開發技術組在建造全尺寸的試作品前，曾用該機體驗證空氣阻力等特性。"
+ },
+ "megalotragus": {
+  "en": "Summon forth your megalotragus, a herbivore so intimidating it puts carnivores to shame.",
+  "ja": "メガロトラグスに騎乗する。 シミターを思わせる湾曲した角が特徴的な草食動物",
+  "zh-CN": "长有仿佛弯刀一样弯曲大角的食草动物。原本栖息于北阿巴拉提亚山脉区域，在灵灾后迁移到了库尔札斯。是一种非常原始的古代种，据说某些极少的个体还觉醒了魔法的资质。",
+  "zh-TW": "長有彷彿彎刀一樣彎曲大角的食草動物。原本棲息於北阿巴拉提亞山脈區域，在靈災後遷移到了庫爾札斯。是一種非常原始的古代種，據說某些極少的個體還覺醒了魔法的資質。"
+ },
+ "gwiber-of-light": {
+  "en": "Summon forth your gwiber of light, a draconic arcane entity.",
+  "ja": "グイベル・オブ・ライトに騎乗する。 英雄のエーテルが充填された魔笛によって召喚された魔法生物",
+  "zh-CN": "用充满了英雄以太的魔笛召唤出来的魔法生物。据说在某个世界曾经的英雄为了打倒邪恶而在冒险途中可能将这样的生物作为了伙伴。可真相永远藏在光芒之中。",
+  "zh-TW": "用充滿了英雄以太的魔笛召喚出來的魔法生物。據說在某個世界曾經的英雄爲了打倒邪惡而在冒險途中可能將這樣的生物作爲了夥伴。可真相永遠藏在光芒之中。"
+ },
+ "jibanyan-couch": {
+  "en": "Summon forth the Jibanyan couch. A mysterious piece of furniture designed in the likeness of a Yo-kai named Jibanyan.",
+  "ja": "ジバニャンソファに騎乗する。 妖怪ジバニャンを模した不思議な椅子",
+  "zh-CN": "以妖怪地缚猫的形象设计的不可思议的椅子。虽然是以地缚猫为原型，不过不知为何能够飞起来。据说坐上去的感觉超棒，不管是人类还是妖怪，只要坐上去都会变得懒洋洋的。",
+  "zh-TW": "以妖怪地縛貓的形象設計的不可思議的椅子。雖然是以地縛貓爲原型，不過不知爲何能夠飛起來。據說坐上去的感覺超棒，不管是人類還是妖怪，只要坐上去都會變得懶洋洋的。"
+ },
+ "magitek-hyperconveyor": {
+  "en": "Call into battle your magitek hyperconveyor, a modern-day improvement on ancient Allagan logistics.",
+  "ja": "魔導キャリアー改に騎乗する。 魔導院にて開発された次世代型輸送プラットフォーム",
+  "zh-CN": "由加雷马帝国魔导院开发的次世代运输平台。重新审视内部构造后改善了维护的便捷性。此外还精简了整体大约8%的重量，青磷水的燃烧效率也得到了进一步的提高。",
+  "zh-TW": "由加雷馬帝國魔導院開發的次世代運輸平臺。重新審視內部構造後改善了維護的便捷性。此外還精簡了整體大約8%的重量，青磷水的燃燒效率也得到了進一步的提高。"
+ },
+ "ehll-tou": {
+  "en": "Summon forth Ehll Tou, the young dragon with a passion for crafting.",
+  "ja": "エル・トゥに騎乗する。 「ものづくり」に目覚めたドラゴン族。その形態は類を見ない",
+  "zh-CN": "对制作产生了兴趣的龙族。最初还是体型小巧的幼龙，最终完成了进化。为了适应工匠的工作需要，前肢的形状发生了变化，以便于使用工具。该形态的进化实属罕见。",
+  "zh-TW": "對製作產生了興趣的龍族。最初還是體型小巧的幼龍，最終完成了進化。爲了適應工匠的工作需要，前肢的形狀發生了變化，以便於使用工具。該形態的進化實屬罕見。"
+ },
+ "incitatus": {
+  "en": "Summon forth Incitatus, an enchanted steed favored of the merchant Rowena. If it could talk, it would doubtless drive a hard bargain.",
+  "ja": "インキタトゥスに騎乗する。 ある女商人に祝福された妖馬。人語を解するらしい",
+  "zh-CN": "受到了商人“罗薇娜”的祝福，过着非常奢侈生活的妖马。十分聪明并且被认为能听懂人话，还时不常地会竖起耳朵听库洛·阿里亚珀讲故事。据说不知何时起，它被冒险者的故事所吸引，决定要成为冒险者的跟班。",
+  "zh-TW": "受到了商人“羅薇娜”的祝福，過着非常奢侈生活的妖馬。十分聰明並且被認爲能聽懂人話，還時不常地會豎起耳朵聽庫洛·阿里亞珀講故事。據說不知何時起，它被冒險者的故事所吸引，決定要成爲冒險者的跟班。"
+ },
+ "snowman": {
+  "en": "Summon forth a behatted and begloved embodiment of festive cheer.",
+  "ja": "スノーマンに騎乗する。 星芒祭にて作られた雪だるま。永久氷晶の力で溶けることがない",
+  "zh-CN": "星芒节时期制作的雪人。在基拉巴尼亚地区，为了祈求寒冷与白雪能够带来恩惠，人们有使用初雪制作雪人的传统，这种文化后被星芒节吸收。这个雪人是用流传于格里达尼亚的幻术知识制作的。",
+  "zh-TW": "星芒節時期製作的雪人。在基拉巴尼亞地區，爲了祈求寒冷與白雪能夠帶來恩惠，人們有使用初雪製作雪人的傳統，這種文化後被星芒節吸收。這個雪人是用流傳於格里達尼亞的幻術知識製作的。"
+ },
+ "lunar-whale": {
+  "en": "Summon forth the Lunar Whale, which is definitely not an actual whale, but certainly large enough to warrant the name. Seats up to eight people, including the pilot.",
+  "ja": "ルナホエールに騎乗する。 クジラのような形状の魔導仕掛けの船。合計8人が搭乗可能",
+  "zh-CN": "加隆德炼铁厂开发的魔导船。据说其鲸鱼一样的独特形状是模仿了在密西迪亚传说中登场的船只。包括驾驶员在内，可供8人乘坐，拥有超强的运载能力。",
+  "zh-TW": "加隆德煉鐵廠開發的魔導船。據說其鯨魚一樣的獨特形狀是模仿了在密西迪亞傳說中登場的船隻。包括駕駛員在內，可供8人乘坐，擁有超強的運載能力。"
+ },
+ "eden": {
+  "en": "Summon forth Eden, or rather, a considerably smaller version of the gargantuan entity.",
+  "ja": "エデンに騎乗する。 エデン内部で回収されたクリスタルから生成された存在",
+  "zh-CN": "将魔力灌入从伊甸内部回收的水晶后，诞生出了该物体。虽然有着与伊甸本体相似的外表，不过这并不是食罪灵，当然也没有引发光之泛滥的危险。可能是像使魔一样的东西。",
+  "zh-TW": "將魔力灌入從伊甸內部回收的水晶後，誕生出了該物體。雖然有着與伊甸本體相似的外表，不過這並不是食罪靈，當然也沒有引發光之氾濫的危險。可能是像使魔一樣的東西。"
+ },
+ "cerberus": {
+  "en": "Summon forth your Cerberus mount. Be warned, however, that riding into a peaceful village on the back of a gigantic, slavering, three-headed hellhound may cause quite a stir among the locals.",
+  "ja": "ケルベロスに騎乗する。 三つ首を有する魔獣型妖異。アラグ帝国の技術で操られている",
+  "zh-CN": "被封印在第三星历时代遗迹的魔兽型妖异。原本就连高位的妖异都很难将其驯服，可经过亚拉戈制造的装置，如今已经被完全控制住了。",
+  "zh-TW": "被封印在第三星曆時代遺蹟的魔獸型妖異。原本就連高位的妖異都很難將其馴服，可經過亞拉戈製造的裝置，如今已經被完全控制住了。"
+ },
+ "big-shell": {
+  "en": "Summon forth your big shell mount, which is ironically rather small. Still quite big for a crab, though.",
+  "ja": "ビッグシェルに騎乗する。 大きく育ったシェル。あなたの為に今日も運ぶ",
+  "zh-CN": "某个贪心的卢恩族想要饱餐一顿，于是给予了壳蟹过量的食饵，可由于日久生情，最终还是没有吃掉它。其结果就是壳蟹被养得变大了很多，并学会了为人类干活。",
+  "zh-TW": "某個貪心的盧恩族想要飽餐一頓，於是給予了殼蟹過量的食餌，可由於日久生情，最終還是沒有喫掉它。其結果就是殼蟹被養得變大了很多，並學會了爲人類幹活。"
+ },
+ "arion": {
+  "en": "Summon forth Arion, the heavenly steed of unmatched swiftness.",
+  "ja": "アレイオンに騎乗する。 由来不明の魔笛により、呼び出される伝説の幻獣",
+  "zh-CN": "通过来源不明的魔笛召唤出来的传说中的幻兽。传说中大英雄的爱马，不论多么危险的地方，它都能带着骑手生还。据说如果没有如同太阳般的灵魂，它是绝对不会让骑手骑上背的。",
+  "zh-TW": "通過來源不明的魔笛召喚出來的傳說中的幻獸。傳說中大英雄的愛馬，不論多麼危險的地方，它都能帶着騎手生還。據說如果沒有如同太陽般的靈魂，它是絕對不會讓騎手騎上背的。"
+ },
+ "emerald-gwiber": {
+  "en": "Summon forth your emerald gwiber, a draconic arcane entity.",
+  "ja": "エメラルドグイベルに騎乗する。 未知の蛮神の魔力が充填された魔笛によって召喚された魔法生物",
+  "zh-CN": "用充满了疑似被绿宝石神兵吸收的未知蛮神魔力的魔笛召唤出来的魔法生物。拥有流线型的翠玉色装甲。不知为何，好像有人将魔笛的知识共享给了所有召唤者。",
+  "zh-TW": "用充滿了疑似被綠寶石神兵吸收的未知蠻神魔力的魔笛召喚出來的魔法生物。擁有流線型的翠玉色裝甲。不知爲何，好像有人將魔笛的知識共享給了所有召喚者。"
+ },
+ "prototype-roader": {
+  "en": "Summon forth a prototype roader, one of the fastest ways to reach your destination while scaring the seven hells out of everyone on the way.",
+  "ja": "プロトマグナローダーに騎乗する。 人工筋肉を採用した新型魔導兵器",
+  "zh-CN": "哥布林族的技师将从基拉巴尼亚回收的帝国制魔导兵器的残骸进行修理改良后制造出的试验车辆。听说由于太过追求行驶速度，导致其拥有了自我意识。如果真是这样的话还挺可怕的。",
+  "zh-TW": "哥布林族的技師將從基拉巴尼亞回收的帝國制魔導兵器的殘骸進行修理改良後製造出的試驗車輛。聽說由於太過追求行駛速度，導致其擁有了自我意識。如果真是這樣的話還挺可怕的。"
+ },
+ "chocorpokkur": {
+  "en": "Summon forth a chocorpokkur, which is... Well, perhaps you had best see it for yourself.",
+  "ja": "チョコロポックルに騎乗する。 ビックリするほど大きく成長したコロポックル。ほっとやさしい香りがする",
+  "zh-CN": "成长到惊人体型的叶小妖。为了给各个城市送去美味的巧克力，今天它也在打起精神四处奔波。浑身散发着淡淡的甜香味，只是遇见便会有种幸福的心情。",
+  "zh-TW": "成長到驚人體型的葉小妖。爲了給各個城市送去美味的巧克力，今天它也在打起精神四處奔波。渾身散發着淡淡的甜香味，只是遇見便會有種幸福的心情。"
+ },
+ "gabriel-mark-iii": {
+  "en": "Summon forth your Gabriel Mark III mount, though you may find this transforming warmachina is less than meets the eye. Claims that its gold paint deflects laser beams are entirely unfounded.",
+  "ja": "ガブリエルIII号機に騎乗する。 「ガブリエル」の縮小実験機用フレームを用いて造られた機体",
+  "zh-CN": "运用了先行交货的加百列实验机的缩小版框架，经第四军团之手独自建造的机体。内部框架使用了会对驾驶员的魔力产生反应的素材，因此会发出亮光，但其详细原理仍然不明。",
+  "zh-TW": "運用了先行交貨的加百列實驗機的縮小版框架，經第四軍團之手獨自建造的機體。內部框架使用了會對駕駛員的魔力產生反應的素材，因此會發出亮光，但其詳細原理仍然不明。"
+ },
+ "antelope-doe": {
+  "en": "Summon forth your antelope doe, a female creature identifiable by the bluish tinge of its fur.",
+  "ja": "アンテロープ・ドゥに騎乗する。 俊足で知られる草食動物。雌は青味がかった毛並みを持つ",
+  "zh-CN": "主要栖息于草原地带的食草动物。在第七灵灾之前曾有众多的个体生活在山岳地区库尔札斯。人们为了获得羊肉和羊奶，不断尝试将其驯服作为家畜，可因为该生物性情多变，所以负责骑乘训练的人必须要有十足的耐心。",
+  "zh-TW": "主要棲息於草原地帶的食草動物。在第七靈災之前曾有衆多的個體生活在山嶽地區庫爾札斯。人們爲了獲得羊肉和羊奶，不斷嘗試將其馴服作爲家畜，可因爲該生物性情多變，所以負責騎乘訓練的人必須要有十足的耐心。"
+ },
+ "antelope-stag": {
+  "en": "Summon forth your antelope stag, a male creature identifiable by its horns, striped body, and...impressive size.",
+  "ja": "アンテロープ・スタッグに騎乗する。 俊足で知られる草食動物。雄は二本の鋭い角を持つ",
+  "zh-CN": "主要栖息于草原地带的食草动物。由于动作迅捷，自古便被阿巴拉提亚的山岳人民当做坐骑。近几年随着古代魔法术式的普及，魔力充沛的骑手甚至能够使其翱翔于空。",
+  "zh-TW": "主要棲息於草原地帶的食草動物。由於動作迅捷，自古便被阿巴拉提亞的山嶽人民當做坐騎。近幾年隨着古代魔法術式的普及，魔力充沛的騎手甚至能夠使其翱翔於空。"
+ },
+ "landerwaffe": {
+  "en": "Summon forth Landerwaffe, magnificent mechanical dragon of legend, and be the envy of all the other kids.",
+  "ja": "レンダーバッフェに騎乗する。 鋼鉄の翼を有する伝説の機竜",
+  "zh-CN": "传说中拥有钢铁之翼的机械龙。被认为是古代亚拉戈帝国为了对抗龙族而开发出的一种机械兵器，外观神圣且庄严。据说只有真正的英雄，才能骑到它的背上。",
+  "zh-TW": "傳說中擁有鋼鐵之翼的機械龍。被認爲是古代亞拉戈帝國爲了對抗龍族而開發出的一種機械兵器，外觀神聖且莊嚴。據說只有真正的英雄，才能騎到它的背上。"
+ },
+ "al-iklil": {
+  "en": "Summon forth Al-iklil, a stylish hovering craft designed to carry up to two riders. Any more and it may not heed you.",
+  "ja": "イクリールに騎乗する。 「飛空石」の力で浮行するエアバイク。2人乗りが可能",
+  "zh-CN": "作为支援物资，芙兰为博兹雅义军带来的空中摩托。其飞行的动力源与浮岛的浮力源相同，都是一种被称作飞空石的水晶。该摩托的原名在古代伊瓦利斯语中意味为“王冠”，为方便大众称呼，改名为了王冠号。",
+  "zh-TW": "作爲支援物資，芙蘭爲博茲雅義軍帶來的空中摩托。其飛行的動力源與浮島的浮力源相同，都是一種被稱作飛空石的水晶。該摩托的原名在古代伊瓦利斯語中意味爲“王冠”，爲方便大衆稱呼，改名爲了王冠號。"
+ },
+ "cruise-chaser": {
+  "en": "Summon forth your Cruise Chaser to cruise along in style as you give chase to your foes.",
+  "ja": "クルーズチェイサーに騎乗する。 青の手が開発した変形兵士。人型から飛空艇型に変形する",
+  "zh-CN": "将青蓝之手开发的可变形士兵进行调整后，改造成了可供骑乘的机体。能从人型的枪手形态变形成飞空艇型的射击形态。据说因其外形设计细心考究，所以加隆德炼铁厂模型师正打算将其模型化。",
+  "zh-TW": "將青藍之手開發的可變形士兵進行調整後，改造成了可供騎乘的機體。能從人型的槍手形態變形成飛空艇型的射擊形態。據說因其外形設計細心考究，所以加隆德煉鐵廠模型師正打算將其模型化。"
+ },
+ "construct-vi-s": {
+  "en": "Summon forth your Construct VI-S. Painted red so it goes faster. Theoretically.",
+  "ja": "コンストラクト06Sに騎乗する。 コボルド族が製造した装甲巨兵。人が搭乗可能なように改良されている",
+  "zh-CN": "友善的地灵族一派为了与人进行交易而制造并贩卖的装甲巨兵。除了采用利姆萨·罗敏萨的红色主色调进行涂装以外，还将推力增强了30%。只不过这不代表可以以3倍的速度前进。",
+  "zh-TW": "友善的地靈族一派爲了與人進行交易而製造並販賣的裝甲巨兵。除了採用利姆薩·羅敏薩的紅色主色調進行塗裝以外，還將推力增強了30%。只不過這不代表可以以3倍的速度前進。"
+ },
+ "diamond-gwiber": {
+  "en": "Summon forth your diamond gwiber, a draconic arcane entity.",
+  "ja": "ダイヤグイベルに騎乗する。 未知の蛮神の魔力が充填された魔笛によって召喚された魔法生物",
+  "zh-CN": "用充满了疑似被钻石神兵吸收的未知蛮神魔力的魔笛召唤出来的魔法生物。据残存于维尔利特的数据来看，该蛮神的召唤者很可能来自科尔沃人组建的抵抗势力。",
+  "zh-TW": "用充滿了疑似被鑽石神兵吸收的未知蠻神魔力的魔笛召喚出來的魔法生物。據殘存於維爾利特的數據來看，該蠻神的召喚者很可能來自科爾沃人組建的抵抗勢力。"
+ },
+ "polar-bear": {
+  "en": "Summon forth your polar bear, a gentle giant with a soft spot for sweets.",
+  "ja": "ポーラーベアーに騎乗する。 北洋からやってきたシロクマ。気は優しくて力持ち",
+  "zh-CN": "从北洋而来的白熊。为了寻求冰品的材料，出发前往了北洋岛屿的糕点师内可可在当地给它喂食了点心，结果被它喜欢上了。除此之外，它对努力帮忙想要成功举办红莲节的冒险者也抱有好感。",
+  "zh-TW": "從北洋而來的白熊。爲了尋求冰品的材料，出發前往了北洋島嶼的糕點師內可可在當地給它餵食了點心，結果被它喜歡上了。除此之外，它對努力幫忙想要成功舉辦紅蓮節的冒險者也抱有好感。"
+ },
+ "gilded-mikoshi": {
+  "en": "Summon forth your squad of gilded Namazu to bear you upon a gilded mikoshi—all of which is as gaudy as it sounds.",
+  "ja": "オオナマキン御輿に騎乗する。 ナマズオ族の祖先、オオナマズ様を祀った金箔貼りの浮行式御輿",
+  "zh-CN": "连续举办七年大鲶大祭需要庞大的资金支持，不过万幸的是，罗薇娜所著的«大商人论»中记载着解决问题的方法。想要大赚一笔的话，只要贩卖价值昂贵的商品就好了。那还有什么比附赠八位轿夫、全体镀金的神轿更完美的商品吗？",
+  "zh-TW": "連續舉辦七年大鯰大祭需要龐大的資金支持，不過萬幸的是，羅薇娜所著的«大商人論»中記載着解決問題的方法。想要大賺一筆的話，只要販賣價值昂貴的商品就好了。那還有什麼比附贈八位轎伕、全體鍍金的神轎更完美的商品嗎？"
+ },
+ "resplendent-vessel-of-ronka": {
+  "en": "Summon forth the Resplendent Vessel of Ronka. Just like the Great Vessel of Ronka, but really shiny.",
+  "ja": "金蛇様の壺に騎乗する。 それはありふれた壺のはずだった。だが、なぜか輝いている",
+  "zh-CN": "被人从隆卡遗迹盗挖出来之后，被卖到黑市的不可思议的罐子。只要吹响附赠的魔笛，这个罐子就会发出金色的光芒，同时里面还会填满东西。据说沐浴到金蛇大人神秘之光的人将会获得幸福。",
+  "zh-TW": "被人從隆卡遺蹟盜挖出來之後，被賣到黑市的不可思議的罐子。只要吹響附贈的魔笛，這個罐子就會發出金色的光芒，同時裏面還會填滿東西。據說沐浴到金蛇大人神祕之光的人將會獲得幸福。"
+ },
+ "magicked-card": {
+  "en": "Summon forth your magicked card to take you wonder by wonder, over, sideways, and under.",
+  "ja": "マジックカードに騎乗する。 最強の彫金師が手掛けた乗用カード",
+  "zh-CN": "艾欧泽亚最强的雕金匠戈德伯特·曼德维尔亲手制作的搭乘用幻卡。曼德维尔决定将这张亲手制作的幻卡赠与收集了众多幻卡并展现出对幻卡抱有真爱的人。此外在这位最强雕金匠的超绝技艺下，不知道为何这张幻卡居然会飞……",
+  "zh-TW": "艾歐澤亞最強的雕金匠戈德伯特·曼德維爾親手製作的搭乘用幻卡。曼德維爾決定將這張親手製作的幻卡贈與收集了衆多幻卡並展現出對幻卡抱有真愛的人。此外在這位最強雕金匠的超絕技藝下，不知道爲何這張幻卡居然會飛……"
+ },
+ "island-mandragora": {
+  "en": "Summon forth your island mandragora, a prime piece of island produce.",
+  "ja": "アイル・マンドラゴラに騎乗する。 大きく育ったマンドラゴラ。無人島産！",
+  "zh-CN": "无人岛特有的蔓德拉。出身西蔓德拉帝国的名门，海岛蔓德拉自幼受到肥沃的土地与明媚阳光的精心抚育，因此格外高大壮硕。然而，它的体型没能帮助它摆脱身为蔬菜的命运，海岛蔓德拉最终仍被迫走上了货架，成为了一件商品。",
+  "zh-TW": "無人島特有的蔓德拉。出身西蔓德拉帝國的名門，海島蔓德拉自幼受到肥沃的土地與明媚陽光的精心撫育，因此格外高大壯碩。然而，它的體型沒能幫助它擺脫身爲蔬菜的命運，海島蔓德拉最終仍被迫走上了貨架，成爲了一件商品。"
+ },
+ "island-onion-prince": {
+  "en": "Summon forth your island Onion Prince, a vegetable whose colossal size befits his station.",
+  "ja": "アイル・オニオンプリンスに騎乗する。 大きく育ったオニオンプリンス。マンドラゴラの王子！",
+  "zh-CN": "自称，无人岛蔓德拉们的王子。生在富足之家的洋葱王子自幼成长在溺爱它的双亲膝下，因而养成了它追求新鲜和刺激，四处惹是生非的性格。无法再坐视儿子胡来的国王最终做出决断，它忍痛把儿子送上了货架，卖给英雄当随从……以上这些为洋葱王子自述的来历。",
+  "zh-TW": "自稱，無人島蔓德拉們的王子。生在富足之家的洋蔥王子自幼成長在溺愛它的雙親膝下，因而養成了它追求新鮮和刺激，四處惹是生非的性格。無法再坐視兒子胡來的國王最終做出決斷，它忍痛把兒子送上了貨架，賣給英雄當隨從……以上這些爲洋蔥王子自述的來歷。"
+ },
+ "island-eggplant-knight": {
+  "en": "Summon forth your island Eggplant Knight, an oversized vegetable embodiment of chivalry.",
+  "ja": "アイル・エッグナイトに騎乗する。 大きく育ったエッグナイト。マンドラゴラの騎士！",
+  "zh-CN": "自称，来自远方的蔓德拉骑士。不但与海岛番茄国王来自同一片产地，还与番茄国王在同一批次装箱出售。然而装有它们的木箱在航行途中偶然从商船上掉落，并一路漂流到了这座无人岛。它自称为西蔓德拉帝国的开国元老，以上这些为海岛茄子骑士自述的来历。",
+  "zh-TW": "自稱，來自遠方的蔓德拉騎士。不但與海島番茄國王來自同一片產地，還與番茄國王在同一批次裝箱出售。然而裝有它們的木箱在航行途中偶然從商船上掉落，並一路漂流到了這座無人島。它自稱爲西蔓德拉帝國的開國元老，以上這些爲海島茄子騎士自述的來歷。"
+ },
+ "island-garlic-jester": {
+  "en": "Summon forth your island Garlic Jester, a mandragora as pungent as it is humorous.",
+  "ja": "アイル・ガーリックスターに騎乗する。 大きく育ったガーリックスター。マンドラゴラの道化！",
+  "zh-CN": "自称，来自远方的蔓德拉滑稽艺人。与海岛番茄国王在漂流时代相遇，为了打发漂流时的无聊，它不断地表演了许多小笑话。据说鉴于此功劳，在西蔓德拉帝国建国后，它被任命为了宫廷滑稽艺人……",
+  "zh-TW": "自稱，來自遠方的蔓德拉滑稽藝人。與海島番茄國王在漂流時代相遇，爲了打發漂流時的無聊，它不斷地表演了許多小笑話。據說鑑於此功勞，在西蔓德拉帝國建國後，它被任命爲了宮廷滑稽藝人……"
+ },
+ "island-tomato-king": {
+  "en": "Summon forth your island Tomato King, a sovereign who rules with a strong and juicy—er, just hand.",
+  "ja": "アイル・キングトマトに騎乗する。 大きく育ったキングトマト。マンドラゴラの王！",
+  "zh-CN": "自称，来自远方的蔓德拉国王。虽然它出生在威尔布兰德岛，但在被装箱出售后，装有它的木箱在航行途中偶然从商船上掉落，最终漂流到了无人岛。据说它经历了荒岛严酷的挑战并战胜了贪婪的鸟类，赢得了岛屿蔬菜公主的芳心。随后它们建立了蔬菜王国——西蔓德拉帝国……",
+  "zh-TW": "自稱，來自遠方的蔓德拉國王。雖然它出生在威爾布蘭德島，但在被裝箱出售後，裝有它的木箱在航行途中偶然從商船上掉落，最終漂流到了無人島。據說它經歷了荒島嚴酷的挑戰並戰勝了貪婪的鳥類，贏得了島嶼蔬菜公主的芳心。隨後它們建立了蔬菜王國——西蔓德拉帝國……"
+ },
+ "island-mandragora-queen": {
+  "en": "Summon forth your island Mandragora Queen, a well-cultivated vegetable fit for a king.",
+  "ja": "アイル・マンドラクイーンに騎乗する。 大きく育ったマンドラクイーン。マンドラゴラの王妃！",
+  "zh-CN": "自称，产自无人岛的蔓德拉王后。在与漂流到沙滩的年轻海岛番茄国王达成命运般的相遇后，它决定无视产地的不同与番茄国王结婚。据说它们将岛屿蔬菜全部作为了自己的臣下，建立了蔬菜国家——西蔓德拉帝国……",
+  "zh-TW": "自稱，產自無人島的蔓德拉王后。在與漂流到沙灘的年輕海島番茄國王達成命運般的相遇後，它決定無視產地的不同與番茄國王結婚。據說它們將島嶼蔬菜全部作爲了自己的臣下，建立了蔬菜國家——西蔓德拉帝國……"
+ },
+ "lynx-of-eternal-darkness": {
+  "en": "Summon forth your lynx of eternal darkness, which could be what a certain eldest of all primals might look like as a large, winged feline.",
+  "ja": "エターナルダークネス・リンクスに騎乗する。 星極性のエーテルを帯びた幻想生物",
+  "zh-CN": "永暗猞猁是一种由以太构成的幻想生物，具有强大的星极性之力。它漆黑的翅膀会让人立刻联想到最古老最强大的蛮神佐迪亚克的宏伟姿态，但这并不能帮助人们弄明白是什么人创造了这种使魔。",
+  "zh-TW": "永暗猞猁是一種由以太構成的幻想生物，具有強大的星極性之力。它漆黑的翅膀會讓人立刻聯想到最古老最強大的蠻神佐迪亞克的宏偉姿態，但這並不能幫助人們弄明白是什麼人創造了這種使魔。"
+ },
+ "lynx-of-divine-light": {
+  "en": "Summon forth your lynx of divine light, which could be what a certain will of the star might look like as a large, winged feline.",
+  "ja": "ディヴァインライト・リンクスに騎乗する。 霊極性のエーテルを帯びた幻想生物",
+  "zh-CN": "圣光猞猁是一种由以太构成的幻想生物，具有强大的灵极性之力。它纯白的翅膀会让人立刻联想到作为星球意志守护世界至今的海德林的神圣姿态，但这并不能帮助人们弄明白是什么人创造了这种使魔。",
+  "zh-TW": "聖光猞猁是一種由以太構成的幻想生物，具有強大的靈極性之力。它純白的翅膀會讓人立刻聯想到作爲星球意志守護世界至今的海德林的神聖姿態，但這並不能幫助人們弄明白是什麼人創造了這種使魔。"
+ },
+ "argos": {
+  "en": "Summon forth Argos, Venat's faithful familiar, to bear you places while you marvel at the softness of his golden coat.",
+  "ja": "アルゴスに騎乗する。 黄金の毛並みを持つ犬のように見える使い魔",
+  "zh-CN": "阿尔戈斯是由古代人维涅斯创造的使魔。对你来说，第一次见到阿尔戈斯是在月面的叹息海。对阿尔戈斯来说，却是早在厄尔庇斯就已经和你相识了。它在那个时候认识了你，见识了你的英姿，因此信任你愿意成为你的坐骑。",
+  "zh-TW": "阿爾戈斯是由古代人維涅斯創造的使魔。對你來說，第一次見到阿爾戈斯是在月面的嘆息海。對阿爾戈斯來說，卻是早在厄爾庇斯就已經和你相識了。它在那個時候認識了你，見識了你的英姿，因此信任你願意成爲你的坐騎。"
+ },
+ "dreadnaught": {
+  "en": "Summon forth your dreadnaught, a hulking machina that's equally at home on the battlefield as it is at construction sites.",
+  "ja": "ドレッドノートに騎乗する。 古代アラグ帝国の軍用工作機械",
+  "zh-CN": "恐慌装甲是古代亚拉戈帝国开发的军工机械。随着后续机型逐步更新，作为陆战兵器开发的恐慌装甲退居二线，转型成了工兵部队的主要重型机械。传说中曾经有一位少年骑着恐慌装甲在敌军中横冲直撞，将对方杀得溃不成军。",
+  "zh-TW": "恐慌裝甲是古代亞拉戈帝國開發的軍工機械。隨着後續機型逐步更新，作爲陸戰兵器開發的恐慌裝甲退居二線，轉型成了工兵部隊的主要重型機械。傳說中曾經有一位少年騎着恐慌裝甲在敵軍中橫衝直撞，將對方殺得潰不成軍。"
+ },
+ "demi-phoinix": {
+  "en": "Summon forth Demi-Phoinix. Because four wings are better than two and three heads better than one.",
+  "ja": "デミフェネクスに騎乗する。 危険な創造生物、フェネクスを模した幻体",
+  "zh-CN": "以菲尼克司为原型制作的幻体坐骑，菲尼克司是关押于万魔殿的危险创造生物之一。这种创造生物是在创造不死鸟的过程中诞生的产物，由于性格乖戾残暴，被评定为失败的创造生物。",
+  "zh-TW": "以菲尼克司爲原型製作的幻體坐騎，菲尼克司是關押於萬魔殿的危險創造生物之一。這種創造生物是在創造不死鳥的過程中誕生的產物，由於性格乖戾殘暴，被評定爲失敗的創造生物。"
+ },
+ "calydontis": {
+  "en": "Summon forth Calydontis. He's wild but he's yours.",
+  "ja": "カリュドンティスに騎乗する。 巨大なワイルドボア。暴れん坊だが英雄には従順",
+  "zh-CN": "巨型野猪，曾是一方猛兽的王，作为君临在生态链顶端的怪物而凶名赫赫。附近的强大冒险者不堪其扰，召集伙伴打倒了这头巨型野猪。从那以后卡吕冬堤斯就学会了屈服，它只服从于最伟大的英雄，让英雄骑在它的背上，载着英雄横冲直撞。",
+  "zh-TW": "巨型野豬，曾是一方猛獸的王，作爲君臨在生態鏈頂端的怪物而兇名赫赫。附近的強大冒險者不堪其擾，召集夥伴打倒了這頭巨型野豬。從那以後卡呂冬堤斯就學會了屈服，它只服從於最偉大的英雄，讓英雄騎在它的背上，載着英雄橫衝直撞。"
+ },
+ "victor": {
+  "en": "Summon forth Victor, a dog to rule over all dogs—at dog shows, that is.",
+  "ja": "ヴィクトルに騎乗する。 大柄なカニス。ガレマール帝国猟犬品評会の優勝犬",
+  "zh-CN": "它是一只体型非常大的军犬。曾在加雷马帝国猎犬协会举办的大赛中赢得金奖，并因此受到了瓦厉斯皇帝的接见和表彰。不过大赛评价的是一条狗的体格、体态以及毛色和忠诚度，从来不曾评价过狗的战斗力，因此并没人发现它是一只心地善良不喜欢战斗的狗狗。你要骑它可以，让它打猎，那是万万不能的。",
+  "zh-TW": "它是一隻體型非常大的軍犬。曾在加雷馬帝國獵犬協會舉辦的大賽中贏得金獎，並因此受到了瓦厲斯皇帝的接見和表彰。不過大賽評價的是一條狗的體格、體態以及毛色和忠誠度，從來不曾評價過狗的戰鬥力，因此並沒人發現它是一隻心地善良不喜歡戰鬥的狗狗。你要騎它可以，讓它打獵，那是萬萬不能的。"
+ },
+ "level-checker": {
+  "en": "Summon forth your level checker, a mysterious machine that can determine your strength...and apparently also shrink and carry you inside it.",
+  "ja": "レベルチェッカーに騎乗する。 謎めいた機械。レベルをチェックしてくれるらしい",
+  "zh-CN": "一台充满了谜团的机器，自称能检测你的等级。根据这台机器给出的报告显示，它第一次检测你时，你的最高等级是“90级”。不过也没人能够确认它说的是真的还是假的，倒不如说，它说的等级这个东西到底是什么？又是怎么规定的？",
+  "zh-TW": "一臺充滿了謎團的機器，自稱能檢測你的等級。根據這臺機器給出的報告顯示，它第一次檢測你時，你的最高等級是“90級”。不過也沒人能夠確認它說的是真的還是假的，倒不如說，它說的等級這個東西到底是什麼？又是怎麼規定的？"
+ },
+ "papa-paissa": {
+  "en": "Summon forth Papa Paissa. It's for a good cause.",
+  "ja": "パパ・パイッサに騎乗する。 特に大柄なパイッサ。実は八児の父親らしい",
+  "zh-CN": "特大号的猴面雀。它其实是一位抚养了八个孩子的父亲，为了养活孩子们，它不得不出来找工作讨生活。温柔的冒险者看出了它的难处，为了这些可爱的猴面雀孩子们能够健康茁壮地成长，选择了雇佣这位伟大的父亲担当自己的坐骑，还特别允许了它带着孩子们来一起上班。",
+  "zh-TW": "特大號的猴面雀。它其實是一位撫養了八個孩子的父親，爲了養活孩子們，它不得不出來找工作討生活。溫柔的冒險者看出了它的難處，爲了這些可愛的猴面雀孩子們能夠健康茁壯地成長，選擇了僱傭這位偉大的父親擔當自己的坐騎，還特別允許了它帶着孩子們來一起上班。"
+ },
+ "wivre": {
+  "en": "Summon forth your wivre, a mighty horned beast said to be nature's battering ram.",
+  "ja": "ウィヴルに騎乗する。 西方の新大陸原産の四脚獣",
+  "zh-CN": "原产西方新大陆的四脚兽。虽然犀蜴是一种非常凶猛难以驯化的动物，但辉鳞人已经掌握了饲养犀蜴的方法。驯化过的犀蜴既可以驮运活物也可以当坐骑载人，得益于它们与生俱来的巨角以及强大的冲刺冲击能力，犀蜴也能成为一种很好的攻城兵器。",
+  "zh-TW": "原產西方新大陸的四腳獸。雖然犀蜴是一種非常兇猛難以馴化的動物，但輝鱗人已經掌握了飼養犀蜴的方法。馴化過的犀蜴既可以馱運活物也可以當坐騎載人，得益於它們與生俱來的巨角以及強大的衝刺衝擊能力，犀蜴也能成爲一種很好的攻城兵器。"
+ },
+ "porxie-king": {
+  "en": "Summon forth your porxie king. Smells like bacon that's a cut above the rest—though that might just be an effect of the crown.",
+  "ja": "キングポークシーに騎乗する。 大きな豚型使い魔。ほんのり厚切りベーコンの香りがする",
+  "zh-CN": "大型猪使魔。猪大王是仙子猪量产计划的副产物，非常不幸地并没有治疗被精炼者的能力。人们本着不浪费一口粮食的精神，仁慈地给了它一个新的去处。于是猪大王被打扮一新，成为了冒险者你的坐骑。",
+  "zh-TW": "大型豬使魔。豬大王是仙子豬量產計劃的副產物，非常不幸地並沒有治療被精煉者的能力。人們本着不浪費一口糧食的精神，仁慈地給了它一個新的去處。於是豬大王被打扮一新，成爲了冒險者你的坐騎。"
+ },
+ "garlond-gl-ii": {
+  "en": "Summon forth your Garlond GL-II. For those who've got a nice place—who never wanted to be anybody else.",
+  "ja": "ガーロンドGL-IIに騎乗する。 ガーロンド・アイアンワークス社が試作した魔導二輪車",
+  "zh-CN": "这辆魔导两轮车是加隆德炼铁厂开发的新型试验车，用于探索新时代的崭新移动方式。加隆德GL-II搭载了小型的双向双汽缸青磷引擎，实现了极其强劲的动力表现。即使是无人岛这样不甚平整的地面也能从容应对，如履平地。",
+  "zh-TW": "這輛魔導兩輪車是加隆德煉鐵廠開發的新型試驗車，用於探索新時代的嶄新移動方式。加隆德GL-II搭載了小型的雙向雙汽缸青磷引擎，實現了極其強勁的動力表現。即使是無人島這樣不甚平整的地面也能從容應對，如履平地。"
+ },
+ "mechanical-lotus": {
+  "en": "Summon forth your mechanical lotus, a flower-shaped mode of transport with a spiritual aura.",
+  "ja": "絡繰蓮華に騎乗する。 蓮の花を象った騎乗用のからくり座椅子",
+  "zh-CN": "神秘的技术集团“鬼师众”制作的移动机关座椅。在东方地区，莲花是纯真洁净的象征，甚至带有一点神圣的色彩。对其他地区的人来说，看到莲花总会有一种神秘的感觉。这个坐骑也充分表现了这一特点，制造方法严格保密，处处散发着神秘的气息。",
+  "zh-TW": "神祕的技術集團“鬼師衆”製作的移動機關座椅。在東方地區，蓮花是純真潔淨的象徵，甚至帶有一點神聖的色彩。對其他地區的人來說，看到蓮花總會有一種神祕的感覺。這個坐騎也充分表現了這一特點，製造方法嚴格保密，處處散發着神祕的氣息。"
+ },
+ "fylgja": {
+  "en": "Summon forth Fylgja, a dragon with a soft spot for heroes and songs.",
+  "ja": "フィルギャに騎乗する。 詩竜眷属のドラゴン族。闘争の中で輝く英傑を好むという",
+  "zh-CN": "作为诗龙拉塔托斯克的眷属，菲尔亚就像祖先一样喜爱人类。它曾奔走于各地，寻找一位值得为之编织龙诗的人物。菲尔亚终于在一场战斗中找到了值得瞩目的耀眼英杰，英杰热火朝天的战斗也感染了菲尔亚。于是，这位诗龙的眷属怀揣着热情追随心中的英雄踏上了路途。",
+  "zh-TW": "作爲詩龍拉塔託斯克的眷屬，菲爾亞就像祖先一樣喜愛人類。它曾奔走於各地，尋找一位值得爲之編織龍詩的人物。菲爾亞終於在一場戰鬥中找到了值得矚目的耀眼英傑，英傑熱火朝天的戰鬥也感染了菲爾亞。於是，這位詩龍的眷屬懷揣着熱情追隨心中的英雄踏上了路途。"
+ },
+ "alkonost": {
+  "en": "Summon forth your alkonost, an imposing antlered avian native to northern Ilsabard.",
+  "ja": "アルコノストに騎乗する。 イルサバード北部原産の怪鳥。鹿を思わせる蹄や角を有する",
+  "zh-CN": "原产伊尔萨巴德北部的怪鸟。这一头是人们在博兹雅的旷野中捕获的。它在诸多收藏家间辗转了一阵后才重获自由，据说这头怪鸟被抓住时就不怎么抗拒人类的接触，因此也有人认为它可能原本就是帝国军的驯兽师驯养的魔兽。",
+  "zh-TW": "原產伊爾薩巴德北部的怪鳥。這一頭是人們在博茲雅的曠野中捕獲的。它在諸多收藏家間輾轉了一陣後才重獲自由，據說這頭怪鳥被抓住時就不怎麼抗拒人類的接觸，因此也有人認爲它可能原本就是帝國軍的馴獸師馴養的魔獸。"
+ },
+ "island-buffalo": {
+  "en": "Summon forth your island buffalo. Tough on the outside but tender on the inside.",
+  "ja": "アイル・バッファローに騎乗する。 いつの間にか開拓拠点に居ついていた温厚なバッファロー",
+  "zh-CN": "不知从何时就赖在开拓据点不走的水牛。看样子应该是以前海盗们作为食用肉带来的家畜重新回归到了野外。只要有吃的，它愿意让任何人骑在自己的身上。这种宽广的心胸好像就是它的特点。",
+  "zh-TW": "不知從何時就賴在開拓據點不走的水牛。看樣子應該是以前海盜們作爲食用肉帶來的家畜重新迴歸到了野外。只要有喫的，它願意讓任何人騎在自己的身上。這種寬廣的心胸好像就是它的特點。"
+ },
+ "brachiosaur": {
+  "en": "Summon forth your brachiosaur, a rare prehistoric creature sighted in frontier lands.",
+  "ja": "ブラキオレイドスに騎乗する。 秘境の地で稀に目撃される超大型の古代生物",
+  "zh-CN": "前往秘境探索的探险家和冒险者在极其偶然的情况下才有缘一见的超大型古代生物。这条腕龙原本是某位怪物猎人从秘境中带回的一颗蛋。它孵化成幼龙后决心要踏上旅途，因此正在寻找一位值得它追随的主人。",
+  "zh-TW": "前往祕境探索的探險家和冒險者在極其偶然的情況下才有緣一見的超大型古代生物。這條腕龍原本是某位怪物獵人從祕境中帶回的一顆蛋。它孵化成幼龍後決心要踏上旅途，因此正在尋找一位值得它追隨的主人。"
+ },
+ "pod-602": {
+  "en": "Summon forth your pod 602 mount. May leave you hanging, but will never let you go. Unless it malfunctions, or runs out of energy, or...you get the idea.",
+  "ja": "ポッド602に騎乗する。 機械遺跡で発見された白い支援随行ユニット",
+  "zh-CN": "在机械遗迹最深处发现的小型白色机械。作为寄叶机体的随行辅助机，它的主要功能之一就是增加寄叶机体的机动性，运载机体跨越复杂地形。因此，挂着一个人飞来飞去姑且算符合这款机器的设计目的。",
+  "zh-TW": "在機械遺蹟最深處發現的小型白色機械。作爲寄葉機體的隨行輔助機，它的主要功能之一就是增加寄葉機體的機動性，運載機體跨越複雜地形。因此，掛着一個人飛來飛去姑且算符合這款機器的設計目的。"
+ },
+ "moon-hopper": {
+  "en": "Summon forth the moon-hopper. Guaranteed to instill a sense of well-being within all those in earshot.",
+  "ja": "ムーンホッパーに騎乗する。 サポーターを改造したゴキゲンなマシン",
+  "zh-CN": "发明威开发的改良型协助机。除了坐骑的功能，还增设了扩音器，可用于播放梦明威选择的奇迹曲目。只要听了这些曲目，不知道为什么就会高兴起来。",
+  "zh-TW": "發明威開發的改良型協助機。除了坐騎的功能，還增設了擴音器，可用於播放夢明威選擇的奇蹟曲目。只要聽了這些曲目，不知道爲什麼就會高興起來。"
+ },
+ "island-alligator": {
+  "en": "Summon forth your island alligator. Demands to be seen not later, but always.",
+  "ja": "アイランド・アリゲーターに騎乗する。 自身が貴重だという矜持を持ったアリゲーター",
+  "zh-CN": "这鳄鱼到底是从哪里游过来的？总之是不知何时就来到了无人岛上生活的短吻鳄。它对自己是无人岛上少见的短吻鳄一事颇有自觉，并且还产生了相应的高贵和自豪。话虽如此，如果能向众人展现它高贵的身姿，那么被人骑在背上也没什么不可以的，它好像是这么个意思……",
+  "zh-TW": "這鱷魚到底是從哪裏游過來的？總之是不知何時就來到了無人島上生活的短吻鱷。它對自己是無人島上少見的短吻鱷一事頗有自覺，並且還產生了相應的高貴和自豪。話雖如此，如果能向衆人展現它高貴的身姿，那麼被人騎在背上也沒什麼不可以的，它好像是這麼個意思……"
+ },
+ "hippo-cart": {
+  "en": "Summon forth your hippo cart, a mean if not so lean transporting machine.",
+  "ja": "ヒッポカートに騎乗する。 アルカソーダラ族の若者らが考案したカバが牽引する二輪車",
+  "zh-CN": "由万相森国的巨大河马拉着的二轮车。悌阳象族的年轻人受陆行鸟篷车启发想到的方案。车上不仅装有遮阳布，还运用了科尔沃的飞天绒毯技术，所以该河马车甚至能在天空中行驶。",
+  "zh-TW": "由萬相森國的巨大河馬拉着的二輪車。悌陽象族的年輕人受陸行鳥篷車啓發想到的方案。車上不僅裝有遮陽布，還運用了科爾沃的飛天絨毯技術，所以該河馬車甚至能在天空中行駛。"
+ },
+ "troll": {
+  "en": "Summon forth your troll mount, a gentle giant native to the northern seas.",
+  "ja": "トロルに騎乗する。 北洋地域に生息する巨獣。見た目に反して知能は高め",
+  "zh-CN": "生活在北洋地区的巨大野兽。与它粗狂外貌相对的是它远超预想的智商。据说萨雷安曾在殖民城市中开启过一项教导巨魔手语的研究计划。这一只巨魔被认为是当时的实验体之一，人们觉得手语实验就是这只巨魔会对人类如此友好的原因。",
+  "zh-TW": "生活在北洋地區的巨大野獸。與它粗狂外貌相對的是它遠超預想的智商。據說薩雷安曾在殖民城市中開啓過一項教導巨魔手語的研究計劃。這一隻巨魔被認爲是當時的實驗體之一，人們覺得手語實驗就是這隻巨魔會對人類如此友好的原因。"
+ },
+ "ufo": {
+  "en": "Summon forth your UFO, and experience the sensation of an alien abduction.",
+  "ja": "UFO？に騎乗する。 謎めいた飛行物体の複製体",
+  "zh-CN": "外星人可幽可幽搭乘的宇宙飞船……的复制品。然而并不具备以复制功能为代表的外星高科技，因此并不能将肉体缩小后搭乘在内部，只能通过反重力光线将人吸起来的方式“搭乘”。",
+  "zh-TW": "外星人可幽可幽搭乘的宇宙飛船……的複製品。然而並不具備以複製功能爲代表的外星高科技，因此並不能將肉體縮小後搭乘在內部，只能通過反重力光線將人吸起來的方式“搭乘”。"
+ },
+ "vinegaroon": {
+  "en": "Summon forth your vinegaroon mount, a carnivorous scalekin with a jaw reminiscent of claws.",
+  "ja": "ビネガロンに騎乗する。 鉤爪のような顎を持つ、甲鱗綱の大型肉食獣",
+  "zh-CN": "一种肉食性的大型甲鳞纲野兽，它的下颚宛如利爪般可怖。这种肉食动物被龙族收纳为眷属的例子很多，而被人类驯化为骑兽的例子非常少。不过，近几年有拾穗人研究出了一套训练醋蝎龙运送货物的方法，冒险者才能得到这样一只坐骑。",
+  "zh-TW": "一種肉食性的大型甲鱗綱野獸，它的下顎宛如利爪般可怖。這種肉食動物被龍族收納爲眷屬的例子很多，而被人類馴化爲騎獸的例子非常少。不過，近幾年有拾穗人研究出了一套訓練醋蠍龍運送貨物的方法，冒險者才能得到這樣一隻坐騎。"
+ },
+ "orthos-craklaw": {
+  "en": "Summon forth your Orthos craklaw. May or may not have participated in famous battles which actually took place in history.",
+  "ja": "オルト・クラックローに騎乗する。 オルト・エウレカで発見されたクラックロー",
+  "zh-CN": "在正统优雷卡发现的裂钳蟹。亚拉戈时代的研究者在它的身上进行了增加甲壳硬度的魔法，不过实验似乎没有成功。然而，可能是魔法实验的副作用吧，它因为未知的原因而得到了飞行能力。",
+  "zh-TW": "在正統優雷卡發現的裂鉗蟹。亞拉戈時代的研究者在它的身上進行了增加甲殼硬度的魔法，不過實驗似乎沒有成功。然而，可能是魔法實驗的副作用吧，它因爲未知的原因而得到了飛行能力。"
+ },
+ "bluefeather-lynx": {
+  "en": "Summon forth your bluefeather lynx mount, which could be what a certain feathered familiar might look like as a large, winged feline.",
+  "ja": "ブルーフェザー・リンクスに騎乗する。 不可思議な力を帯びた幻想生物",
+  "zh-CN": "蓝羽猞猁是一种由潜能量构成的幻想生物。讴歌终结之物创造了蓝羽猞猁，可它被创造出来的目的却很难确定。或许它只是一份谢礼吧，讴歌终结之物用它来感谢无数次跨越了终极的冒险者。",
+  "zh-TW": "藍羽猞猁是一種由潛能量構成的幻想生物。謳歌終結之物創造了藍羽猞猁，可它被創造出來的目的卻很難確定。或許它只是一份謝禮吧，謳歌終結之物用它來感謝無數次跨越了終極的冒險者。"
+ },
+ "megashiba": {
+  "en": "Summon forth your megashiba mount—fluffy, living proof that massive can still be adorable.",
+  "ja": "大柴犬に騎乗する。 すくすくと育って大きくなった柴犬の成犬",
+  "zh-CN": "曾经有一些黑心商人，把柴犬的幼犬当做不会长大的豆豆柴四处贩卖。等到受骗上当的冒险者反应过来，“豆豆柴”已经长成了这般英武的大狗。不过，无论小狗长到了多大，冒险者对它的爱都没有丝毫变化。倒不如说，正因为它长得这么大了，才好让“大大柴”成为自己的坐骑一起冒险。",
+  "zh-TW": "曾經有一些黑心商人，把柴犬的幼犬當做不會長大的豆豆柴四處販賣。等到受騙上當的冒險者反應過來，“豆豆柴”已經長成了這般英武的大狗。不過，無論小狗長到了多大，冒險者對它的愛都沒有絲毫變化。倒不如說，正因爲它長得這麼大了，纔好讓“大大柴”成爲自己的坐騎一起冒險。"
+ },
+ "traveling-supporter": {
+  "en": "Summon forth your traveling supporter. Proof that there is nothing a pair of bunny ears can't improve.",
+  "ja": "トラベリングサポーターに騎乗する。 高度なテクノロジーが用いられた二足歩行機械",
+  "zh-CN": "利用了高科技制造的二足步行协助机。城邦军事同盟的物资筹集人员在加尔提诺平原发现了四处彷徨的该机体并将其回收。虽然外表酷似古代亚拉戈文明的机械步兵，但通过观察能发现它曾被人改造过的痕迹。",
+  "zh-TW": "利用了高科技製造的二足步行協助機。城邦軍事同盟的物資籌集人員在加爾提諾平原發現了四處彷徨的該機體並將其回收。雖然外表酷似古代亞拉戈文明的機械步兵，但通過觀察能發現它曾被人改造過的痕跡。"
+ },
+ "miw-miisv": {
+  "en": "Summon forth Miw Miisv, living proof that hope springs eternal—and in unexpected shapes.",
+  "ja": "ミゥ・ミーシュに騎乗する。 ウルティマ・トゥーレで生まれた新生命体。希望の申し子",
+  "zh-CN": "缪·缪咻是生活在新星至福乐土的潜能量生命体。它诞生于异亚族的思想之中，有着水母般的半透明肉体，并拥有驱使发射闪电的能力。有着旺盛好奇心的缪·缪咻使用心中的小宇宙与其他生命接触、交流思想时，似乎能获得无比纯粹的喜悦。",
+  "zh-TW": "繆·繆咻是生活在新星至福樂土的潛能量生命體。它誕生於異亞族的思想之中，有着水母般的半透明肉體，並擁有驅使發射閃電的能力。有着旺盛好奇心的繆·繆咻使用心中的小宇宙與其他生命接觸、交流思想時，似乎能獲得無比純粹的喜悅。"
+ },
+ "wondrous-lanner": {
+  "en": "Summon forth your wondrous lanner, a proud bird with a fondness for fantastical tales.",
+  "ja": "ワンダラスラナーに騎乗する。 ある女商人に祝福された大隼。空想帳の物語が好きらしい",
+  "zh-CN": "受到了商人“罗薇娜”的祝福，过着非常奢侈生活的大隼。能够听懂人话的它每天最期待的就是库洛·阿里亚珀讲的故事了。幻奇猎鹰自诩为故事中那位英雄的搭档，和它有着同样境遇的妖马英西塔土斯被它视为争夺这个位置的有力对手。",
+  "zh-TW": "受到了商人“羅薇娜”的祝福，過着非常奢侈生活的大隼。能夠聽懂人話的它每天最期待的就是庫洛·阿里亞珀講的故事了。幻奇獵鷹自詡爲故事中那位英雄的搭檔，和它有着同樣境遇的妖馬英西塔土斯被它視爲爭奪這個位置的有力對手。"
+ },
+ "magicked-umbrella": {
+  "en": "Summon forth your magicked umbrella to whisk you off your feet in the most delightful way.",
+  "ja": "マジックアンブレラに騎乗する。 ある魔女が造り出した魔法の空飛ぶ雨傘",
+  "zh-CN": "某位年事已高的魔女年轻时制作的飞天魔伞。当时她为方便潜入封闭的迦巴勒幻想图书馆，特意选用了能与夜色融为一体的黑色雨伞进行创作。看来这位魔女在年轻时就已经是现在这般充满叛逆的性格了。",
+  "zh-TW": "某位年事已高的魔女年輕時製作的飛天魔傘。當時她爲方便潛入封閉的迦巴勒幻想圖書館，特意選用了能與夜色融爲一體的黑色雨傘進行創作。看來這位魔女在年輕時就已經是現在這般充滿叛逆的性格了。"
+ },
+ "magicked-parasol": {
+  "en": "Summon forth your magicked parasol, and have the whole world at your feet.",
+  "ja": "マジックパラソルに騎乗する。 ある魔女が造り出した魔法の空飛ぶ日傘",
+  "zh-CN": "某位年事已高的魔女年轻时制作的飞天魔伞。当时她为了赚取魔法研究经费，特意选用了时下流行的粉色阳伞进行创作。可惜由于需要优秀的魔力和握力才能掌控这把伞飞行，她没能如愿以偿。",
+  "zh-TW": "某位年事已高的魔女年輕時製作的飛天魔傘。當時她爲了賺取魔法研究經費，特意選用了時下流行的粉色陽傘進行創作。可惜由於需要優秀的魔力和握力才能掌控這把傘飛行，她沒能如願以償。"
+ },
+ "starlight-steed": {
+  "en": "Summon forth your Starlight steed, which, despite being an illusion, can bring very real joy to one and all.",
+  "ja": "ミラージュ・ブリッツェンに騎乗する。 ブリッツェンが紡いだ幻影のトナカイ。人々に歓びをもたらす",
+  "zh-CN": "来自萨雷安的驯鹿闪电为了心意相通的冒险者创造的幻象。无论是外形细节，还是给孩子们创造礼物幻影的能力，每一处都与原型一模一样。这莫非也是星芒节奇迹的一部分？",
+  "zh-TW": "來自薩雷安的馴鹿閃電爲了心意相通的冒險者創造的幻象。無論是外形細節，還是給孩子們創造禮物幻影的能力，每一處都與原型一模一樣。這莫非也是星芒節奇蹟的一部分？"
+ },
+ "silkie": {
+  "en": "Summon forth your silkie mount. Because cleanliness is next to cuteness.",
+  "ja": "シルキーに騎乗する。 かつてウルダハ王宮で用いられていた、お掃除使い魔",
+  "zh-CN": "冒险者在希拉狄哈水道的深处发现了这只神秘的魔法生物。羽衣精其实是已故的娜娜夏·乌尔·娜夏王妃创造的使魔，喜爱干净的王妃还在世时，总会指派羽衣精打扫乌尔达哈王宫的角角落落。又及，羽衣精身后的那个绒球才是它本体。",
+  "zh-TW": "冒險者在希拉狄哈水道的深處發現了這隻神祕的魔法生物。羽衣精其實是已故的娜娜夏·烏爾·娜夏王妃創造的使魔，喜愛乾淨的王妃還在世時，總會指派羽衣精打掃烏爾達哈王宮的角角落落。又及，羽衣精身後的那個絨球纔是它本體。"
+ },
+ "sunforged": {
+  "en": "Summon forth your sunforged. Its searing flames consume all—with the exception of its owner, thankfully.",
+  "ja": "炎霊獣に騎乗する。 ヘファイストスが創造した炎の幻想生物。その炎は主を焼かない",
+  "zh-CN": "赫淮斯托斯创造的火炎幻想生物。炎灵兽的体内包含了“飞蛇”和“不死鸟”两种幻想生物的理念，能够根据所处位置的不同改变自己的形态适应当前状态。它的火焰从不会伤害到被它视为主人的生物。",
+  "zh-TW": "赫淮斯托斯創造的火炎幻想生物。炎靈獸的體內包含了“飛蛇”和“不死鳥”兩種幻想生物的理念，能夠根據所處位置的不同改變自己的形態適應當前狀態。它的火焰從不會傷害到被它視爲主人的生物。"
+ },
+ "lynx-of-imperious-wind": {
+  "en": "Summon forth your lynx of imperious wind, which could be what a certain tempestuous archfiend might look like as a large, winged feline.",
+  "ja": "リンクス・オブ・ウィンドに騎乗する。 妖しき風属性のエーテルを帯びた幻想生物",
+  "zh-CN": "煞风猞猁是一种由以太构成的幻想生物，具有接近暗属性的风属性之力。它煞气腾腾的翅膀很容易让人联想到虚无界妖异使用的力量。尽管如此，这些信息并不能帮助人们弄明白是什么人创造了这种使魔。",
+  "zh-TW": "煞風猞猁是一種由以太構成的幻想生物，具有接近暗屬性的風屬性之力。它煞氣騰騰的翅膀很容易讓人聯想到虛無界妖異使用的力量。儘管如此，這些信息並不能幫助人們弄明白是什麼人創造了這種使魔。"
+ },
+ "aeturna": {
+  "en": "Summon forth the aeturna, an imposing feline that boasts far more than the standard nine lives.",
+  "ja": "アエテルナエに騎乗する。 生命力が非常に強い古代アラグの軍用獣",
+  "zh-CN": "尚且年轻，刚刚踏上征途的始皇帝赞德在远征伊尔萨巴德途中遇到的野兽。以“永恒”为名的猛兽拥有极强的生命力，成为军用兽的它不止披上了铠甲，还曾被用于不死化研究。",
+  "zh-TW": "尚且年輕，剛剛踏上征途的始皇帝贊德在遠征伊爾薩巴德途中遇到的野獸。以“永恆”爲名的猛獸擁有極強的生命力，成爲軍用獸的它不止披上了鎧甲，還曾被用於不死化研究。"
+ },
+ "set-of-ceruleum-balloons": {
+  "en": "Summon forth your set of ceruleum balloons. Propulsion not included.",
+  "ja": "セルリウム・バルーンに騎乗する。 気化した青燐水を充填した飛行用風船",
+  "zh-CN": "充满了汽化青磷水的飞行气球。只要数量够多，产生足够的浮力，带着一个人飘起来也不算是难事。真正困难的是要让它往你需要的方向飞行，这时候就只能靠冒险者自己用魔力引起微风吹动气球前进了。",
+  "zh-TW": "充滿了汽化青磷水的飛行氣球。只要數量夠多，產生足夠的浮力，帶着一個人飄起來也不算是難事。真正困難的是要讓它往你需要的方向飛行，這時候就只能靠冒險者自己用魔力引起微風吹動氣球前進了。"
+ },
+ "anden-iii": {
+  "en": "Summon forth Anden III. It has a mouth, but it cannot scream.",
+  "ja": "アンデンIII世に騎乗する。 ガサガサと葉を揺らして動く、謎の移動性植物",
+  "zh-CN": "为了报答冒险者，仙子族的艾奥·提儿准备了这只充满了谜团的可动植物作为礼物送给了冒险者。艾奥·提儿在修剪初代安登的时候，留下了一些枝叶，他悉心照料了这堆草叶一阵子之后，草叶竟然活了过来，变成了这个安登三世。从外观上来看，安登三世和原先的安登几乎一模一样。",
+  "zh-TW": "爲了報答冒險者，仙子族的艾奧·提兒準備了這隻充滿了謎團的可動植物作爲禮物送給了冒險者。艾奧·提兒在修剪初代安登的時候，留下了一些枝葉，他悉心照料了這堆草葉一陣子之後，草葉竟然活了過來，變成了這個安登三世。從外觀上來看，安登三世和原先的安登幾乎一模一樣。"
+ },
+ "blackjack": {
+  "en": "Summon forth the *Blackjack*, or rather, its scale prototype. Exactly where inside it you ride is a mystery best left unanswered.",
+  "ja": "ブラックジャック号に騎乗する。 ガーロンド・アイアンワークス社が建造した試作型飛空艇",
+  "zh-CN": "加隆德炼铁厂制造的试验型飞空艇，是在正式制造高风飞行社的社长塔塔巴鲁订购的新型飞空艇之前，制作的缩比模型试验机。虽说这艘飞空艇的体型不大，运输能力却是有保证的。",
+  "zh-TW": "加隆德煉鐵廠製造的試驗型飛空艇，是在正式製造高風飛行社的社長塔塔巴魯訂購的新型飛空艇之前，製作的縮比模型試驗機。雖說這艘飛空艇的體型不大，運輸能力卻是有保證的。"
+ },
+ "phaethon": {
+  "en": "Summon forth fiery Phaethon, a legendary beast of Corvosi myth.",
+  "ja": "ファエトンに騎乗する。 コルヴォ地方で語り継がれてきた炎の幻獣",
+  "zh-CN": "科尔沃地区传说中的火焰幻兽。本来身上带有只要靠近就会被灼伤的高温，但炼金术的应用成功将它变成了能够骑乘的坐骑。据说，当初古代人创造与法厄同十分相似的生物时，是为了寻找一种能牵引着马车奔行于天空中的驼兽，但现在谁也没法断定这个传说是真是假了。",
+  "zh-TW": "科爾沃地區傳說中的火焰幻獸。本來身上帶有隻要靠近就會被灼傷的高溫，但鍊金術的應用成功將它變成了能夠騎乘的坐騎。據說，當初古代人創造與法厄同十分相似的生物時，是爲了尋找一種能牽引着馬車奔行於天空中的駝獸，但現在誰也沒法斷定這個傳說是真是假了。"
+ },
+ "pinky": {
+  "en": "Summon forth Pinky, an elephantine machine engineered to enrapture.",
+  "ja": "ピンキーに騎乗する。 ヒトの幸せを願って、レポリットが造ったピンク色の象型マシン",
+  "zh-CN": "兔兔族们怀揣着对人类幸福的祈愿，制作出来的粉色象型机器坐骑。萨雷安人提到“醉酒状态的人类会看见粉色大象的幻影”时本来只是在开玩笑，谁曾想被兔兔族们当了真，他们竟然因此而创造出了如此怪异的作品。",
+  "zh-TW": "兔兔族們懷揣着對人類幸福的祈願，製作出來的粉色象型機器坐騎。薩雷安人提到“醉酒狀態的人類會看見粉色大象的幻影”時本來只是在開玩笑，誰曾想被兔兔族們當了真，他們竟然因此而創造出瞭如此怪異的作品。"
+ },
+ "lynx-of-righteous-fire": {
+  "en": "Summon forth your lynx of righteous fire, which could be what a certain honor-bound archfiend might look like as a large, winged feline.",
+  "ja": "リンクス・オブ・ファイアに騎乗する。 妖しき火属性のエーテルを帯びた幻想生物",
+  "zh-CN": "炀火猞猁是一种由以太构成的幻想生物，具有接近暗属性的火属性之力。它不止有着狰狞可怖的妖异一般的一面，从它的身上同样也能感受到高洁武人身上才有的自信，尽管如此，这些信息并不能帮助人们弄明白是什么人创造了这种使魔。",
+  "zh-TW": "煬火猞猁是一種由以太構成的幻想生物，具有接近暗屬性的火屬性之力。它不止有着猙獰可怖的妖異一般的一面，從它的身上同樣也能感受到高潔武人身上纔有的自信，儘管如此，這些信息並不能幫助人們弄明白是什麼人創造了這種使魔。"
+ },
+ "magitek-avenger-g1": {
+  "en": "Call into battle your magitek avenger G1, an imperial warmachina made gaudier by goblin hands.",
+  "ja": "魔導アヴェンジャー黄金像仕様に騎乗する。 ゴブリン族が改良した帝国製無人魔導兵器",
+  "zh-CN": "哥布林族改良的帝国制无人魔导兵器。在加雷马帝国的首都有一座纯金制成的大脚巨猿雕像，在那些不知所谓的坊间传闻中，只要有敌人袭击帝国首都，雕像里就会冒出各种各样的魔导兵器还击……总之，这台魔导兵器的原型就是那座黄金像。",
+  "zh-TW": "哥布林族改良的帝國制無人魔導兵器。在加雷馬帝國的首都有一座純金製成的大腳巨猿雕像，在那些不知所謂的坊間傳聞中，只要有敵人襲擊帝國首都，雕像裏就會冒出各種各樣的魔導兵器還擊……總之，這臺魔導兵器的原型就是那座黃金像。"
+ },
+ "chrysomallos": {
+  "en": "Summon forth Chrysomallos, the golden ram of legend—though legend doesn't seem to say anything about illusory coins spilling forth endlessly...",
+  "ja": "クリュソマロスに騎乗する。 金色の毛並みを持つ白羊。もはや、それは金羊である",
+  "zh-CN": "柔软、蓬松、完美的白色羊毛，本该有这些特征的绵羊不知为何长出了黄金般璀璨的金色羊毛。出售绵羊的人声称这就是传说中的“金羊毛的羊”，可要想验证他的话，就只有等一年过去，羊的身上长出新毛之后，才能见分晓了。",
+  "zh-TW": "柔軟、蓬鬆、完美的白色羊毛，本該有這些特徵的綿羊不知爲何長出了黃金般璀璨的金色羊毛。出售綿羊的人聲稱這就是傳說中的“金羊毛的羊”，可要想驗證他的話，就只有等一年過去，羊的身上長出新毛之後，才能見分曉了。"
+ },
+ "garlond-gl-is": {
+  "en": "Summon forth your Garlond GL-IS. Fitted with a sidecar to carry a trusty sidekick.",
+  "ja": "ガーロンドGL-ISに騎乗する。 ガーロンド・アイアンワークス社が試作した側車付き魔導二輪車",
+  "zh-CN": "为加隆德炼铁厂试做的魔导两轮车GL-I添加了侧斗供双人乘坐的型号。为了对应增加的重量，因此还增大了青磷引擎的排量。现在立刻购入的话，还赠送魏吉亲手制作的吉祥物人偶。",
+  "zh-TW": "爲加隆德煉鐵廠試做的魔導兩輪車GL-I添加了側鬥供雙人乘坐的型號。爲了對應增加的重量，因此還增大了青磷引擎的排量。現在立刻購入的話，還贈送魏吉親手製作的吉祥物人偶。"
+ },
+ "megaloambystoma": {
+  "en": "Summon forth your megaloambystoma. Or should that be *max*olotl? You decide.",
+  "ja": "メガロアンビストマに騎乗する。 驚くほど大きく育ったアンビストマ",
+  "zh-CN": "过度成长到令人惊讶的钝口螈。因背部带有鞍座，所以应该是被作为骑乘兽创造出来的。只不过鉴于它是从万魔殿中被人发现的，也就意味着它有着足以被判定为失败作的缺陷。",
+  "zh-TW": "過度成長到令人驚訝的鈍口螈。因背部帶有鞍座，所以應該是被作爲騎乘獸創造出來的。只不過鑑於它是從萬魔殿中被人發現的，也就意味着它有着足以被判定爲失敗作的缺陷。"
+ },
+ "rising-phoenix": {
+  "en": "Summon forth your Rising Phoenix, a symbol of rebirth and gratitude both.",
+  "ja": "リボーン・フェニックスに騎乗する。 光の戦士に対する感謝を込めて紡がれた不死鳥型使い魔",
+  "zh-CN": "饱含对光之战士的感谢之意交织出的不死鸟型使魔。它的样子就像是艾欧泽亚各地传承中登场的不死鸟一样。据传说在其死亡之际会发出炽热的火焰燃烧自己，最终从灰烬中复生，因此它也被人们看做是新生的象征。",
+  "zh-TW": "飽含對光之戰士的感謝之意交織出的不死鳥型使魔。它的樣子就像是艾歐澤亞各地傳承中登場的不死鳥一樣。據傳說在其死亡之際會發出熾熱的火焰燃燒自己，最終從灰燼中復生，因此它也被人們看做是新生的象徵。"
+ },
+ "burabura-chochin": {
+  "en": "Summon forth your burabura chochin, a kindred spirit in wandering.",
+  "ja": "ブラブラに騎乗する。 六根山からついてきた提灯の怪異",
+  "zh-CN": "六根山是妖魔横行的魔境的同时，也是妖怪提灯荡悠悠的故乡。它出生于饿虎之蹊，却终日无所事事从不袭击人类，有一天四下闲逛的荡悠悠遇到了四处转悠的冒险者，看对方十分顺眼的荡悠悠当即决定随着冒险者下山。风向哪里吹，我就向哪里走，这便是它优哉游哉的生存之道。",
+  "zh-TW": "六根山是妖魔橫行的魔境的同時，也是妖怪提燈盪悠悠的故鄉。它出生於餓虎之蹊，卻終日無所事事從不襲擊人類，有一天四下閒逛的盪悠悠遇到了四處轉悠的冒險者，看對方十分順眼的盪悠悠當即決定隨着冒險者下山。風向哪裏吹，我就向哪裏走，這便是它優哉遊哉的生存之道。"
+ },
+ "shishioji": {
+  "en": "Summon forth Shishioji, a prince who just can't wait to be king (again).",
+  "ja": "獅子王子に騎乗する。 瑞獣ヌエの王とも言われる怪異「獅子王」の分体",
+  "zh-CN": "据说妖怪狮子王曾是瑞兽奴延们的王，狮子王子便是这个妖怪的分身。在讨伐狮子王的过程中，有一部分的邪气从它的本体上掉落了下来，形成了这个分身。但与本体不同的是，有着自己思想的狮子王子认可了冒险者的强大，决定奉冒险者为自己的主人。",
+  "zh-TW": "據說妖怪獅子王曾是瑞獸奴延們的王，獅子王子便是這個妖怪的分身。在討伐獅子王的過程中，有一部分的邪氣從它的本體上掉落了下來，形成了這個分身。但與本體不同的是，有着自己思想的獅子王子認可了冒險者的強大，決定奉冒險者爲自己的主人。"
+ },
+ "shadow-wolf": {
+  "en": "Summon forth your shadow wolf, a nightmare creature that could only be dreamed up by the darkest of souls.",
+  "ja": "影の狼に騎乗する。 漆黒の影から生まれた魔狼",
+  "zh-CN": "从漆黑之影中诞生的魔狼。传闻过去曾打算支配世界的邪恶之王为了应对与英雄的战斗而创造出来的生物，详情不明。它眼中却对光之战士没有任何憎恨的情感，表现得十分顺从。",
+  "zh-TW": "從漆黑之影中誕生的魔狼。傳聞過去曾打算支配世界的邪惡之王爲了應對與英雄的戰鬥而創造出來的生物，詳情不明。它眼中卻對光之戰士沒有任何憎恨的情感，表現得十分順從。"
+ },
+ "lynx-of-fallen-shadow": {
+  "en": "Summon forth your lynx of fallen shadow, which is what a certain knight in black might look like as a large, winged feline.",
+  "ja": "リンクス・オブ・ダークネスに騎乗する。 闇属性のエーテルを帯びた幻想生物",
+  "zh-CN": "暗影猞猁是一种由以太构成的幻想生物，具有暗属性之力。从它身上的光辉能感受到悲壮的决心，尽管如此，这些信息并不能帮助人们弄明白是什么人创造了这种使魔。",
+  "zh-TW": "暗影猞猁是一種由以太構成的幻想生物，具有暗屬性之力。從它身上的光輝能感受到悲壯的決心，儘管如此，這些信息並不能幫助人們弄明白是什麼人創造了這種使魔。"
+ },
+ "torgal": {
+  "en": "Summon forth Torgal, a trusty hound inspired by the trusty hound inspired by the memories of the actual trusty hound.",
+  "ja": "トルガルに騎乗する。 どんな過酷な旅路にも付き添う心強き相棒",
+  "zh-CN": "克莱夫的伙伴，随着克莱夫记忆的恢复而出现，是指引他回家的引路者。异国的诗人在看到其身影后借助魔笛的力量创造出了这个托加尔。今后无论是什么样的荆棘前路，它都会常伴在光之战士的身旁。",
+  "zh-TW": "克萊夫的夥伴，隨着克萊夫記憶的恢復而出現，是指引他回家的引路者。異國的詩人在看到其身影后藉助魔笛的力量創造出了這個託加爾。今後無論是什麼樣的荊棘前路，它都會常伴在光之戰士的身旁。"
+ },
+ "ark": {
+  "en": "Summon forth your Ark, a bipedal warmachina disguised as an airship—or an airship disguised as a bipedal warmachina, if you prefer.",
+  "ja": "アークに騎乗する。 可変機能を備えた魔導仕掛けの小型飛空艇",
+  "zh-CN": "加隆德炼铁厂开发的小型可变形飞空艇。通过与曾隶属于青蓝之手的科学家合作，成功实现了由人形射击形态切换为战舰形射击形态的变形功能。",
+  "zh-TW": "加隆德煉鐵廠開發的小型可變形飛空艇。通過與曾隸屬於青藍之手的科學家合作，成功實現了由人形射擊形態切換爲戰艦形射擊形態的變形功能。"
+ },
+ "apocryphal-bahamut": {
+  "en": "Summon forth your apocryphal Bahamut, an embodiment of the fallen wyrm's burning desire to be free...and apparently carry you on a sofa.",
+  "ja": "バハムート・アポクリファに騎乗する。 知られざる竜詩をもとに紡がれた、新たな翼",
+  "zh-CN": "以海姆达尔级观察艇记录的巴哈姆特的龙诗以太波形为蓝本，冒险者以及歌鸣威将思念注入到魔笛当中形成的魔法生物。为了能够在无尽的天空翱翔，将无拘无束的冒险者认作了主人。",
+  "zh-TW": "以海姆達爾級觀察艇記錄的巴哈姆特的龍詩以太波形爲藍本，冒險者以及歌鳴威將思念注入到魔笛當中形成的魔法生物。爲了能夠在無盡的天空翱翔，將無拘無束的冒險者認作了主人。"
+ },
+ "crescent-moon": {
+  "en": "Summon forth your crescent moon mount. By all accounts more comfortable to perch upon than one shaped like a full moon.",
+  "ja": "クレセントムーンに騎乗する。 優しげに輝く魔法仕掛けの三日月形ゴンドラ",
+  "zh-CN": "在旧萨雷安仓库内保管的被分类为赠与品的弦月形魔法浮空座椅。虽然赠与者的名字未被公开，不过从附属的魔法人偶来看，还是能大概推测出赠与者的身份。",
+  "zh-TW": "在舊薩雷安倉庫內保管的被分類爲贈與品的弦月形魔法浮空座椅。雖然贈與者的名字未被公開，不過從附屬的魔法人偶來看，還是能大概推測出贈與者的身份。"
+ },
+ "rhiyes": {
+  "en": "Summon forth your Rhiyes, a vibrantly hued mechanical rhinoceros that can't say no to terrorizing the Beans of Blunderville.",
+  "ja": "ライエスに騎乗する。 障害として設計された機械仕掛けのサイ",
+  "zh-CN": "作为金碟巨豆中心的障碍而设计的机械犀牛。凭借着强大的动力，至今阻碍了无数糖豆人们前进的步伐。不过此次作为纪念品开始协助冒险者前进。",
+  "zh-TW": "作爲金碟巨豆中心的障礙而設計的機械犀牛。憑藉着強大的動力，至今阻礙了無數糖豆人們前進的步伐。不過此次作爲紀念品開始協助冒險者前進。"
+ },
+ "oppressor": {
+  "en": "Summon your oppressor mount, a weapon of war-turned-conveyance of comfort.",
+  "ja": "オプレッサーに騎乗する。 青の手が開発した無人兵器を、騎乗用に改造した機体",
+  "zh-CN": "将青蓝之手开发的无人兵器进行改造后的座驾机体。由于其原本是无人兵器，所以开发者将所有的兵装全部拆除，以腾出坐人的空间。也因此打造出了极为奢侈舒适的内部空间。",
+  "zh-TW": "將青藍之手開發的無人兵器進行改造後的座駕機體。由於其原本是無人兵器，所以開發者將所有的兵裝全部拆除，以騰出坐人的空間。也因此打造出了極爲奢侈舒適的內部空間。"
+ },
+ "lynx-of-abyssal-grief": {
+  "en": "Summon forth your lynx of abyssal grief, which could be what a certain dread voidsent born in the depths of the moon might look like as a large, winged feline.",
+  "ja": "リンクス・オブ・アビスに騎乗する。 赤き月の底で発見された幻想生物",
+  "zh-CN": "深渊猞猁是一种由以太构成的幻想生物，具有第十三世界月球深处的强烈暗属性之力。从它身上的光辉能感受到思乡之念，尽管如此，这些信息并不能帮助人们弄明白是什么人创造了这种使魔。",
+  "zh-TW": "深淵猞猁是一種由以太構成的幻想生物，具有第十三世界月球深處的強烈暗屬性之力。從它身上的光輝能感受到思鄉之念，儘管如此，這些信息並不能幫助人們弄明白是什麼人創造了這種使魔。"
+ },
+ "sabotender-de-la-luna": {
+  "en": "Summon forth your sabotender de la luna mount, a prodigious cactuar raised on a diet of rousing tales.",
+  "ja": "サボテンダー・デラ・ルナに騎乗する。 ある商会主に祝福されたサボテンダー。物語を聞かされて育った",
+  "zh-CN": "受到了商人“罗薇娜”的祝福，过着非常奢侈生活的仙人刺。库洛·阿里亚珀代替懒惰经常忘记浇水的罗薇娜在精心照顾它，并一直为它讲述故事，结果它变成了会发出光芒的奇妙个体。",
+  "zh-TW": "受到了商人“羅薇娜”的祝福，過着非常奢侈生活的仙人刺。庫洛·阿里亞珀代替懶惰經常忘記澆水的羅薇娜在精心照顧它，並一直爲它講述故事，結果它變成了會發出光芒的奇妙個體。"
+ },
+ "spectral-statice": {
+  "en": "Summon forth your spectral Statice, an avatar of the mischief-loving faerie from Aloalo Island.",
+  "ja": "スターチス・ミラージュに騎乗する。 アロアロ島で出会ったはぐれフェアリーの分体",
+  "zh-CN": "喜欢恶作剧的无主小仙女。曾经是某位军事学者的搭档，在其主人死后以太却未消散，一个人度过了漫长的时间。为了打发无聊的时光，于是生成了分身跟在了冒险者身边。",
+  "zh-TW": "喜歡惡作劇的無主小仙女。曾經是某位軍事學者的搭檔，在其主人死後以太卻未消散，一個人度過了漫長的時間。爲了打發無聊的時光，於是生成了分身跟在了冒險者身邊。"
+ },
+ "garlond-gl-iit": {
+  "en": "Summon forth your Garlond GL-IIT, a magitek vehicle equipped with a tiller, and cultivate your isle in style.",
+  "ja": "ガーロンドGL-IITに騎乗する。 ガーロンドGL-IIに、耕運機を接続した開拓仕様トライク",
+  "zh-CN": "加隆德炼铁厂制造的魔导二轮车GL-II连接耕作机后诞生的开拓用三轮车。以青磷引擎为动力，旋转切割刀片，能够简单地耕作荒地，后部也可以用于运人或运货。",
+  "zh-TW": "加隆德煉鐵廠製造的魔導二輪車GL-II連接耕作機後誕生的開拓用三輪車。以青磷引擎爲動力，旋轉切割刀片，能夠簡單地耕作荒地，後部也可以用於運人或運貨。"
+ },
+ "peatie": {
+  "en": "Summon forth Peatie, a goobbue maiden with a soft spot for peach blossoms.",
+  "ja": "ピティーに騎乗する。 桃の花が好きなグゥーブーの女の子",
+  "zh-CN": "在开满桃花的美丽地方茁壮成长的古菩猩猩。它与旅行艺人阿尔德蒙德一起巡回各地，在女儿节上向众多的人们表演了自己的才艺。为了给更多的人带去欢笑，它决定跟随冒险者一起旅行。",
+  "zh-TW": "在開滿桃花的美麗地方茁壯成長的古菩猩猩。它與旅行藝人阿爾德蒙德一起巡迴各地，在女兒節上向衆多的人們表演了自己的才藝。爲了給更多的人帶去歡笑，它決定跟隨冒險者一起旅行。"
+ },
+ "alsvid": {
+  "en": "Summon forth Alsvid, a unicorn whose rainbow hair makes it the rarest of its kind—a veritable unicorn among unicorns.",
+  "ja": "アルスヴィズに騎乗する。 虹の如き毛色を有する珍しいユニコーン",
+  "zh-CN": "毛色如同彩虹般绚烂的稀有独角兽。传说故事中它的使命是成为坐骑，载着象征“太阳”的人奔跑。事实上，最终骑上它的驾驭者确实并非凡人，而是被选中的光之战士。",
+  "zh-TW": "毛色如同彩虹般絢爛的稀有獨角獸。傳說故事中它的使命是成爲坐騎，載着象徵“太陽”的人奔跑。事實上，最終騎上它的駕馭者確實並非凡人，而是被選中的光之戰士。"
+ },
+ "quaqua": {
+  "en": "Summon forth your quaqua, a familiar hailing from the south sea isles that has either a permanent snarl or grin, depending on one's outlook on life.",
+  "ja": "クアクアに騎乗する。 南洋諸島にて確認された巴術由来の使い魔",
+  "zh-CN": "在阿罗阿罗岛遇到的宝物猎人所使役的使魔。源自南洋群岛独自发展而成的秘术，核心使用木材制成。与使用宝石召唤出的宝石兽相比，其历史更加古老久远。",
+  "zh-TW": "在阿羅阿羅島遇到的寶物獵人所使役的使魔。源自南洋羣島獨自發展而成的祕術，核心使用木材製成。與使用寶石召喚出的寶石獸相比，其歷史更加古老久遠。"
+ },
+ "island-peerifool": {
+  "en": "Summon forth your island Peerifool. If anyone asks, it bears no relation whatsoever to a certain malicious rotting vegetable.",
+  "ja": "アイル・ピーリフールに騎乗する。 大きく育ったピーリフール。まだ腐ってはいない！",
+  "zh-CN": "原产于岛外的蔓德拉。曾在贸易船上被当做食材，就在差点被做成菜汤时，抱着赌一赌的心态飞扑进海里，最终漂流到了无人岛。受到了无人岛肥沃的土地以及灿烂阳光的影响，成长得有些过头了……",
+  "zh-TW": "原產於島外的蔓德拉。曾在貿易船上被當做食材，就在差點被做成菜湯時，抱着賭一賭的心態飛撲進海里，最終漂流到了無人島。受到了無人島肥沃的土地以及燦爛陽光的影響，成長得有些過頭了……"
+ },
+ "island-adenium": {
+  "en": "Summon forth your island adenium. Literally a desert rose by another name, and doesn't have much of a scent to brag about.",
+  "ja": "アイル・アデニウムに騎乗する。 大きく育ったアデニウム。いつか広い世界へ！",
+  "zh-CN": "无人岛特有的沙漠玫瑰。原本一直待在蔬菜国家——南蔓德拉帝国茁壮成长，直到某天在沙滩遇到了漂流到岛上的皮里福尔。从皮里福尔那里得知了外面世界的事情后，开始向往有一天可以踏上冒险之旅……",
+  "zh-TW": "無人島特有的沙漠玫瑰。原本一直待在蔬菜國家——南蔓德拉帝國茁壯成長，直到某天在沙灘遇到了漂流到島上的皮裏福爾。從皮裏福爾那裏得知了外面世界的事情後，開始嚮往有一天可以踏上冒險之旅……"
+ },
+ "air-wheeler-a9": {
+  "en": "Summon forth your air-wheeler A9. The lights aren't merely for show and actually make it go.",
+  "ja": "エアスピナーA9に騎乗する。 新生アレクサンドリア連王国製の単座浮行機。武装類は付属しない",
+  "zh-CN": "新生亚历山德里亚联合王国制作的单座浮行机，未搭载武器。它的原理是利用雷转质制作的旋转器将雷电转化成风属性，然后喷射出旋风实现浮空。此外，该机体还被军队采用，但A9型作为民用机体并未搭载武器装备。",
+  "zh-TW": "新生亞歷山德里亞聯合王國製作的單座浮行機，未搭載武器。它的原理是利用雷轉質製作的旋轉器將雷電轉化成風屬性，然後噴射出旋風實現浮空。此外，該機體還被軍隊採用，但A9型作爲民用機體並未搭載武器裝備。"
+ },
+ "alpaca": {
+  "en": "Summon forth your alpaca. Its foul spit is outweighed by its cuteness and utility. Mostly.",
+  "ja": "アルパカに騎乗する。 純白の毛が特徴の四脚獣。唾の臭いはかなりのもの",
+  "zh-CN": "长着一身白毛的四足动物，主要被图拉尔大陆山区的人们作为家畜饲养，体毛可以加工成织物。除此之外，由于其身强体健，也被人们用来骑乘或搬运物品。事实上，在图拉尔大陆，大多数人都知道它是佩鲁佩鲁族旅行卖货时的好帮手。",
+  "zh-TW": "長着一身白毛的四足動物，主要被圖拉爾大陸山區的人們作爲家畜飼養，體毛可以加工成織物。除此之外，由於其身強體健，也被人們用來騎乘或搬運物品。事實上，在圖拉爾大陸，大多數人都知道它是佩魯佩魯族旅行賣貨時的好幫手。"
+ },
+ "wings-of-ruin": {
+  "en": "Manifest your wings of ruin. Rest assured they won't bring destruction wherever they go.",
+  "ja": "ウィング・オブ・ディザスターに騎乗する。 ウォーコー・ラァ・ドーで発見された魔法の翼",
+  "zh-CN": "与幻兽艳翼蛇鸟的翅膀很像的魔法之翼。相传它会自己出现在被它选中的人面前，其来历充满了谜团。不管怎样，想必得到这对翅膀的人将会散发出“拥有生命的天灾”的威严。",
+  "zh-TW": "與幻獸豔翼蛇鳥的翅膀很像的魔法之翼。相傳它會自己出現在被它選中的人面前，其來歷充滿了謎團。不管怎樣，想必得到這對翅膀的人將會散發出“擁有生命的天災”的威嚴。"
+ },
+ "wings-of-resolve": {
+  "en": "Manifest your wings of resolve. Their deep-blue hue exudes the burden of a lost man.",
+  "ja": "ウィング・オブ・リゾルヴに騎乗する。 エバーキープ最上層で発見された魔法の翼",
+  "zh-CN": "在永护塔顶层，武王宝座附近发现的魔法之翼。蓝色鳞片般的羽毛让人联想到奇迹之子佐拉加，其来历充满了谜团。不管怎样，想必得到这对翅膀的人将会散发出“武王”的自信与骄傲吧。",
+  "zh-TW": "在永護塔頂層，武王寶座附近發現的魔法之翼。藍色鱗片般的羽毛讓人聯想到奇蹟之子佐拉加，其來歷充滿了謎團。不管怎樣，想必得到這對翅膀的人將會散發出“武王”的自信與驕傲吧。"
+ },
+ "outrunner": {
+  "en": "Summon forth your outrunner, a rotund machine built by the Alexandrians.",
+  "ja": "アウトランナーに騎乗する。 新生アレクサンドリア連王国製の自律型汎用マシン。表情パターンは意外と豊富",
+  "zh-CN": "新生亚历山德里亚联合王国制作的多功能自控机器。它能清扫设施，也能维护设备，不时还会清除危险生物，是个全能帮手。为了让市民亲近自己，它身体正面的显示屏上能显示出多种滑稽有趣的表情。",
+  "zh-TW": "新生亞歷山德里亞聯合王國製作的多功能自控機器。它能清掃設施，也能維護設備，不時還會清除危險生物，是個全能幫手。爲了讓市民親近自己，它身體正面的顯示屏上能顯示出多種滑稽有趣的表情。"
+ },
+ "mehwapyarra": {
+  "en": "Summon forth your mehwapyarra. As dutiful as it is laid-back.",
+  "ja": "メワピャラに騎乗する。 カピバラの成獣。義理堅い性格らしい",
+  "zh-CN": "曾在夏劳尼荒野旅行的成年水豚。有一天被图拉尔威爪得酷热涅一口吞进了肚子里，但却出乎意料地在肚子里存活了下来。为了报答冒险者的救命之恩，它想要和冒险者一起踏上旅途。",
+  "zh-TW": "曾在夏勞尼荒野旅行的成年水豚。有一天被圖拉爾威爪得酷熱涅一口吞進了肚子裏，但卻出乎意料地在肚子裏存活了下來。爲了報答冒險者的救命之恩，它想要和冒險者一起踏上旅途。"
+ },
+ "monowheel-s1": {
+  "en": "Summon forth your monowheel S1, a bold vehicle fit for a champion of the Arcadion.",
+  "ja": "モノホイールS1に騎乗する。 優れた闘士に与えられるという特別な単輪車",
+  "zh-CN": "阿卡狄亚协会赠送给优秀斗士的奖品。车辆内置了极其复杂的姿态控制程序，协助驾驶者不限场地尽情奔走。不过，由于驾车时控制动作并不容易，车手还是需要练习一段时间才能掌控这辆独轮车。",
+  "zh-TW": "阿卡狄亞協會贈送給優秀鬥士的獎品。車輛內置了極其複雜的姿態控制程序，協助駕駛者不限場地盡情奔走。不過，由於駕車時控制動作並不容易，車手還是需要練習一段時間才能掌控這輛獨輪車。"
+ },
+ "rroneek": {
+  "en": "Summon forth your rroneek. As your trusty steed, this creature can look forward to living to a ripe old age.",
+  "ja": "ロネークに騎乗する。 主にサカ・トラルに棲息する四脚獣",
+  "zh-CN": "栖息在萨卡图拉尔的大型食草动物。角、毛、皮、肉等身上的各种部位均有利用价值，自古便维系着人们的生活。在每个季节都会追着猎物迁徙的脚步一同移动的狩猎部族中，有不少人将犎牛作为祖灵祭拜。",
+  "zh-TW": "棲息在薩卡圖拉爾的大型食草動物。角、毛、皮、肉等身上的各種部位均有利用價值，自古便維繫着人們的生活。在每個季節都會追着獵物遷徙的腳步一同移動的狩獵部族中，有不少人將犎牛作爲祖靈祭拜。"
+ },
+ "ullr": {
+  "en": "Summon forth Ullr, a dragon on the hunt for a musical collaboration.",
+  "ja": "ウッルに騎乗する。 詩竜眷属のドラゴン族。狩猟の中で輝く英傑を好むという",
+  "zh-CN": "喜欢人类的诗龙眷属。它在寻找适合与自己一同编织龙诗之人时，发现了狩猎中大放异彩的英杰。它希望与英杰一起见证更伟大的光辉，于是选择一起踏上了旅途。",
+  "zh-TW": "喜歡人類的詩龍眷屬。它在尋找適合與自己一同編織龍詩之人時，發現了狩獵中大放異彩的英傑。它希望與英傑一起見證更偉大的光輝，於是選擇一起踏上了旅途。"
+ },
+ "qeziigural": {
+  "en": "Summon forth your qeziigural, a winged golem whose name means “gold that flies” in the Mamool Ja tongue.",
+  "ja": "ケジグラーに騎乗する。 マムージャ語で「飛ぶ金」を意味する名の飛行型ゴーレム",
+  "zh-CN": "发现于加加财富天坑的飞行巨像。虽然巨像周身的雕刻看起来是辉鳞族风格，但巨像的本体明显要更为古老。这意味着可能原本是古代尤卡巨人族制造了这尊巨像，后来辉鳞族得到它之后又好好装饰了一番。",
+  "zh-TW": "發現於加加財富天坑的飛行巨像。雖然巨像周身的雕刻看起來是輝鱗族風格，但巨像的本體明顯要更爲古老。這意味着可能原本是古代尤卡巨人族製造了這尊巨像，後來輝鱗族得到它之後又好好裝飾了一番。"
+ },
+ "automatoise": {
+  "en": "Summon forth your automatoise, a weapon of war developed in Origenics.",
+  "ja": "トータスボーグに騎乗する。 オリジェニクスの研究所で開発された陸戦兵器",
+  "zh-CN": "在创生设施的研究所开发出来的陆战兵器。将雷转质做成的强化骨骼和辅助电机装在大型陆龟身上，增强了其防御力和肌肉力量。这种陆龟生来性情温厚，不适合战斗，为此在战斗时需要注入肉食性动物的灵魂，赋予其凶暴的攻击性。",
+  "zh-TW": "在創生設施的研究所開發出來的陸戰兵器。將雷轉質做成的強化骨骼和輔助電機裝在大型陸龜身上，增強了其防禦力和肌肉力量。這種陸龜生來性情溫厚，不適合戰鬥，爲此在戰鬥時需要注入肉食性動物的靈魂，賦予其兇暴的攻擊性。"
+ },
+ "mountain-zu": {
+  "en": "Summon forth your mountain zu, and make ready to quench your thirst for adventure.",
+  "ja": "マウンテンズーに騎乗する。 近東地域の高山に棲息するという希少な怪鳥",
+  "zh-CN": "分布在近东高山地带的怪鸟——祖的近亲。为了驯服这种气性凶暴的怪鸟，拉札罕的炼金术士们研制出了一种特殊的饮料。他们将饮料灌进怪鸟嘴里后，怪鸟身上居然开始散发出清爽的柑橘香味。",
+  "zh-TW": "分佈在近東高山地帶的怪鳥——祖的近親。爲了馴服這種氣性兇暴的怪鳥，拉札罕的鍊金術士們研製出了一種特殊的飲料。他們將飲料灌進怪鳥嘴裏後，怪鳥身上居然開始散發出清爽的柑橘香味。"
+ },
+ "barreltender": {
+  "en": "Summon forth your barreltender, a sabotender possessed of a hulking frame that has earned it its name.",
+  "ja": "バレルテンダーに騎乗する。 サカ・トラルの荒野に生息するマッチョムキムキなサボテンダー",
+  "zh-CN": "栖息在萨卡图拉尔荒野中的仙人刺，浑身肌肉隆隆健硕异常。被某个冒险者打败之后决心踏上修炼之旅。它想用手臂驼着人四处走锻炼臂力，因此急需一位愿意成为负重的骑手。",
+  "zh-TW": "棲息在薩卡圖拉爾荒野中的仙人刺，渾身肌肉隆隆健碩異常。被某個冒險者打敗之後決心踏上修煉之旅。它想用手臂駝着人四處走鍛鍊臂力，因此急需一位願意成爲負重的騎手。"
+ },
+ "eggeater": {
+  "en": "Summon forth your eggeater, an anteater raised on a luxurious diet of eggs.",
+  "ja": "エッグイーターに騎乗する。 ある女商人に祝福されたオオアリクイ。蟻は食べず卵を食べる",
+  "zh-CN": "受到商人罗薇娜的祝福，过着奢靡生活的食蚁兽。野生的食蚁兽一天要吃几万蚂蚁，实在是弄不到足够的食物，只好搅匀了鸡蛋喂它。因祸得福使它熟悉了人类，愿意给信任的人当坐骑，让人坐在自己的背上。",
+  "zh-TW": "受到商人羅薇娜的祝福，過着奢靡生活的食蟻獸。野生的食蟻獸一天要喫幾萬螞蟻，實在是弄不到足夠的食物，只好攪勻了雞蛋餵它。因禍得福使它熟悉了人類，願意給信任的人當坐騎，讓人坐在自己的背上。"
+ },
+ "punutiy": {
+  "en": "Summon forth your punutiy, and delight onlookers to no end with its winsome charm.",
+  "ja": "プヌティーに騎乗する。 トラル旅行公司のマスコットとなった、人懐っこい海獣",
+  "zh-CN": "栖息在尤卡图拉尔的江河湖海沿岸的大型动物。这种动物性格温和稳重，多年以前便被人驯养用来拖曳船只。这一只海牛是个好奇心旺盛的孩子，被施法获得飞行能力之后，它便对旅行充满了兴趣。",
+  "zh-TW": "棲息在尤卡圖拉爾的江河湖海沿岸的大型動物。這種動物性格溫和穩重，多年以前便被人馴養用來拖曳船隻。這一隻海牛是個好奇心旺盛的孩子，被施法獲得飛行能力之後，它便對旅行充滿了興趣。"
+ },
+ "alexandrian-axe-beak": {
+  "en": "Summon forth your Alexandrian axe beak, a reptilian bird favored of the merchant Rowena. Not to be confused with the beast native to Thanalan.",
+  "ja": "アックスビークに騎乗する。 ある女商人に祝福された怪鳥。西方トラル大陸の出身らしい",
+  "zh-CN": "受到了商人“罗薇娜”的祝福，过着非常奢侈生活的怪鸟。有客人想要生活在萨纳兰地区的另一种同名的怪鸟，商人不远万里从西方的图拉尔大陆运来了这只斧喙魔鸟，直到交货时，才发现竟然是个误会。这只鸟也因此没有被交给客人。",
+  "zh-TW": "受到了商人“羅薇娜”的祝福，過着非常奢侈生活的怪鳥。有客人想要生活在薩納蘭地區的另一種同名的怪鳥，商人不遠萬里從西方的圖拉爾大陸運來了這隻斧喙魔鳥，直到交貨時，才發現竟然是個誤會。這隻鳥也因此沒有被交給客人。"
+ },
+ "shroud-of-darkness": {
+  "en": "Summon forth your shroud of Darkness, a lingering sliver of the Cloud of Darkness's eldritch raiment.",
+  "ja": "暗闇の羽衣に騎乗する。 暗闇の雲がまとっていた羽衣の断片",
+  "zh-CN": "暗黑之云披于身体上的羽衣碎片，其上的魔力没有完全消散。让其包裹身体后，身体便会漂浮起来，产生一种身穿高级羊绒的舒适感。然而由于身体周围常伴云雾，环境湿度极高。",
+  "zh-TW": "暗黑之雲披於身體上的羽衣碎片，其上的魔力沒有完全消散。讓其包裹身體後，身體便會漂浮起來，產生一種身穿高級羊絨的舒適感。然而由於身體周圍常伴雲霧，環境溼度極高。"
+ },
+ "dais-of-darkness": {
+  "en": "Summon forth your dais of Darkness. Will not vanish beneath your feet after a set duration.",
+  "ja": "暗黒領域に騎乗する。 暗闇の雲が創り出した領域の一部。長時間乗っても消えない",
+  "zh-CN": "暗黑之云创造的领域的一部分。这块区域曾使无数敌对者坠入暗黑天空，只有得到领域主人的认可才能稳立其上。经过一场激烈的战斗后，领域主人逐渐消散，赢得了胜利的冒险者获得了这片领域的所有权。",
+  "zh-TW": "暗黑之雲創造的領域的一部分。這塊區域曾使無數敵對者墜入暗黑天空，只有得到領域主人的認可才能穩立其上。經過一場激烈的戰鬥後，領域主人逐漸消散，贏得了勝利的冒險者獲得了這片領域的所有權。"
+ },
+ "hovering-hot-pot": {
+  "en": "Summon forth your hovering hot pot. Formerly a ritual cauldron, it now soars the skies while simmering with scrumptious morsels.",
+  "ja": "風火鍋に騎乗する。 天を駆ける火鍋。元は祭器であったらしい",
+  "zh-CN": "很久很久以前，延夏有一位国主遇见了一件奇事。据说，当他使用祭器“鼎”来烹制食物时，鼎突然像是神器风火轮一样飞了起来。自那之后各个时代的统治者又将各种各样的美味投入其中，一边在天空中驰骋，一边享受锅中的美味。",
+  "zh-TW": "很久很久以前，延夏有一位國主遇見了一件奇事。據說，當他使用祭器“鼎”來烹製食物時，鼎突然像是神器風火輪一樣飛了起來。自那之後各個時代的統治者又將各種各樣的美味投入其中，一邊在天空中馳騁，一邊享受鍋中的美味。"
+ },
+ "wings-of-eternity": {
+  "en": "Manifest your wings of eternity. Their luminous green hue exudes the determination of a recreated queen.",
+  "ja": "ウィング・オブ・エターナルに騎乗する。 次元黄道で発見された魔法の翼",
+  "zh-CN": "在与永恒女王决战的地方发现的魔法之翼。庄严的铠甲能让人想起永久人的守护者，其来历充满了谜团。不管怎样，想必得到这对翅膀的人都将会散发出“永恒不灭的女王”的决心与慈爱吧。",
+  "zh-TW": "在與永恆女王決戰的地方發現的魔法之翼。莊嚴的鎧甲能讓人想起永久人的守護者，其來歷充滿了謎團。不管怎樣，想必得到這對翅膀的人都將會散發出“永恆不滅的女王”的決心與慈愛吧。"
+ },
+ "vacuum-suit": {
+  "en": "Summon forth your vacuum suit, and live the dream of piloting a futuristic bipedal machina.",
+  "ja": "パワーローダーに騎乗する。 コスモエクスプローラー計画のために開発された作業用重機",
+  "zh-CN": "专门为宇宙探索计划开发的重型机械。该机型由兔兔族和来自萨雷安及原加雷马帝国的魔导技术员一同设计开发，在操作系统等方面与魔导装甲颇为相似。",
+  "zh-TW": "專門爲宇宙探索計劃開發的重型機械。該機型由兔兔族和來自薩雷安及原加雷馬帝國的魔導技術員一同設計開發，在操作系統等方面與魔導裝甲頗爲相似。"
+ },
+ "venturous-kamuy": {
+  "en": "Summon forth your venturous kamuy, blessed wolf who shall not be bound by such corporeal laws as gravity or aerodynamics.",
+  "ja": "商のカムイに騎乗する。 大商人に保護された大狼。なぜだか天を駆ける",
+  "zh-CN": "著名商人罗薇娜远赴东方进行市场调查时，在当地收养的巨狼。这条狼受到了不知什么的加护，获得了飞行能力。顺带一提，听说在东方，其实有把钱交给小狗，让小狗替主人去远方的神社参拜的传统……",
+  "zh-TW": "著名商人羅薇娜遠赴東方進行市場調查時，在當地收養的巨狼。這條狼受到了不知什麼的加護，獲得了飛行能力。順帶一提，聽說在東方，其實有把錢交給小狗，讓小狗替主人去遠方的神社參拜的傳統……"
+ },
+ "cosmic-countenance": {
+  "en": "Summon forth your cosmic countenance, a Loporrit-designed defense system that serves with a smile—albeit an unsettling one.",
+  "ja": "コスモフェイスに騎乗する。 あなたの暮らしを笑顔で見守る、レポリット製の防衛機構",
+  "zh-CN": "乐园都市笑笑镇的防御设施。设计时的主张是要用那张笑脸与居民相处，用另一边的怒脸应对入侵者。末日现象告一段落后，兴建相关设施的计划也一并撤回，这台装置便被改造成了在日常生活中提供帮助的设备。",
+  "zh-TW": "樂園都市笑笑鎮的防禦設施。設計時的主張是要用那張笑臉與居民相處，用另一邊的怒臉應對入侵者。末日現象告一段落後，興建相關設施的計劃也一併撤回，這臺裝置便被改造成了在日常生活中提供幫助的設備。"
+ },
+ "demon-haul": {
+  "en": "Summon forth your demon haul, a dreaded guardian-turned-mode of transport.",
+  "ja": "デモンズ・タブレットに騎乗する。 血で刻んだ文様により動き出した魔法の石板。おそらく無害",
+  "zh-CN": "通过用血刻下的纹章获得魔力而行动自如的石板。虽说最初被制造出来的目的是想让它成为守卫击退入侵者，但它正中间的内核现在被挖空了，已经没有了害人的能力。拿到它的人随手戴上一试，竟然直接顶着它飘起来了。它就这样变成了坐骑。",
+  "zh-TW": "通過用血刻下的紋章獲得魔力而行動自如的石板。雖說最初被製造出來的目的是想讓它成爲守衛擊退入侵者，但它正中間的內核現在被挖空了，已經沒有了害人的能力。拿到它的人隨手戴上一試，竟然直接頂着它飄起來了。它就這樣變成了坐騎。"
+ },
+ "petalodus": {
+  "en": "Summon forth your petalodus, an ambulatory shark that thinks of you as a friend, not food.",
+  "ja": "ペタロドゥスに騎乗する。 なぜかフレンドリーな二足歩行のサメ",
+  "zh-CN": "用两条腿走路的鲨鱼。海洋城邦尼姆的神话中确实有长了手脚的鲨鱼，但我们无法确定这头鲨鱼和神话之间的联系。鲨鱼这种动物本该十分狰狞凶猛，但这头鲨鱼却展现出了一种认出了老友似的温情。或许是一个新亚种吧，其实要我说，这么多亚种根本毫无意义……",
+  "zh-TW": "用兩條腿走路的鯊魚。海洋城邦尼姆的神話中確實有長了手腳的鯊魚，但我們無法確定這頭鯊魚和神話之間的聯繫。鯊魚這種動物本該十分猙獰兇猛，但這頭鯊魚卻展現出了一種認出了老友似的溫情。或許是一個新亞種吧，其實要我說，這麼多亞種根本毫無意義……"
+ },
+ "snowstreamer": {
+  "en": "Summon forth your snowstreamer. Guaranteed not to inconveniently melt while you are inside.",
+  "ja": "スノウストリーマーに騎乗する。 紫色の衣装で飾られた雪だるま。永久氷晶の力で溶けることがない",
+  "zh-CN": "穿戴紫色服饰的雪人。钻进去之后就可以扮成雪人到处活动了。当有人想要与他人分享自己的冒险经历时，它是一个优秀的听众；当有人想要关注和支持踏上旅途的朋友时，它也会成为绝佳的陪伴。",
+  "zh-TW": "穿戴紫色服飾的雪人。鑽進去之後就可以扮成雪人到處活動了。當有人想要與他人分享自己的冒險經歷時，它是一個優秀的聽衆；當有人想要關注和支持踏上旅途的朋友時，它也會成爲絕佳的陪伴。"
+ },
+ "branchbearer": {
+  "en": "Summon forth your branchbearer. If it looks like a bird, flies like a bird, and cries like a bird, then it...could be a predatorial seedkin disguised as a bird.",
+  "ja": "ブランチベアラーに騎乗する。 ゴクゴルマ農園で活躍する移動性植物。害虫予防はお手のもの",
+  "zh-CN": "拟鸟枝是恒彩农园生态共生系统的一环。能在诸如使用以太放射进行害虫防治等许多方面发挥自己的能力。它们原本是攻击性较强，为了获取营养会主动袭击动物的魔物，但恒彩农园在朵普罗族的高超畜牧饲养技巧下克服了这一困难，将它们转化为了家养的牲畜。",
+  "zh-TW": "擬鳥枝是恆彩農園生態共生系統的一環。能在諸如使用以太放射進行害蟲防治等許多方面發揮自己的能力。它們原本是攻擊性較強，爲了獲取營養會主動襲擊動物的魔物，但恆彩農園在朵普羅族的高超畜牧飼養技巧下克服了這一困難，將它們轉化爲了家養的牲畜。"
+ },
+ "air-wheeler-c9": {
+  "en": "Summon forth your air-wheeler C9, and turn heads all over Solution Nine.",
+  "ja": "エアスピナーC9に騎乗する。 新生アレクサンドリア連王国製の最新型浮行機",
+  "zh-CN": "亚历山德里亚联合王国生产最新款浮行机。地面行驶时使用的六套雷转质车轮组均配备了旋转组件，在地面驾驶性能和飞行性能间取得了前所未有的平衡。在九号解决方案的年轻人眼中是人人憧憬的梦中情车。",
+  "zh-TW": "亞歷山德里亞聯合王國生產最新款浮行機。地面行駛時使用的六套雷轉質車輪組均配備了旋轉組件，在地面駕駛性能和飛行性能間取得了前所未有的平衡。在九號解決方案的年輕人眼中是人人憧憬的夢中情車。"
+ },
+ "ancient-airship": {
+  "en": "Summon your ancient airship, a magic-propelled vessel capable of bearing you and three companions.",
+  "ja": "古式魔道船に騎乗する。 魔法によって浮行する古式の魔道船。合計4人が搭乗可能",
+  "zh-CN": "在新月岛发现的飞行魔法船。与现代飞空艇不同的是，这艘船不需要青磷水，只需要控制风属性的以太施展浮空魔法便可以飞在空中。因为这艘船本质上的动力源是驾驶者，所以乘客太多的话，降落时驾驶者可能难免疲惫。",
+  "zh-TW": "在新月島發現的飛行魔法船。與現代飛空艇不同的是，這艘船不需要青磷水，只需要控制風屬性的以太施展浮空魔法便可以飛在空中。因爲這艘船本質上的動力源是駕駛者，所以乘客太多的話，降落時駕駛者可能難免疲憊。"
+ },
+ "high-mobility-vacuum-suit": {
+  "en": "Summon forth your high mobility vacuum suit, and live the dream of piloting a futuristic bipedal machina.",
+  "ja": "高機動型パワーローダーに騎乗する。 コスモエクスプローラー計画の功労者に与えられる特別な作業用重機",
+  "zh-CN": "专门为宇宙探索计划的突出贡献者提供的特别版重型机械。该机型对机体骨架和主机进行了升级，性能相较普通型号更为优秀，唯一美中不足的是对操作的要求比较高。不过，该型号在熟练的驾驶员中的评价相当好。",
+  "zh-TW": "專門爲宇宙探索計劃的突出貢獻者提供的特別版重型機械。該機型對機體骨架和主機進行了升級，性能相較普通型號更爲優秀，唯一美中不足的是對操作的要求比較高。不過，該型號在熟練的駕駛員中的評價相當好。"
+ },
+ "warp-loader": {
+  "en": "Call into action your warp loader, and bulldoze your way through life.",
+  "ja": "ホイールローダーに騎乗する。 コスモエクスプローラー計画のために作られた作業用重機",
+  "zh-CN": "专门为宇宙探索计划开发的重型工程车。六轮驱动且正面带有铲斗，不管多么崎岖的地面都能以压倒性的力量铲飞行径路线上的障碍物疾驰。兔兔族们非常喜欢这类能四处驰骋的车辆。",
+  "zh-TW": "專門爲宇宙探索計劃開發的重型工程車。六輪驅動且正面帶有鏟斗，不管多麼崎嶇的地面都能以壓倒性的力量鏟飛行徑路線上的障礙物疾馳。兔兔族們非常喜歡這類能四處馳騁的車輛。"
+ },
+ "his-royal-headness-on-parade": {
+  "en": "Summon forth His Royal Headness on Parade, that all may bask in the splendor of a well-formed noggin.",
+  "ja": "ライド・ザ・ナイスヘッドに騎乗する。 とあるテーマパークのマスコットキャラクターとされる何か",
+  "zh-CN": "担任某主题乐园吉祥物的某种生物。绝不容忍任何不漂亮不聪明的脑袋瓜，立志拔掉所有又土又丑的脑袋，愿为此追到天涯海角。被它盯上了的冒险者只好把好脑袋当成了坐骑。只要坐上好脑袋！你也是又好看又机灵的好脑袋同伴啦！",
+  "zh-TW": "擔任某主題樂園吉祥物的某種生物。絕不容忍任何不漂亮不聰明的腦袋瓜，立志拔掉所有又土又醜的腦袋，願爲此追到天涯海角。被它盯上了的冒險者只好把好腦袋當成了坐騎。只要坐上好腦袋！你也是又好看又機靈的好腦袋同伴啦！"
+ },
+ "wings-of-the-knighthood": {
+  "en": "Manifest your wings of the knighthood. Their vibrant red hue exudes the passion of a dutiful knight.",
+  "ja": "ウィング・オブ・ナイトフッドに騎乗する。 旧アレクサンドリア城内で発見された魔法の翼",
+  "zh-CN": "在与守护机关泽莲尼娅决战的地方发现的魔法之翼。覆盖在羽翼上的装甲让人想起曾守护那台兵器的甲胄，其来历充满了谜团。不管怎样，想必得到这对翅膀的人都将会散发出“守护者”的信念吧。",
+  "zh-TW": "在與守護機關澤蓮尼婭決戰的地方發現的魔法之翼。覆蓋在羽翼上的裝甲讓人想起曾守護那臺兵器的甲冑，其來歷充滿了謎團。不管怎樣，想必得到這對翅膀的人都將會散發出“守護者”的信念吧。"
+ },
+ "magitek-slasher": {
+  "en": "Call into battle your magitek slasher. Has been stripped of its blades and is therefore safe to ride.",
+  "ja": "魔導スラッシャーに騎乗する。 百蟲綱の魔物を模した帝国製無人魔導兵器。刃を落としているので安全",
+  "zh-CN": "帝国以百虫纲魔物为原型开发的无人魔导兵器。安装在腕部的刀刃锋利异常，曾是许多与帝国军敌对的兵卒眼中的噩梦。艾欧泽亚同盟军俘虏了这台兵器后拆除了危险的武器，作为载具对外移交出售。",
+  "zh-TW": "帝國以百蟲綱魔物爲原型開發的無人魔導兵器。安裝在腕部的刀刃鋒利異常，曾是許多與帝國軍敵對的兵卒眼中的噩夢。艾歐澤亞同盟軍俘虜了這臺兵器後拆除了危險的武器，作爲載具對外移交出售。"
+ },
+ "vurgar-the-loyal": {
+  "en": "Summon forth Vurgar the Loyal, and give your enemies twenty seconds to comply.",
+  "ja": "岩兵ヴーガーに騎乗する。 ヨカフイ族に伝わる土木用ゴーレム",
+  "zh-CN": "尤卡巨人族祖上传下来的岩兵，说的通俗易懂一些，就是巨像的一种。虽然尤卡巨人族过去曾将这类岩兵当做兵器使用，但图莱尤拉建国之后，为了避嫌就没有再建造过新的岩兵了。又及，它名字里的“伍伽”意思是“身体是石头做的”。",
+  "zh-TW": "尤卡巨人族祖上傳下來的巖兵，說的通俗易懂一些，就是巨像的一種。雖然尤卡巨人族過去曾將這類巖兵當做兵器使用，但圖萊尤拉建國之後，爲了避嫌就沒有再建造過新的巖兵了。又及，它名字裏的“伍伽”意思是“身體是石頭做的”。"
+ },
+ "wanyudo": {
+  "en": "Summon forth your wanyudo, and hold on for dear life as the nightmare rolls on.",
+  "ja": "ワニュウドウに騎乗する。 東方地域で造られる一種の魔法人形",
+  "zh-CN": "东方人制作的一种魔法人偶。外观十分诡异，看起来就像是在牛车的车轮上挂了个面具。制作者采用的原型是当地传说中的一种怪物，传说中只要见到这种怪物就会被夺走灵魂。它原本被用作防御装置，但体力和耐力足够的人也能把它当坐骑。",
+  "zh-TW": "東方人制作的一種魔法人偶。外觀十分詭異，看起來就像是在牛車的車輪上掛了個面具。製作者採用的原型是當地傳說中的一種怪物，傳說中只要見到這種怪物就會被奪走靈魂。它原本被用作防禦裝置，但體力和耐力足夠的人也能把它當坐騎。"
+ },
+ "forgiven-mimicry": {
+  "en": "Summon forth your forgiven mimicry. Not actually a sin eater, so it can be ridden without fear of turning those around you into one.",
+  "ja": "フォーギヴン・ミミクリーに騎乗する。 ピルグリム・トラバースに潜伏していた存在。罪喰いに擬態している",
+  "zh-CN": "潜伏在朝圣交错路内部的生物。乍一看你肯定会以为它是食罪灵，然而实际上，它其实是一种移动性植物。为了在被光吞噬的世界中找到活下来的出路，它学会了拟态成食罪灵，并最终变成了大家现在看到的样子。",
+  "zh-TW": "潛伏在朝聖交錯路內部的生物。乍一看你肯定會以爲它是食罪靈，然而實際上，它其實是一種移動性植物。爲了在被光吞噬的世界中找到活下來的出路，它學會了擬態成食罪靈，並最終變成了大家現在看到的樣子。"
+ },
+ "ambulario": {
+  "en": "Summon forth your Ambulario, and ride in the delightfully fiendish spirit of All Saints' Wake.",
+  "ja": "パンプキンウォーカーに騎乗する。 コンチネンタル・サーカスのダンチョーを模した魔法人形",
+  "zh-CN": "以大陆马戏团的团长为原型制作的魔法人偶。内部刻印着魔法阵，能放出守护天节的糖果或南瓜之类的幻影。另外，敲击头部能传来砰砰的美妙声响。",
+  "zh-TW": "以大陸馬戲團的團長爲原型製作的魔法人偶。內部刻印着魔法陣，能放出守護天節的糖果或南瓜之類的幻影。另外，敲擊頭部能傳來砰砰的美妙聲響。"
+ },
+ "shagcoat-cat": {
+  "en": "Summon forth your shagcoat cat, a gigantic-yet-gentle feline with a penchant for sporting a blue bow tie.",
+  "ja": "シャギーキャットに騎乗する。 トラル大陸原産の巨大猫。青いリボンがお気に入り",
+  "zh-CN": "原产于图拉尔大陆的巨型猫咪。非常聪明并且性格温厚，有“温柔的巨人”之称。只要和它结下足够亲密的关系，就能获得允许骑到它的背上。但是，即使是它也难逃长毛种的宿命，季节变更之时，就是换毛纷飞吞没骑手的时刻。",
+  "zh-TW": "原產於圖拉爾大陸的巨型貓咪。非常聰明並且性格溫厚，有“溫柔的巨人”之稱。只要和它結下足夠親密的關係，就能獲得允許騎到它的背上。但是，即使是它也難逃長毛種的宿命，季節變更之時，就是換毛紛飛吞沒騎手的時刻。"
+ },
+ "seikret": {
+  "en": "Summon forth your Seikret, the steed of choice for serious hunters.",
+  "ja": "セクレトに騎乗する。 ハンターの移動をサポートしてくれる騎乗動物",
+  "zh-CN": "这种骑乘动物载人时也能很好地发挥自己的灵巧和速度，为猎人们的狩猎活动提供了非常便捷的移动方式。除此之外，它们还有着发达的嗅觉，能通过气味追踪猎物到天涯海角，是守护家乡安全时不可或缺的同伴。它们十分亲近人类，被抚摸的时候会使劲把脑袋蹭进人手里。",
+  "zh-TW": "這種騎乘動物載人時也能很好地發揮自己的靈巧和速度，爲獵人們的狩獵活動提供了非常便捷的移動方式。除此之外，它們還有着發達的嗅覺，能通過氣味追蹤獵物到天涯海角，是守護家鄉安全時不可或缺的同伴。它們十分親近人類，被撫摸的時候會使勁把腦袋蹭進人手裏。"
+ },
+ "felyne-support-team-cart": {
+  "en": "Summon forth your Felyne support team cart, safe in the knowledge that there is no reward penalty for riding it.",
+  "ja": "ネコ荷車に騎乗する。 力尽きたハンターを運ぶための荷車。乗っても報酬は減らない",
+  "zh-CN": "为了运送力尽倒下的猎人而设的货车。不论要去的地方有多么危险，只要有人求救，艾露猫都会推着货车跨越千难万险赶过去。据说那边的猎人中有些家伙认为坐一趟猫车是丢了大脸，但一码归一码，我们不一样。",
+  "zh-TW": "爲了運送力盡倒下的獵人而設的貨車。不論要去的地方有多麼危險，只要有人求救，艾露貓都會推着貨車跨越千難萬險趕過去。據說那邊的獵人中有些傢伙認爲坐一趟貓車是丟了大臉，但一碼歸一碼，我們不一樣。"
+ },
+ "yan": {
+  "en": "Summon forth your yan, a sheep spirit whose disarmingly adorable appearance belies its tremendous might.",
+  "ja": "ヤーンに騎乗する。 異界生まれの羊の精霊。こう見えてとてもパワフル",
+  "zh-CN": "诞生于第九世界的绵羊模样的小精灵。人见人爱，可爱无害的小羊在当地的传说中是十分友好的小精灵，只要用钻石就能换来它赐予加护。这一只羊也确实性格温和体贴，乐于展现最让它自豪的能力不说，还愿意跟着你走遍天涯海角冒险。",
+  "zh-TW": "誕生於第九世界的綿羊模樣的小精靈。人見人愛，可愛無害的小羊在當地的傳說中是十分友好的小精靈，只要用鑽石就能換來它賜予加護。這一隻羊也確實性格溫和體貼，樂於展現最讓它自豪的能力不說，還願意跟着你走遍天涯海角冒險。"
+ },
+ "interstellar-dhalmel": {
+  "en": "Summon forth your interstellar dhalmel, and ride it boldly where no dhalmel has gone before.",
+  "ja": "スペースダルメルに騎乗する。 異星環境への適応実験に参加していたダルメル",
+  "zh-CN": "这头长颈驼参加了动物适应异星环境的实验。有一种学说主张长颈驼拥有极高的环境适应力，不论是干燥地区还是空中浮岛，任何土地都能让它们落地生根。既然如此，那宇宙对它来说也不在话下吧！",
+  "zh-TW": "這頭長頸駝參加了動物適應異星環境的實驗。有一種學說主張長頸駝擁有極高的環境適應力，不論是乾燥地區還是空中浮島，任何土地都能讓它們落地生根。既然如此，那宇宙對它來說也不在話下吧！"
+ },
+ "cosmoboard": {
+  "en": "Deploy your cosmoboard, and shred up the cosmos (figuratively) wherever you go.",
+  "ja": "コスモボードに騎乗する。 最新技術によって生み出された浮行式ボード",
+  "zh-CN": "以最新技术开发的浮空滑板。本来是为了在移动设施宇宙飞线上使用而开发的，这一台滑板经过改造，有了内部安装的水晶，不再需要以太飞线，可以无需供能单独使用了。",
+  "zh-TW": "以最新技術開發的浮空滑板。本來是爲了在移動設施宇宙飛線上使用而開發的，這一臺滑板經過改造，有了內部安裝的水晶，不再需要以太飛線，可以無需供能單獨使用了。"
+ },
+ "chandelier-of-first-light": {
+  "en": "Summon forth your chandelier of First Light, and live like tomorrow doesn't exist. Like it doesn't exist.",
+  "ja": "ファーストライト・シャンデリアに騎乗する。 光耀教会式の浮遊灯に、妖精たちが追加のまじないをかけた品",
+  "zh-CN": "设置在光耀教会建筑内的吊灯。人们为了避免吊灯坠落造成死伤对它施加了飘浮魔法，因此会悬浮在半空中。但能飘归能飘，即使是当时的光耀教会相关人员中也绝对不会想到，竟然会有人把吊灯当坐骑，乘着它到处飞来飞去。",
+  "zh-TW": "設置在光耀教會建築內的吊燈。人們爲了避免吊燈墜落造成死傷對它施加了飄浮魔法，因此會懸浮在半空中。但能飄歸能飄，即使是當時的光耀教會相關人員中也絕對不會想到，竟然會有人把吊燈當坐騎，乘着它到處飛來飛去。"
+ },
+ "wings-of-death": {
+  "en": "Manifest your wings of death. Their somber hue exudes a sense of impending doom.",
+  "ja": "ウィング・オブ・デスに騎乗する。 メインターミナルで発見された魔法の翼",
+  "zh-CN": "在中央终端内发现的魔法之翼。灰黑白三色组成的翅膀让人莫名联想到死亡，其来历充满了谜团。无论如何，获得这对翅膀就意味着持有者胸怀足以战胜“对死亡的恐惧”的强大心灵。",
+  "zh-TW": "在中央終端內發現的魔法之翼。灰黑白三色組成的翅膀讓人莫名聯想到死亡，其來歷充滿了謎團。無論如何，獲得這對翅膀就意味着持有者胸懷足以戰勝“對死亡的恐懼”的強大心靈。"
+ },
+ "ornamental-shrublet": {
+  "en": "Summon forth your ornamental shrublet. Seeks either revenge or proliferation or both on its way to a new land.",
+  "ja": "花人に騎乗する。 花人の子株。新天地目指して移動中",
+  "zh-CN": "冒险者在朝圣交错路途中遇到的花人的子株。也不知道是为了要给母株复仇，还是单纯想要把种子播撒到更远的地方，总之它现在赖上了穿梭在朝圣路上的冒险者。",
+  "zh-TW": "冒險者在朝聖交錯路途中遇到的花人的子株。也不知道是爲了要給母株復仇，還是單純想要把種子播撒到更遠的地方，總之它現在賴上了穿梭在朝聖路上的冒險者。"
+ },
+ "interstellar-leafkin": {
+  "en": "Summon forth your interstellar leafkin, and ride it boldly where no leafkin has gone before.",
+  "ja": "スペースリフキンに騎乗する。 異星環境への適応実験に参加していたリフキン",
+  "zh-CN": "为了测试异星环境适应性的实验，这只小叶灵被从故乡一路带到了遥远的奥克塞西亚行星。或许是因为奥克塞西亚的环境确实适合小叶灵生活，它一直长到了破纪录的大小，甚至于能载着人漂浮起来了。",
+  "zh-TW": "爲了測試異星環境適應性的實驗，這隻小葉靈被從故鄉一路帶到了遙遠的奧克塞西亞行星。或許是因爲奧克塞西亞的環境確實適合小葉靈生活，它一直長到了破紀錄的大小，甚至於能載着人漂浮起來了。"
+ },
+ "dynamite": {
+  "en": "Summon forth your dynamite, a soulkin favored of the merchant Rowena. House-trained and should therefore not explode in a fiery conflagration.",
+  "ja": "ダイナマイトに騎乗する。 ある女商人に祝福された呪具綱の魔物",
+  "zh-CN": "从蕴藏了以太的岩石中诞生的咒具纲魔物。商人罗薇娜因为其体内可能含有稀有的宝石把它买了下来后，就交给库洛·阿里亚珀照顾了。后者把它养成了现在这样亲人，愿意载着人当坐骑的样子。",
+  "zh-TW": "從蘊藏了以太的岩石中誕生的咒具綱魔物。商人羅薇娜因爲其體內可能含有稀有的寶石把它買了下來後，就交給庫洛·阿里亞珀照顧了。後者把它養成了現在這樣親人，願意載着人當坐騎的樣子。"
+ },
+ "genie-of-the-lamp": {
+  "en": "Summon forth your genie of the lamp. Not the actual being of legend so cannot grant wishes—unless your wish is to be carried somewhere.",
+  "ja": "ランプの精に騎乗する。 ランプに宿った使い魔。あまり願い事は叶えてくれない",
+  "zh-CN": "寄宿在神灯里的使魔。科尔沃地区有个传说，讲的就是这种神灯里的精灵为持有者实现愿望的故事。不过这盏神灯只是后来的魔法师创造的仿制品，根本没有那么无所不能。它唯一会做的就是根据刻在灯上的术式，耿直地回应主人的愿望，把主人送往各种地方而已。",
+  "zh-TW": "寄宿在神燈裏的使魔。科爾沃地區有個傳說，講的就是這種神燈裏的精靈爲持有者實現願望的故事。不過這盞神燈只是後來的魔法師創造的仿製品，根本沒有那麼無所不能。它唯一會做的就是根據刻在燈上的術式，耿直地回應主人的願望，把主人送往各種地方而已。"
+ },
+ "lowrider-t1rant": {
+  "en": "Call into battle your Lowrider T1RANT, and rule the roads with an iron fist (around the custom leather-bound steering wheel).",
+  "ja": "ローライダーT1に騎乗する。 往年の名車をカスタムしたザ・タイラントの愛車",
+  "zh-CN": "林德布鲁姆生产的旧款浮行机。原本是阿卡狄亚的老板将从祖先那继承来的老爷车，为了霸王的演出需要做了一些改造。这辆车在最新技术的改造支持下重获新生，增加了飞行能力和豪华的内装。",
+  "zh-TW": "林德布魯姆生產的舊款浮行機。原本是阿卡狄亞的老闆將從祖先那繼承來的老爺車，爲了霸王的演出需要做了一些改造。這輛車在最新技術的改造支持下重獲新生，增加了飛行能力和豪華的內裝。"
+ },
+ "uolon": {
+  "en": "Summon forth your uolon, a great big beast that tends the forest with a great big grin.",
+  "ja": "ウォロンに騎乗する。 主にヨカ・トラルの森林地帯で見られる、樹木を愛する巨獣",
+  "zh-CN": "主要分布于尤卡图拉尔东部地区的巨兽，常生活在温暖的森林之中。从博物学角度上，一般认为它们是巨魔和大脚雪人的近亲，它们的智力相当高。有报告称它们能用特殊的舞蹈搭配释放魔力来使植物急速成长，相关信息还有待研究者进一步发掘。",
+  "zh-TW": "主要分佈於尤卡圖拉爾東部地區的巨獸，常生活在溫暖的森林之中。從博物學角度上，一般認爲它們是巨魔和大腳雪人的近親，它們的智力相當高。有報告稱它們能用特殊的舞蹈搭配釋放魔力來使植物急速成長，相關信息還有待研究者進一步發掘。"
+ },
+ "volatile-gravity-vacuum-suit": {
+  "en": "Summon forth your volatile gravity vacuum suit, and live the dream of piloting a futuristic bipedal machina.",
+  "ja": "局地用パワーローダーに騎乗する。 惑星オイジュス用に調整されたパワーローダー",
+  "zh-CN": "专门为宇宙探索计划开发的重型机械。这一台是为了适应俄匊斯的特殊环境专门开发的类型。虽然有一个正式的名字，但工作人员看到它比别的机体大了一号的体型之后，给它起了个昵称，管它叫“胖子”。",
+  "zh-TW": "專門爲宇宙探索計劃開發的重型機械。這一臺是爲了適應俄匊斯的特殊環境專門開發的類型。雖然有一個正式的名字，但工作人員看到它比別的機體大了一號的體型之後，給它起了個暱稱，管它叫“胖子”。"
+ },
+ "cosmic-armored-weapon": {
+  "en": "Call into battle your cosmic armored weapon, a deadly imperial warmachina-turned-handy (leggy?) exploration vehicle.",
+  "ja": "コスモ・アームドウェポンに騎乗する。 惑星探索用に調整した多脚型魔導兵器",
+  "zh-CN": "加雷马帝国开发的魔导兵器“武装重甲”，为了宇宙探索进行了专门改造。因为重心低，腿多，所以稳定性极佳，即使是在重力出现问题的俄匊斯也能给出相当稳定的发挥。",
+  "zh-TW": "加雷馬帝國開發的魔導兵器“武裝重甲”，爲了宇宙探索進行了專門改造。因爲重心低，腿多，所以穩定性極佳，即使是在重力出現問題的俄匊斯也能給出相當穩定的發揮。"
+ },
+ "inflatable-mograft": {
+  "en": "Summon forth your inflatable mograft, a flotation device designed with both relaxation and safety in mind.",
+  "ja": "モーグリフロートに騎乗する。 紅蓮祭の来場客のために作られたフロート",
+  "zh-CN": "红莲节专用的充气浮床。最初的设计目的只是为了让它漂在水上，但后来出现了充气浮床被离岸流卷走的事故。改良后的充气浮床内装满了高纯度的风属性水晶，使用魔法控制即可操作它浮空飞行。",
+  "zh-TW": "紅蓮節專用的充氣浮牀。最初的設計目的只是爲了讓它漂在水上，但後來出現了充氣浮牀被離岸流捲走的事故。改良後的充氣浮牀內裝滿了高純度的風屬性水晶，使用魔法控制即可操作它浮空飛行。"
+ },
+ "wings-of-legacy": {
+  "en": "Manifest your wings of legacy, a spirit of legend said to favor the strong.",
+  "ja": "ウィング・オブ・レガシーに騎乗する。 白金の翼を持つ伝説の精霊",
+  "zh-CN": "迎曦之民传说颂赞的翅膀大灵。据说翅膀大灵会向被它认可的勇者降下试炼，勇者度过难关之时，它便会赐予祝福。这位大灵被视为探索的象征，只有战胜了无数苦难的真英雄，才能获得它的认可，大灵将会出现在英雄的背上，带着英雄展翅飞翔。",
+  "zh-TW": "迎曦之民傳說頌讚的翅膀大靈。據說翅膀大靈會向被它認可的勇者降下試煉，勇者度過難關之時，它便會賜予祝福。這位大靈被視爲探索的象徵，只有戰勝了無數苦難的真英雄，才能獲得它的認可，大靈將會出現在英雄的背上，帶着英雄展翅飛翔。"
+ },
+ "hardy-daytona": {
+  "en": "Call into battle your Hardy-Daytona, a lore-bending battlebike that will have you feeling as though you were playing a minigame.",
+  "ja": "ハーディ＝デイトナに騎乗する。 怪物的な馬力を誇る戦闘バイク",
+  "zh-CN": "拥有怪物般傲人马力的战斗摩托车。这款摩托使用的V型DOH引擎能输出令人惊异的夸张马力，甚至有人因此把这台重型机车比作一头会自己挑选主人的怪物。还有传闻说，这款摩托最初是由一家大公司的兵器部门开发的，但实际上谁也说不清它真正的来历。",
+  "zh-TW": "擁有怪物般傲人馬力的戰鬥摩托車。這款摩托使用的V型DOH引擎能輸出令人驚異的誇張馬力，甚至有人因此把這臺重型機車比作一頭會自己挑選主人的怪物。還有傳聞說，這款摩托最初是由一家大公司的兵器部門開發的，但實際上誰也說不清它真正的來歷。"
+ },
+ "wings-of-mist": {
+  "en": "Manifest your wings of mist. Their eldritch aura exudes an unstoppable resolve.",
+  "ja": "ウィング・オブ・ミストに騎乗する。 鉄馬車線路で発見された魔法の翼",
+  "zh-CN": "在铁马车轨道发现的魔法之翼。装甲与萦绕其上的浓雾让人不由地想起格莱杨拉波尔，其来历充满了谜团。无论如何，获得这对翅膀就意味着持有者胸怀足以奔驰在电闪雷鸣的荒野上永不停歇的“钢铁意志”。",
+  "zh-TW": "在鐵馬車軌道發現的魔法之翼。裝甲與縈繞其上的濃霧讓人不由地想起格萊楊拉波爾，其來歷充滿了謎團。無論如何，獲得這對翅膀就意味着持有者胸懷足以奔馳在電閃雷鳴的荒野上永不停歇的“鋼鐵意志”。"
+ },
+ "rapid-fab-vacuum-suit": {
+  "en": "Summon forth your rapid-fab vacuum suit, and live the dream of piloting a futuristic bipedal machina.",
+  "ja": "量産型パワーローダーに騎乗する。 コスモエクスプローラー計画のために開発された量産型作業用重機",
+  "zh-CN": "专门为宇宙探索计划开发的量产重型机械。为了能降低成本而更改了许多设计，不过最终成品在经过调整后和原型机的性能相差并不大。如今量产机已经成了普通工作人员们常用的坐骑，在宇宙探索的前线发光发热。",
+  "zh-TW": "專門爲宇宙探索計劃開發的量產重型機械。爲了能降低成本而更改了許多設計，不過最終成品在經過調整後和原型機的性能相差並不大。如今量產機已經成了普通工作人員們常用的坐騎，在宇宙探索的前線發光發熱。"
+ },
+ "alert-red-warp-loader": {
+  "en": "Call into action your alert red warp loader, and bulldoze your way through life faster.",
+  "ja": "レッドホイールローダーに騎乗する。 コスモエクスプローラー計画のために作られた赤い作業用重機",
+  "zh-CN": "专门为宇宙探索计划开发的重型工程车，采用了红色的涂装。同样有六轮驱动和正面的铲斗，性能也没什么变化，但不知道为什么，这辆车就是特别受兔兔族喜欢。",
+  "zh-TW": "專門爲宇宙探索計劃開發的重型工程車，採用了紅色的塗裝。同樣有六輪驅動和正面的鏟斗，性能也沒什麼變化，但不知道爲什麼，這輛車就是特別受兔兔族喜歡。"
+ },
+ "royal-magicked-carpet": {
+  "en": "Summon forth your royal magicked carpet, and set forth to see the world shining, shimmering, splendid.",
+  "ja": "ノーブル・マジックカーペットに騎乗する。 コルヴォ地方で織られた、貴人用の空飛ぶ絨毯",
+  "zh-CN": "施了魔法的飞天绒毯。根据科尔沃地区的传说，曾有一位名叫佩莉的仙女与国王相爱，并为爱人制作了能飞的绒毯，然而后来国王却移情别恋，愤怒的佩莉烧毁了一切。有些真真假假的传闻中提及过，这张飞毯是事件当时唯一幸存下来的宝物。",
+  "zh-TW": "施了魔法的飛天絨毯。根據科爾沃地區的傳說，曾有一位名叫佩莉的仙女與國王相愛，併爲愛人制作了能飛的絨毯，然而後來國王卻移情別戀，憤怒的佩莉燒燬了一切。有些真真假假的傳聞中提及過，這張飛毯是事件當時唯一倖存下來的寶物。"
+ },
+ "turali-snowman": {
+  "en": "Summon forth your Turali snowman, and frolic as only Ryoqor Terteh can.",
+  "ja": "トラル・スノーマンに騎乗する。 トラル大陸の山岳部に伝わる「雪の精霊」を模した雪だるま",
+  "zh-CN": "根据图拉尔大陆山岳地区传统的“辽刻特特雪精”形象制作的雪人。内部施加的魔法使得雪人获得了载人的能力。顺带一提，被当成了原型的雪精特别调皮爱玩，时不时就会假扮成雪人跑进人住的村镇里。",
+  "zh-TW": "根據圖拉爾大陸山嶽地區傳統的“遼刻特特雪精”形象製作的雪人。內部施加的魔法使得雪人獲得了載人的能力。順帶一提，被當成了原型的雪精特別調皮愛玩，時不時就會假扮成雪人跑進人住的村鎮裏。"
+ },
+ "rocket-punch": {
+  "en": "Call into action your rocket punch. A ridable rocket that takes the form of a fist—or vice versa, depending on one's philosophy.",
+  "ja": "ロケットパンチに騎乗する。 拳型のロケット、あるいはロケットのようなパンチ",
+  "zh-CN": "加隆德炼铁厂的技术员魏吉先生着手研制的个人飞行器。采访技术员时曾有人问及他为什么采用拳头这种能效不佳的形象，开发者却不愿谈及详细原因和受何启发，只是强调总之就是很强、很卓越、很与众不同。",
+  "zh-TW": "加隆德煉鐵廠的技術員魏吉先生着手研製的個人飛行器。採訪技術員時曾有人問及他爲什麼採用拳頭這種能效不佳的形象，開發者卻不願談及詳細原因和受何啓發，只是強調總之就是很強、很卓越、很與衆不同。"
+ },
+ "cosmic-armored-weapon-beta": {
+  "en": "Call into action your cosmic armored weapon beta. Further enhanced for the Cosmic Exploration Initiative, as its cheery new color scheme would attest.",
+  "ja": "コスモ・アームドウェポン改に騎乗する。 コスモエクスプローラー計画のために製造された作業用重機",
+  "zh-CN": "重型机械宇宙武装重甲的改良版本。背部增加了两处大型储罐后，拥有了大范围喷洒药剂的功能。它为异星的巨型树木成长提供帮助时，看起来就像是一只奇特的益虫。",
+  "zh-TW": "重型機械宇宙武裝重甲的改良版本。背部增加了兩處大型儲罐後，擁有了大範圍噴灑藥劑的功能。它爲異星的巨型樹木成長提供幫助時，看起來就像是一隻奇特的益蟲。"
+ },
+ "cosmic-predator": {
+  "en": "Call into action your cosmic predator, another deadly imperial warmachina adapted for use in the Cosmic Exploration Initiative.",
+  "ja": "コスモ・プレデターに騎乗する。 コスモエクスプローラー計画のために改良された魔導アーマー",
+  "zh-CN": "魔导猎手是擅长近身作战的魔导机甲，经过改造后成了宇宙探索用的重型机械。它灵活的腕部正适合土木工程和搬运工作。这台机甲能投入使用，参与了宇宙探索计划的加雷马技师功不可没。",
+  "zh-TW": "魔導獵手是擅長近身作戰的魔導機甲，經過改造後成了宇宙探索用的重型機械。它靈活的腕部正適合土木工程和搬運工作。這臺機甲能投入使用，參與了宇宙探索計劃的加雷馬技師功不可沒。"
+ },
+ "wings-of-nihility": {
+  "en": "Manifest your wings of nihility. Their unsettling, tendriled form exudes the bottomless obsession of a voidsent sovereign.",
+  "ja": "ウィング・オブ・ニヒリティに騎乗する。 無の領域で発見された魔法の翼",
+  "zh-CN": "在虚无界发现的魔法之翼。这对翅膀来历成谜，羽毛恍若一根根触手，让人一看就感到害怕。不管怎样，获得这对翅膀就意味着持有者胸怀足以挥退“来自虚无的诱惑”的光芒。",
+  "zh-TW": "在虛無界發現的魔法之翼。這對翅膀來歷成謎，羽毛恍若一根根觸手，讓人一看就感到害怕。不管怎樣，獲得這對翅膀就意味着持有者胸懷足以揮退“來自虛無的誘惑”的光芒。"
+ },
+ "excavating-vacuum-suit": {
+  "en": "Summon forth your excavating vacuum suit, and live the dream of piloting a futuristic bipedal machina.",
+  "ja": "掘採型パワーローダーに騎乗する。 惑星パエンナでの作業用に開発された作業用重機",
+  "zh-CN": "专门为宇宙探索计划开发的重型机械。为执行挖掘任务做了特殊改造，开发过程中曾研讨过是否要增加管式打桩机，但后来选择了特殊装置，以吸收法恩娜独有的电离子能源。这让它得以在挖掘时像狂战士那般来去自如。",
+  "zh-TW": "專門爲宇宙探索計劃開發的重型機械。爲執行挖掘任務做了特殊改造，開發過程中曾研討過是否要增加管式打樁機，但後來選擇了特殊裝置，以吸收法恩娜獨有的電離子能源。這讓它得以在挖掘時像狂戰士那般來去自如。"
+ },
+ "carbide-grey-warp-loader": {
+  "en": "Call into action your carbide grey warp loader, and bulldoze your way through life faster.",
+  "ja": "グレーホイールローダーに騎乗する。 コスモエクスプローラー計画のために作られた灰色の作業用重機",
+  "zh-CN": "专门为宇宙探索计划开发的重型工程车。乍一看可能以为只是把轮式工程车涂成了灰色，但实际上是为工程车的驱动部件覆盖了特殊的磁性涂层，降低了部件阻力，提高了车辆的操作应答性。",
+  "zh-TW": "專門爲宇宙探索計劃開發的重型工程車。乍一看可能以爲只是把輪式工程車塗成了灰色，但實際上是爲工程車的驅動部件覆蓋了特殊的磁性塗層，降低了部件阻力，提高了車輛的操作應答性。"
+ }
+}
