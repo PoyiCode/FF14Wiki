@@ -1,0 +1,8 @@
+id: yak-t-el
+category: world
+type: zone
+zone: "Yak T'el"
+region: "Yok Tural"
+related: [yok-tural]
+tags: [zone, region, travel]
+status: stable

@@ -1,0 +1,8 @@
+id: northern-thanalan
+category: world
+type: zone
+zone: "Northern Thanalan"
+region: "Thanalan"
+related: [thanalan]
+tags: [zone, region, travel]
+status: stable

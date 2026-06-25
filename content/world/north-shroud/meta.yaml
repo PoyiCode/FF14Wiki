@@ -1,0 +1,8 @@
+id: north-shroud
+category: world
+type: zone
+zone: "North Shroud"
+region: "The Black Shroud"
+related: [the-black-shroud]
+tags: [zone, region, travel]
+status: stable

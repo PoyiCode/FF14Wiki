@@ -1,0 +1,8 @@
+id: the-churning-mists
+category: world
+type: zone
+zone: "The Churning Mists"
+region: "Dravania"
+related: [dravania]
+tags: [zone, region, travel]
+status: stable

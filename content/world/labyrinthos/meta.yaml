@@ -1,0 +1,8 @@
+id: labyrinthos
+category: world
+type: zone
+zone: "Labyrinthos"
+region: "The Northern Empty"
+related: [the-northern-empty]
+tags: [zone, region, travel]
+status: stable

@@ -1,0 +1,8 @@
+id: the-rak-tika-greatwood
+category: world
+type: zone
+zone: "The Rak'tika Greatwood"
+region: "Norvrandt"
+related: [norvrandt]
+tags: [zone, region, travel]
+status: stable

@@ -1,0 +1,8 @@
+id: thavnair
+category: world
+type: zone
+zone: "Thavnair"
+region: "Ilsabard"
+related: [ilsabard]
+tags: [zone, region, travel]
+status: stable

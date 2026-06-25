@@ -1,0 +1,8 @@
+id: the-peaks
+category: world
+type: zone
+zone: "The Peaks"
+region: "Gyr Abania"
+related: [gyr-abania]
+tags: [zone, region, travel]
+status: stable

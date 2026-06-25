@@ -1,0 +1,7 @@
+id: the-sea-of-clouds
+category: world
+type: zone
+zone: "The Sea of Clouds"
+region: "Abalathia's Spine"
+tags: [zone, region, travel]
+status: stable

@@ -1,0 +1,8 @@
+id: kholusia
+category: world
+type: zone
+zone: "Kholusia"
+region: "Norvrandt"
+related: [norvrandt]
+tags: [zone, region, travel]
+status: stable

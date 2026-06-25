@@ -1,0 +1,8 @@
+id: elpis
+category: world
+type: zone
+zone: "Elpis"
+region: "The World Unsundered"
+related: [the-world-unsundered]
+tags: [zone, region, travel]
+status: stable

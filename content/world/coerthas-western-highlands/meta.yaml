@@ -1,0 +1,8 @@
+id: coerthas-western-highlands
+category: world
+type: zone
+zone: "Coerthas Western Highlands"
+region: "Coerthas"
+related: [coerthas]
+tags: [zone, region, travel]
+status: stable

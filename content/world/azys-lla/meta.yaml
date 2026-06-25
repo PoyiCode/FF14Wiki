@@ -1,0 +1,7 @@
+id: azys-lla
+category: world
+type: zone
+zone: "Azys Lla"
+region: "Abalathia's Spine"
+tags: [zone, region, travel]
+status: stable

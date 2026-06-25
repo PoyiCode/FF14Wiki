@@ -1,0 +1,8 @@
+id: the-fringes
+category: world
+type: zone
+zone: "The Fringes"
+region: "Gyr Abania"
+related: [gyr-abania]
+tags: [zone, region, travel]
+status: stable

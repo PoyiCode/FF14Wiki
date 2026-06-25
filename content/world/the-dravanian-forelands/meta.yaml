@@ -1,0 +1,8 @@
+id: the-dravanian-forelands
+category: world
+type: zone
+zone: "The Dravanian Forelands"
+region: "Dravania"
+related: [dravania]
+tags: [zone, region, travel]
+status: stable

@@ -1,0 +1,8 @@
+id: central-thanalan
+category: world
+type: zone
+zone: "Central Thanalan"
+region: "Thanalan"
+related: [thanalan]
+tags: [zone, region, travel]
+status: stable

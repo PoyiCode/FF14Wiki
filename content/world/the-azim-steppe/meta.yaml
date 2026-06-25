@@ -1,0 +1,8 @@
+id: the-azim-steppe
+category: world
+type: zone
+zone: "The Azim Steppe"
+region: "Othard"
+related: [othard]
+tags: [zone, region, travel]
+status: stable

@@ -1,0 +1,8 @@
+id: garlemald
+category: world
+type: zone
+zone: "Garlemald"
+region: "Ilsabard"
+related: [ilsabard]
+tags: [zone, region, travel]
+status: stable

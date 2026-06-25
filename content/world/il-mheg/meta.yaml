@@ -1,0 +1,8 @@
+id: il-mheg
+category: world
+type: zone
+zone: "Il Mheg"
+region: "Norvrandt"
+related: [norvrandt]
+tags: [zone, region, travel]
+status: stable

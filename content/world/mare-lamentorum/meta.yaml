@@ -1,0 +1,8 @@
+id: mare-lamentorum
+category: world
+type: zone
+zone: "Mare Lamentorum"
+region: "The Sea of Stars"
+related: [the-sea-of-stars]
+tags: [zone, region, travel]
+status: stable

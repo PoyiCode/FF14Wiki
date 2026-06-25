@@ -1,0 +1,8 @@
+id: shaaloani
+category: world
+type: zone
+zone: "Shaaloani"
+region: "Xak Tural"
+related: [xak-tural]
+tags: [zone, region, travel]
+status: stable

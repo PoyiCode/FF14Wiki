@@ -1,0 +1,8 @@
+id: the-dravanian-hinterlands
+category: world
+type: zone
+zone: "The Dravanian Hinterlands"
+region: "Dravania"
+related: [dravania]
+tags: [zone, region, travel]
+status: stable

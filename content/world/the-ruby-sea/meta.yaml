@@ -1,0 +1,8 @@
+id: the-ruby-sea
+category: world
+type: zone
+zone: "The Ruby Sea"
+region: "Othard"
+related: [othard]
+tags: [zone, region, travel]
+status: stable

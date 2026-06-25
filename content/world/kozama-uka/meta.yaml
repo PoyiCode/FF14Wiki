@@ -1,0 +1,8 @@
+id: kozama-uka
+category: world
+type: zone
+zone: "Kozama'uka"
+region: "Yok Tural"
+related: [yok-tural]
+tags: [zone, region, travel]
+status: stable

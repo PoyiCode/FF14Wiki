@@ -1,0 +1,8 @@
+id: western-la-noscea
+category: world
+type: zone
+zone: "Western La Noscea"
+region: "La Noscea"
+related: [la-noscea]
+tags: [zone, region, travel]
+status: stable

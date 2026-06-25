@@ -1,0 +1,8 @@
+id: the-lochs
+category: world
+type: zone
+zone: "The Lochs"
+region: "Gyr Abania"
+related: [gyr-abania]
+tags: [zone, region, travel]
+status: stable

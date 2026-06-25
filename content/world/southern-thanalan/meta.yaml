@@ -1,0 +1,8 @@
+id: southern-thanalan
+category: world
+type: zone
+zone: "Southern Thanalan"
+region: "Thanalan"
+related: [thanalan]
+tags: [zone, region, travel]
+status: stable

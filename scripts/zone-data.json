@@ -1,0 +1,914 @@
+[
+ {
+  "slug": "middle-la-noscea",
+  "en": "Middle La Noscea",
+  "n": {
+   "en": "Middle La Noscea",
+   "zh-CN": "中拉诺西亚",
+   "zh-TW": "中拉諾西亞",
+   "ja": "中央ラノシア"
+  },
+  "region": {
+   "en": "La Noscea",
+   "zh-CN": "拉诺西亚",
+   "zh-TW": "拉諾西亞",
+   "ja": "ラノシア"
+  },
+  "regionSlug": "la-noscea",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "lower-la-noscea",
+  "en": "Lower La Noscea",
+  "n": {
+   "en": "Lower La Noscea",
+   "zh-CN": "拉诺西亚低地",
+   "zh-TW": "拉諾西亞低地",
+   "ja": "低地ラノシア"
+  },
+  "region": {
+   "en": "La Noscea",
+   "zh-CN": "拉诺西亚",
+   "zh-TW": "拉諾西亞",
+   "ja": "ラノシア"
+  },
+  "regionSlug": "la-noscea",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "eastern-la-noscea",
+  "en": "Eastern La Noscea",
+  "n": {
+   "en": "Eastern La Noscea",
+   "zh-CN": "东拉诺西亚",
+   "zh-TW": "東拉諾西亞",
+   "ja": "東ラノシア"
+  },
+  "region": {
+   "en": "La Noscea",
+   "zh-CN": "拉诺西亚",
+   "zh-TW": "拉諾西亞",
+   "ja": "ラノシア"
+  },
+  "regionSlug": "la-noscea",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "western-la-noscea",
+  "en": "Western La Noscea",
+  "n": {
+   "en": "Western La Noscea",
+   "zh-CN": "西拉诺西亚",
+   "zh-TW": "西拉諾西亞",
+   "ja": "西ラノシア"
+  },
+  "region": {
+   "en": "La Noscea",
+   "zh-CN": "拉诺西亚",
+   "zh-TW": "拉諾西亞",
+   "ja": "ラノシア"
+  },
+  "regionSlug": "la-noscea",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "upper-la-noscea",
+  "en": "Upper La Noscea",
+  "n": {
+   "en": "Upper La Noscea",
+   "zh-CN": "拉诺西亚高地",
+   "zh-TW": "拉諾西亞高地",
+   "ja": "高地ラノシア"
+  },
+  "region": {
+   "en": "La Noscea",
+   "zh-CN": "拉诺西亚",
+   "zh-TW": "拉諾西亞",
+   "ja": "ラノシア"
+  },
+  "regionSlug": "la-noscea",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "western-thanalan",
+  "en": "Western Thanalan",
+  "n": {
+   "en": "Western Thanalan",
+   "zh-CN": "西萨纳兰",
+   "zh-TW": "西薩納蘭",
+   "ja": "西ザナラーン"
+  },
+  "region": {
+   "en": "Thanalan",
+   "zh-CN": "萨纳兰",
+   "zh-TW": "薩納蘭",
+   "ja": "ザナラーン"
+  },
+  "regionSlug": "thanalan",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "central-thanalan",
+  "en": "Central Thanalan",
+  "n": {
+   "en": "Central Thanalan",
+   "zh-CN": "中萨纳兰",
+   "zh-TW": "中薩納蘭",
+   "ja": "中央ザナラーン"
+  },
+  "region": {
+   "en": "Thanalan",
+   "zh-CN": "萨纳兰",
+   "zh-TW": "薩納蘭",
+   "ja": "ザナラーン"
+  },
+  "regionSlug": "thanalan",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "eastern-thanalan",
+  "en": "Eastern Thanalan",
+  "n": {
+   "en": "Eastern Thanalan",
+   "zh-CN": "东萨纳兰",
+   "zh-TW": "東薩納蘭",
+   "ja": "東ザナラーン"
+  },
+  "region": {
+   "en": "Thanalan",
+   "zh-CN": "萨纳兰",
+   "zh-TW": "薩納蘭",
+   "ja": "ザナラーン"
+  },
+  "regionSlug": "thanalan",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "southern-thanalan",
+  "en": "Southern Thanalan",
+  "n": {
+   "en": "Southern Thanalan",
+   "zh-CN": "南萨纳兰",
+   "zh-TW": "南薩納蘭",
+   "ja": "南ザナラーン"
+  },
+  "region": {
+   "en": "Thanalan",
+   "zh-CN": "萨纳兰",
+   "zh-TW": "薩納蘭",
+   "ja": "ザナラーン"
+  },
+  "regionSlug": "thanalan",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "northern-thanalan",
+  "en": "Northern Thanalan",
+  "n": {
+   "en": "Northern Thanalan",
+   "zh-CN": "北萨纳兰",
+   "zh-TW": "北薩納蘭",
+   "ja": "北ザナラーン"
+  },
+  "region": {
+   "en": "Thanalan",
+   "zh-CN": "萨纳兰",
+   "zh-TW": "薩納蘭",
+   "ja": "ザナラーン"
+  },
+  "regionSlug": "thanalan",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "central-shroud",
+  "en": "Central Shroud",
+  "n": {
+   "en": "Central Shroud",
+   "zh-CN": "黑衣森林中央林区",
+   "zh-TW": "黑衣森林中央林區",
+   "ja": "黒衣森：中央森林"
+  },
+  "region": {
+   "en": "The Black Shroud",
+   "zh-CN": "黑衣森林",
+   "zh-TW": "黑衣森林",
+   "ja": "黒衣森"
+  },
+  "regionSlug": "the-black-shroud",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "east-shroud",
+  "en": "East Shroud",
+  "n": {
+   "en": "East Shroud",
+   "zh-CN": "黑衣森林东部林区",
+   "zh-TW": "黑衣森林東部林區",
+   "ja": "黒衣森：東部森林"
+  },
+  "region": {
+   "en": "The Black Shroud",
+   "zh-CN": "黑衣森林",
+   "zh-TW": "黑衣森林",
+   "ja": "黒衣森"
+  },
+  "regionSlug": "the-black-shroud",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "south-shroud",
+  "en": "South Shroud",
+  "n": {
+   "en": "South Shroud",
+   "zh-CN": "黑衣森林南部林区",
+   "zh-TW": "黑衣森林南部林區",
+   "ja": "黒衣森：南部森林"
+  },
+  "region": {
+   "en": "The Black Shroud",
+   "zh-CN": "黑衣森林",
+   "zh-TW": "黑衣森林",
+   "ja": "黒衣森"
+  },
+  "regionSlug": "the-black-shroud",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "north-shroud",
+  "en": "North Shroud",
+  "n": {
+   "en": "North Shroud",
+   "zh-CN": "黑衣森林北部林区",
+   "zh-TW": "黑衣森林北部林區",
+   "ja": "黒衣森：北部森林"
+  },
+  "region": {
+   "en": "The Black Shroud",
+   "zh-CN": "黑衣森林",
+   "zh-TW": "黑衣森林",
+   "ja": "黒衣森"
+  },
+  "regionSlug": "the-black-shroud",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "coerthas-central-highlands",
+  "en": "Coerthas Central Highlands",
+  "n": {
+   "en": "Coerthas Central Highlands",
+   "zh-CN": "库尔札斯中央高地",
+   "zh-TW": "庫爾札斯中央高地",
+   "ja": "クルザス中央高地"
+  },
+  "region": {
+   "en": "Coerthas",
+   "zh-CN": "库尔札斯",
+   "zh-TW": "庫爾札斯",
+   "ja": "クルザス"
+  },
+  "regionSlug": "coerthas",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "mor-dhona",
+  "en": "Mor Dhona",
+  "n": {
+   "en": "Mor Dhona",
+   "zh-CN": "摩杜纳",
+   "zh-TW": "摩杜納",
+   "ja": "モードゥナ"
+  },
+  "region": {
+   "en": "Mor Dhona",
+   "zh-CN": "摩杜纳",
+   "zh-TW": "摩杜納",
+   "ja": "モードゥナ"
+  },
+  "regionSlug": "mor-dhona",
+  "regionLinked": true,
+  "exists": true
+ },
+ {
+  "slug": "outer-la-noscea",
+  "en": "Outer La Noscea",
+  "n": {
+   "en": "Outer La Noscea",
+   "zh-CN": "拉诺西亚外地",
+   "zh-TW": "拉諾西亞外地",
+   "ja": "外地ラノシア"
+  },
+  "region": {
+   "en": "La Noscea",
+   "zh-CN": "拉诺西亚",
+   "zh-TW": "拉諾西亞",
+   "ja": "ラノシア"
+  },
+  "regionSlug": "la-noscea",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "wolves-den-pier",
+  "en": "Wolves' Den Pier",
+  "n": {
+   "en": "Wolves' Den Pier",
+   "zh-CN": "狼狱停船场",
+   "zh-TW": "狼獄停船場",
+   "ja": "ウルヴズジェイル係船場"
+  },
+  "region": {
+   "en": "La Noscea",
+   "zh-CN": "拉诺西亚",
+   "zh-TW": "拉諾西亞",
+   "ja": "ラノシア"
+  },
+  "regionSlug": "la-noscea",
+  "regionLinked": true,
+  "exists": true
+ },
+ {
+  "slug": "coerthas-western-highlands",
+  "en": "Coerthas Western Highlands",
+  "n": {
+   "en": "Coerthas Western Highlands",
+   "zh-CN": "库尔札斯西部高地",
+   "zh-TW": "庫爾札斯西部高地",
+   "ja": "クルザス西部高地"
+  },
+  "region": {
+   "en": "Coerthas",
+   "zh-CN": "库尔札斯",
+   "zh-TW": "庫爾札斯",
+   "ja": "クルザス"
+  },
+  "regionSlug": "coerthas",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "the-dravanian-forelands",
+  "en": "The Dravanian Forelands",
+  "n": {
+   "en": "The Dravanian Forelands",
+   "zh-CN": "龙堡参天高地",
+   "zh-TW": "龍堡參天高地",
+   "ja": "高地ドラヴァニア"
+  },
+  "region": {
+   "en": "Dravania",
+   "zh-CN": "龙堡",
+   "zh-TW": "龍堡",
+   "ja": "ドラヴァニア"
+  },
+  "regionSlug": "dravania",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "the-dravanian-hinterlands",
+  "en": "The Dravanian Hinterlands",
+  "n": {
+   "en": "The Dravanian Hinterlands",
+   "zh-CN": "龙堡内陆低地",
+   "zh-TW": "龍堡內陸低地",
+   "ja": "低地ドラヴァニア"
+  },
+  "region": {
+   "en": "Dravania",
+   "zh-CN": "龙堡",
+   "zh-TW": "龍堡",
+   "ja": "ドラヴァニア"
+  },
+  "regionSlug": "dravania",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "the-churning-mists",
+  "en": "The Churning Mists",
+  "n": {
+   "en": "The Churning Mists",
+   "zh-CN": "翻云雾海",
+   "zh-TW": "翻雲霧海",
+   "ja": "ドラヴァニア雲海"
+  },
+  "region": {
+   "en": "Dravania",
+   "zh-CN": "龙堡",
+   "zh-TW": "龍堡",
+   "ja": "ドラヴァニア"
+  },
+  "regionSlug": "dravania",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "the-sea-of-clouds",
+  "en": "The Sea of Clouds",
+  "n": {
+   "en": "The Sea of Clouds",
+   "zh-CN": "阿巴拉提亚云海",
+   "zh-TW": "阿巴拉提亞雲海",
+   "ja": "アバラシア雲海"
+  },
+  "region": {
+   "en": "Abalathia's Spine",
+   "zh-CN": "阿巴拉提亚",
+   "zh-TW": "阿巴拉提亞",
+   "ja": "アバラシア"
+  },
+  "regionSlug": "abalathia-s-spine",
+  "regionLinked": false,
+  "exists": false
+ },
+ {
+  "slug": "azys-lla",
+  "en": "Azys Lla",
+  "n": {
+   "en": "Azys Lla",
+   "zh-CN": "魔大陆阿济兹拉",
+   "zh-TW": "魔大陸阿濟茲拉",
+   "ja": "アジス・ラー"
+  },
+  "region": {
+   "en": "Abalathia's Spine",
+   "zh-CN": "阿巴拉提亚",
+   "zh-TW": "阿巴拉提亞",
+   "ja": "アバラシア"
+  },
+  "regionSlug": "abalathia-s-spine",
+  "regionLinked": false,
+  "exists": false
+ },
+ {
+  "slug": "the-fringes",
+  "en": "The Fringes",
+  "n": {
+   "en": "The Fringes",
+   "zh-CN": "基拉巴尼亚边区",
+   "zh-TW": "基拉巴尼亞邊區",
+   "ja": "ギラバニア辺境地帯"
+  },
+  "region": {
+   "en": "Gyr Abania",
+   "zh-CN": "基拉巴尼亚",
+   "zh-TW": "基拉巴尼亞",
+   "ja": "ギラバニア"
+  },
+  "regionSlug": "gyr-abania",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "the-ruby-sea",
+  "en": "The Ruby Sea",
+  "n": {
+   "en": "The Ruby Sea",
+   "zh-CN": "红玉海",
+   "zh-TW": "紅玉海",
+   "ja": "紅玉海"
+  },
+  "region": {
+   "en": "Othard",
+   "zh-CN": "奥萨德",
+   "zh-TW": "奧薩德",
+   "ja": "オサード"
+  },
+  "regionSlug": "othard",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "yanxia",
+  "en": "Yanxia",
+  "n": {
+   "en": "Yanxia",
+   "zh-CN": "延夏",
+   "zh-TW": "延夏",
+   "ja": "ヤンサ"
+  },
+  "region": {
+   "en": "Othard",
+   "zh-CN": "奥萨德",
+   "zh-TW": "奧薩德",
+   "ja": "オサード"
+  },
+  "regionSlug": "othard",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "the-peaks",
+  "en": "The Peaks",
+  "n": {
+   "en": "The Peaks",
+   "zh-CN": "基拉巴尼亚山区",
+   "zh-TW": "基拉巴尼亞山區",
+   "ja": "ギラバニア山岳地帯"
+  },
+  "region": {
+   "en": "Gyr Abania",
+   "zh-CN": "基拉巴尼亚",
+   "zh-TW": "基拉巴尼亞",
+   "ja": "ギラバニア"
+  },
+  "regionSlug": "gyr-abania",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "the-lochs",
+  "en": "The Lochs",
+  "n": {
+   "en": "The Lochs",
+   "zh-CN": "基拉巴尼亚湖区",
+   "zh-TW": "基拉巴尼亞湖區",
+   "ja": "ギラバニア湖畔地帯"
+  },
+  "region": {
+   "en": "Gyr Abania",
+   "zh-CN": "基拉巴尼亚",
+   "zh-TW": "基拉巴尼亞",
+   "ja": "ギラバニア"
+  },
+  "regionSlug": "gyr-abania",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "the-azim-steppe",
+  "en": "The Azim Steppe",
+  "n": {
+   "en": "The Azim Steppe",
+   "zh-CN": "太阳神草原",
+   "zh-TW": "太陽神草原",
+   "ja": "アジムステップ"
+  },
+  "region": {
+   "en": "Othard",
+   "zh-CN": "奥萨德",
+   "zh-TW": "奧薩德",
+   "ja": "オサード"
+  },
+  "regionSlug": "othard",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "lakeland",
+  "en": "Lakeland",
+  "n": {
+   "en": "Lakeland",
+   "zh-CN": "雷克兰德",
+   "zh-TW": "雷克蘭德",
+   "ja": "レイクランド"
+  },
+  "region": {
+   "en": "Norvrandt",
+   "zh-CN": "诺弗兰特",
+   "zh-TW": "諾弗蘭特",
+   "ja": "ノルヴラント"
+  },
+  "regionSlug": "norvrandt",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "kholusia",
+  "en": "Kholusia",
+  "n": {
+   "en": "Kholusia",
+   "zh-CN": "珂露西亚岛",
+   "zh-TW": "珂露西亞島",
+   "ja": "コルシア島"
+  },
+  "region": {
+   "en": "Norvrandt",
+   "zh-CN": "诺弗兰特",
+   "zh-TW": "諾弗蘭特",
+   "ja": "ノルヴラント"
+  },
+  "regionSlug": "norvrandt",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "amh-araeng",
+  "en": "Amh Araeng",
+  "n": {
+   "en": "Amh Araeng",
+   "zh-CN": "安穆·艾兰",
+   "zh-TW": "安穆·艾蘭",
+   "ja": "アム・アレーン"
+  },
+  "region": {
+   "en": "Norvrandt",
+   "zh-CN": "诺弗兰特",
+   "zh-TW": "諾弗蘭特",
+   "ja": "ノルヴラント"
+  },
+  "regionSlug": "norvrandt",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "il-mheg",
+  "en": "Il Mheg",
+  "n": {
+   "en": "Il Mheg",
+   "zh-CN": "伊尔美格",
+   "zh-TW": "伊爾美格",
+   "ja": "イル・メグ"
+  },
+  "region": {
+   "en": "Norvrandt",
+   "zh-CN": "诺弗兰特",
+   "zh-TW": "諾弗蘭特",
+   "ja": "ノルヴラント"
+  },
+  "regionSlug": "norvrandt",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "the-rak-tika-greatwood",
+  "en": "The Rak'tika Greatwood",
+  "n": {
+   "en": "The Rak'tika Greatwood",
+   "zh-CN": "拉凯提卡大森林",
+   "zh-TW": "拉凱提卡大森林",
+   "ja": "ラケティカ大森林"
+  },
+  "region": {
+   "en": "Norvrandt",
+   "zh-CN": "诺弗兰特",
+   "zh-TW": "諾弗蘭特",
+   "ja": "ノルヴラント"
+  },
+  "regionSlug": "norvrandt",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "the-tempest",
+  "en": "The Tempest",
+  "n": {
+   "en": "The Tempest",
+   "zh-CN": "黑风海",
+   "zh-TW": "黑風海",
+   "ja": "テンペスト"
+  },
+  "region": {
+   "en": "Norvrandt",
+   "zh-CN": "诺弗兰特",
+   "zh-TW": "諾弗蘭特",
+   "ja": "ノルヴラント"
+  },
+  "regionSlug": "norvrandt",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "labyrinthos",
+  "en": "Labyrinthos",
+  "n": {
+   "en": "Labyrinthos",
+   "zh-CN": "迷津",
+   "zh-TW": "迷津",
+   "ja": "ラヴィリンソス"
+  },
+  "region": {
+   "en": "The Northern Empty",
+   "zh-CN": "北洋地域",
+   "zh-TW": "北洋地域",
+   "ja": "北洋地域"
+  },
+  "regionSlug": "the-northern-empty",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "thavnair",
+  "en": "Thavnair",
+  "n": {
+   "en": "Thavnair",
+   "zh-CN": "萨维奈岛",
+   "zh-TW": "薩維奈島",
+   "ja": "サベネア島"
+  },
+  "region": {
+   "en": "Ilsabard",
+   "zh-CN": "伊尔萨巴德",
+   "zh-TW": "伊爾薩巴德",
+   "ja": "イルサバード"
+  },
+  "regionSlug": "ilsabard",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "garlemald",
+  "en": "Garlemald",
+  "n": {
+   "en": "Garlemald",
+   "zh-CN": "加雷马",
+   "zh-TW": "加雷馬",
+   "ja": "ガレマルド"
+  },
+  "region": {
+   "en": "Ilsabard",
+   "zh-CN": "伊尔萨巴德",
+   "zh-TW": "伊爾薩巴德",
+   "ja": "イルサバード"
+  },
+  "regionSlug": "ilsabard",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "mare-lamentorum",
+  "en": "Mare Lamentorum",
+  "n": {
+   "en": "Mare Lamentorum",
+   "zh-CN": "叹息海",
+   "zh-TW": "嘆息海",
+   "ja": "嘆きの海"
+  },
+  "region": {
+   "en": "The Sea of Stars",
+   "zh-CN": "星外天域",
+   "zh-TW": "星外天域",
+   "ja": "星外宙域"
+  },
+  "regionSlug": "the-sea-of-stars",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "ultima-thule",
+  "en": "Ultima Thule",
+  "n": {
+   "en": "Ultima Thule",
+   "zh-CN": "天外天垓",
+   "zh-TW": "天外天垓",
+   "ja": "ウルティマ・トゥーレ"
+  },
+  "region": {
+   "en": "The Sea of Stars",
+   "zh-CN": "星外天域",
+   "zh-TW": "星外天域",
+   "ja": "星外宙域"
+  },
+  "regionSlug": "the-sea-of-stars",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "elpis",
+  "en": "Elpis",
+  "n": {
+   "en": "Elpis",
+   "zh-CN": "厄尔庇斯",
+   "zh-TW": "厄爾庇斯",
+   "ja": "エルピス"
+  },
+  "region": {
+   "en": "The World Unsundered",
+   "zh-CN": "古代世界",
+   "zh-TW": "古代世界",
+   "ja": "古代世界"
+  },
+  "regionSlug": "the-world-unsundered",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "urqopacha",
+  "en": "Urqopacha",
+  "n": {
+   "en": "Urqopacha",
+   "zh-CN": "奥阔帕恰山",
+   "zh-TW": "奧闊帕恰山",
+   "ja": "オルコ・パチャ"
+  },
+  "region": {
+   "en": "Yok Tural",
+   "zh-CN": "尤卡图拉尔",
+   "zh-TW": "尤卡圖拉爾",
+   "ja": "ヨカ・トラル"
+  },
+  "regionSlug": "yok-tural",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "kozama-uka",
+  "en": "Kozama'uka",
+  "n": {
+   "en": "Kozama'uka",
+   "zh-CN": "克扎玛乌卡湿地",
+   "zh-TW": "克扎瑪烏卡溼地",
+   "ja": "コザマル・カ"
+  },
+  "region": {
+   "en": "Yok Tural",
+   "zh-CN": "尤卡图拉尔",
+   "zh-TW": "尤卡圖拉爾",
+   "ja": "ヨカ・トラル"
+  },
+  "regionSlug": "yok-tural",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "yak-t-el",
+  "en": "Yak T'el",
+  "n": {
+   "en": "Yak T'el",
+   "zh-CN": "亚克特尔树海",
+   "zh-TW": "亞克特爾樹海",
+   "ja": "ヤクテル樹海"
+  },
+  "region": {
+   "en": "Yok Tural",
+   "zh-CN": "尤卡图拉尔",
+   "zh-TW": "尤卡圖拉爾",
+   "ja": "ヨカ・トラル"
+  },
+  "regionSlug": "yok-tural",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "shaaloani",
+  "en": "Shaaloani",
+  "n": {
+   "en": "Shaaloani",
+   "zh-CN": "夏劳尼荒野",
+   "zh-TW": "夏勞尼荒野",
+   "ja": "シャーローニ荒野"
+  },
+  "region": {
+   "en": "Xak Tural",
+   "zh-CN": "萨卡图拉尔",
+   "zh-TW": "薩卡圖拉爾",
+   "ja": "サカ・トラル"
+  },
+  "regionSlug": "xak-tural",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "heritage-found",
+  "en": "Heritage Found",
+  "n": {
+   "en": "Heritage Found",
+   "zh-CN": "遗产之地",
+   "zh-TW": "遺產之地",
+   "ja": "ヘリテージファウンド"
+  },
+  "region": {
+   "en": "Xak Tural",
+   "zh-CN": "萨卡图拉尔",
+   "zh-TW": "薩卡圖拉爾",
+   "ja": "サカ・トラル"
+  },
+  "regionSlug": "xak-tural",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "living-memory",
+  "en": "Living Memory",
+  "n": {
+   "en": "Living Memory",
+   "zh-CN": "活着的记忆",
+   "zh-TW": "活着的記憶",
+   "ja": "リビング・メモリー"
+  },
+  "region": {
+   "en": "Unlost World",
+   "zh-CN": "无失世界",
+   "zh-TW": "無失世界",
+   "ja": "アンロスト・ワールド"
+  },
+  "regionSlug": "unlost-world",
+  "regionLinked": true,
+  "exists": false
+ }
+]

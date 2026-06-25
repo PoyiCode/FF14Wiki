@@ -1,0 +1,8 @@
+id: living-memory
+category: world
+type: zone
+zone: "Living Memory"
+region: "Unlost World"
+related: [unlost-world]
+tags: [zone, region, travel]
+status: stable

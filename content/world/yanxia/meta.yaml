@@ -1,0 +1,8 @@
+id: yanxia
+category: world
+type: zone
+zone: "Yanxia"
+region: "Othard"
+related: [othard]
+tags: [zone, region, travel]
+status: stable
