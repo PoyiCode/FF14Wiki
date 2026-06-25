@@ -10,7 +10,7 @@ const LOCALES = ['zh-TW', 'zh-CN', 'ja', 'en'];
 const CATEGORIES = [
   'world', 'locations', 'lore', 'culture',
   'personas', 'activities', 'emotes', 'glossary', 'weather', 'mounts',
-  'minions', 'music', 'titles', 'dyes', 'ornaments',
+  'minions', 'music', 'titles', 'dyes', 'ornaments', 'triple-triad',
 ];
 const CONTENT_DIR = path.join(process.cwd(), 'content');
 

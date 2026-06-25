@@ -170,6 +170,16 @@ export const CATEGORIES: CategoryDef[] = [
       en: 'Wearable fashion accessories like parasols, wings and halos, so the bot can dress up, pose and chat about fashion.',
     },
   },
+  {
+    key: 'triple-triad',
+    label: { 'zh-TW': '幻卡', 'zh-CN': '幻卡', ja: 'トリプルトライアド', en: 'Triple Triad' },
+    description: {
+      'zh-TW': '金碟遊樂場的幻卡（Triple Triad）卡牌與其背景故事，居民最愛的桌上小遊戲與收藏話題。',
+      'zh-CN': '金碟游乐场的幻卡（Triple Triad）卡牌与其背景故事，居民最爱的桌上小游戏与收藏话题。',
+      ja: 'ゴールドソーサーのトリプルトライアドのカードと背景設定。住民が遊び、集める人気のテーブルゲーム。',
+      en: 'The Triple Triad cards of the Gold Saucer and their lore — a favourite tabletop game for residents to play and collect.',
+    },
+  },
 ];
 
 export const CATEGORY_KEYS = CATEGORIES.map((c) => c.key);

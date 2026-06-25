@@ -1,0 +1,6 @@
+id: rolling-tankard
+category: triple-triad
+type: triple_triad_card
+card: "Rolling Tankard"
+tags: [triple-triad, minigame, card]
+status: stable

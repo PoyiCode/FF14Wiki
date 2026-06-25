@@ -1,0 +1,6 @@
+id: evil-weapon
+category: triple-triad
+type: triple_triad_card
+card: "Evil Weapon"
+tags: [triple-triad, minigame, card]
+status: stable

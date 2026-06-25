@@ -1,0 +1,6 @@
+id: moogle
+category: triple-triad
+type: triple_triad_card
+card: "Moogle"
+tags: [triple-triad, minigame, card]
+status: stable

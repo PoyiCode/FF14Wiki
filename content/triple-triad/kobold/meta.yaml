@@ -1,0 +1,6 @@
+id: kobold
+category: triple-triad
+type: triple_triad_card
+card: "Kobold"
+tags: [triple-triad, minigame, card]
+status: stable

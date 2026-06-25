@@ -1,0 +1,6 @@
+id: ultima-weapon
+category: triple-triad
+type: triple_triad_card
+card: "Ultima Weapon"
+tags: [triple-triad, minigame, card]
+status: stable

@@ -1,0 +1,6 @@
+id: prometheus
+category: triple-triad
+type: triple_triad_card
+card: "Prometheus"
+tags: [triple-triad, minigame, card]
+status: stable

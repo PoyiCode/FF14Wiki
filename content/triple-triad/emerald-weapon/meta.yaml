@@ -1,0 +1,6 @@
+id: emerald-weapon
+category: triple-triad
+type: triple_triad_card
+card: "Emerald Weapon"
+tags: [triple-triad, minigame, card]
+status: stable

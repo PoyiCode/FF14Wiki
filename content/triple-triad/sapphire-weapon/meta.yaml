@@ -1,0 +1,6 @@
+id: sapphire-weapon
+category: triple-triad
+type: triple_triad_card
+card: "Sapphire Weapon"
+tags: [triple-triad, minigame, card]
+status: stable

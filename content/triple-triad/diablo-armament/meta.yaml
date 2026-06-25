@@ -1,0 +1,6 @@
+id: diablo-armament
+category: triple-triad
+type: triple_triad_card
+card: "Diablo Armament"
+tags: [triple-triad, minigame, card]
+status: stable

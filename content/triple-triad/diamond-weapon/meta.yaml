@@ -1,0 +1,6 @@
+id: diamond-weapon
+category: triple-triad
+type: triple_triad_card
+card: "Diamond Weapon"
+tags: [triple-triad, minigame, card]
+status: stable

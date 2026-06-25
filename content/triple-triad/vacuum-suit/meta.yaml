@@ -1,0 +1,6 @@
+id: vacuum-suit
+category: triple-triad
+type: triple_triad_card
+card: "Vacuum Suit"
+tags: [triple-triad, minigame, card]
+status: stable

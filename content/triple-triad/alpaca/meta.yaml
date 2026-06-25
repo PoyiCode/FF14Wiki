@@ -1,0 +1,6 @@
+id: alpaca
+category: triple-triad
+type: triple_triad_card
+card: "Alpaca"
+tags: [triple-triad, minigame, card]
+status: stable
