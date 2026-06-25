@@ -3,5 +3,6 @@ category: world
 type: zone
 zone: "The Sea of Clouds"
 region: "Abalathia's Spine"
+related: [clear-skies, fair-skies, clouds, fog, wind, umbral-wind]
 tags: [zone, region, travel]
 status: stable

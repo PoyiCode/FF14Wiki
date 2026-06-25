@@ -4,5 +4,5 @@ type: aetheryte
 aetheryte: "Eulmore"
 region: "Norvrandt"
 tags: [aetheryte, travel, teleport]
-related: [norvrandt]
+related: [norvrandt, fair-skies, clouds, clear-skies, gales, rain, fog]
 status: stable

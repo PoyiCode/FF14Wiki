@@ -3,6 +3,6 @@ category: world
 type: zone
 zone: "Heritage Found"
 region: "Xak Tural"
-related: [xak-tural]
+related: [xak-tural, umbral-static, clouds, fog, fair-skies, rain, thunderstorms]
 tags: [zone, region, travel]
 status: stable

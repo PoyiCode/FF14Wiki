@@ -3,6 +3,6 @@ category: world
 type: zone
 zone: "Southern Thanalan"
 region: "Thanalan"
-related: [thanalan]
+related: [thanalan, clear-skies, heat-waves, fair-skies, clouds, fog]
 tags: [zone, region, travel]
 status: stable

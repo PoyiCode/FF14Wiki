@@ -3,6 +3,6 @@ category: world
 type: zone
 zone: "Yanxia"
 region: "Othard"
-related: [othard]
+related: [othard, fair-skies, clear-skies, clouds, rain, fog, showers]
 tags: [zone, region, travel]
 status: stable

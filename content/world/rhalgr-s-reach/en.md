@@ -4,3 +4,5 @@ summary: "A district of a city in Gyr Abania."
 ---
 
 **Rhalgr's Reach** is a district of a city in **Gyr Abania** — a bustling quarter where residents shop, gather and go about daily life. In-game name: Rhalgr's Reach.
+
+Common weather here: Fair Skies（45%）, Clouds（20%）, Clear Skies（15%）, Fog（10%）, Thunder（10%）

@@ -2,5 +2,6 @@ id: gloom
 category: weather
 type: weather
 weather: "Gloom"
+related: [mor-dhona]
 tags: [weather, environment]
 status: stable

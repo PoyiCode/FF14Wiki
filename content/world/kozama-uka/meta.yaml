@@ -3,6 +3,6 @@ category: world
 type: zone
 zone: "Kozama'uka"
 region: "Yok Tural"
-related: [yok-tural]
+related: [yok-tural, fair-skies, clear-skies, clouds, fog, rain, showers]
 tags: [zone, region, travel]
 status: stable

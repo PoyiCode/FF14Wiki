@@ -3,6 +3,6 @@ category: world
 type: city_area
 area: "Ul'dah - Steps of Nald"
 region: "Thanalan"
-related: [thanalan]
+related: [thanalan, clear-skies, clouds, fair-skies, fog, rain]
 tags: [city-area, world, travel]
 status: stable

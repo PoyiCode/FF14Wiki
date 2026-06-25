@@ -3,6 +3,6 @@ category: world
 type: zone
 zone: "Lakeland"
 region: "Norvrandt"
-related: [norvrandt]
+related: [norvrandt, fair-skies, clear-skies, clouds, fog, rain, thunderstorms]
 tags: [zone, region, travel]
 status: stable

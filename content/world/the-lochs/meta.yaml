@@ -3,6 +3,6 @@ category: world
 type: zone
 zone: "The Lochs"
 region: "Gyr Abania"
-related: [gyr-abania]
+related: [gyr-abania, fair-skies, clear-skies, clouds, fog, thunderstorms]
 tags: [zone, region, travel]
 status: stable

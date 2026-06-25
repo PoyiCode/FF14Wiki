@@ -3,6 +3,6 @@ category: world
 type: housing_district
 area: "Shirogane"
 region: "Hingashi"
-related: [hingashi]
+related: [hingashi, fair-skies, clouds, clear-skies, rain, fog]
 tags: [housing-district, world, travel]
 status: stable

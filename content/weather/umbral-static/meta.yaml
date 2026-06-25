@@ -2,5 +2,6 @@ id: umbral-static
 category: weather
 type: weather
 weather: "Umbral Static"
+related: [the-churning-mists, heritage-found]
 tags: [weather, environment]
 status: stable

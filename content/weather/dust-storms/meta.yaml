@@ -2,5 +2,6 @@ id: dust-storms
 category: weather
 type: weather
 weather: "Dust Storms"
+related: [central-thanalan, the-dravanian-forelands, the-peaks, amh-araeng, shaaloani]
 tags: [weather, environment]
 status: stable

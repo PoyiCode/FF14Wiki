@@ -3,6 +3,6 @@ category: world
 type: zone
 zone: "Il Mheg"
 region: "Norvrandt"
-related: [norvrandt]
+related: [norvrandt, fair-skies, clouds, clear-skies, rain, fog, thunderstorms]
 tags: [zone, region, travel]
 status: stable

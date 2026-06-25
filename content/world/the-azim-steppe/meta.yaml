@@ -3,6 +3,6 @@ category: world
 type: zone
 zone: "The Azim Steppe"
 region: "Othard"
-related: [othard]
+related: [othard, fair-skies, clear-skies, clouds, fog, rain, gales, wind]
 tags: [zone, region, travel]
 status: stable

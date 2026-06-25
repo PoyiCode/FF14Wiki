@@ -2,5 +2,6 @@ id: snow
 category: weather
 type: weather
 weather: "Snow"
+related: [coerthas-central-highlands, coerthas-western-highlands, foundation, the-pillars, garlemald, old-sharlayan, empyreum, urqopacha]
 tags: [weather, environment]
 status: stable

@@ -3,6 +3,6 @@ category: world
 type: city_area
 area: "The Pillars"
 region: "Coerthas"
-related: [coerthas]
+related: [coerthas, snow, clouds, fair-skies, fog, clear-skies]
 tags: [city-area, world, travel]
 status: stable

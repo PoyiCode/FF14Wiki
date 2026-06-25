@@ -3,6 +3,6 @@ category: world
 type: zone
 zone: "The Ruby Sea"
 region: "Othard"
-related: [othard]
+related: [othard, fair-skies, clear-skies, clouds, thunder, wind]
 tags: [zone, region, travel]
 status: stable

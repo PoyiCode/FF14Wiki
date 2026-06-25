@@ -2,5 +2,6 @@ id: blizzards
 category: weather
 type: weather
 weather: "Blizzards"
+related: [coerthas-central-highlands, coerthas-western-highlands]
 tags: [weather, environment]
 status: stable

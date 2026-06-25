@@ -3,6 +3,6 @@ category: world
 type: zone
 zone: "The Fringes"
 region: "Gyr Abania"
-related: [gyr-abania]
+related: [gyr-abania, fair-skies, clouds, clear-skies, fog, thunder]
 tags: [zone, region, travel]
 status: stable

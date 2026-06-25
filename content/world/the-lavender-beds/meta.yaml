@@ -3,6 +3,6 @@ category: world
 type: housing_district
 area: "The Lavender Beds"
 region: "The Black Shroud"
-related: [the-black-shroud]
+related: [the-black-shroud, clear-skies, rain, fair-skies, fog, clouds]
 tags: [housing-district, world, travel]
 status: stable

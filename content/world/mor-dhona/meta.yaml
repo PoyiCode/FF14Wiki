@@ -1,5 +1,6 @@
 id: mor-dhona
 category: world
 type: region
+related: [gloom, fair-skies, clouds, fog, clear-skies]
 tags: [region, geography]
 status: stable

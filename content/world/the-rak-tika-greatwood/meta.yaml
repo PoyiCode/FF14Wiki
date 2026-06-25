@@ -3,6 +3,6 @@ category: world
 type: zone
 zone: "The Rak'tika Greatwood"
 region: "Norvrandt"
-related: [norvrandt]
+related: [norvrandt, fair-skies, clear-skies, clouds, fog, rain, umbral-wind]
 tags: [zone, region, travel]
 status: stable

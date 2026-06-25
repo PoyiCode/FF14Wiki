@@ -4,5 +4,5 @@ type: aetheryte
 aetheryte: "The Gold Saucer"
 region: "Thanalan"
 tags: [aetheryte, travel, teleport]
-related: [thanalan]
+related: [thanalan, fair-skies]
 status: stable

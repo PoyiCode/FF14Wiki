@@ -2,5 +2,6 @@ id: umbral-wind
 category: weather
 type: weather
 weather: "Umbral Wind"
+related: [the-sea-of-clouds, the-rak-tika-greatwood, mare-lamentorum, ultima-thule, elpis]
 tags: [weather, environment]
 status: stable

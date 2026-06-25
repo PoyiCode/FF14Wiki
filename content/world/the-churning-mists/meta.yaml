@@ -3,6 +3,6 @@ category: world
 type: zone
 zone: "The Churning Mists"
 region: "Dravania"
-related: [dravania]
+related: [dravania, clear-skies, fair-skies, umbral-static, clouds, gales]
 tags: [zone, region, travel]
 status: stable

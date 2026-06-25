@@ -3,6 +3,6 @@ category: world
 type: housing_district
 area: "The Goblet"
 region: "Thanalan"
-related: [thanalan]
+related: [thanalan, clear-skies, clouds, fair-skies, fog, rain]
 tags: [housing-district, world, travel]
 status: stable

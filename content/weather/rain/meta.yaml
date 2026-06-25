@@ -2,5 +2,6 @@ id: rain
 category: weather
 type: weather
 weather: "Rain"
+related: [limsa-lominsa-upper-decks, limsa-lominsa-lower-decks, ul-dah-steps-of-nald, ul-dah-steps-of-thal, new-gridania, old-gridania, middle-la-noscea, lower-la-noscea, mist, eastern-la-noscea, western-thanalan, central-thanalan, eastern-thanalan, central-shroud, east-shroud, north-shroud, outer-la-noscea, the-lavender-beds, the-goblet, the-dravanian-hinterlands, idyllshire, yanxia, the-azim-steppe, kugane, shirogane, the-house-of-the-fierce, the-doman-enclave, lakeland, kholusia, il-mheg, the-rak-tika-greatwood, the-crystarium, eulmore, labyrinthos, thavnair, garlemald, radz-at-han, tuliyollal, kozama-uka, yak-t-el, heritage-found, living-memory]
 tags: [weather, environment]
 status: stable

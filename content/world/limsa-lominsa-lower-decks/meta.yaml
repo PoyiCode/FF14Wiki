@@ -4,5 +4,5 @@ type: aetheryte
 aetheryte: "Limsa Lominsa Lower Decks"
 region: "La Noscea"
 tags: [aetheryte, travel, teleport]
-related: [la-noscea]
+related: [la-noscea, clear-skies, fair-skies, clouds, fog, rain]
 status: stable

@@ -3,6 +3,6 @@ category: world
 type: zone
 zone: "Middle La Noscea"
 region: "La Noscea"
-related: [la-noscea]
+related: [la-noscea, clear-skies, clouds, fair-skies, wind, fog, rain]
 tags: [zone, region, travel]
 status: stable

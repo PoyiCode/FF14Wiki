@@ -2,5 +2,6 @@ id: thunder
 category: weather
 type: weather
 weather: "Thunder"
+related: [upper-la-noscea, central-shroud, east-shroud, south-shroud, the-dravanian-forelands, azys-lla, the-fringes, the-ruby-sea, rhalgr-s-reach, garlemald]
 tags: [weather, environment]
 status: stable

@@ -3,6 +3,6 @@ category: world
 type: zone
 zone: "Thavnair"
 region: "Ilsabard"
-related: [ilsabard]
+related: [ilsabard, fair-skies, clouds, clear-skies, fog, rain, showers]
 tags: [zone, region, travel]
 status: stable

@@ -4,5 +4,5 @@ type: aetheryte
 aetheryte: "New Gridania"
 region: "The Black Shroud"
 tags: [aetheryte, travel, teleport]
-related: [the-black-shroud]
+related: [the-black-shroud, clear-skies, rain, fair-skies, fog, clouds]
 status: stable

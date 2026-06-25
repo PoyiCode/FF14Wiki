@@ -2,5 +2,6 @@ id: astromagnetic-storms
 category: weather
 type: weather
 weather: "Astromagnetic Storms"
+related: [ultima-thule]
 tags: [weather, environment]
 status: stable

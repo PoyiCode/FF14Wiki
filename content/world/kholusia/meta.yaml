@@ -3,6 +3,6 @@ category: world
 type: zone
 zone: "Kholusia"
 region: "Norvrandt"
-related: [norvrandt]
+related: [norvrandt, fair-skies, clouds, clear-skies, gales, rain, fog]
 tags: [zone, region, travel]
 status: stable

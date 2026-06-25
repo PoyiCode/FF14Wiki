@@ -2,5 +2,6 @@ id: heat-waves
 category: weather
 type: weather
 weather: "Heat Waves"
+related: [southern-thanalan, amh-araeng]
 tags: [weather, environment]
 status: stable

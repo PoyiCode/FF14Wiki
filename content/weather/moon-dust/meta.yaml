@@ -2,5 +2,6 @@ id: moon-dust
 category: weather
 type: weather
 weather: "Moon Dust"
+related: [mare-lamentorum]
 tags: [weather, environment]
 status: stable

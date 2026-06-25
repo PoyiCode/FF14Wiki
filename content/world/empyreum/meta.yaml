@@ -3,6 +3,6 @@ category: world
 type: housing_district
 area: "Empyreum"
 region: "Coerthas"
-related: [coerthas]
+related: [coerthas, clear-skies, fair-skies, clouds, fog, snow]
 tags: [housing-district, world, travel]
 status: stable

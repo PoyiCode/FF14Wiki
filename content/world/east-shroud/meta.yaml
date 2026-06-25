@@ -3,6 +3,6 @@ category: world
 type: zone
 zone: "East Shroud"
 region: "The Black Shroud"
-related: [the-black-shroud]
+related: [the-black-shroud, clear-skies, rain, fair-skies, fog, clouds, thunder]
 tags: [zone, region, travel]
 status: stable

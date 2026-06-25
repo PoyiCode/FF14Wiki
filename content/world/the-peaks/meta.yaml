@@ -3,6 +3,6 @@ category: world
 type: zone
 zone: "The Peaks"
 region: "Gyr Abania"
-related: [gyr-abania]
+related: [gyr-abania, fair-skies, clouds, clear-skies, fog, wind, dust-storms]
 tags: [zone, region, travel]
 status: stable

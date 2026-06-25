@@ -2,5 +2,6 @@ id: clear-skies
 category: weather
 type: weather
 weather: "Clear Skies"
+related: [limsa-lominsa-upper-decks, limsa-lominsa-lower-decks, ul-dah-steps-of-nald, ul-dah-steps-of-thal, new-gridania, old-gridania, middle-la-noscea, lower-la-noscea, mist, eastern-la-noscea, western-la-noscea, upper-la-noscea, western-thanalan, central-thanalan, eastern-thanalan, southern-thanalan, northern-thanalan, central-shroud, east-shroud, south-shroud, north-shroud, coerthas-central-highlands, mor-dhona, outer-la-noscea, wolves-den-pier, the-lavender-beds, the-goblet, coerthas-western-highlands, the-dravanian-forelands, the-dravanian-hinterlands, the-churning-mists, the-sea-of-clouds, foundation, the-pillars, idyllshire, the-fringes, the-ruby-sea, yanxia, the-peaks, the-lochs, the-azim-steppe, kugane, rhalgr-s-reach, shirogane, the-house-of-the-fierce, the-doman-enclave, lakeland, kholusia, amh-araeng, il-mheg, the-rak-tika-greatwood, the-tempest, the-crystarium, eulmore, labyrinthos, thavnair, garlemald, elpis, old-sharlayan, radz-at-han, empyreum, tuliyollal, urqopacha, kozama-uka, yak-t-el, shaaloani]
 tags: [weather, environment]
 status: stable

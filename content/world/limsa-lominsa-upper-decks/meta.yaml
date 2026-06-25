@@ -3,6 +3,6 @@ category: world
 type: city_area
 area: "Limsa Lominsa Upper Decks"
 region: "La Noscea"
-related: [la-noscea]
+related: [la-noscea, clear-skies, fair-skies, clouds, fog, rain]
 tags: [city-area, world, travel]
 status: stable

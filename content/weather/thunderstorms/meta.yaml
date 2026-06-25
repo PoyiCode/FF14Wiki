@@ -2,5 +2,6 @@ id: thunderstorms
 category: weather
 type: weather
 weather: "Thunderstorms"
+related: [upper-la-noscea, south-shroud, wolves-den-pier, the-lochs, lakeland, il-mheg, the-crystarium, heritage-found]
 tags: [weather, environment]
 status: stable

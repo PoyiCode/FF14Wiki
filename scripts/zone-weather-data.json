@@ -1,0 +1,4060 @@
+{
+ "limsa-lominsa-upper-decks": [
+  {
+   "slug": "clear-skies",
+   "rate": 30,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "fair-skies",
+   "rate": 30,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 20,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 10,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "rain",
+   "rate": 10,
+   "n": {
+    "en": "Rain",
+    "zh-CN": "小雨",
+    "ja": "雨",
+    "zh-TW": "小雨"
+   }
+  }
+ ],
+ "limsa-lominsa-lower-decks": [
+  {
+   "slug": "clear-skies",
+   "rate": 30,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "fair-skies",
+   "rate": 30,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 20,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 10,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "rain",
+   "rate": 10,
+   "n": {
+    "en": "Rain",
+    "zh-CN": "小雨",
+    "ja": "雨",
+    "zh-TW": "小雨"
+   }
+  }
+ ],
+ "ul-dah-steps-of-nald": [
+  {
+   "slug": "clear-skies",
+   "rate": 40,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 25,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "fair-skies",
+   "rate": 20,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 10,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "rain",
+   "rate": 5,
+   "n": {
+    "en": "Rain",
+    "zh-CN": "小雨",
+    "ja": "雨",
+    "zh-TW": "小雨"
+   }
+  }
+ ],
+ "ul-dah-steps-of-thal": [
+  {
+   "slug": "clear-skies",
+   "rate": 40,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 25,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "fair-skies",
+   "rate": 20,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 10,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "rain",
+   "rate": 5,
+   "n": {
+    "en": "Rain",
+    "zh-CN": "小雨",
+    "ja": "雨",
+    "zh-TW": "小雨"
+   }
+  }
+ ],
+ "new-gridania": [
+  {
+   "slug": "clear-skies",
+   "rate": 30,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "rain",
+   "rate": 15,
+   "n": {
+    "en": "Rain",
+    "zh-CN": "小雨",
+    "ja": "雨",
+    "zh-TW": "小雨"
+   }
+  },
+  {
+   "slug": "fair-skies",
+   "rate": 15,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "fair-skies",
+   "rate": 15,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 10,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 10,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "rain",
+   "rate": 5,
+   "n": {
+    "en": "Rain",
+    "zh-CN": "小雨",
+    "ja": "雨",
+    "zh-TW": "小雨"
+   }
+  }
+ ],
+ "old-gridania": [
+  {
+   "slug": "clear-skies",
+   "rate": 30,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "rain",
+   "rate": 15,
+   "n": {
+    "en": "Rain",
+    "zh-CN": "小雨",
+    "ja": "雨",
+    "zh-TW": "小雨"
+   }
+  },
+  {
+   "slug": "fair-skies",
+   "rate": 15,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "fair-skies",
+   "rate": 15,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 10,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 10,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "rain",
+   "rate": 5,
+   "n": {
+    "en": "Rain",
+    "zh-CN": "小雨",
+    "ja": "雨",
+    "zh-TW": "小雨"
+   }
+  }
+ ],
+ "middle-la-noscea": [
+  {
+   "slug": "clear-skies",
+   "rate": 30,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 20,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "fair-skies",
+   "rate": 20,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "wind",
+   "rate": 10,
+   "n": {
+    "en": "Wind",
+    "zh-CN": "微风",
+    "ja": "風",
+    "zh-TW": "微風"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 10,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "rain",
+   "rate": 10,
+   "n": {
+    "en": "Rain",
+    "zh-CN": "小雨",
+    "ja": "雨",
+    "zh-TW": "小雨"
+   }
+  }
+ ],
+ "lower-la-noscea": [
+  {
+   "slug": "clear-skies",
+   "rate": 30,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 20,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "fair-skies",
+   "rate": 20,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "wind",
+   "rate": 10,
+   "n": {
+    "en": "Wind",
+    "zh-CN": "微风",
+    "ja": "風",
+    "zh-TW": "微風"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 10,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "rain",
+   "rate": 10,
+   "n": {
+    "en": "Rain",
+    "zh-CN": "小雨",
+    "ja": "雨",
+    "zh-TW": "小雨"
+   }
+  }
+ ],
+ "mist": [
+  {
+   "slug": "clear-skies",
+   "rate": 30,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "fair-skies",
+   "rate": 30,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 20,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 10,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "rain",
+   "rate": 10,
+   "n": {
+    "en": "Rain",
+    "zh-CN": "小雨",
+    "ja": "雨",
+    "zh-TW": "小雨"
+   }
+  }
+ ],
+ "eastern-la-noscea": [
+  {
+   "slug": "clear-skies",
+   "rate": 45,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "fair-skies",
+   "rate": 30,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 10,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 5,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "rain",
+   "rate": 5,
+   "n": {
+    "en": "Rain",
+    "zh-CN": "小雨",
+    "ja": "雨",
+    "zh-TW": "小雨"
+   }
+  },
+  {
+   "slug": "showers",
+   "rate": 5,
+   "n": {
+    "en": "Showers",
+    "zh-CN": "暴雨",
+    "ja": "暴雨",
+    "zh-TW": "暴雨"
+   }
+  }
+ ],
+ "western-la-noscea": [
+  {
+   "slug": "clear-skies",
+   "rate": 30,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "fair-skies",
+   "rate": 20,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 20,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 10,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "wind",
+   "rate": 10,
+   "n": {
+    "en": "Wind",
+    "zh-CN": "微风",
+    "ja": "風",
+    "zh-TW": "微風"
+   }
+  },
+  {
+   "slug": "gales",
+   "rate": 10,
+   "n": {
+    "en": "Gales",
+    "zh-CN": "强风",
+    "ja": "暴風",
+    "zh-TW": "強風"
+   }
+  }
+ ],
+ "upper-la-noscea": [
+  {
+   "slug": "clear-skies",
+   "rate": 30,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "fair-skies",
+   "rate": 20,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 20,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 10,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "thunder",
+   "rate": 10,
+   "n": {
+    "en": "Thunder",
+    "zh-CN": "打雷",
+    "ja": "雷",
+    "zh-TW": "打雷"
+   }
+  },
+  {
+   "slug": "thunderstorms",
+   "rate": 10,
+   "n": {
+    "en": "Thunderstorms",
+    "zh-CN": "雷雨",
+    "ja": "雷雨",
+    "zh-TW": "雷雨"
+   }
+  }
+ ],
+ "western-thanalan": [
+  {
+   "slug": "clear-skies",
+   "rate": 40,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 25,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "fair-skies",
+   "rate": 20,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 10,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "rain",
+   "rate": 5,
+   "n": {
+    "en": "Rain",
+    "zh-CN": "小雨",
+    "ja": "雨",
+    "zh-TW": "小雨"
+   }
+  }
+ ],
+ "central-thanalan": [
+  {
+   "slug": "clear-skies",
+   "rate": 40,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "fair-skies",
+   "rate": 20,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "dust-storms",
+   "rate": 15,
+   "n": {
+    "en": "Dust Storms",
+    "zh-CN": "扬沙",
+    "ja": "砂塵",
+    "zh-TW": "揚沙"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 10,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 10,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "rain",
+   "rate": 5,
+   "n": {
+    "en": "Rain",
+    "zh-CN": "小雨",
+    "ja": "雨",
+    "zh-TW": "小雨"
+   }
+  }
+ ],
+ "the-gold-saucer": [
+  {
+   "slug": "fair-skies",
+   "rate": 100,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  }
+ ],
+ "eastern-thanalan": [
+  {
+   "slug": "clear-skies",
+   "rate": 40,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "fair-skies",
+   "rate": 20,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "showers",
+   "rate": 15,
+   "n": {
+    "en": "Showers",
+    "zh-CN": "暴雨",
+    "ja": "暴雨",
+    "zh-TW": "暴雨"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 10,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 10,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "rain",
+   "rate": 5,
+   "n": {
+    "en": "Rain",
+    "zh-CN": "小雨",
+    "ja": "雨",
+    "zh-TW": "小雨"
+   }
+  }
+ ],
+ "southern-thanalan": [
+  {
+   "slug": "clear-skies",
+   "rate": 40,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "heat-waves",
+   "rate": 20,
+   "n": {
+    "en": "Heat Waves",
+    "zh-CN": "热浪",
+    "ja": "灼熱波",
+    "zh-TW": "熱浪"
+   }
+  },
+  {
+   "slug": "fair-skies",
+   "rate": 20,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 10,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 10,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  }
+ ],
+ "northern-thanalan": [
+  {
+   "slug": "fog",
+   "rate": 50,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 30,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "fair-skies",
+   "rate": 15,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "clear-skies",
+   "rate": 5,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  }
+ ],
+ "central-shroud": [
+  {
+   "slug": "clear-skies",
+   "rate": 30,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "rain",
+   "rate": 15,
+   "n": {
+    "en": "Rain",
+    "zh-CN": "小雨",
+    "ja": "雨",
+    "zh-TW": "小雨"
+   }
+  },
+  {
+   "slug": "fair-skies",
+   "rate": 15,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "fair-skies",
+   "rate": 15,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 10,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 10,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "thunder",
+   "rate": 5,
+   "n": {
+    "en": "Thunder",
+    "zh-CN": "打雷",
+    "ja": "雷",
+    "zh-TW": "打雷"
+   }
+  }
+ ],
+ "east-shroud": [
+  {
+   "slug": "clear-skies",
+   "rate": 30,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "rain",
+   "rate": 15,
+   "n": {
+    "en": "Rain",
+    "zh-CN": "小雨",
+    "ja": "雨",
+    "zh-TW": "小雨"
+   }
+  },
+  {
+   "slug": "fair-skies",
+   "rate": 15,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "fair-skies",
+   "rate": 15,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 10,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 10,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "thunder",
+   "rate": 5,
+   "n": {
+    "en": "Thunder",
+    "zh-CN": "打雷",
+    "ja": "雷",
+    "zh-TW": "打雷"
+   }
+  }
+ ],
+ "south-shroud": [
+  {
+   "slug": "fair-skies",
+   "rate": 30,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "clear-skies",
+   "rate": 30,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "thunder",
+   "rate": 15,
+   "n": {
+    "en": "Thunder",
+    "zh-CN": "打雷",
+    "ja": "雷",
+    "zh-TW": "打雷"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 10,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 5,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "thunderstorms",
+   "rate": 5,
+   "n": {
+    "en": "Thunderstorms",
+    "zh-CN": "雷雨",
+    "ja": "雷雨",
+    "zh-TW": "雷雨"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 5,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  }
+ ],
+ "north-shroud": [
+  {
+   "slug": "fair-skies",
+   "rate": 30,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "clear-skies",
+   "rate": 30,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "rain",
+   "rate": 15,
+   "n": {
+    "en": "Rain",
+    "zh-CN": "小雨",
+    "ja": "雨",
+    "zh-TW": "小雨"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 10,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 5,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "showers",
+   "rate": 5,
+   "n": {
+    "en": "Showers",
+    "zh-CN": "暴雨",
+    "ja": "暴雨",
+    "zh-TW": "暴雨"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 5,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  }
+ ],
+ "coerthas-central-highlands": [
+  {
+   "slug": "snow",
+   "rate": 40,
+   "n": {
+    "en": "Snow",
+    "zh-CN": "小雪",
+    "ja": "雪",
+    "zh-TW": "小雪"
+   }
+  },
+  {
+   "slug": "blizzards",
+   "rate": 20,
+   "n": {
+    "en": "Blizzards",
+    "zh-CN": "暴雪",
+    "ja": "吹雪",
+    "zh-TW": "暴雪"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 15,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "fair-skies",
+   "rate": 10,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 10,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "clear-skies",
+   "rate": 5,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  }
+ ],
+ "mor-dhona": [
+  {
+   "slug": "gloom",
+   "rate": 30,
+   "n": {
+    "en": "Gloom",
+    "zh-CN": "妖雾",
+    "ja": "妖霧",
+    "zh-TW": "妖霧"
+   }
+  },
+  {
+   "slug": "fair-skies",
+   "rate": 25,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 15,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 15,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "clear-skies",
+   "rate": 15,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  }
+ ],
+ "outer-la-noscea": [
+  {
+   "slug": "clear-skies",
+   "rate": 30,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "fair-skies",
+   "rate": 20,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 20,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 15,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "rain",
+   "rate": 15,
+   "n": {
+    "en": "Rain",
+    "zh-CN": "小雨",
+    "ja": "雨",
+    "zh-TW": "小雨"
+   }
+  }
+ ],
+ "limsa-lominsa": [
+  {
+   "slug": "fair-skies",
+   "rate": 100,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  }
+ ],
+ "wolves-den-pier": [
+  {
+   "slug": "clear-skies",
+   "rate": 30,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "fair-skies",
+   "rate": 30,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 20,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 10,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "thunderstorms",
+   "rate": 10,
+   "n": {
+    "en": "Thunderstorms",
+    "zh-CN": "雷雨",
+    "ja": "雷雨",
+    "zh-TW": "雷雨"
+   }
+  }
+ ],
+ "the-lavender-beds": [
+  {
+   "slug": "clear-skies",
+   "rate": 30,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "rain",
+   "rate": 15,
+   "n": {
+    "en": "Rain",
+    "zh-CN": "小雨",
+    "ja": "雨",
+    "zh-TW": "小雨"
+   }
+  },
+  {
+   "slug": "fair-skies",
+   "rate": 15,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "fair-skies",
+   "rate": 15,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 10,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 10,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 5,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  }
+ ],
+ "the-goblet": [
+  {
+   "slug": "clear-skies",
+   "rate": 40,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 25,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "fair-skies",
+   "rate": 20,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 10,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "rain",
+   "rate": 5,
+   "n": {
+    "en": "Rain",
+    "zh-CN": "小雨",
+    "ja": "雨",
+    "zh-TW": "小雨"
+   }
+  }
+ ],
+ "coerthas-western-highlands": [
+  {
+   "slug": "snow",
+   "rate": 40,
+   "n": {
+    "en": "Snow",
+    "zh-CN": "小雪",
+    "ja": "雪",
+    "zh-TW": "小雪"
+   }
+  },
+  {
+   "slug": "blizzards",
+   "rate": 20,
+   "n": {
+    "en": "Blizzards",
+    "zh-CN": "暴雪",
+    "ja": "吹雪",
+    "zh-TW": "暴雪"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 15,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "fair-skies",
+   "rate": 10,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 10,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "clear-skies",
+   "rate": 5,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  }
+ ],
+ "the-dravanian-forelands": [
+  {
+   "slug": "clear-skies",
+   "rate": 30,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "fair-skies",
+   "rate": 30,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 10,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 10,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "thunder",
+   "rate": 10,
+   "n": {
+    "en": "Thunder",
+    "zh-CN": "打雷",
+    "ja": "雷",
+    "zh-TW": "打雷"
+   }
+  },
+  {
+   "slug": "dust-storms",
+   "rate": 10,
+   "n": {
+    "en": "Dust Storms",
+    "zh-CN": "扬沙",
+    "ja": "砂塵",
+    "zh-TW": "揚沙"
+   }
+  }
+ ],
+ "the-dravanian-hinterlands": [
+  {
+   "slug": "clear-skies",
+   "rate": 30,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "fair-skies",
+   "rate": 30,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 10,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 10,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "rain",
+   "rate": 10,
+   "n": {
+    "en": "Rain",
+    "zh-CN": "小雨",
+    "ja": "雨",
+    "zh-TW": "小雨"
+   }
+  },
+  {
+   "slug": "showers",
+   "rate": 10,
+   "n": {
+    "en": "Showers",
+    "zh-CN": "暴雨",
+    "ja": "暴雨",
+    "zh-TW": "暴雨"
+   }
+  }
+ ],
+ "the-churning-mists": [
+  {
+   "slug": "clear-skies",
+   "rate": 30,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "fair-skies",
+   "rate": 30,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "umbral-static",
+   "rate": 20,
+   "n": {
+    "en": "Umbral Static",
+    "zh-CN": "灵电",
+    "ja": "放電",
+    "zh-TW": "靈電"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 10,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "gales",
+   "rate": 10,
+   "n": {
+    "en": "Gales",
+    "zh-CN": "强风",
+    "ja": "暴風",
+    "zh-TW": "強風"
+   }
+  }
+ ],
+ "the-sea-of-clouds": [
+  {
+   "slug": "clear-skies",
+   "rate": 30,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "fair-skies",
+   "rate": 30,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 10,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 10,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "wind",
+   "rate": 10,
+   "n": {
+    "en": "Wind",
+    "zh-CN": "微风",
+    "ja": "風",
+    "zh-TW": "微風"
+   }
+  },
+  {
+   "slug": "umbral-wind",
+   "rate": 10,
+   "n": {
+    "en": "Umbral Wind",
+    "zh-CN": "灵风",
+    "ja": "霊風",
+    "zh-TW": "靈風"
+   }
+  }
+ ],
+ "azys-lla": [
+  {
+   "slug": "fair-skies",
+   "rate": 35,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 35,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "thunder",
+   "rate": 30,
+   "n": {
+    "en": "Thunder",
+    "zh-CN": "打雷",
+    "ja": "雷",
+    "zh-TW": "打雷"
+   }
+  }
+ ],
+ "foundation": [
+  {
+   "slug": "snow",
+   "rate": 60,
+   "n": {
+    "en": "Snow",
+    "zh-CN": "小雪",
+    "ja": "雪",
+    "zh-TW": "小雪"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 15,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "fair-skies",
+   "rate": 10,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 10,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "clear-skies",
+   "rate": 5,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  }
+ ],
+ "the-pillars": [
+  {
+   "slug": "snow",
+   "rate": 60,
+   "n": {
+    "en": "Snow",
+    "zh-CN": "小雪",
+    "ja": "雪",
+    "zh-TW": "小雪"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 15,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "fair-skies",
+   "rate": 10,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 10,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "clear-skies",
+   "rate": 5,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  }
+ ],
+ "idyllshire": [
+  {
+   "slug": "clear-skies",
+   "rate": 30,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "fair-skies",
+   "rate": 30,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 10,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 10,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "rain",
+   "rate": 10,
+   "n": {
+    "en": "Rain",
+    "zh-CN": "小雨",
+    "ja": "雨",
+    "zh-TW": "小雨"
+   }
+  },
+  {
+   "slug": "showers",
+   "rate": 10,
+   "n": {
+    "en": "Showers",
+    "zh-CN": "暴雨",
+    "ja": "暴雨",
+    "zh-TW": "暴雨"
+   }
+  }
+ ],
+ "the-fringes": [
+  {
+   "slug": "fair-skies",
+   "rate": 45,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 20,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "clear-skies",
+   "rate": 15,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 10,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "thunder",
+   "rate": 10,
+   "n": {
+    "en": "Thunder",
+    "zh-CN": "打雷",
+    "ja": "雷",
+    "zh-TW": "打雷"
+   }
+  }
+ ],
+ "the-ruby-sea": [
+  {
+   "slug": "fair-skies",
+   "rate": 40,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "clear-skies",
+   "rate": 25,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 15,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "thunder",
+   "rate": 10,
+   "n": {
+    "en": "Thunder",
+    "zh-CN": "打雷",
+    "ja": "雷",
+    "zh-TW": "打雷"
+   }
+  },
+  {
+   "slug": "wind",
+   "rate": 10,
+   "n": {
+    "en": "Wind",
+    "zh-CN": "微风",
+    "ja": "風",
+    "zh-TW": "微風"
+   }
+  }
+ ],
+ "yanxia": [
+  {
+   "slug": "fair-skies",
+   "rate": 40,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "clear-skies",
+   "rate": 20,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 15,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "rain",
+   "rate": 10,
+   "n": {
+    "en": "Rain",
+    "zh-CN": "小雨",
+    "ja": "雨",
+    "zh-TW": "小雨"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 10,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "showers",
+   "rate": 5,
+   "n": {
+    "en": "Showers",
+    "zh-CN": "暴雨",
+    "ja": "暴雨",
+    "zh-TW": "暴雨"
+   }
+  }
+ ],
+ "the-peaks": [
+  {
+   "slug": "fair-skies",
+   "rate": 50,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 15,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "clear-skies",
+   "rate": 10,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 10,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "wind",
+   "rate": 10,
+   "n": {
+    "en": "Wind",
+    "zh-CN": "微风",
+    "ja": "風",
+    "zh-TW": "微風"
+   }
+  },
+  {
+   "slug": "dust-storms",
+   "rate": 5,
+   "n": {
+    "en": "Dust Storms",
+    "zh-CN": "扬沙",
+    "ja": "砂塵",
+    "zh-TW": "揚沙"
+   }
+  }
+ ],
+ "the-lochs": [
+  {
+   "slug": "fair-skies",
+   "rate": 40,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "clear-skies",
+   "rate": 20,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 20,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 10,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "thunderstorms",
+   "rate": 10,
+   "n": {
+    "en": "Thunderstorms",
+    "zh-CN": "雷雨",
+    "ja": "雷雨",
+    "zh-TW": "雷雨"
+   }
+  }
+ ],
+ "the-azim-steppe": [
+  {
+   "slug": "fair-skies",
+   "rate": 40,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "clear-skies",
+   "rate": 25,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 10,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 8,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "rain",
+   "rate": 7,
+   "n": {
+    "en": "Rain",
+    "zh-CN": "小雨",
+    "ja": "雨",
+    "zh-TW": "小雨"
+   }
+  },
+  {
+   "slug": "gales",
+   "rate": 5,
+   "n": {
+    "en": "Gales",
+    "zh-CN": "强风",
+    "ja": "暴風",
+    "zh-TW": "強風"
+   }
+  },
+  {
+   "slug": "wind",
+   "rate": 5,
+   "n": {
+    "en": "Wind",
+    "zh-CN": "微风",
+    "ja": "風",
+    "zh-TW": "微風"
+   }
+  }
+ ],
+ "kugane": [
+  {
+   "slug": "fair-skies",
+   "rate": 40,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 20,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "clear-skies",
+   "rate": 20,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "rain",
+   "rate": 10,
+   "n": {
+    "en": "Rain",
+    "zh-CN": "小雨",
+    "ja": "雨",
+    "zh-TW": "小雨"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 10,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  }
+ ],
+ "rhalgr-s-reach": [
+  {
+   "slug": "fair-skies",
+   "rate": 45,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 20,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "clear-skies",
+   "rate": 15,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 10,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "thunder",
+   "rate": 10,
+   "n": {
+    "en": "Thunder",
+    "zh-CN": "打雷",
+    "ja": "雷",
+    "zh-TW": "打雷"
+   }
+  }
+ ],
+ "shirogane": [
+  {
+   "slug": "fair-skies",
+   "rate": 40,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 20,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "clear-skies",
+   "rate": 20,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "rain",
+   "rate": 10,
+   "n": {
+    "en": "Rain",
+    "zh-CN": "小雨",
+    "ja": "雨",
+    "zh-TW": "小雨"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 10,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  }
+ ],
+ "the-house-of-the-fierce": [
+  {
+   "slug": "fair-skies",
+   "rate": 40,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "clear-skies",
+   "rate": 20,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 15,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "rain",
+   "rate": 10,
+   "n": {
+    "en": "Rain",
+    "zh-CN": "小雨",
+    "ja": "雨",
+    "zh-TW": "小雨"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 10,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "showers",
+   "rate": 5,
+   "n": {
+    "en": "Showers",
+    "zh-CN": "暴雨",
+    "ja": "暴雨",
+    "zh-TW": "暴雨"
+   }
+  }
+ ],
+ "the-doman-enclave": [
+  {
+   "slug": "fair-skies",
+   "rate": 40,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "clear-skies",
+   "rate": 20,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 15,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "rain",
+   "rate": 10,
+   "n": {
+    "en": "Rain",
+    "zh-CN": "小雨",
+    "ja": "雨",
+    "zh-TW": "小雨"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 10,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "showers",
+   "rate": 5,
+   "n": {
+    "en": "Showers",
+    "zh-CN": "暴雨",
+    "ja": "暴雨",
+    "zh-TW": "暴雨"
+   }
+  }
+ ],
+ "lakeland": [
+  {
+   "slug": "fair-skies",
+   "rate": 40,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "clear-skies",
+   "rate": 20,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 15,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 10,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "rain",
+   "rate": 10,
+   "n": {
+    "en": "Rain",
+    "zh-CN": "小雨",
+    "ja": "雨",
+    "zh-TW": "小雨"
+   }
+  },
+  {
+   "slug": "thunderstorms",
+   "rate": 5,
+   "n": {
+    "en": "Thunderstorms",
+    "zh-CN": "雷雨",
+    "ja": "雷雨",
+    "zh-TW": "雷雨"
+   }
+  }
+ ],
+ "kholusia": [
+  {
+   "slug": "fair-skies",
+   "rate": 40,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 15,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "clear-skies",
+   "rate": 15,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "gales",
+   "rate": 10,
+   "n": {
+    "en": "Gales",
+    "zh-CN": "强风",
+    "ja": "暴風",
+    "zh-TW": "強風"
+   }
+  },
+  {
+   "slug": "rain",
+   "rate": 10,
+   "n": {
+    "en": "Rain",
+    "zh-CN": "小雨",
+    "ja": "雨",
+    "zh-TW": "小雨"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 10,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  }
+ ],
+ "amh-araeng": [
+  {
+   "slug": "fair-skies",
+   "rate": 45,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "clear-skies",
+   "rate": 20,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 15,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "dust-storms",
+   "rate": 10,
+   "n": {
+    "en": "Dust Storms",
+    "zh-CN": "扬沙",
+    "ja": "砂塵",
+    "zh-TW": "揚沙"
+   }
+  },
+  {
+   "slug": "heat-waves",
+   "rate": 10,
+   "n": {
+    "en": "Heat Waves",
+    "zh-CN": "热浪",
+    "ja": "灼熱波",
+    "zh-TW": "熱浪"
+   }
+  }
+ ],
+ "il-mheg": [
+  {
+   "slug": "fair-skies",
+   "rate": 40,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 15,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "clear-skies",
+   "rate": 15,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "rain",
+   "rate": 10,
+   "n": {
+    "en": "Rain",
+    "zh-CN": "小雨",
+    "ja": "雨",
+    "zh-TW": "小雨"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 10,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "thunderstorms",
+   "rate": 10,
+   "n": {
+    "en": "Thunderstorms",
+    "zh-CN": "雷雨",
+    "ja": "雷雨",
+    "zh-TW": "雷雨"
+   }
+  }
+ ],
+ "the-rak-tika-greatwood": [
+  {
+   "slug": "fair-skies",
+   "rate": 40,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "clear-skies",
+   "rate": 15,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 15,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 10,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "rain",
+   "rate": 10,
+   "n": {
+    "en": "Rain",
+    "zh-CN": "小雨",
+    "ja": "雨",
+    "zh-TW": "小雨"
+   }
+  },
+  {
+   "slug": "umbral-wind",
+   "rate": 10,
+   "n": {
+    "en": "Umbral Wind",
+    "zh-CN": "灵风",
+    "ja": "霊風",
+    "zh-TW": "靈風"
+   }
+  }
+ ],
+ "the-tempest": [
+  {
+   "slug": "fair-skies",
+   "rate": 60,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 20,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "clear-skies",
+   "rate": 20,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  }
+ ],
+ "the-crystarium": [
+  {
+   "slug": "fair-skies",
+   "rate": 40,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "clear-skies",
+   "rate": 20,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 15,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 10,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "rain",
+   "rate": 10,
+   "n": {
+    "en": "Rain",
+    "zh-CN": "小雨",
+    "ja": "雨",
+    "zh-TW": "小雨"
+   }
+  },
+  {
+   "slug": "thunderstorms",
+   "rate": 5,
+   "n": {
+    "en": "Thunderstorms",
+    "zh-CN": "雷雨",
+    "ja": "雷雨",
+    "zh-TW": "雷雨"
+   }
+  }
+ ],
+ "eulmore": [
+  {
+   "slug": "fair-skies",
+   "rate": 40,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 15,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "clear-skies",
+   "rate": 15,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "gales",
+   "rate": 10,
+   "n": {
+    "en": "Gales",
+    "zh-CN": "强风",
+    "ja": "暴風",
+    "zh-TW": "強風"
+   }
+  },
+  {
+   "slug": "rain",
+   "rate": 10,
+   "n": {
+    "en": "Rain",
+    "zh-CN": "小雨",
+    "ja": "雨",
+    "zh-TW": "小雨"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 10,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  }
+ ],
+ "labyrinthos": [
+  {
+   "slug": "fair-skies",
+   "rate": 45,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 25,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "clear-skies",
+   "rate": 15,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "rain",
+   "rate": 15,
+   "n": {
+    "en": "Rain",
+    "zh-CN": "小雨",
+    "ja": "雨",
+    "zh-TW": "小雨"
+   }
+  }
+ ],
+ "thavnair": [
+  {
+   "slug": "fair-skies",
+   "rate": 40,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 20,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "clear-skies",
+   "rate": 15,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 10,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "rain",
+   "rate": 10,
+   "n": {
+    "en": "Rain",
+    "zh-CN": "小雨",
+    "ja": "雨",
+    "zh-TW": "小雨"
+   }
+  },
+  {
+   "slug": "showers",
+   "rate": 5,
+   "n": {
+    "en": "Showers",
+    "zh-CN": "暴雨",
+    "ja": "暴雨",
+    "zh-TW": "暴雨"
+   }
+  }
+ ],
+ "garlemald": [
+  {
+   "slug": "snow",
+   "rate": 45,
+   "n": {
+    "en": "Snow",
+    "zh-CN": "小雪",
+    "ja": "雪",
+    "zh-TW": "小雪"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 25,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "fair-skies",
+   "rate": 10,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "thunder",
+   "rate": 5,
+   "n": {
+    "en": "Thunder",
+    "zh-CN": "打雷",
+    "ja": "雷",
+    "zh-TW": "打雷"
+   }
+  },
+  {
+   "slug": "rain",
+   "rate": 5,
+   "n": {
+    "en": "Rain",
+    "zh-CN": "小雨",
+    "ja": "雨",
+    "zh-TW": "小雨"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 5,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "clear-skies",
+   "rate": 5,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  }
+ ],
+ "mare-lamentorum": [
+  {
+   "slug": "fair-skies",
+   "rate": 70,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "umbral-wind",
+   "rate": 15,
+   "n": {
+    "en": "Umbral Wind",
+    "zh-CN": "灵风",
+    "ja": "霊風",
+    "zh-TW": "靈風"
+   }
+  },
+  {
+   "slug": "moon-dust",
+   "rate": 15,
+   "n": {
+    "en": "Moon Dust",
+    "zh-CN": "月尘",
+    "ja": "月砂塵",
+    "zh-TW": "月塵"
+   }
+  }
+ ],
+ "ultima-thule": [
+  {
+   "slug": "fair-skies",
+   "rate": 70,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "astromagnetic-storms",
+   "rate": 15,
+   "n": {
+    "en": "Astromagnetic Storms",
+    "zh-CN": "磁暴",
+    "ja": "磁気嵐",
+    "zh-TW": "磁暴"
+   }
+  },
+  {
+   "slug": "umbral-wind",
+   "rate": 15,
+   "n": {
+    "en": "Umbral Wind",
+    "zh-CN": "灵风",
+    "ja": "霊風",
+    "zh-TW": "靈風"
+   }
+  }
+ ],
+ "elpis": [
+  {
+   "slug": "fair-skies",
+   "rate": 45,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 25,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "umbral-wind",
+   "rate": 15,
+   "n": {
+    "en": "Umbral Wind",
+    "zh-CN": "灵风",
+    "ja": "霊風",
+    "zh-TW": "靈風"
+   }
+  },
+  {
+   "slug": "clear-skies",
+   "rate": 15,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  }
+ ],
+ "old-sharlayan": [
+  {
+   "slug": "fair-skies",
+   "rate": 40,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 20,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 15,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "snow",
+   "rate": 15,
+   "n": {
+    "en": "Snow",
+    "zh-CN": "小雪",
+    "ja": "雪",
+    "zh-TW": "小雪"
+   }
+  },
+  {
+   "slug": "clear-skies",
+   "rate": 10,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  }
+ ],
+ "radz-at-han": [
+  {
+   "slug": "fair-skies",
+   "rate": 40,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 20,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "rain",
+   "rate": 15,
+   "n": {
+    "en": "Rain",
+    "zh-CN": "小雨",
+    "ja": "雨",
+    "zh-TW": "小雨"
+   }
+  },
+  {
+   "slug": "clear-skies",
+   "rate": 15,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 10,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  }
+ ],
+ "empyreum": [
+  {
+   "slug": "clear-skies",
+   "rate": 40,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "fair-skies",
+   "rate": 20,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 15,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 10,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "snow",
+   "rate": 5,
+   "n": {
+    "en": "Snow",
+    "zh-CN": "小雪",
+    "ja": "雪",
+    "zh-TW": "小雪"
+   }
+  }
+ ],
+ "tuliyollal": [
+  {
+   "slug": "clear-skies",
+   "rate": 40,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "fair-skies",
+   "rate": 40,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 10,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 5,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "rain",
+   "rate": 5,
+   "n": {
+    "en": "Rain",
+    "zh-CN": "小雨",
+    "ja": "雨",
+    "zh-TW": "小雨"
+   }
+  }
+ ],
+ "solution-nine": [
+  {
+   "slug": "fair-skies",
+   "rate": 100,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  }
+ ],
+ "urqopacha": [
+  {
+   "slug": "fair-skies",
+   "rate": 30,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "clear-skies",
+   "rate": 20,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 20,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 10,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "wind",
+   "rate": 10,
+   "n": {
+    "en": "Wind",
+    "zh-CN": "微风",
+    "ja": "風",
+    "zh-TW": "微風"
+   }
+  },
+  {
+   "slug": "snow",
+   "rate": 10,
+   "n": {
+    "en": "Snow",
+    "zh-CN": "小雪",
+    "ja": "雪",
+    "zh-TW": "小雪"
+   }
+  }
+ ],
+ "kozama-uka": [
+  {
+   "slug": "fair-skies",
+   "rate": 35,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "clear-skies",
+   "rate": 25,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 15,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 10,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "rain",
+   "rate": 10,
+   "n": {
+    "en": "Rain",
+    "zh-CN": "小雨",
+    "ja": "雨",
+    "zh-TW": "小雨"
+   }
+  },
+  {
+   "slug": "showers",
+   "rate": 5,
+   "n": {
+    "en": "Showers",
+    "zh-CN": "暴雨",
+    "ja": "暴雨",
+    "zh-TW": "暴雨"
+   }
+  }
+ ],
+ "yak-t-el": [
+  {
+   "slug": "fair-skies",
+   "rate": 40,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "clear-skies",
+   "rate": 15,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 15,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 15,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "rain",
+   "rate": 15,
+   "n": {
+    "en": "Rain",
+    "zh-CN": "小雨",
+    "ja": "雨",
+    "zh-TW": "小雨"
+   }
+  }
+ ],
+ "shaaloani": [
+  {
+   "slug": "fair-skies",
+   "rate": 45,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 20,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "dust-storms",
+   "rate": 15,
+   "n": {
+    "en": "Dust Storms",
+    "zh-CN": "扬沙",
+    "ja": "砂塵",
+    "zh-TW": "揚沙"
+   }
+  },
+  {
+   "slug": "gales",
+   "rate": 15,
+   "n": {
+    "en": "Gales",
+    "zh-CN": "强风",
+    "ja": "暴風",
+    "zh-TW": "強風"
+   }
+  },
+  {
+   "slug": "clear-skies",
+   "rate": 5,
+   "n": {
+    "en": "Clear Skies",
+    "zh-CN": "碧空",
+    "ja": "快晴",
+    "zh-TW": "碧空"
+   }
+  }
+ ],
+ "heritage-found": [
+  {
+   "slug": "umbral-static",
+   "rate": 50,
+   "n": {
+    "en": "Umbral Static",
+    "zh-CN": "灵电",
+    "ja": "放電",
+    "zh-TW": "靈電"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 20,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 15,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  },
+  {
+   "slug": "fair-skies",
+   "rate": 5,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "rain",
+   "rate": 5,
+   "n": {
+    "en": "Rain",
+    "zh-CN": "小雨",
+    "ja": "雨",
+    "zh-TW": "小雨"
+   }
+  },
+  {
+   "slug": "thunderstorms",
+   "rate": 5,
+   "n": {
+    "en": "Thunderstorms",
+    "zh-CN": "雷雨",
+    "ja": "雷雨",
+    "zh-TW": "雷雨"
+   }
+  }
+ ],
+ "living-memory": [
+  {
+   "slug": "fair-skies",
+   "rate": 60,
+   "n": {
+    "en": "Fair Skies",
+    "zh-CN": "晴朗",
+    "ja": "晴れ",
+    "zh-TW": "晴朗"
+   }
+  },
+  {
+   "slug": "clouds",
+   "rate": 20,
+   "n": {
+    "en": "Clouds",
+    "zh-CN": "阴云",
+    "ja": "曇り",
+    "zh-TW": "陰雲"
+   }
+  },
+  {
+   "slug": "rain",
+   "rate": 10,
+   "n": {
+    "en": "Rain",
+    "zh-CN": "小雨",
+    "ja": "雨",
+    "zh-TW": "小雨"
+   }
+  },
+  {
+   "slug": "fog",
+   "rate": 10,
+   "n": {
+    "en": "Fog",
+    "zh-CN": "薄雾",
+    "ja": "霧",
+    "zh-TW": "薄霧"
+   }
+  }
+ ]
+}

@@ -3,6 +3,6 @@ category: world
 type: zone
 zone: "Coerthas Western Highlands"
 region: "Coerthas"
-related: [coerthas]
+related: [coerthas, snow, blizzards, clouds, fair-skies, fog, clear-skies]
 tags: [zone, region, travel]
 status: stable

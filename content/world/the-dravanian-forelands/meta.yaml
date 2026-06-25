@@ -3,6 +3,6 @@ category: world
 type: zone
 zone: "The Dravanian Forelands"
 region: "Dravania"
-related: [dravania]
+related: [dravania, clear-skies, fair-skies, clouds, fog, thunder, dust-storms]
 tags: [zone, region, travel]
 status: stable

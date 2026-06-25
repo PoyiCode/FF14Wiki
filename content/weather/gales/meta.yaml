@@ -2,5 +2,6 @@ id: gales
 category: weather
 type: weather
 weather: "Gales"
+related: [western-la-noscea, the-churning-mists, the-azim-steppe, kholusia, eulmore, shaaloani]
 tags: [weather, environment]
 status: stable

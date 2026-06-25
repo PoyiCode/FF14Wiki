@@ -3,6 +3,6 @@ category: world
 type: zone
 zone: "The Tempest"
 region: "Norvrandt"
-related: [norvrandt]
+related: [norvrandt, fair-skies, clouds, clear-skies]
 tags: [zone, region, travel]
 status: stable

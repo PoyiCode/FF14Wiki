@@ -3,6 +3,6 @@ category: world
 type: zone
 zone: "Labyrinthos"
 region: "The Northern Empty"
-related: [the-northern-empty]
+related: [the-northern-empty, fair-skies, clouds, clear-skies, rain]
 tags: [zone, region, travel]
 status: stable

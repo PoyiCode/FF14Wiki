@@ -2,5 +2,6 @@ id: wind
 category: weather
 type: weather
 weather: "Wind"
+related: [middle-la-noscea, lower-la-noscea, western-la-noscea, the-sea-of-clouds, the-ruby-sea, the-peaks, the-azim-steppe, urqopacha]
 tags: [weather, environment]
 status: stable

@@ -4,5 +4,5 @@ type: aetheryte
 aetheryte: "Idyllshire"
 region: "Dravania"
 tags: [aetheryte, travel, teleport]
-related: [dravania]
+related: [dravania, clear-skies, fair-skies, clouds, fog, rain, showers]
 status: stable

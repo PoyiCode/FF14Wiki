@@ -3,6 +3,6 @@ category: world
 type: city_area
 area: "Old Gridania"
 region: "The Black Shroud"
-related: [the-black-shroud]
+related: [the-black-shroud, clear-skies, rain, fair-skies, fog, clouds]
 tags: [city-area, world, travel]
 status: stable

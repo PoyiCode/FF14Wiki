@@ -3,6 +3,6 @@ category: world
 type: zone
 zone: "Garlemald"
 region: "Ilsabard"
-related: [ilsabard]
+related: [ilsabard, snow, clouds, fair-skies, thunder, rain, fog, clear-skies]
 tags: [zone, region, travel]
 status: stable
