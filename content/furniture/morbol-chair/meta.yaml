@@ -1,0 +1,6 @@
+id: morbol-chair
+category: furniture
+type: furnishing
+furnishing: "Morbol Chair"
+tags: [furniture, housing]
+status: stable

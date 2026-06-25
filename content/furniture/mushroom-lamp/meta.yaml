@@ -1,0 +1,6 @@
+id: mushroom-lamp
+category: furniture
+type: furnishing
+furnishing: "Mushroom Lamp"
+tags: [furniture, housing]
+status: stable

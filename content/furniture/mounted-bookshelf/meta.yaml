@@ -1,0 +1,6 @@
+id: mounted-bookshelf
+category: furniture
+type: furnishing
+furnishing: "Mounted Bookshelf"
+tags: [furniture, housing]
+status: stable

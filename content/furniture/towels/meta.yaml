@@ -1,0 +1,6 @@
+id: towels
+category: furniture
+type: furnishing
+furnishing: "Towels"
+tags: [furniture, housing]
+status: stable

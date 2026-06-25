@@ -1,0 +1,6 @@
+id: wine-glass
+category: furniture
+type: furnishing
+furnishing: "Wine Glass"
+tags: [furniture, housing]
+status: stable

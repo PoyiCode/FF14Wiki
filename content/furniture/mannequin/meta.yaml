@@ -1,0 +1,6 @@
+id: mannequin
+category: furniture
+type: furnishing
+furnishing: "Mannequin"
+tags: [furniture, housing]
+status: stable

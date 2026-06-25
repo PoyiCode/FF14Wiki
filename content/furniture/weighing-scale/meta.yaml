@@ -1,0 +1,6 @@
+id: weighing-scale
+category: furniture
+type: furnishing
+furnishing: "Weighing Scale"
+tags: [furniture, housing]
+status: stable

@@ -1,0 +1,6 @@
+id: wooden-steps
+category: furniture
+type: furnishing
+furnishing: "Wooden Steps"
+tags: [furniture, housing]
+status: stable

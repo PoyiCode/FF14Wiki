@@ -1,0 +1,6 @@
+id: iron-chair
+category: furniture
+type: furnishing
+furnishing: "Iron Chair"
+tags: [furniture, housing]
+status: stable

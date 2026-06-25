@@ -1,0 +1,6 @@
+id: indoor-awning
+category: furniture
+type: furnishing
+furnishing: "Indoor Awning"
+tags: [furniture, housing]
+status: stable

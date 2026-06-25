@@ -1,0 +1,6 @@
+id: easel
+category: furniture
+type: furnishing
+furnishing: "Easel"
+tags: [furniture, housing]
+status: stable

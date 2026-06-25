@@ -1,0 +1,6 @@
+id: training-mat
+category: furniture
+type: furnishing
+furnishing: "Training Mat"
+tags: [furniture, housing]
+status: stable

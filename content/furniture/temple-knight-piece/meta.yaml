@@ -1,0 +1,6 @@
+id: temple-knight-piece
+category: furniture
+type: furnishing
+furnishing: "Temple Knight Piece"
+tags: [furniture, housing]
+status: stable

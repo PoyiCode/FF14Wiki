@@ -1,0 +1,6 @@
+id: flooring-mat
+category: furniture
+type: furnishing
+furnishing: "Flooring Mat"
+tags: [furniture, housing]
+status: stable

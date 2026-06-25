@@ -1,0 +1,6 @@
+id: wooden-plates
+category: furniture
+type: furnishing
+furnishing: "Wooden Plates"
+tags: [furniture, housing]
+status: stable

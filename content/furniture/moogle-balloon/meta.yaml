@@ -1,0 +1,6 @@
+id: moogle-balloon
+category: furniture
+type: furnishing
+furnishing: "Moogle Balloon"
+tags: [furniture, housing]
+status: stable

@@ -1,0 +1,6 @@
+id: back-bar
+category: furniture
+type: furnishing
+furnishing: "Back Bar"
+tags: [furniture, housing]
+status: stable

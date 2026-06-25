@@ -1,0 +1,6 @@
+id: garment-rack
+category: furniture
+type: furnishing
+furnishing: "Garment Rack"
+tags: [furniture, housing]
+status: stable

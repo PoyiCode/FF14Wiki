@@ -1,0 +1,6 @@
+id: riviera-counter
+category: furniture
+type: furnishing
+furnishing: "Riviera Counter"
+tags: [furniture, housing]
+status: stable

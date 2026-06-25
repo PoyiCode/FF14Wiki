@@ -1,0 +1,6 @@
+id: fabric-rack
+category: furniture
+type: furnishing
+furnishing: "Fabric Rack"
+tags: [furniture, housing]
+status: stable

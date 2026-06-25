@@ -1,0 +1,6 @@
+id: cosmetics-box
+category: furniture
+type: furnishing
+furnishing: "Cosmetics Box"
+tags: [furniture, housing]
+status: stable

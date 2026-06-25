@@ -1,0 +1,6 @@
+id: chocobo-pillar
+category: furniture
+type: furnishing
+furnishing: "Chocobo Pillar"
+tags: [furniture, housing]
+status: stable

@@ -1,0 +1,6 @@
+id: stuffed-dog
+category: furniture
+type: furnishing
+furnishing: "Stuffed Dog"
+tags: [furniture, housing]
+status: stable

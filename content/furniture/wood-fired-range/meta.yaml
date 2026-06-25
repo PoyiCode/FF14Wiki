@@ -1,0 +1,6 @@
+id: wood-fired-range
+category: furniture
+type: furnishing
+furnishing: "Wood-fired Range"
+tags: [furniture, housing]
+status: stable

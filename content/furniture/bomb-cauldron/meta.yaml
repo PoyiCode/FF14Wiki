@@ -1,0 +1,6 @@
+id: bomb-cauldron
+category: furniture
+type: furnishing
+furnishing: "Bomb Cauldron"
+tags: [furniture, housing]
+status: stable

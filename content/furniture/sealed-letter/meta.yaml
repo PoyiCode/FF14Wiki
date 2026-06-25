@@ -1,0 +1,6 @@
+id: sealed-letter
+category: furniture
+type: furnishing
+furnishing: "Sealed Letter"
+tags: [furniture, housing]
+status: stable

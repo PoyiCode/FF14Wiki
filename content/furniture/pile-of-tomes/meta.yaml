@@ -1,0 +1,6 @@
+id: pile-of-tomes
+category: furniture
+type: furnishing
+furnishing: "Pile of Tomes"
+tags: [furniture, housing]
+status: stable

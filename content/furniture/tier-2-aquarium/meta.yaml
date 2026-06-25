@@ -1,0 +1,6 @@
+id: tier-2-aquarium
+category: furniture
+type: furnishing
+furnishing: "Tier 2 Aquarium"
+tags: [furniture, housing]
+status: stable

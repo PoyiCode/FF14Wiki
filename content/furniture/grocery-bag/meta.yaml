@@ -1,0 +1,6 @@
+id: grocery-bag
+category: furniture
+type: furnishing
+furnishing: "Grocery Bag"
+tags: [furniture, housing]
+status: stable

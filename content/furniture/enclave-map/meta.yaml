@@ -1,0 +1,6 @@
+id: enclave-map
+category: furniture
+type: furnishing
+furnishing: "Enclave Map"
+tags: [furniture, housing]
+status: stable

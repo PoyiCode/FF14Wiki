@@ -1,0 +1,6 @@
+id: potion-rack
+category: furniture
+type: furnishing
+furnishing: "Potion Rack"
+tags: [furniture, housing]
+status: stable

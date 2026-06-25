@@ -1,0 +1,6 @@
+id: eorzean-lantern
+category: furniture
+type: furnishing
+furnishing: "Eorzean Lantern"
+tags: [furniture, housing]
+status: stable

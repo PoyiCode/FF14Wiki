@@ -1,0 +1,6 @@
+id: purification-module
+category: furniture
+type: furnishing
+furnishing: "Purification Module"
+tags: [furniture, housing]
+status: stable

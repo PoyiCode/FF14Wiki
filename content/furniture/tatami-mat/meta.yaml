@@ -1,0 +1,6 @@
+id: tatami-mat
+category: furniture
+type: furnishing
+furnishing: "Tatami Mat"
+tags: [furniture, housing]
+status: stable

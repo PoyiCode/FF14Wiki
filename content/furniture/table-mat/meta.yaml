@@ -1,0 +1,6 @@
+id: table-mat
+category: furniture
+type: furnishing
+furnishing: "Table Mat"
+tags: [furniture, housing]
+status: stable

@@ -1,0 +1,6 @@
+id: stage-panel
+category: furniture
+type: furnishing
+furnishing: "Stage Panel"
+tags: [furniture, housing]
+status: stable

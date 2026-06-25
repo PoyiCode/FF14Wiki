@@ -1,0 +1,6 @@
+id: milk-carton
+category: furniture
+type: furnishing
+furnishing: "Milk Carton"
+tags: [furniture, housing]
+status: stable

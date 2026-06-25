@@ -1,0 +1,6 @@
+id: wall-lantern
+category: furniture
+type: furnishing
+furnishing: "Wall Lantern"
+tags: [furniture, housing]
+status: stable

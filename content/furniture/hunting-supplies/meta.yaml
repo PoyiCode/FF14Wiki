@@ -1,0 +1,6 @@
+id: hunting-supplies
+category: furniture
+type: furnishing
+furnishing: "Hunting Supplies"
+tags: [furniture, housing]
+status: stable

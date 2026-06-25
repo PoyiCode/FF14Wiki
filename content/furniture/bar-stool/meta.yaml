@@ -1,0 +1,6 @@
+id: bar-stool
+category: furniture
+type: furnishing
+furnishing: "Bar Stool"
+tags: [furniture, housing]
+status: stable

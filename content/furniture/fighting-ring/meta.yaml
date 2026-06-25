@@ -1,0 +1,6 @@
+id: fighting-ring
+category: furniture
+type: furnishing
+furnishing: "Fighting Ring"
+tags: [furniture, housing]
+status: stable

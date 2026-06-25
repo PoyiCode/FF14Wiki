@@ -1,0 +1,6 @@
+id: grand-chair
+category: furniture
+type: furnishing
+furnishing: "Grand Chair"
+tags: [furniture, housing]
+status: stable

@@ -1,0 +1,6 @@
+id: wine-rack
+category: furniture
+type: furnishing
+furnishing: "Wine Rack"
+tags: [furniture, housing]
+status: stable

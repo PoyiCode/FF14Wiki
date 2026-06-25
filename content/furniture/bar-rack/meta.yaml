@@ -1,0 +1,6 @@
+id: bar-rack
+category: furniture
+type: furnishing
+furnishing: "Bar Rack"
+tags: [furniture, housing]
+status: stable

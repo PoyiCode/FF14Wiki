@@ -1,0 +1,6 @@
+id: sheep-rug
+category: furniture
+type: furnishing
+furnishing: "Sheep Rug"
+tags: [furniture, housing]
+status: stable

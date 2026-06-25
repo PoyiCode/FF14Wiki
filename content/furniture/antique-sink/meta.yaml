@@ -1,0 +1,6 @@
+id: antique-sink
+category: furniture
+type: furnishing
+furnishing: "Antique Sink"
+tags: [furniture, housing]
+status: stable

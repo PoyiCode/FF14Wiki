@@ -1,0 +1,6 @@
+id: laundry-basket
+category: furniture
+type: furnishing
+furnishing: "Laundry Basket"
+tags: [furniture, housing]
+status: stable

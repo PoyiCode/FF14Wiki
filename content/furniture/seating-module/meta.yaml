@@ -1,0 +1,6 @@
+id: seating-module
+category: furniture
+type: furnishing
+furnishing: "Seating Module"
+tags: [furniture, housing]
+status: stable

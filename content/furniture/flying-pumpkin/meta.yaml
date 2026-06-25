@@ -1,0 +1,6 @@
+id: flying-pumpkin
+category: furniture
+type: furnishing
+furnishing: "Flying Pumpkin"
+tags: [furniture, housing]
+status: stable

@@ -1,0 +1,6 @@
+id: factory-railing
+category: furniture
+type: furnishing
+furnishing: "Factory Railing"
+tags: [furniture, housing]
+status: stable

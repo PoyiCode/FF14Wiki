@@ -1,0 +1,6 @@
+id: classic-tableware
+category: furniture
+type: furnishing
+furnishing: "Classic Tableware"
+tags: [furniture, housing]
+status: stable

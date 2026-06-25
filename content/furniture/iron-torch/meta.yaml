@@ -1,0 +1,6 @@
+id: iron-torch
+category: furniture
+type: furnishing
+furnishing: "Iron Torch"
+tags: [furniture, housing]
+status: stable

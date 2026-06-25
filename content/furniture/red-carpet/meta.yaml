@@ -1,0 +1,6 @@
+id: red-carpet
+category: furniture
+type: furnishing
+furnishing: "Red Carpet"
+tags: [furniture, housing]
+status: stable

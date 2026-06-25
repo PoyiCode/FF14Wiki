@@ -1,0 +1,6 @@
+id: leather-sofa
+category: furniture
+type: furnishing
+furnishing: "Leather Sofa"
+tags: [furniture, housing]
+status: stable

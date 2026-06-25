@@ -1,0 +1,6 @@
+id: ishgardian-stove
+category: furniture
+type: furnishing
+furnishing: "Ishgardian Stove"
+tags: [furniture, housing]
+status: stable

@@ -1,0 +1,6 @@
+id: manor-fireplace
+category: furniture
+type: furnishing
+furnishing: "Manor Fireplace"
+tags: [furniture, housing]
+status: stable

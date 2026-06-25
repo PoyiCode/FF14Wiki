@@ -1,0 +1,6 @@
+id: funguar-chair
+category: furniture
+type: furnishing
+furnishing: "Funguar Chair"
+tags: [furniture, housing]
+status: stable

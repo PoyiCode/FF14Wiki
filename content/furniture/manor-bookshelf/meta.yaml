@@ -1,0 +1,6 @@
+id: manor-bookshelf
+category: furniture
+type: furnishing
+furnishing: "Manor Bookshelf"
+tags: [furniture, housing]
+status: stable

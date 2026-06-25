@@ -1,0 +1,6 @@
+id: staggered-shelf
+category: furniture
+type: furnishing
+furnishing: "Staggered Shelf"
+tags: [furniture, housing]
+status: stable

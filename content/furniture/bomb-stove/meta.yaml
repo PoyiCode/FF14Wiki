@@ -1,0 +1,6 @@
+id: bomb-stove
+category: furniture
+type: furnishing
+furnishing: "Bomb Stove"
+tags: [furniture, housing]
+status: stable

@@ -1,0 +1,6 @@
+id: vending-machine-nine
+category: furniture
+type: furnishing
+furnishing: "Vending Machine Nine"
+tags: [furniture, housing]
+status: stable

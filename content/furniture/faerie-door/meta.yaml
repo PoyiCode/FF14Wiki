@@ -1,0 +1,6 @@
+id: faerie-door
+category: furniture
+type: furnishing
+furnishing: "Faerie Door"
+tags: [furniture, housing]
+status: stable

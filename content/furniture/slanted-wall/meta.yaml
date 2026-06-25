@@ -1,0 +1,6 @@
+id: slanted-wall
+category: furniture
+type: furnishing
+furnishing: "Slanted Wall"
+tags: [furniture, housing]
+status: stable

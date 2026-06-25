@@ -1,0 +1,6 @@
+id: icebox
+category: furniture
+type: furnishing
+furnishing: "Icebox"
+tags: [furniture, housing]
+status: stable

@@ -1,0 +1,6 @@
+id: simple-curtain
+category: furniture
+type: furnishing
+furnishing: "Simple Curtain"
+tags: [furniture, housing]
+status: stable

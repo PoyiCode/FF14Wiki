@@ -1,0 +1,6 @@
+id: ale-tap
+category: furniture
+type: furnishing
+furnishing: "Ale Tap"
+tags: [furniture, housing]
+status: stable

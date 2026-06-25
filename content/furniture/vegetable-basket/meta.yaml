@@ -1,0 +1,6 @@
+id: vegetable-basket
+category: furniture
+type: furnishing
+furnishing: "Vegetable Basket"
+tags: [furniture, housing]
+status: stable

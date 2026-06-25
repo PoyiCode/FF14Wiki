@@ -1,0 +1,6 @@
+id: wine-barrel
+category: furniture
+type: furnishing
+furnishing: "Wine Barrel"
+tags: [furniture, housing]
+status: stable

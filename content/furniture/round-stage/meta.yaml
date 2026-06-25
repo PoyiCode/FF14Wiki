@@ -1,0 +1,6 @@
+id: round-stage
+category: furniture
+type: furnishing
+furnishing: "Round Stage"
+tags: [furniture, housing]
+status: stable

@@ -1,0 +1,6 @@
+id: washbasin
+category: furniture
+type: furnishing
+furnishing: "Washbasin"
+tags: [furniture, housing]
+status: stable

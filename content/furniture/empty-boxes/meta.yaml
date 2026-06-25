@@ -1,0 +1,6 @@
+id: empty-boxes
+category: furniture
+type: furnishing
+furnishing: "Empty Boxes"
+tags: [furniture, housing]
+status: stable

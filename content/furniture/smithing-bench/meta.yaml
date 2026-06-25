@@ -1,0 +1,6 @@
+id: smithing-bench
+category: furniture
+type: furnishing
+furnishing: "Smithing Bench"
+tags: [furniture, housing]
+status: stable

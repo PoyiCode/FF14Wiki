@@ -1,0 +1,6 @@
+id: manor-cupboard
+category: furniture
+type: furnishing
+furnishing: "Manor Cupboard"
+tags: [furniture, housing]
+status: stable

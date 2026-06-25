@@ -1,0 +1,6 @@
+id: factory-grate
+category: furniture
+type: furnishing
+furnishing: "Factory Grate"
+tags: [furniture, housing]
+status: stable

@@ -1,0 +1,6 @@
+id: gordian-chair
+category: furniture
+type: furnishing
+furnishing: "Gordian Chair"
+tags: [furniture, housing]
+status: stable

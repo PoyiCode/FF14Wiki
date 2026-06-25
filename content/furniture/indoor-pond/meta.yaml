@@ -1,0 +1,6 @@
+id: indoor-pond
+category: furniture
+type: furnishing
+furnishing: "Indoor Pond"
+tags: [furniture, housing]
+status: stable

@@ -1,0 +1,6 @@
+id: mantelshelf
+category: furniture
+type: furnishing
+furnishing: "Mantelshelf"
+tags: [furniture, housing]
+status: stable

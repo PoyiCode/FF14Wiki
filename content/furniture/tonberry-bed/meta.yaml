@@ -1,0 +1,6 @@
+id: tonberry-bed
+category: furniture
+type: furnishing
+furnishing: "Tonberry Bed"
+tags: [furniture, housing]
+status: stable

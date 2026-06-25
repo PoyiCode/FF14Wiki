@@ -1,0 +1,6 @@
+id: loft-bed
+category: furniture
+type: furnishing
+furnishing: "Loft Bed"
+tags: [furniture, housing]
+status: stable

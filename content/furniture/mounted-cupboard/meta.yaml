@@ -1,0 +1,6 @@
+id: mounted-cupboard
+category: furniture
+type: furnishing
+furnishing: "Mounted Cupboard"
+tags: [furniture, housing]
+status: stable

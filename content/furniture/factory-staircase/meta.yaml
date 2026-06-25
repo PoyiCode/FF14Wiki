@@ -1,0 +1,6 @@
+id: factory-staircase
+category: furniture
+type: furnishing
+furnishing: "Factory Staircase"
+tags: [furniture, housing]
+status: stable

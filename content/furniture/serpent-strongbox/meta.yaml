@@ -1,0 +1,6 @@
+id: serpent-strongbox
+category: furniture
+type: furnishing
+furnishing: "Serpent Strongbox"
+tags: [furniture, housing]
+status: stable

@@ -1,0 +1,6 @@
+id: manor-oven
+category: furniture
+type: furnishing
+furnishing: "Manor Oven"
+tags: [furniture, housing]
+status: stable

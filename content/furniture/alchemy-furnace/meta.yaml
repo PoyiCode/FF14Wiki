@@ -1,0 +1,6 @@
+id: alchemy-furnace
+category: furniture
+type: furnishing
+furnishing: "Alchemy Furnace"
+tags: [furniture, housing]
+status: stable

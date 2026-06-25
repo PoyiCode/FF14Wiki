@@ -1,0 +1,6 @@
+id: wyvern-piece
+category: furniture
+type: furnishing
+furnishing: "Wyvern Piece"
+tags: [furniture, housing]
+status: stable

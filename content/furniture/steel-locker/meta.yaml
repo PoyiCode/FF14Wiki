@@ -1,0 +1,6 @@
+id: steel-locker
+category: furniture
+type: furnishing
+furnishing: "Steel Locker"
+tags: [furniture, housing]
+status: stable

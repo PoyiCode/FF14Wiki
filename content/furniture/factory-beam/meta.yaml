@@ -1,0 +1,6 @@
+id: factory-beam
+category: furniture
+type: furnishing
+furnishing: "Factory Beam"
+tags: [furniture, housing]
+status: stable

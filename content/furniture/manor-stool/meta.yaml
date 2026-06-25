@@ -1,0 +1,6 @@
+id: manor-stool
+category: furniture
+type: furnishing
+furnishing: "Manor Stool"
+tags: [furniture, housing]
+status: stable

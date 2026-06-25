@@ -1,0 +1,6 @@
+id: archon-egg-pouch
+category: furniture
+type: furnishing
+furnishing: "Archon Egg Pouch"
+tags: [furniture, housing]
+status: stable

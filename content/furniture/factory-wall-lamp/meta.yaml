@@ -1,0 +1,6 @@
+id: factory-wall-lamp
+category: furniture
+type: furnishing
+furnishing: "Factory Wall Lamp"
+tags: [furniture, housing]
+status: stable

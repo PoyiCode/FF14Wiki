@@ -1,0 +1,6 @@
+id: dead-man-s-chest
+category: furniture
+type: furnishing
+furnishing: "Dead Man's Chest"
+tags: [furniture, housing]
+status: stable

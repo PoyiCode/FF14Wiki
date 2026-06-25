@@ -1,0 +1,6 @@
+id: monster-toss-machine
+category: furniture
+type: furnishing
+furnishing: "Monster Toss Machine"
+tags: [furniture, housing]
+status: stable

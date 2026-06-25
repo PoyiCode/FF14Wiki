@@ -1,0 +1,6 @@
+id: lord-commander-portrait
+category: furniture
+type: furnishing
+furnishing: "Lord Commander Portrait"
+tags: [furniture, housing]
+status: stable

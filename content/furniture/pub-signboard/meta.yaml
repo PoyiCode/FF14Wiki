@@ -1,0 +1,6 @@
+id: pub-signboard
+category: furniture
+type: furnishing
+furnishing: "Pub Signboard"
+tags: [furniture, housing]
+status: stable

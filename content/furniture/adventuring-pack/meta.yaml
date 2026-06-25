@@ -1,0 +1,6 @@
+id: adventuring-pack
+category: furniture
+type: furnishing
+furnishing: "Adventuring Pack"
+tags: [furniture, housing]
+status: stable

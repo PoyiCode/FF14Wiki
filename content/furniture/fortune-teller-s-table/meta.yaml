@@ -1,0 +1,6 @@
+id: fortune-teller-s-table
+category: furniture
+type: furnishing
+furnishing: "Fortune-teller's Table"
+tags: [furniture, housing]
+status: stable

@@ -1,0 +1,6 @@
+id: cooking-stove
+category: furniture
+type: furnishing
+furnishing: "Cooking Stove"
+tags: [furniture, housing]
+status: stable

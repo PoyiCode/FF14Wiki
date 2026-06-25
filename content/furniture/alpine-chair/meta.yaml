@@ -1,0 +1,6 @@
+id: alpine-chair
+category: furniture
+type: furnishing
+furnishing: "Alpine Chair"
+tags: [furniture, housing]
+status: stable

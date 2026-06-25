@@ -1,0 +1,6 @@
+id: crystarium-teapot
+category: furniture
+type: furnishing
+furnishing: "Crystarium Teapot"
+tags: [furniture, housing]
+status: stable

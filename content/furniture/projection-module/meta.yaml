@@ -1,0 +1,6 @@
+id: projection-module
+category: furniture
+type: furnishing
+furnishing: "Projection Module"
+tags: [furniture, housing]
+status: stable

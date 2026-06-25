@@ -1,0 +1,6 @@
+id: stage-curtain
+category: furniture
+type: furnishing
+furnishing: "Stage Curtain"
+tags: [furniture, housing]
+status: stable

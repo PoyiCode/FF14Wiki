@@ -1,0 +1,6 @@
+id: sewing-baskets
+category: furniture
+type: furnishing
+furnishing: "Sewing Baskets"
+tags: [furniture, housing]
+status: stable

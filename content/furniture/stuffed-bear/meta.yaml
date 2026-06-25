@@ -1,0 +1,6 @@
+id: stuffed-bear
+category: furniture
+type: furnishing
+furnishing: "Stuffed Bear"
+tags: [furniture, housing]
+status: stable

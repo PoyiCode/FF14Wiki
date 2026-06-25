@@ -1,0 +1,6 @@
+id: serpent-armoire
+category: furniture
+type: furnishing
+furnishing: "Serpent Armoire"
+tags: [furniture, housing]
+status: stable

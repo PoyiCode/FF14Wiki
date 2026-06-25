@@ -1,0 +1,6 @@
+id: wooden-beam
+category: furniture
+type: furnishing
+furnishing: "Wooden Beam"
+tags: [furniture, housing]
+status: stable

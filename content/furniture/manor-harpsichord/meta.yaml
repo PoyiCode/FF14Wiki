@@ -1,0 +1,6 @@
+id: manor-harpsichord
+category: furniture
+type: furnishing
+furnishing: "Manor Harpsichord"
+tags: [furniture, housing]
+status: stable

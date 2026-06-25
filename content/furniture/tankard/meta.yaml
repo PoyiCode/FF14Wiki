@@ -1,0 +1,6 @@
+id: tankard
+category: furniture
+type: furnishing
+furnishing: "Tankard"
+tags: [furniture, housing]
+status: stable

@@ -1,0 +1,6 @@
+id: rope-stanchion
+category: furniture
+type: furnishing
+furnishing: "Rope Stanchion"
+tags: [furniture, housing]
+status: stable

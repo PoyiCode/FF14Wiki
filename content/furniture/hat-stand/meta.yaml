@@ -1,0 +1,6 @@
+id: hat-stand
+category: furniture
+type: furnishing
+furnishing: "Hat Stand"
+tags: [furniture, housing]
+status: stable

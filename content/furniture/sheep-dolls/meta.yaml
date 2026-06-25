@@ -1,0 +1,6 @@
+id: sheep-dolls
+category: furniture
+type: furnishing
+furnishing: "Sheep Dolls"
+tags: [furniture, housing]
+status: stable

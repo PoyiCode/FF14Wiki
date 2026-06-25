@@ -1,0 +1,6 @@
+id: alchemical-lantern
+category: furniture
+type: furnishing
+furnishing: "Alchemical Lantern"
+tags: [furniture, housing]
+status: stable

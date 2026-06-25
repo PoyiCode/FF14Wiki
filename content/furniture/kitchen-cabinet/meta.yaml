@@ -1,0 +1,6 @@
+id: kitchen-cabinet
+category: furniture
+type: furnishing
+furnishing: "Kitchen Cabinet"
+tags: [furniture, housing]
+status: stable

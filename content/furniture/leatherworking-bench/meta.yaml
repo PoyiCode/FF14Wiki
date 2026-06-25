@@ -1,0 +1,6 @@
+id: leatherworking-bench
+category: furniture
+type: furnishing
+furnishing: "Leatherworking Bench"
+tags: [furniture, housing]
+status: stable

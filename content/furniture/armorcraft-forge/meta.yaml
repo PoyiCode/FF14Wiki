@@ -1,0 +1,6 @@
+id: armorcraft-forge
+category: furniture
+type: furnishing
+furnishing: "Armorcraft Forge"
+tags: [furniture, housing]
+status: stable

@@ -1,0 +1,6 @@
+id: clothcraft-loom
+category: furniture
+type: furnishing
+furnishing: "Clothcraft Loom"
+tags: [furniture, housing]
+status: stable

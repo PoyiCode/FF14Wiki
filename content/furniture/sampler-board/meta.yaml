@@ -1,0 +1,6 @@
+id: sampler-board
+category: furniture
+type: furnishing
+furnishing: "Sampler Board"
+tags: [furniture, housing]
+status: stable

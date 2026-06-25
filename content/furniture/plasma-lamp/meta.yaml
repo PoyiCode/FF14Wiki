@@ -1,0 +1,6 @@
+id: plasma-lamp
+category: furniture
+type: furnishing
+furnishing: "Plasma Lamp"
+tags: [furniture, housing]
+status: stable

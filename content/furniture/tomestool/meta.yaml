@@ -1,0 +1,6 @@
+id: tomestool
+category: furniture
+type: furnishing
+furnishing: "Tomestool"
+tags: [furniture, housing]
+status: stable

@@ -1,0 +1,6 @@
+id: sandwich-basket
+category: furniture
+type: furnishing
+furnishing: "Sandwich Basket"
+tags: [furniture, housing]
+status: stable

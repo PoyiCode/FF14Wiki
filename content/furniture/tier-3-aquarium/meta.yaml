@@ -1,0 +1,6 @@
+id: tier-3-aquarium
+category: furniture
+type: furnishing
+furnishing: "Tier 3 Aquarium"
+tags: [furniture, housing]
+status: stable

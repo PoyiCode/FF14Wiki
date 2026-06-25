@@ -1,0 +1,6 @@
+id: nekropolis-table
+category: furniture
+type: furnishing
+furnishing: "Nekropolis Table"
+tags: [furniture, housing]
+status: stable

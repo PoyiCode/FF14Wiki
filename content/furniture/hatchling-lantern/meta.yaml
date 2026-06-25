@@ -1,0 +1,6 @@
+id: hatchling-lantern
+category: furniture
+type: furnishing
+furnishing: "Hatchling Lantern"
+tags: [furniture, housing]
+status: stable

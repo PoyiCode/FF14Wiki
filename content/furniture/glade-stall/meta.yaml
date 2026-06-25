@@ -1,0 +1,6 @@
+id: glade-stall
+category: furniture
+type: furnishing
+furnishing: "Glade Stall"
+tags: [furniture, housing]
+status: stable

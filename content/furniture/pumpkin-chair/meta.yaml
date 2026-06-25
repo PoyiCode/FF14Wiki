@@ -1,0 +1,6 @@
+id: pumpkin-chair
+category: furniture
+type: furnishing
+furnishing: "Pumpkin Chair"
+tags: [furniture, housing]
+status: stable

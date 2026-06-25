@@ -1,0 +1,6 @@
+id: glass-jars
+category: furniture
+type: furnishing
+furnishing: "Glass Jars"
+tags: [furniture, housing]
+status: stable

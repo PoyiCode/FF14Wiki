@@ -1,0 +1,6 @@
+id: paint-can
+category: furniture
+type: furnishing
+furnishing: "Paint Can"
+tags: [furniture, housing]
+status: stable

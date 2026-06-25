@@ -1,0 +1,6 @@
+id: factory-partition
+category: furniture
+type: furnishing
+furnishing: "Factory Partition"
+tags: [furniture, housing]
+status: stable

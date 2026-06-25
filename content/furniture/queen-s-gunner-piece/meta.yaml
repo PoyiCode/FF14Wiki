@@ -1,0 +1,6 @@
+id: queen-s-gunner-piece
+category: furniture
+type: furnishing
+furnishing: "Queen's Gunner Piece"
+tags: [furniture, housing]
+status: stable

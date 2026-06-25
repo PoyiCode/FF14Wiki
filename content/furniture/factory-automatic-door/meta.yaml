@@ -1,0 +1,6 @@
+id: factory-automatic-door
+category: furniture
+type: furnishing
+furnishing: "Factory Automatic Door"
+tags: [furniture, housing]
+status: stable

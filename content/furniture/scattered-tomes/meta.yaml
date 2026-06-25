@@ -1,0 +1,6 @@
+id: scattered-tomes
+category: furniture
+type: furnishing
+furnishing: "Scattered Tomes"
+tags: [furniture, housing]
+status: stable

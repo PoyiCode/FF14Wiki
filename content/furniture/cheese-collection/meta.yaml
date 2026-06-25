@@ -1,0 +1,6 @@
+id: cheese-collection
+category: furniture
+type: furnishing
+furnishing: "Cheese Collection"
+tags: [furniture, housing]
+status: stable

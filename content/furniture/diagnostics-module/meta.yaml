@@ -1,0 +1,6 @@
+id: diagnostics-module
+category: furniture
+type: furnishing
+furnishing: "Diagnostics Module"
+tags: [furniture, housing]
+status: stable

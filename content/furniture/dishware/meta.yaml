@@ -1,0 +1,6 @@
+id: dishware
+category: furniture
+type: furnishing
+furnishing: "Dishware"
+tags: [furniture, housing]
+status: stable

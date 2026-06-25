@@ -1,0 +1,6 @@
+id: dish-rack
+category: furniture
+type: furnishing
+furnishing: "Dish Rack"
+tags: [furniture, housing]
+status: stable

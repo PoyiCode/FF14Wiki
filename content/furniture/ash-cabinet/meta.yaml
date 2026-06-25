@@ -1,0 +1,6 @@
+id: ash-cabinet
+category: furniture
+type: furnishing
+furnishing: "Ash Cabinet"
+tags: [furniture, housing]
+status: stable

@@ -1,0 +1,6 @@
+id: corner-counter
+category: furniture
+type: furnishing
+furnishing: "Corner Counter"
+tags: [furniture, housing]
+status: stable

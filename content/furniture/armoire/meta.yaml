@@ -1,0 +1,6 @@
+id: armoire
+category: furniture
+type: furnishing
+furnishing: "Armoire"
+tags: [furniture, housing]
+status: stable

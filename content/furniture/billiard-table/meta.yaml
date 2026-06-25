@@ -1,0 +1,6 @@
+id: billiard-table
+category: furniture
+type: furnishing
+furnishing: "Billiard Table"
+tags: [furniture, housing]
+status: stable

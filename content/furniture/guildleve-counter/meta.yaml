@@ -1,0 +1,6 @@
+id: guildleve-counter
+category: furniture
+type: furnishing
+furnishing: "Guildleve Counter"
+tags: [furniture, housing]
+status: stable

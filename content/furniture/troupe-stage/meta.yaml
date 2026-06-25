@@ -1,0 +1,6 @@
+id: troupe-stage
+category: furniture
+type: furnishing
+furnishing: "Troupe Stage"
+tags: [furniture, housing]
+status: stable

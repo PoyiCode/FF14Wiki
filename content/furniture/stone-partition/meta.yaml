@@ -1,0 +1,6 @@
+id: stone-partition
+category: furniture
+type: furnishing
+furnishing: "Stone Partition"
+tags: [furniture, housing]
+status: stable

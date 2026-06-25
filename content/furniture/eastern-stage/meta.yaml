@@ -1,0 +1,6 @@
+id: eastern-stage
+category: furniture
+type: furnishing
+furnishing: "Eastern Stage"
+tags: [furniture, housing]
+status: stable

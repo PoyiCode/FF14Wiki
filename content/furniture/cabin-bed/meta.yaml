@@ -1,0 +1,6 @@
+id: cabin-bed
+category: furniture
+type: furnishing
+furnishing: "Cabin Bed"
+tags: [furniture, housing]
+status: stable

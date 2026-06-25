@@ -1,0 +1,6 @@
+id: merchant-s-shelf
+category: furniture
+type: furnishing
+furnishing: "Merchant's Shelf"
+tags: [furniture, housing]
+status: stable

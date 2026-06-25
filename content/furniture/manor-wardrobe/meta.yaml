@@ -1,0 +1,6 @@
+id: manor-wardrobe
+category: furniture
+type: furnishing
+furnishing: "Manor Wardrobe"
+tags: [furniture, housing]
+status: stable

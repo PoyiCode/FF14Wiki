@@ -1,0 +1,6 @@
+id: wooden-blinds
+category: furniture
+type: furnishing
+furnishing: "Wooden Blinds"
+tags: [furniture, housing]
+status: stable

@@ -1,0 +1,6 @@
+id: cutting-board
+category: furniture
+type: furnishing
+furnishing: "Cutting Board"
+tags: [furniture, housing]
+status: stable

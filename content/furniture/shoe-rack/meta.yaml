@@ -1,0 +1,6 @@
+id: shoe-rack
+category: furniture
+type: furnishing
+furnishing: "Shoe Rack"
+tags: [furniture, housing]
+status: stable

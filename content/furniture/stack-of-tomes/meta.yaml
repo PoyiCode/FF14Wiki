@@ -1,0 +1,6 @@
+id: stack-of-tomes
+category: furniture
+type: furnishing
+furnishing: "Stack of Tomes"
+tags: [furniture, housing]
+status: stable

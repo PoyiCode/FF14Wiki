@@ -1,0 +1,6 @@
+id: ashtray
+category: furniture
+type: furnishing
+furnishing: "Ashtray"
+tags: [furniture, housing]
+status: stable

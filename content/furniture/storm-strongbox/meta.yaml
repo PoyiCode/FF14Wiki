@@ -1,0 +1,6 @@
+id: storm-strongbox
+category: furniture
+type: furnishing
+furnishing: "Storm Strongbox"
+tags: [furniture, housing]
+status: stable

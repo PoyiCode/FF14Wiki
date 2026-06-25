@@ -1,0 +1,6 @@
+id: manor-table
+category: furniture
+type: furnishing
+furnishing: "Manor Table"
+tags: [furniture, housing]
+status: stable

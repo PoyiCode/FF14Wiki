@@ -1,0 +1,6 @@
+id: hatchling-lamp
+category: furniture
+type: furnishing
+furnishing: "Hatchling Lamp"
+tags: [furniture, housing]
+status: stable

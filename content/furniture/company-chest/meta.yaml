@@ -1,0 +1,6 @@
+id: company-chest
+category: furniture
+type: furnishing
+furnishing: "Company Chest"
+tags: [furniture, housing]
+status: stable

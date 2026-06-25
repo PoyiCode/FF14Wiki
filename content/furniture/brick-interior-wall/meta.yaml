@@ -1,0 +1,6 @@
+id: brick-interior-wall
+category: furniture
+type: furnishing
+furnishing: "Brick Interior Wall"
+tags: [furniture, housing]
+status: stable

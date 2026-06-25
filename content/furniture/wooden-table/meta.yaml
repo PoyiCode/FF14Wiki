@@ -1,0 +1,6 @@
+id: wooden-table
+category: furniture
+type: furnishing
+furnishing: "Wooden Table"
+tags: [furniture, housing]
+status: stable

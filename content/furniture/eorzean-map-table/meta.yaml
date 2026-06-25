@@ -1,0 +1,6 @@
+id: eorzean-map-table
+category: furniture
+type: furnishing
+furnishing: "Eorzean Map Table"
+tags: [furniture, housing]
+status: stable

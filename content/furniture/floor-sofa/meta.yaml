@@ -1,0 +1,6 @@
+id: floor-sofa
+category: furniture
+type: furnishing
+furnishing: "Floor Sofa"
+tags: [furniture, housing]
+status: stable

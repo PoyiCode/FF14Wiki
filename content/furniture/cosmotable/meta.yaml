@@ -1,0 +1,6 @@
+id: cosmotable
+category: furniture
+type: furnishing
+furnishing: "Cosmotable"
+tags: [furniture, housing]
+status: stable

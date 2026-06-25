@@ -1,0 +1,6 @@
+id: red-brick-counter
+category: furniture
+type: furnishing
+furnishing: "Red Brick Counter"
+tags: [furniture, housing]
+status: stable

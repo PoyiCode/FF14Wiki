@@ -1,0 +1,6 @@
+id: simple-sink
+category: furniture
+type: furnishing
+furnishing: "Simple Sink"
+tags: [furniture, housing]
+status: stable

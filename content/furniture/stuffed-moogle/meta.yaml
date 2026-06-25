@@ -1,0 +1,6 @@
+id: stuffed-moogle
+category: furniture
+type: furnishing
+furnishing: "Stuffed Moogle"
+tags: [furniture, housing]
+status: stable

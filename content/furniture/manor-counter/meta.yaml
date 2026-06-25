@@ -1,0 +1,6 @@
+id: manor-counter
+category: furniture
+type: furnishing
+furnishing: "Manor Counter"
+tags: [furniture, housing]
+status: stable

@@ -1,0 +1,6 @@
+id: manor-couch
+category: furniture
+type: furnishing
+furnishing: "Manor Couch"
+tags: [furniture, housing]
+status: stable

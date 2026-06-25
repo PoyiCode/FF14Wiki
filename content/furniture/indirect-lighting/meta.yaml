@@ -1,0 +1,6 @@
+id: indirect-lighting
+category: furniture
+type: furnishing
+furnishing: "Indirect Lighting"
+tags: [furniture, housing]
+status: stable

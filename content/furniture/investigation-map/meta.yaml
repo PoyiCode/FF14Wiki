@@ -1,0 +1,6 @@
+id: investigation-map
+category: furniture
+type: furnishing
+furnishing: "Investigation Map"
+tags: [furniture, housing]
+status: stable

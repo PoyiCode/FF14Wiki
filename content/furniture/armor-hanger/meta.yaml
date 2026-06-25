@@ -1,0 +1,6 @@
+id: armor-hanger
+category: furniture
+type: furnishing
+furnishing: "Armor Hanger"
+tags: [furniture, housing]
+status: stable

@@ -1,0 +1,6 @@
+id: wall-planter
+category: furniture
+type: furnishing
+furnishing: "Wall Planter"
+tags: [furniture, housing]
+status: stable

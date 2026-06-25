@@ -1,0 +1,6 @@
+id: stuffed-flag
+category: furniture
+type: furnishing
+furnishing: "Stuffed Flag"
+tags: [furniture, housing]
+status: stable

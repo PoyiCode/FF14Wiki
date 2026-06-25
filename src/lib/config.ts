@@ -200,6 +200,16 @@ export const CATEGORIES: CategoryDef[] = [
       en: 'The dishes of Eorzea and their flavours, so the bot can chat about favourite foods, order at a tavern, and describe a meal.',
     },
   },
+  {
+    key: 'furniture',
+    label: { 'zh-TW': '家具', 'zh-CN': '家具', ja: '家具', en: 'Furniture' },
+    description: {
+      'zh-TW': '居民布置房屋用的家具與擺設，讓 bot 能聊自己的家、描述室內裝潢與收藏。',
+      'zh-CN': '居民布置房屋用的家具与摆设，让 bot 能聊自己的家、描述室内装潢与收藏。',
+      ja: '住民が家を飾る家具・調度品。botが自分の家を語り、内装やコレクションを描けるように。',
+      en: 'The furnishings residents use to decorate their homes, so the bot can talk about its own home, interior decor and collections.',
+    },
+  },
 ];
 
 export const CATEGORY_KEYS = CATEGORIES.map((c) => c.key);

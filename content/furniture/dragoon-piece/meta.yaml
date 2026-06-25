@@ -1,0 +1,6 @@
+id: dragoon-piece
+category: furniture
+type: furnishing
+furnishing: "Dragoon Piece"
+tags: [furniture, housing]
+status: stable

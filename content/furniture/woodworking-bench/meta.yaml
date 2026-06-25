@@ -1,0 +1,6 @@
+id: woodworking-bench
+category: furniture
+type: furnishing
+furnishing: "Woodworking Bench"
+tags: [furniture, housing]
+status: stable

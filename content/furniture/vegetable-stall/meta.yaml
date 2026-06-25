@@ -1,0 +1,6 @@
+id: vegetable-stall
+category: furniture
+type: furnishing
+furnishing: "Vegetable Stall"
+tags: [furniture, housing]
+status: stable

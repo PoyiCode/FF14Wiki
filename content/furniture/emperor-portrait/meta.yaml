@@ -1,0 +1,6 @@
+id: emperor-portrait
+category: furniture
+type: furnishing
+furnishing: "Emperor Portrait"
+tags: [furniture, housing]
+status: stable

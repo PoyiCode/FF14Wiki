@@ -1,0 +1,6 @@
+id: royal-bed
+category: furniture
+type: furnishing
+furnishing: "Royal Bed"
+tags: [furniture, housing]
+status: stable

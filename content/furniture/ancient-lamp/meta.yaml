@@ -1,0 +1,6 @@
+id: ancient-lamp
+category: furniture
+type: furnishing
+furnishing: "Ancient Lamp"
+tags: [furniture, housing]
+status: stable

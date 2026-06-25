@@ -1,0 +1,6 @@
+id: leather-bags
+category: furniture
+type: furnishing
+furnishing: "Leather Bags"
+tags: [furniture, housing]
+status: stable

@@ -1,0 +1,6 @@
+id: wilds-banner
+category: furniture
+type: furnishing
+furnishing: "Wilds Banner"
+tags: [furniture, housing]
+status: stable

@@ -1,0 +1,6 @@
+id: bar-counter
+category: furniture
+type: furnishing
+furnishing: "Bar Counter"
+tags: [furniture, housing]
+status: stable

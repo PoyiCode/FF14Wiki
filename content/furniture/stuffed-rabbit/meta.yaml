@@ -1,0 +1,6 @@
+id: stuffed-rabbit
+category: furniture
+type: furnishing
+furnishing: "Stuffed Rabbit"
+tags: [furniture, housing]
+status: stable

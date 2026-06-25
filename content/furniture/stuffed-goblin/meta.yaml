@@ -1,0 +1,6 @@
+id: stuffed-goblin
+category: furniture
+type: furnishing
+furnishing: "Stuffed Goblin"
+tags: [furniture, housing]
+status: stable

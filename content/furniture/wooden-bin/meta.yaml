@@ -1,0 +1,6 @@
+id: wooden-bin
+category: furniture
+type: furnishing
+furnishing: "Wooden Bin"
+tags: [furniture, housing]
+status: stable

@@ -1,0 +1,6 @@
+id: storm-armoire
+category: furniture
+type: furnishing
+furnishing: "Storm Armoire"
+tags: [furniture, housing]
+status: stable

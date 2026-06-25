@@ -1,0 +1,6 @@
+id: goldsmithing-bench
+category: furniture
+type: furnishing
+furnishing: "Goldsmithing Bench"
+tags: [furniture, housing]
+status: stable

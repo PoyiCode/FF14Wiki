@@ -1,0 +1,6 @@
+id: toy-box
+category: furniture
+type: furnishing
+furnishing: "Toy Box"
+tags: [furniture, housing]
+status: stable

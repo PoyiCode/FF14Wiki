@@ -1,0 +1,6 @@
+id: shipping-crate
+category: furniture
+type: furnishing
+furnishing: "Shipping Crate"
+tags: [furniture, housing]
+status: stable
