@@ -1,0 +1,8 @@
+id: the-lavender-beds
+category: world
+type: housing_district
+area: "The Lavender Beds"
+region: "The Black Shroud"
+related: [the-black-shroud]
+tags: [housing-district, world, travel]
+status: stable

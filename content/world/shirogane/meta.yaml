@@ -1,0 +1,8 @@
+id: shirogane
+category: world
+type: housing_district
+area: "Shirogane"
+region: "Hingashi"
+related: [hingashi]
+tags: [housing-district, world, travel]
+status: stable

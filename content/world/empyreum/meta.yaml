@@ -1,0 +1,8 @@
+id: empyreum
+category: world
+type: housing_district
+area: "Empyreum"
+region: "Coerthas"
+related: [coerthas]
+tags: [housing-district, world, travel]
+status: stable

@@ -1,0 +1,8 @@
+id: the-pillars
+category: world
+type: city_area
+area: "The Pillars"
+region: "Coerthas"
+related: [coerthas]
+tags: [city-area, world, travel]
+status: stable

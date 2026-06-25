@@ -1,0 +1,8 @@
+id: the-goblet
+category: world
+type: housing_district
+area: "The Goblet"
+region: "Thanalan"
+related: [thanalan]
+tags: [housing-district, world, travel]
+status: stable

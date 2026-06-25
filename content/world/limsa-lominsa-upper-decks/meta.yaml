@@ -1,0 +1,8 @@
+id: limsa-lominsa-upper-decks
+category: world
+type: city_area
+area: "Limsa Lominsa Upper Decks"
+region: "La Noscea"
+related: [la-noscea]
+tags: [city-area, world, travel]
+status: stable

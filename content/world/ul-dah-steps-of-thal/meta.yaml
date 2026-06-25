@@ -1,0 +1,8 @@
+id: ul-dah-steps-of-thal
+category: world
+type: city_area
+area: "Ul'dah - Steps of Thal"
+region: "Thanalan"
+related: [thanalan]
+tags: [city-area, world, travel]
+status: stable

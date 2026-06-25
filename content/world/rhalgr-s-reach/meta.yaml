@@ -1,0 +1,8 @@
+id: rhalgr-s-reach
+category: world
+type: city_area
+area: "Rhalgr's Reach"
+region: "Gyr Abania"
+related: [gyr-abania]
+tags: [city-area, world, travel]
+status: stable

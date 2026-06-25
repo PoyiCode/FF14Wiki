@@ -1,0 +1,462 @@
+[
+ {
+  "slug": "mist",
+  "en": "Mist",
+  "type": "housing-district",
+  "n": {
+   "en": "Mist",
+   "zh-CN": "海雾村",
+   "zh-TW": "海霧村",
+   "ja": "ミスト・ヴィレッジ"
+  },
+  "region": {
+   "en": "La Noscea",
+   "zh-CN": "拉诺西亚",
+   "zh-TW": "拉諾西亞",
+   "ja": "ラノシア"
+  },
+  "regionSlug": "la-noscea",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "the-lavender-beds",
+  "en": "The Lavender Beds",
+  "type": "housing-district",
+  "n": {
+   "en": "The Lavender Beds",
+   "zh-CN": "薰衣草苗圃",
+   "zh-TW": "薰衣草苗圃",
+   "ja": "ラベンダーベッド"
+  },
+  "region": {
+   "en": "The Black Shroud",
+   "zh-CN": "黑衣森林",
+   "zh-TW": "黑衣森林",
+   "ja": "黒衣森"
+  },
+  "regionSlug": "the-black-shroud",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "the-goblet",
+  "en": "The Goblet",
+  "type": "housing-district",
+  "n": {
+   "en": "The Goblet",
+   "zh-CN": "高脚孤丘",
+   "zh-TW": "高腳孤丘",
+   "ja": "ゴブレットビュート"
+  },
+  "region": {
+   "en": "Thanalan",
+   "zh-CN": "萨纳兰",
+   "zh-TW": "薩納蘭",
+   "ja": "ザナラーン"
+  },
+  "regionSlug": "thanalan",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "shirogane",
+  "en": "Shirogane",
+  "type": "housing-district",
+  "n": {
+   "en": "Shirogane",
+   "zh-CN": "白银乡",
+   "zh-TW": "白銀鄉",
+   "ja": "シロガネ"
+  },
+  "region": {
+   "en": "Hingashi",
+   "zh-CN": "远东之国",
+   "zh-TW": "遠東之國",
+   "ja": "ひんがしの国"
+  },
+  "regionSlug": "hingashi",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "empyreum",
+  "en": "Empyreum",
+  "type": "housing-district",
+  "n": {
+   "en": "Empyreum",
+   "zh-CN": "穹顶皓天",
+   "zh-TW": "穹頂皓天",
+   "ja": "エンピレアム"
+  },
+  "region": {
+   "en": "Coerthas",
+   "zh-CN": "库尔札斯",
+   "zh-TW": "庫爾札斯",
+   "ja": "クルザス"
+  },
+  "regionSlug": "coerthas",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "limsa-lominsa-upper-decks",
+  "en": "Limsa Lominsa Upper Decks",
+  "type": "city-area",
+  "n": {
+   "en": "Limsa Lominsa Upper Decks",
+   "zh-CN": "利姆萨·罗敏萨上层甲板",
+   "zh-TW": "利姆薩·羅敏薩上層甲板",
+   "ja": "リムサ・ロミンサ：上甲板層"
+  },
+  "region": {
+   "en": "La Noscea",
+   "zh-CN": "拉诺西亚",
+   "zh-TW": "拉諾西亞",
+   "ja": "ラノシア"
+  },
+  "regionSlug": "la-noscea",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "limsa-lominsa-lower-decks",
+  "en": "Limsa Lominsa Lower Decks",
+  "type": "city-area",
+  "n": {
+   "en": "Limsa Lominsa Lower Decks",
+   "zh-CN": "利姆萨·罗敏萨下层甲板",
+   "zh-TW": "利姆薩·羅敏薩下層甲板",
+   "ja": "リムサ・ロミンサ：下甲板層"
+  },
+  "region": {
+   "en": "La Noscea",
+   "zh-CN": "拉诺西亚",
+   "zh-TW": "拉諾西亞",
+   "ja": "ラノシア"
+  },
+  "regionSlug": "la-noscea",
+  "regionLinked": true,
+  "exists": true
+ },
+ {
+  "slug": "ul-dah-steps-of-nald",
+  "en": "Ul'dah - Steps of Nald",
+  "type": "city-area",
+  "n": {
+   "en": "Ul'dah - Steps of Nald",
+   "zh-CN": "乌尔达哈现世回廊",
+   "zh-TW": "烏爾達哈現世迴廊",
+   "ja": "ウルダハ：ナル回廊"
+  },
+  "region": {
+   "en": "Thanalan",
+   "zh-CN": "萨纳兰",
+   "zh-TW": "薩納蘭",
+   "ja": "ザナラーン"
+  },
+  "regionSlug": "thanalan",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "ul-dah-steps-of-thal",
+  "en": "Ul'dah - Steps of Thal",
+  "type": "city-area",
+  "n": {
+   "en": "Ul'dah - Steps of Thal",
+   "zh-CN": "乌尔达哈来生回廊",
+   "zh-TW": "烏爾達哈來生迴廊",
+   "ja": "ウルダハ：ザル回廊"
+  },
+  "region": {
+   "en": "Thanalan",
+   "zh-CN": "萨纳兰",
+   "zh-TW": "薩納蘭",
+   "ja": "ザナラーン"
+  },
+  "regionSlug": "thanalan",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "new-gridania",
+  "en": "New Gridania",
+  "type": "city-area",
+  "n": {
+   "en": "New Gridania",
+   "zh-CN": "格里达尼亚新街",
+   "zh-TW": "格里達尼亞新街",
+   "ja": "グリダニア：新市街"
+  },
+  "region": {
+   "en": "The Black Shroud",
+   "zh-CN": "黑衣森林",
+   "zh-TW": "黑衣森林",
+   "ja": "黒衣森"
+  },
+  "regionSlug": "the-black-shroud",
+  "regionLinked": true,
+  "exists": true
+ },
+ {
+  "slug": "old-gridania",
+  "en": "Old Gridania",
+  "type": "city-area",
+  "n": {
+   "en": "Old Gridania",
+   "zh-CN": "格里达尼亚旧街",
+   "zh-TW": "格里達尼亞舊街",
+   "ja": "グリダニア：旧市街"
+  },
+  "region": {
+   "en": "The Black Shroud",
+   "zh-CN": "黑衣森林",
+   "zh-TW": "黑衣森林",
+   "ja": "黒衣森"
+  },
+  "regionSlug": "the-black-shroud",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "foundation",
+  "en": "Foundation",
+  "type": "city-area",
+  "n": {
+   "en": "Foundation",
+   "zh-CN": "伊修加德基础层",
+   "zh-TW": "伊修加德基礎層",
+   "ja": "イシュガルド：下層"
+  },
+  "region": {
+   "en": "Coerthas",
+   "zh-CN": "库尔札斯",
+   "zh-TW": "庫爾札斯",
+   "ja": "クルザス"
+  },
+  "regionSlug": "coerthas",
+  "regionLinked": true,
+  "exists": true
+ },
+ {
+  "slug": "the-pillars",
+  "en": "The Pillars",
+  "type": "city-area",
+  "n": {
+   "en": "The Pillars",
+   "zh-CN": "伊修加德砥柱层",
+   "zh-TW": "伊修加德砥柱層",
+   "ja": "イシュガルド：上層"
+  },
+  "region": {
+   "en": "Coerthas",
+   "zh-CN": "库尔札斯",
+   "zh-TW": "庫爾札斯",
+   "ja": "クルザス"
+  },
+  "regionSlug": "coerthas",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "idyllshire",
+  "en": "Idyllshire",
+  "type": "city-area",
+  "n": {
+   "en": "Idyllshire",
+   "zh-CN": "田园郡",
+   "zh-TW": "田園郡",
+   "ja": "イディルシャイア"
+  },
+  "region": {
+   "en": "Dravania",
+   "zh-CN": "龙堡",
+   "zh-TW": "龍堡",
+   "ja": "ドラヴァニア"
+  },
+  "regionSlug": "dravania",
+  "regionLinked": true,
+  "exists": true
+ },
+ {
+  "slug": "kugane",
+  "en": "Kugane",
+  "type": "city-area",
+  "n": {
+   "en": "Kugane",
+   "zh-CN": "黄金港",
+   "zh-TW": "黃金港",
+   "ja": "クガネ"
+  },
+  "region": {
+   "en": "Hingashi",
+   "zh-CN": "远东之国",
+   "zh-TW": "遠東之國",
+   "ja": "ひんがしの国"
+  },
+  "regionSlug": "hingashi",
+  "regionLinked": true,
+  "exists": true
+ },
+ {
+  "slug": "rhalgr-s-reach",
+  "en": "Rhalgr's Reach",
+  "type": "city-area",
+  "n": {
+   "en": "Rhalgr's Reach",
+   "zh-CN": "神拳痕",
+   "zh-TW": "神拳痕",
+   "ja": "ラールガーズリーチ"
+  },
+  "region": {
+   "en": "Gyr Abania",
+   "zh-CN": "基拉巴尼亚",
+   "zh-TW": "基拉巴尼亞",
+   "ja": "ギラバニア"
+  },
+  "regionSlug": "gyr-abania",
+  "regionLinked": true,
+  "exists": false
+ },
+ {
+  "slug": "the-doman-enclave",
+  "en": "The Doman Enclave",
+  "type": "city-area",
+  "n": {
+   "en": "The Doman Enclave",
+   "zh-CN": "多玛飞地",
+   "zh-TW": "多瑪飛地",
+   "ja": "ドマ町人地"
+  },
+  "region": {
+   "en": "Othard",
+   "zh-CN": "奥萨德",
+   "zh-TW": "奧薩德",
+   "ja": "オサード"
+  },
+  "regionSlug": "othard",
+  "regionLinked": true,
+  "exists": true
+ },
+ {
+  "slug": "the-crystarium",
+  "en": "The Crystarium",
+  "type": "city-area",
+  "n": {
+   "en": "The Crystarium",
+   "zh-CN": "水晶都",
+   "zh-TW": "水晶都",
+   "ja": "クリスタリウム"
+  },
+  "region": {
+   "en": "Norvrandt",
+   "zh-CN": "诺弗兰特",
+   "zh-TW": "諾弗蘭特",
+   "ja": "ノルヴラント"
+  },
+  "regionSlug": "norvrandt",
+  "regionLinked": true,
+  "exists": true
+ },
+ {
+  "slug": "eulmore",
+  "en": "Eulmore",
+  "type": "city-area",
+  "n": {
+   "en": "Eulmore",
+   "zh-CN": "游末邦",
+   "zh-TW": "遊末邦",
+   "ja": "ユールモア"
+  },
+  "region": {
+   "en": "Norvrandt",
+   "zh-CN": "诺弗兰特",
+   "zh-TW": "諾弗蘭特",
+   "ja": "ノルヴラント"
+  },
+  "regionSlug": "norvrandt",
+  "regionLinked": true,
+  "exists": true
+ },
+ {
+  "slug": "old-sharlayan",
+  "en": "Old Sharlayan",
+  "type": "city-area",
+  "n": {
+   "en": "Old Sharlayan",
+   "zh-CN": "旧萨雷安",
+   "zh-TW": "舊薩雷安",
+   "ja": "オールド・シャーレアン"
+  },
+  "region": {
+   "en": "The Northern Empty",
+   "zh-CN": "北洋地域",
+   "zh-TW": "北洋地域",
+   "ja": "北洋地域"
+  },
+  "regionSlug": "the-northern-empty",
+  "regionLinked": true,
+  "exists": true
+ },
+ {
+  "slug": "radz-at-han",
+  "en": "Radz-at-Han",
+  "type": "city-area",
+  "n": {
+   "en": "Radz-at-Han",
+   "zh-CN": "拉札罕",
+   "zh-TW": "拉札罕",
+   "ja": "ラザハン"
+  },
+  "region": {
+   "en": "Ilsabard",
+   "zh-CN": "伊尔萨巴德",
+   "zh-TW": "伊爾薩巴德",
+   "ja": "イルサバード"
+  },
+  "regionSlug": "ilsabard",
+  "regionLinked": true,
+  "exists": true
+ },
+ {
+  "slug": "tuliyollal",
+  "en": "Tuliyollal",
+  "type": "city-area",
+  "n": {
+   "en": "Tuliyollal",
+   "zh-CN": "图莱尤拉",
+   "zh-TW": "圖萊尤拉",
+   "ja": "トライヨラ"
+  },
+  "region": {
+   "en": "Yok Tural",
+   "zh-CN": "尤卡图拉尔",
+   "zh-TW": "尤卡圖拉爾",
+   "ja": "ヨカ・トラル"
+  },
+  "regionSlug": "yok-tural",
+  "regionLinked": true,
+  "exists": true
+ },
+ {
+  "slug": "solution-nine",
+  "en": "Solution Nine",
+  "type": "city-area",
+  "n": {
+   "en": "Solution Nine",
+   "zh-CN": "九号解决方案",
+   "zh-TW": "九號解決方案",
+   "ja": "ソリューション・ナイン"
+  },
+  "region": {
+   "en": "Xak Tural",
+   "zh-CN": "萨卡图拉尔",
+   "zh-TW": "薩卡圖拉爾",
+   "ja": "サカ・トラル"
+  },
+  "regionSlug": "xak-tural",
+  "regionLinked": true,
+  "exists": true
+ }
+]
