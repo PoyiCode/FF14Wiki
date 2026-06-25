@@ -1,0 +1,6 @@
+id: party-leader
+category: online-status
+type: online_status
+status_name: "Party Leader"
+tags: [online-status, social]
+status: stable

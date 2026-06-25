@@ -1,0 +1,6 @@
+id: game-master
+category: online-status
+type: online_status
+status_name: "Game Master"
+tags: [online-status, social]
+status: stable

@@ -1,0 +1,6 @@
+id: alliance-party-leader
+category: online-status
+type: online_status
+status_name: "Alliance Party Leader"
+tags: [online-status, social]
+status: stable

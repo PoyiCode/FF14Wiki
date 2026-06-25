@@ -1,0 +1,6 @@
+id: busy
+category: online-status
+type: online_status
+status_name: "Busy"
+tags: [online-status, social]
+status: stable

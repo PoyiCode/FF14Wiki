@@ -1,0 +1,6 @@
+id: free-company
+category: online-status
+type: online_status
+status_name: "Free Company"
+tags: [online-status, social]
+status: stable

@@ -1,0 +1,6 @@
+id: looking-for-repairs
+category: online-status
+type: online_status
+status_name: "Looking for Repairs"
+tags: [online-status, social]
+status: stable

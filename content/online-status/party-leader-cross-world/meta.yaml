@@ -1,0 +1,6 @@
+id: party-leader-cross-world
+category: online-status
+type: online_status
+status_name: "Party Leader (Cross-world)"
+tags: [online-status, social]
+status: stable

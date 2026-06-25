@@ -1,0 +1,6 @@
+id: party-member
+category: online-status
+type: online_status
+status_name: "Party Member"
+tags: [online-status, social]
+status: stable

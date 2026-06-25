@@ -1,0 +1,6 @@
+id: game-qa
+category: online-status
+type: online_status
+status_name: "Game QA"
+tags: [online-status, social]
+status: stable

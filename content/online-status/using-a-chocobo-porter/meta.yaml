@@ -1,0 +1,6 @@
+id: using-a-chocobo-porter
+category: online-status
+type: online_status
+status_name: "Using a Chocobo Porter"
+tags: [online-status, social]
+status: stable

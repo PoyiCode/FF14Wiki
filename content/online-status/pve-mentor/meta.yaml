@@ -1,0 +1,6 @@
+id: pve-mentor
+category: online-status
+type: online_status
+status_name: "PvE Mentor"
+tags: [online-status, social]
+status: stable

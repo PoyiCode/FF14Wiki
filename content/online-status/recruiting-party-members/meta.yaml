@@ -1,0 +1,6 @@
+id: recruiting-party-members
+category: online-status
+type: online_status
+status_name: "Recruiting Party Members"
+tags: [online-status, social]
+status: stable

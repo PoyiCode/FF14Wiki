@@ -1,0 +1,6 @@
+id: viewing-cutscene
+category: online-status
+type: online_status
+status_name: "Viewing Cutscene"
+tags: [online-status, social]
+status: stable

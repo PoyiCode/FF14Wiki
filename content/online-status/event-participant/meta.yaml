@@ -1,0 +1,6 @@
+id: event-participant
+category: online-status
+type: online_status
+status_name: "Event Participant"
+tags: [online-status, social]
+status: stable

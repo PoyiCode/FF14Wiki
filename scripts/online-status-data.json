@@ -1,0 +1,472 @@
+[
+ {
+  "slug": "game-qa",
+  "en": "Game QA",
+  "n": {
+   "en": "Game QA",
+   "zh-CN": "游戏测试",
+   "zh-TW": "遊戲測試",
+   "ja": "ゲームQA"
+  }
+ },
+ {
+  "slug": "game-master",
+  "en": "Game Master",
+  "n": {
+   "en": "Game Master",
+   "zh-CN": "游戏管理员",
+   "zh-TW": "遊戲管理員",
+   "ja": "ゲームマスター"
+  }
+ },
+ {
+  "slug": "game-master-2",
+  "en": "Game Master",
+  "n": {
+   "en": "Game Master",
+   "zh-CN": "游戏管理员",
+   "zh-TW": "遊戲管理員",
+   "ja": "ゲームマスター"
+  }
+ },
+ {
+  "slug": "event-participant",
+  "en": "Event Participant",
+  "n": {
+   "en": "Event Participant",
+   "zh-CN": "活动参与者",
+   "zh-TW": "活動參與者",
+   "ja": "イベントプレイヤー"
+  }
+ },
+ {
+  "slug": "disconnected",
+  "en": "Disconnected",
+  "n": {
+   "en": "Disconnected",
+   "zh-CN": "通信切断",
+   "zh-TW": "通信切斷",
+   "ja": "通信途絶状態"
+  }
+ },
+ {
+  "slug": "waiting-for-friend-list-approval",
+  "en": "Waiting for Friend List Approval",
+  "n": {
+   "en": "Waiting for Friend List Approval",
+   "zh-CN": "临时好友",
+   "zh-TW": "臨時好友",
+   "ja": "仮登録（フレンドリスト）"
+  }
+ },
+ {
+  "slug": "waiting-for-linkshell-approval",
+  "en": "Waiting for Linkshell Approval",
+  "n": {
+   "en": "Waiting for Linkshell Approval",
+   "zh-CN": "临时加入",
+   "zh-TW": "臨時加入",
+   "ja": "仮登録（リンクシェル）"
+  }
+ },
+ {
+  "slug": "waiting-for-free-company-approval",
+  "en": "Waiting for Free Company Approval",
+  "n": {
+   "en": "Waiting for Free Company Approval",
+   "zh-CN": "临时加入",
+   "zh-TW": "臨時加入",
+   "ja": "仮登録（フリーカンパニー）"
+  }
+ },
+ {
+  "slug": "not-found",
+  "en": "Not Found",
+  "n": {
+   "en": "Not Found",
+   "zh-CN": "不存在",
+   "zh-TW": "不存在",
+   "ja": "存在しない"
+  }
+ },
+ {
+  "slug": "offline",
+  "en": "Offline",
+  "n": {
+   "en": "Offline",
+   "zh-CN": "离线",
+   "zh-TW": "離線",
+   "ja": "オフライン"
+  }
+ },
+ {
+  "slug": "battle-mentor",
+  "en": "Battle Mentor",
+  "n": {
+   "en": "Battle Mentor",
+   "zh-CN": "战斗指导者",
+   "zh-TW": "戰鬥指導者",
+   "ja": "バトルメンター"
+  }
+ },
+ {
+  "slug": "busy",
+  "en": "Busy",
+  "n": {
+   "en": "Busy",
+   "zh-CN": "忙碌中",
+   "zh-TW": "忙碌中",
+   "ja": "取り込み中（Busy）"
+  }
+ },
+ {
+  "slug": "pvp",
+  "en": "PvP",
+  "n": {
+   "en": "PvP",
+   "zh-CN": "对战任务中",
+   "zh-TW": "對戰任務中",
+   "ja": "コンテンツ中（PvP）"
+  }
+ },
+ {
+  "slug": "playing-triple-triad",
+  "en": "Playing Triple Triad",
+  "n": {
+   "en": "Playing Triple Triad",
+   "zh-CN": "幻卡对局中",
+   "zh-TW": "幻卡對局中",
+   "ja": "カード対戦中"
+  }
+ },
+ {
+  "slug": "viewing-cutscene",
+  "en": "Viewing Cutscene",
+  "n": {
+   "en": "Viewing Cutscene",
+   "zh-CN": "过场动画中",
+   "zh-TW": "過場動畫中",
+   "ja": "イベント中"
+  }
+ },
+ {
+  "slug": "using-a-chocobo-porter",
+  "en": "Using a Chocobo Porter",
+  "n": {
+   "en": "Using a Chocobo Porter",
+   "zh-CN": "陆行鸟运输骑乘中",
+   "zh-TW": "陸行鳥運輸騎乘中",
+   "ja": "チョコボポーター騎乗中"
+  }
+ },
+ {
+  "slug": "away-from-keyboard",
+  "en": "Away from Keyboard",
+  "n": {
+   "en": "Away from Keyboard",
+   "zh-CN": "离开",
+   "zh-TW": "離開",
+   "ja": "離席"
+  }
+ },
+ {
+  "slug": "camera-mode",
+  "en": "Camera Mode",
+  "n": {
+   "en": "Camera Mode",
+   "zh-CN": "观景模式中",
+   "zh-TW": "觀景模式中",
+   "ja": "カメラモード中"
+  }
+ },
+ {
+  "slug": "looking-for-repairs",
+  "en": "Looking for Repairs",
+  "n": {
+   "en": "Looking for Repairs",
+   "zh-CN": "请求修理",
+   "zh-TW": "請求修理",
+   "ja": "修理希望"
+  }
+ },
+ {
+  "slug": "looking-to-repair",
+  "en": "Looking to Repair",
+  "n": {
+   "en": "Looking to Repair",
+   "zh-CN": "提供修理",
+   "zh-TW": "提供修理",
+   "ja": "修理請負い"
+  }
+ },
+ {
+  "slug": "looking-to-meld-materia",
+  "en": "Looking to Meld Materia",
+  "n": {
+   "en": "Looking to Meld Materia",
+   "zh-CN": "接受镶嵌魔晶石请求",
+   "zh-TW": "接受鑲嵌魔晶石請求",
+   "ja": "マテリア装着請負中"
+  }
+ },
+ {
+  "slug": "role-playing",
+  "en": "Role-playing",
+  "n": {
+   "en": "Role-playing",
+   "zh-CN": "角色扮演中",
+   "zh-TW": "角色扮演中",
+   "ja": "ロールプレイ中"
+  }
+ },
+ {
+  "slug": "looking-for-party",
+  "en": "Looking for Party",
+  "n": {
+   "en": "Looking for Party",
+   "zh-CN": "希望组队",
+   "zh-TW": "希望組隊",
+   "ja": "パーティ希望"
+  }
+ },
+ {
+  "slug": "sword-for-hire",
+  "en": "Sword for Hire",
+  "n": {
+   "en": "Sword for Hire",
+   "zh-CN": "佣兵",
+   "zh-TW": "傭兵",
+   "ja": "傭兵希望"
+  }
+ },
+ {
+  "slug": "waiting-for-duty-finder",
+  "en": "Waiting for Duty Finder",
+  "n": {
+   "en": "Waiting for Duty Finder",
+   "zh-CN": "任务搜索申请中",
+   "zh-TW": "任務搜索申請中",
+   "ja": "コンテンツ参加申請中"
+  }
+ },
+ {
+  "slug": "recruiting-party-members",
+  "en": "Recruiting Party Members",
+  "n": {
+   "en": "Recruiting Party Members",
+   "zh-CN": "队员招募中",
+   "zh-TW": "隊員招募中",
+   "ja": "パーティ募集中"
+  }
+ },
+ {
+  "slug": "mentor",
+  "en": "Mentor",
+  "n": {
+   "en": "Mentor",
+   "zh-CN": "指导者",
+   "zh-TW": "指導者",
+   "ja": "メンター"
+  }
+ },
+ {
+  "slug": "pve-mentor",
+  "en": "PvE Mentor",
+  "n": {
+   "en": "PvE Mentor",
+   "zh-CN": "战斗指导者",
+   "zh-TW": "戰鬥指導者",
+   "ja": "バトルメンター"
+  }
+ },
+ {
+  "slug": "trade-mentor",
+  "en": "Trade Mentor",
+  "n": {
+   "en": "Trade Mentor",
+   "zh-CN": "制作采集指导者",
+   "zh-TW": "製作採集指導者",
+   "ja": "製作採集メンター"
+  }
+ },
+ {
+  "slug": "pvp-mentor",
+  "en": "PvP Mentor",
+  "n": {
+   "en": "PvP Mentor",
+   "zh-CN": "对战指导者",
+   "zh-TW": "對戰指導者",
+   "ja": "PvPメンター"
+  }
+ },
+ {
+  "slug": "returner",
+  "en": "Returner",
+  "n": {
+   "en": "Returner",
+   "zh-CN": "回归者",
+   "zh-TW": "迴歸者",
+   "ja": "リターナー"
+  }
+ },
+ {
+  "slug": "new-adventurer",
+  "en": "New Adventurer",
+  "n": {
+   "en": "New Adventurer",
+   "zh-CN": "新人",
+   "zh-TW": "新人",
+   "ja": "ビギナー"
+  }
+ },
+ {
+  "slug": "alliance-leader",
+  "en": "Alliance Leader",
+  "n": {
+   "en": "Alliance Leader",
+   "zh-CN": "团队队长",
+   "zh-TW": "團隊隊長",
+   "ja": "アライアンスリーダー"
+  }
+ },
+ {
+  "slug": "alliance-party-leader",
+  "en": "Alliance Party Leader",
+  "n": {
+   "en": "Alliance Party Leader",
+   "zh-CN": "团队小队长",
+   "zh-TW": "團隊小隊長",
+   "ja": "パーティリーダー（アライアンス）"
+  }
+ },
+ {
+  "slug": "alliance-party-member",
+  "en": "Alliance Party Member",
+  "n": {
+   "en": "Alliance Party Member",
+   "zh-CN": "团队队员",
+   "zh-TW": "團隊隊員",
+   "ja": "パーティメンバー（アライアンス）"
+  }
+ },
+ {
+  "slug": "party-leader",
+  "en": "Party Leader",
+  "n": {
+   "en": "Party Leader",
+   "zh-CN": "小队队长",
+   "zh-TW": "小隊隊長",
+   "ja": "パーティリーダー"
+  }
+ },
+ {
+  "slug": "party-member",
+  "en": "Party Member",
+  "n": {
+   "en": "Party Member",
+   "zh-CN": "小队队员",
+   "zh-TW": "小隊隊員",
+   "ja": "パーティメンバー"
+  }
+ },
+ {
+  "slug": "party-leader-cross-world",
+  "en": "Party Leader (Cross-world)",
+  "n": {
+   "en": "Party Leader (Cross-world)",
+   "zh-CN": "跨服小队队长",
+   "zh-TW": "跨服小隊隊長",
+   "ja": "パーティリーダー（クロスワールド）"
+  }
+ },
+ {
+  "slug": "party-member-cross-world",
+  "en": "Party Member (Cross-world)",
+  "n": {
+   "en": "Party Member (Cross-world)",
+   "zh-CN": "跨服小队队员",
+   "zh-TW": "跨服小隊隊員",
+   "ja": "パーティメンバー（クロスワールド）"
+  }
+ },
+ {
+  "slug": "another-world",
+  "en": "Another World",
+  "n": {
+   "en": "Another World",
+   "zh-CN": "封闭任务中",
+   "zh-TW": "封閉任務中",
+   "ja": "コンテンツ中（クロスワールド）"
+  }
+ },
+ {
+  "slug": "sharing-duty",
+  "en": "Sharing Duty",
+  "n": {
+   "en": "Sharing Duty",
+   "zh-CN": "同队任务中",
+   "zh-TW": "同隊任務中",
+   "ja": "コンテンツ中（同じコンテンツ）"
+  }
+ },
+ {
+  "slug": "similar-duty",
+  "en": "Similar Duty",
+  "n": {
+   "en": "Similar Duty",
+   "zh-CN": "同一任务的其他队伍中",
+   "zh-TW": "同一任務的其他隊伍中",
+   "ja": "コンテンツ中（同じコンテンツの他グループ）"
+  }
+ },
+ {
+  "slug": "in-duty",
+  "en": "In Duty",
+  "n": {
+   "en": "In Duty",
+   "zh-CN": "任务中",
+   "zh-TW": "任務中",
+   "ja": "コンテンツ中"
+  }
+ },
+ {
+  "slug": "trial-adventurer",
+  "en": "Trial Adventurer",
+  "n": {
+   "en": "Trial Adventurer",
+   "zh-CN": "试玩期新人",
+   "zh-TW": "試玩期新人",
+   "ja": "試遊プレイヤー"
+  }
+ },
+ {
+  "slug": "free-company",
+  "en": "Free Company",
+  "n": {
+   "en": "Free Company",
+   "zh-CN": "部队",
+   "zh-TW": "部隊",
+   "ja": "フリーカンパニー"
+  }
+ },
+ {
+  "slug": "grand-company",
+  "en": "Grand Company",
+  "n": {
+   "en": "Grand Company",
+   "zh-CN": "军队",
+   "zh-TW": "軍隊",
+   "ja": "グランドカンパニー"
+  }
+ },
+ {
+  "slug": "online",
+  "en": "Online",
+  "n": {
+   "en": "Online",
+   "zh-CN": "在线",
+   "zh-TW": "在線",
+   "ja": "オンライン"
+  }
+ }
+]

@@ -1,0 +1,6 @@
+id: waiting-for-friend-list-approval
+category: online-status
+type: online_status
+status_name: "Waiting for Friend List Approval"
+tags: [online-status, social]
+status: stable

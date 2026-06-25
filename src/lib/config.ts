@@ -280,6 +280,16 @@ export const CATEGORIES: CategoryDef[] = [
       en: 'The saddles and barding residents dress their chocobo companion in, so the bot can chat about decking out its trusty bird.',
     },
   },
+  {
+    key: 'online-status',
+    label: { 'zh-TW': '線上狀態', 'zh-CN': '在线状态', ja: 'オンラインステータス', en: 'Online Status' },
+    description: {
+      'zh-TW': '玩家可顯示的線上狀態（角色扮演中、希望組隊、新人冒險者、指導者等），讓 bot 能辨識他人狀態並表達自己的社交狀態。',
+      'zh-CN': '玩家可显示的在线状态（角色扮演中、希望组队、新人冒险者、指导者等），让 bot 能辨识他人状态并表达自己的社交状态。',
+      ja: 'プレイヤーが表示できるオンラインステータス（ロールプレイ中・パーティ希望・新人・メンターなど）。botが相手の状態を読み、自分の状態を示せるように。',
+      en: 'The online statuses players can display (Role-playing, Looking for Party, New Adventurer, Mentor and more), so the bot can read others’ status and signal its own.',
+    },
+  },
 ];
 
 export const CATEGORY_KEYS = CATEGORIES.map((c) => c.key);

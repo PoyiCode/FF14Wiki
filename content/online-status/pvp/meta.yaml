@@ -1,0 +1,6 @@
+id: pvp
+category: online-status
+type: online_status
+status_name: "PvP"
+tags: [online-status, social]
+status: stable

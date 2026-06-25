@@ -1,0 +1,6 @@
+id: looking-for-party
+category: online-status
+type: online_status
+status_name: "Looking for Party"
+tags: [online-status, social]
+status: stable

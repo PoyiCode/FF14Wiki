@@ -1,0 +1,6 @@
+id: away-from-keyboard
+category: online-status
+type: online_status
+status_name: "Away from Keyboard"
+tags: [online-status, social]
+status: stable

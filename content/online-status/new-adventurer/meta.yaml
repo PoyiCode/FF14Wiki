@@ -1,0 +1,6 @@
+id: new-adventurer
+category: online-status
+type: online_status
+status_name: "New Adventurer"
+tags: [online-status, social]
+status: stable

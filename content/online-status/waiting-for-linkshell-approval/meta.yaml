@@ -1,0 +1,6 @@
+id: waiting-for-linkshell-approval
+category: online-status
+type: online_status
+status_name: "Waiting for Linkshell Approval"
+tags: [online-status, social]
+status: stable

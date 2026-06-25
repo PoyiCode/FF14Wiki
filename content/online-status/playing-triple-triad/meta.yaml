@@ -1,0 +1,6 @@
+id: playing-triple-triad
+category: online-status
+type: online_status
+status_name: "Playing Triple Triad"
+tags: [online-status, social]
+status: stable

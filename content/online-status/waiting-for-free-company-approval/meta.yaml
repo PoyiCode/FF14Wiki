@@ -1,0 +1,6 @@
+id: waiting-for-free-company-approval
+category: online-status
+type: online_status
+status_name: "Waiting for Free Company Approval"
+tags: [online-status, social]
+status: stable

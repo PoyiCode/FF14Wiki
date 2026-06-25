@@ -1,0 +1,6 @@
+id: not-found
+category: online-status
+type: online_status
+status_name: "Not Found"
+tags: [online-status, social]
+status: stable

@@ -1,0 +1,6 @@
+id: alliance-party-member
+category: online-status
+type: online_status
+status_name: "Alliance Party Member"
+tags: [online-status, social]
+status: stable

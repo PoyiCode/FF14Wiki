@@ -1,0 +1,6 @@
+id: camera-mode
+category: online-status
+type: online_status
+status_name: "Camera Mode"
+tags: [online-status, social]
+status: stable

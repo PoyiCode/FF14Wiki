@@ -1,0 +1,6 @@
+id: trade-mentor
+category: online-status
+type: online_status
+status_name: "Trade Mentor"
+tags: [online-status, social]
+status: stable
