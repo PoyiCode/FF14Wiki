@@ -220,6 +220,16 @@ export const CATEGORIES: CategoryDef[] = [
       en: 'The outdoor furnishings residents use to decorate their home exteriors and gardens, so the bot can talk about its own garden and yard.',
     },
   },
+  {
+    key: 'hairstyles',
+    label: { 'zh-TW': '髮型', 'zh-CN': '发型', ja: '髪型', en: 'Hairstyles' },
+    description: {
+      'zh-TW': '居民可換的髮型樣式，讓 bot 能描述自己的外貌、聊造型與打扮。',
+      'zh-CN': '居民可换的发型样式，让 bot 能描述自己的外貌、聊造型与打扮。',
+      ja: '住民が変えられる髪型のスタイル。botが自分の見た目を語り、スタイルや身だしなみを話せるように。',
+      en: 'The hairstyles residents can wear, so the bot can describe its own look and chat about style and grooming.',
+    },
+  },
 ];
 
 export const CATEGORY_KEYS = CATEGORIES.map((c) => c.key);

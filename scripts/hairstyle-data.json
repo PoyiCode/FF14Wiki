@@ -1,0 +1,786 @@
+[
+ {
+  "slug": "ponytails",
+  "en": "Ponytails",
+  "n": {
+   "en": "Ponytails",
+   "zh-CN": "马尾辫",
+   "zh-TW": "馬尾辮",
+   "ja": "ポニーテール"
+  },
+  "desc": {
+   "en": "The realm's premier publication on beauty and fashion, this specific copy of *Modern Aesthetics* covers, in detail, techniques on tying the perfect ponytail.",
+   "zh-CN": "上面记载着传统发型——马尾辫。",
+   "zh-TW": "上面記載着傳統髮型——馬尾辮。",
+   "ja": "伝統的なヘアスタイルが記されたヘアカタログ"
+  }
+ },
+ {
+  "slug": "scion-special-issue",
+  "en": "Scion Special Issue",
+  "n": {
+   "en": "Scion Special Issue",
+   "zh-CN": "拂晓盟主",
+   "zh-TW": "拂曉盟主",
+   "ja": "暁の盟主"
+  },
+  "desc": {
+   "en": "The realm's premier publication on beauty and fashion, this limited edition of *Modern Aesthetics* covers, in detail, techniques on transforming yourself into Scions of the Seventh Dawn Antecedent Minfilia.",
+   "zh-CN": "上面记载着拂晓血盟盟主的发型。",
+   "zh-TW": "上面記載着拂曉血盟盟主的髮型。",
+   "ja": "暁の盟主のヘアスタイルが記されたヘアカタログ"
+  }
+ },
+ {
+  "slug": "curls",
+  "en": "Curls",
+  "n": {
+   "en": "Curls",
+   "zh-CN": "卷发",
+   "zh-TW": "捲髮",
+   "ja": "カーリー"
+  },
+  "desc": {
+   "en": "The realm's premier publication on beauty and fashion, this specific copy of *Modern Aesthetics* covers, in detail, techniques on crafting a perfect dome of tight curls.",
+   "zh-CN": "上面记载着杂乱的卷发发型。",
+   "zh-TW": "上面記載着雜亂的捲髮髮型。",
+   "ja": "モサモサしたヘアスタイルが記されたヘアカタログ"
+  }
+ },
+ {
+  "slug": "adventure",
+  "en": "Adventure",
+  "n": {
+   "en": "Adventure",
+   "zh-CN": "冒险者",
+   "zh-TW": "冒險者",
+   "ja": "アドベンチャラー"
+  },
+  "desc": {
+   "en": "The realm's premier publication on beauty and fashion, this limited edition of *Modern Aesthetics* covers, in detail, a hair styling technique submitted by one of the realm's readers.",
+   "zh-CN": "上面记载着听取了冒险者意见而采用的发型。",
+   "zh-TW": "上面記載着聽取了冒險者意見而採用的髮型。",
+   "ja": "冒険者の意見を採り入れたヘアスタイルが記されたヘアカタログ"
+  }
+ },
+ {
+  "slug": "pulse",
+  "en": "Pulse",
+  "n": {
+   "en": "Pulse",
+   "zh-CN": "雷光&斯诺",
+   "zh-TW": "雷光&斯諾",
+   "ja": "ライトニング＆スノウ"
+  },
+  "desc": {
+   "en": "The realm's premier publication on beauty and fashion, this specific copy of *Modern Aesthetics* covers, in detail, techniques on becoming the ultimate enigmatic protagonist.",
+   "zh-CN": "上面记载着特殊的发型。",
+   "zh-TW": "上面記載着特殊的髮型。",
+   "ja": "特別なヘアスタイルが記されたヘアカタログ"
+  }
+ },
+ {
+  "slug": "scion-special-issue-ii",
+  "en": "Scion Special Issue II",
+  "n": {
+   "en": "Scion Special Issue II",
+   "zh-CN": "血盟双剑师",
+   "zh-TW": "血盟雙劍師",
+   "ja": "サイオンズローグ"
+  },
+  "desc": {
+   "en": "The realm's premier publication on beauty and fashion, this limited edition of *Modern Aesthetics* covers, in detail, techniques on transforming yourself into Thancred—the dreamiest Scion of the Seventh Dawn.",
+   "zh-CN": "上面记载着拂晓血盟贤人桑克瑞德风格的发型。",
+   "zh-TW": "上面記載着拂曉血盟賢人桑克瑞德風格的髮型。",
+   "ja": "暁の賢人サンクレッド風のヘアスタイルが記されたヘアカタログ"
+  }
+ },
+ {
+  "slug": "scion-special-issue-iii",
+  "en": "Scion Special Issue III",
+  "n": {
+   "en": "Scion Special Issue III",
+   "zh-CN": "血盟治疗师",
+   "zh-TW": "血盟治療師",
+   "ja": "サイオンズヒーラー"
+  },
+  "desc": {
+   "en": "The realm's premier publication on beauty and fashion, this limited edition of *Modern Aesthetics* covers, in detail, techniques on transforming yourself into the Scions of the Seventh Dawn's enigmatic healer, Y'shtola.",
+   "zh-CN": "上面记载着拂晓血盟贤人雅·修特拉风格的发型。",
+   "zh-TW": "上面記載着拂曉血盟賢人雅·修特拉風格的髮型。",
+   "ja": "暁の賢人ヤ・シュトラ風のヘアスタイルが記されたヘアカタログ"
+  }
+ },
+ {
+  "slug": "samsonian-locks",
+  "en": "Samsonian Locks",
+  "n": {
+   "en": "Samsonian Locks",
+   "zh-CN": "长发",
+   "zh-TW": "長髮",
+   "ja": "ロングヘア"
+  },
+  "desc": {
+   "en": "The realm's premier publication on beauty and fashion, this specific copy of *Modern Aesthetics* covers, in detail, methods for styling longer hair.",
+   "zh-CN": "上面记载着传统发型——长发。",
+   "zh-TW": "上面記載着傳統髮型——長髮。",
+   "ja": "伝統的なヘアスタイルが記されたヘアカタログ"
+  }
+ },
+ {
+  "slug": "rainmaker",
+  "en": "Rainmaker",
+  "n": {
+   "en": "Rainmaker",
+   "zh-CN": "金碟嘉年华",
+   "zh-TW": "金碟嘉年華",
+   "ja": "ゴールドソーサーフェスティバル"
+  },
+  "desc": {
+   "en": "The realm's premier publication on beauty and fashion, this specific copy of *Modern Aesthetics* is a compilation of festive stylings for any occasion.",
+   "zh-CN": "上面记载着为欢度庆典活动打造的发型。",
+   "zh-TW": "上面記載着爲歡度慶典活動打造的髮型。",
+   "ja": "祝祭用のヘアスタイルが記されたヘアカタログ"
+  }
+ },
+ {
+  "slug": "master-commander",
+  "en": "Master & Commander",
+  "n": {
+   "en": "Master & Commander",
+   "zh-CN": "总骑士长",
+   "zh-TW": "總騎士長",
+   "ja": "ロードコマンダー"
+  },
+  "desc": {
+   "en": "The realm's premier publication on beauty and fashion, this specific copy of *Modern Aesthetics* covers, in detail, techniques on imitating Ishgard's Lord Commander Aymeric—recently voted by *Modern Aesthetics* readers the realm's dreamiest temple knight.",
+   "zh-CN": "上面记载着神殿骑士团总骑士长艾默里克风格的发型。",
+   "zh-TW": "上面記載着神殿騎士團總騎士長艾默裏克風格的髮型。",
+   "ja": "神殿騎士団総長アイメリク風のヘアスタイルが記されたヘアカタログ"
+  }
+ },
+ {
+  "slug": "gyr-abanian-plait",
+  "en": "Gyr Abanian Plait",
+  "n": {
+   "en": "Gyr Abanian Plait",
+   "zh-CN": "基拉巴尼亚编发",
+   "zh-TW": "基拉巴尼亞編髮",
+   "ja": "ギラバニアンブレイド"
+  },
+  "desc": {
+   "en": "The realm's premier publication on beauty and fashion, this specific copy of *Modern Aesthetics* covers, in detail, techniques on braiding hair in the traditional Ala Mhigan fashion—a style that was popular until the imperial invasion.",
+   "zh-CN": "上面记载着传统发型——基拉巴尼亚编发。",
+   "zh-TW": "上面記載着傳統髮型——基拉巴尼亞編髮。",
+   "ja": "伝統的なヘアスタイルが記されたヘアカタログ"
+  }
+ },
+ {
+  "slug": "fashionably-feathered",
+  "en": "Fashionably Feathered",
+  "n": {
+   "en": "Fashionably Feathered",
+   "zh-CN": "外翘短发",
+   "zh-TW": "外翹短髮",
+   "ja": "フェザーヘア"
+  },
+  "desc": {
+   "en": "The realm's premier publication on beauty and fashion, this specific copy of *Modern Aesthetics* covers, in detail, techniques for styling short hair using only a razor (and copious amounts of wax).",
+   "zh-CN": "上面记载着传统发型——外翘短发。",
+   "zh-TW": "上面記載着傳統髮型——外翹短髮。",
+   "ja": "伝統的なヘアスタイルが記されたヘアカタログ"
+  }
+ },
+ {
+  "slug": "strife",
+  "en": "Strife",
+  "n": {
+   "en": "Strife",
+   "zh-CN": "克劳德",
+   "zh-TW": "克勞德",
+   "ja": "クラウド"
+  },
+  "desc": {
+   "en": "The realm's premier publication on beauty and fashion, this specific copy of *Modern Aesthetics* covers, in detail, techniques on becoming the most memorable of all protagonists.",
+   "zh-CN": "上面记载着特殊的发型。",
+   "zh-TW": "上面記載着特殊的髮型。",
+   "ja": "特別なヘアスタイルが記されたヘアカタログ"
+  }
+ },
+ {
+  "slug": "form-and-function",
+  "en": "Form and Function",
+  "n": {
+   "en": "Form and Function",
+   "zh-CN": "发箍式编发",
+   "zh-TW": "髮箍式編髮",
+   "ja": "編込カチューシャ"
+  },
+  "desc": {
+   "en": "The realm's premier publication on beauty and fashion, this specific copy of *Modern Aesthetics* covers, in detail, techniques for weaving a simple-yet-elegant braided headband.",
+   "zh-CN": "上面记载着美丽的发型。",
+   "zh-TW": "上面記載着美麗的髮型。",
+   "ja": "美しいヘアスタイルが記されたヘアカタログ"
+  }
+ },
+ {
+  "slug": "styled-for-hire",
+  "en": "Styled for Hire",
+  "n": {
+   "en": "Styled for Hire",
+   "zh-CN": "佣兵",
+   "zh-TW": "傭兵",
+   "ja": "マーセナリー"
+  },
+  "desc": {
+   "en": "The realm's premier publication on beauty and fashion, this specific copy of *Modern Aesthetics* covers, in detail, techniques for trimming and coiffing one's way to the dashing look that's in vogue amongst sellswords across the Three Great Continents.",
+   "zh-CN": "上面记载着传统发型——佣兵。",
+   "zh-TW": "上面記載着傳統髮型——傭兵。",
+   "ja": "伝統的なヘアスタイルが記されたヘアカタログ"
+  }
+ },
+ {
+  "slug": "lexen-tails",
+  "en": "Lexen-tails",
+  "n": {
+   "en": "Lexen-tails",
+   "zh-CN": "拉姆萨&阿鲁玛",
+   "zh-TW": "拉姆薩&阿魯瑪",
+   "ja": "ラムザ＆アルマ"
+  },
+  "desc": {
+   "en": "The realm's premier publication on beauty and fashion, this specific copy of *Modern Aesthetics* covers, in detail, techniques for imitating the Lexentale siblings' signature stage-ready styles.",
+   "zh-CN": "上面记载着特殊的发型。",
+   "zh-TW": "上面記載着特殊的髮型。",
+   "ja": "特別なヘアスタイルが記されたヘアカタログ"
+  }
+ },
+ {
+  "slug": "lucian-locks",
+  "en": "Lucian Locks",
+  "n": {
+   "en": "Lucian Locks",
+   "zh-CN": "诺克提斯",
+   "zh-TW": "諾克提斯",
+   "ja": "ノクティス"
+  },
+  "desc": {
+   "en": "The realm's premier publication on beauty and fashion, this specific copy of *Modern Aesthetics* covers, in detail, techniques on becoming a suitably windswept protagonist.",
+   "zh-CN": "上面记载着特殊的发型。",
+   "zh-TW": "上面記載着特殊的髮型。",
+   "ja": "特別なヘアスタイルが記されたヘアカタログ"
+  }
+ },
+ {
+  "slug": "great-lengths",
+  "en": "Great Lengths",
+  "n": {
+   "en": "Great Lengths",
+   "zh-CN": "经典长发",
+   "zh-TW": "經典長髮",
+   "ja": "クラシカルロングヘア"
+  },
+  "desc": {
+   "en": "The realm's premier publication on beauty and fashion, this specific copy of *Modern Aesthetics* covers, in detail, techniques for keeping long hair neat and sleek.",
+   "zh-CN": "上面记载着传统发型——经典长发。",
+   "zh-TW": "上面記載着傳統髮型——經典長髮。",
+   "ja": "伝統的なヘアスタイルが記されたヘアカタログ"
+  }
+ },
+ {
+  "slug": "modern-legend",
+  "en": "Modern Legend",
+  "n": {
+   "en": "Modern Legend",
+   "zh-CN": "传奇",
+   "zh-TW": "傳奇",
+   "ja": "レジェンド"
+  },
+  "desc": {
+   "en": "The realm's premier publication on beauty and fashion, this specific copy of *Modern Aesthetics* covers, in detail, techniques on styling oneself to resemble the hero of the world's oldest fable.",
+   "zh-CN": "上面记载着传说中的发型。",
+   "zh-TW": "上面記載着傳說中的髮型。",
+   "ja": "伝説的なヘアスタイルが記されたヘアカタログ"
+  }
+ },
+ {
+  "slug": "controlled-chaos",
+  "en": "Controlled Chaos",
+  "n": {
+   "en": "Controlled Chaos",
+   "zh-CN": "斜刘海",
+   "zh-TW": "斜劉海",
+   "ja": "アシンメトリー"
+  },
+  "desc": {
+   "en": "The realm's premier publication on beauty and fashion, this limited edition of *Modern Aesthetics* covers, in detail, trimming and coiffing techniques for an attractively asymmetrical look that's a cut above the ordinary.",
+   "zh-CN": "上面记载着传统发型——斜刘海。",
+   "zh-TW": "上面記載着傳統髮型——斜劉海。",
+   "ja": "伝統的なヘアスタイルが記されたヘアカタログ"
+  }
+ },
+ {
+  "slug": "saintly-style",
+  "en": "Saintly Style",
+  "n": {
+   "en": "Saintly Style",
+   "zh-CN": "圣翼",
+   "zh-TW": "聖翼",
+   "ja": "セイントウィング"
+  },
+  "desc": {
+   "en": "The realm's premier publication on beauty and fashion, this limited edition of *Modern Aesthetics* covers, in detail, shaping and feathering techniques for imitating the *unique* look of an Ishgardian saint of eld.",
+   "zh-CN": "上面记载着以某位圣人作为参考的发型。",
+   "zh-TW": "上面記載着以某位聖人作爲參考的髮型。",
+   "ja": "ある聖人を模したヘアスタイルが記されたヘアカタログ"
+  }
+ },
+ {
+  "slug": "wind-caller",
+  "en": "Wind Caller",
+  "n": {
+   "en": "Wind Caller",
+   "zh-CN": "飞翔者",
+   "zh-TW": "飛翔者",
+   "ja": "ヴァルタン"
+  },
+  "desc": {
+   "en": "The realm's premier publication on beauty and fashion, this limited edition of *Modern Aesthetics* covers, in detail, feathering and styling techniques to achieve the windswept look of a legendary Vartan warrior.",
+   "zh-CN": "上面记载着传统风格的发型——飞翔者。",
+   "zh-TW": "上面記載着傳統風格的髮型——飛翔者。",
+   "ja": "伝統的なヘアスタイルが記されたヘアカタログ"
+  }
+ },
+ {
+  "slug": "early-to-rise",
+  "en": "Early to Rise",
+  "n": {
+   "en": "Early to Rise",
+   "zh-CN": "黎明辫",
+   "zh-TW": "黎明辮",
+   "ja": "ドーンブレイド"
+  },
+  "desc": {
+   "en": "The realm's premier publication on beauty and fashion, this specific copy of *Modern Aesthetics* covers, in detail, techniques for weaving a simple-yet-elegant braid that can be employed by even those who are not yet fully awake.",
+   "zh-CN": "上面记载着特殊的发型。",
+   "zh-TW": "上面記載着特殊的髮型。",
+   "ja": "特別なヘアスタイルが記されたヘアカタログ"
+  }
+ },
+ {
+  "slug": "sharlayan-studies",
+  "en": "Sharlayan Studies",
+  "n": {
+   "en": "Sharlayan Studies",
+   "zh-CN": "萨雷安神童",
+   "zh-TW": "薩雷安神童",
+   "ja": "シャーレアンプロディジー"
+  },
+  "desc": {
+   "en": "The realm's premier publication on beauty and fashion, this limited edition of *Modern Aesthetics* covers, in detail, techniques on transforming yourself into the prominent—some would say *too* prominent—member of the Scions of the Seventh Dawn, Alphinaud Leveilleur.",
+   "zh-CN": "上面记载着阿尔菲诺风格的发型。",
+   "zh-TW": "上面記載着阿爾菲諾風格的髮型。",
+   "ja": "アルフィノ風のヘアスタイルが記されたヘアカタログ"
+  }
+ },
+ {
+  "slug": "both-ways",
+  "en": "Both Ways",
+  "n": {
+   "en": "Both Ways",
+   "zh-CN": "侧马尾辫",
+   "zh-TW": "側馬尾辮",
+   "ja": "サイドテール"
+  },
+  "desc": {
+   "en": "The realm's premier publication on beauty and fashion, this specific copy of *Modern Aesthetics* covers, in detail, a hair styling technique which marries a braid and a side ponytail in an exquisite union.",
+   "zh-CN": "上面记载着传统发型——侧马尾辫。",
+   "zh-TW": "上面記載着傳統髮型——側馬尾辮。",
+   "ja": "伝統的なヘアスタイルが記されたヘアカタログ"
+  }
+ },
+ {
+  "slug": "battle-ready-bobs",
+  "en": "Battle-ready Bobs",
+  "n": {
+   "en": "Battle-ready Bobs",
+   "zh-CN": "2B",
+   "zh-TW": "2B",
+   "ja": "２Ｂ"
+  },
+  "desc": {
+   "en": "The realm's premier publication on beauty and fashion, this specific copy of *Modern Aesthetics* covers, in detail, techniques for shaping an uncannily perfect bob—like that of your android acquaintance 2B.",
+   "zh-CN": "上面记载着以2B作为参考的发型。",
+   "zh-TW": "上面記載着以2B作爲參考的髮型。",
+   "ja": "２Ｂを模したヘアスタイルが記されたヘアカタログ"
+  }
+ },
+ {
+  "slug": "scanning-for-style",
+  "en": "Scanning for Style",
+  "n": {
+   "en": "Scanning for Style",
+   "zh-CN": "9S",
+   "zh-TW": "9S",
+   "ja": "９Ｓ"
+  },
+  "desc": {
+   "en": "The realm's premier publication on beauty and fashion, this specific copy of *Modern Aesthetics* covers, in detail, techniques for attaining an uncannily effortless look—like that of your android acquaintance 9S.",
+   "zh-CN": "上面记载着以9S作为参考的发型。",
+   "zh-TW": "上面記載着以9S作爲參考的髮型。",
+   "ja": "９Ｓを模したヘアスタイルが記されたヘアカタログ"
+  }
+ },
+ {
+  "slug": "liberating-locks",
+  "en": "Liberating Locks",
+  "n": {
+   "en": "Liberating Locks",
+   "zh-CN": "莉瑟",
+   "zh-TW": "莉瑟",
+   "ja": "リセ"
+  },
+  "desc": {
+   "en": "The realm's premier publication on beauty and fashion, this limited edition of *Modern Aesthetics* covers, in detail, unauthorized techniques for assuming the style of Ala Mhigo's fearless leader, Lyse Hext.",
+   "zh-CN": "上面记载着莉瑟风格的发型。",
+   "zh-TW": "上面記載着莉瑟風格的髮型。",
+   "ja": "リセ風のヘアスタイルが記されたヘアカタログ"
+  }
+ },
+ {
+  "slug": "tall-tails",
+  "en": "Tall Tails",
+  "n": {
+   "en": "Tall Tails",
+   "zh-CN": "高马尾辫",
+   "zh-TW": "高馬尾辮",
+   "ja": "ハイポニーテール"
+  },
+  "desc": {
+   "en": "The realm's premier publication on beauty and fashion, this specific copy of *Modern Aesthetics* covers, in detail, techniques on tying the perfect high ponytail.",
+   "zh-CN": "上面记载着美丽的发型。",
+   "zh-TW": "上面記載着美麗的髮型。",
+   "ja": "美しいヘアスタイルが記されたヘアカタログ"
+  }
+ },
+ {
+  "slug": "practical-ponytails",
+  "en": "Practical Ponytails",
+  "n": {
+   "en": "Practical Ponytails",
+   "zh-CN": "朴素单马尾",
+   "zh-TW": "樸素單馬尾",
+   "ja": "ラフポニーテール"
+  },
+  "desc": {
+   "en": "The realm's premier publication on beauty and fashion, this specific copy of *Modern Aesthetics* covers, in detail, techniques for tying back even the most unruly manes with a minimum of effort.",
+   "zh-CN": "上面记载着实用发型——朴素单马尾。",
+   "zh-TW": "上面記載着實用髮型——樸素單馬尾。",
+   "ja": "実用的なヘアスタイルが記されたヘアカタログ"
+  }
+ },
+ {
+  "slug": "sharlayan-rebellion",
+  "en": "Sharlayan Rebellion",
+  "n": {
+   "en": "Sharlayan Rebellion",
+   "zh-CN": "萨雷安叛逆者",
+   "zh-TW": "薩雷安叛逆者",
+   "ja": "シャーレアンリベリオン"
+  },
+  "desc": {
+   "en": "The realm's premier publication on beauty and fashion, this limited edition of *Modern Aesthetics* covers, in detail, techniques on transforming your style into that of the prominent—some would say not prominent *enough*—member of the Scions of the Seventh Dawn, Alisaie Leveilleur.",
+   "zh-CN": "上面记载着阿莉塞风格的发型。",
+   "zh-TW": "上面記載着阿莉塞風格的髮型。",
+   "ja": "アリゼー風のヘアスタイルが記されたヘアカタログ"
+  }
+ },
+ {
+  "slug": "a-close-shave",
+  "en": "A Close Shave",
+  "n": {
+   "en": "A Close Shave",
+   "zh-CN": "寸头",
+   "zh-TW": "寸頭",
+   "ja": "バズカット"
+  },
+  "desc": {
+   "en": "The realm's premier publication on beauty and fashion, this specific copy of *Modern Aesthetics* covers, in detail, techniques for cropping one's locks so as to improve aerodynamics in the face of impending danger, whilst still remaining at the height of trendiness.",
+   "zh-CN": "上面记载着特殊的发型。",
+   "zh-TW": "上面記載着特殊的髮型。",
+   "ja": "特別なヘアスタイルが記されたヘアカタログ"
+  }
+ },
+ {
+  "slug": "ambitious-ends",
+  "en": "Ambitious Ends",
+  "n": {
+   "en": "Ambitious Ends",
+   "zh-CN": "杂乱中长发",
+   "zh-TW": "雜亂中長髮",
+   "ja": "ラフミディアム"
+  },
+  "desc": {
+   "en": "The realm's premier publication on beauty and fashion, this specific copy of *Modern Aesthetics* covers, in detail, styling techniques used to mixed success since the time of the ancients.",
+   "zh-CN": "上面记载着毫不讲究的发型——杂乱中长发。",
+   "zh-TW": "上面記載着毫不講究的髮型——雜亂中長髮。",
+   "ja": "無造作なヘアスタイルが記されたヘアカタログ"
+  }
+ },
+ {
+  "slug": "the-bold-and-the-braid",
+  "en": "The Bold and the Braid",
+  "n": {
+   "en": "The Bold and the Braid",
+   "zh-CN": "侧玉米垄",
+   "zh-TW": "側玉米壟",
+   "ja": "サイドコーンロウ"
+  },
+  "desc": {
+   "en": "The realm's premier publication on beauty and fashion, this specific copy of *Modern Aesthetics* covers, in detail, techniques for braiding unruly locks into line—while allowing others to flow free in defiance of expectation.",
+   "zh-CN": "上面记载着特殊的发型。",
+   "zh-TW": "上面記載着特殊的髮型。",
+   "ja": "特別なヘアスタイルが記されたヘアカタログ"
+  }
+ },
+ {
+  "slug": "it-takes-two",
+  "en": "It Takes Two",
+  "n": {
+   "en": "It Takes Two",
+   "zh-CN": "二分区",
+   "zh-TW": "二分區",
+   "ja": "ソフトツーブロック"
+  },
+  "desc": {
+   "en": "The realm's premier publication on beauty and fashion, this specific copy of *Modern Aesthetics* covers, in detail, techniques for shaping shorter locks into two feathery, distinct parts that softly frame one's visage.",
+   "zh-CN": "上面记载着特殊的发型。",
+   "zh-TW": "上面記載着特殊的髮型。",
+   "ja": "特別なヘアスタイルが記されたヘアカタログ"
+  }
+ },
+ {
+  "slug": "doing-the-wave",
+  "en": "Doing the Wave",
+  "n": {
+   "en": "Doing the Wave",
+   "zh-CN": "微卷短发",
+   "zh-TW": "微卷短髮",
+   "ja": "ウェイビーボブ"
+  },
+  "desc": {
+   "en": "The realm's premier publication on beauty and fashion, this specific copy of *Modern Aesthetics* covers, in detail, techniques for achieving an effortlessly textured bob suitable for all occasions.",
+   "zh-CN": "上面记载着传统发型——微卷短发。",
+   "zh-TW": "上面記載着傳統髮型——微卷短髮。",
+   "ja": "伝統的なヘアスタイルが記されたヘアカタログ"
+  }
+ },
+ {
+  "slug": "a-half-times-two",
+  "en": "A Half Times Two",
+  "n": {
+   "en": "A Half Times Two",
+   "zh-CN": "半双马尾",
+   "zh-TW": "半雙馬尾",
+   "ja": "ハーフツインテール"
+  },
+  "desc": {
+   "en": "The realm's premier publication on beauty and fashion, this specific copy of *Modern Aesthetics* covers, in detail, techniques for taming tresses into two perfectly plaited halfbraids, replete with ribbons and all.",
+   "zh-CN": "上面记载着可爱的发型——半双马尾。",
+   "zh-TW": "上面記載着可愛的髮型——半雙馬尾。",
+   "ja": "愛らしいヘアスタイルが記されたヘアカタログ"
+  }
+ },
+ {
+  "slug": "head-hound",
+  "en": "Head Hound",
+  "n": {
+   "en": "Head Hound",
+   "zh-CN": "编发高马尾",
+   "zh-TW": "編髮高馬尾",
+   "ja": "編込ポニーテール"
+  },
+  "desc": {
+   "en": "The realm's premier publication on beauty and fashion, this specific copy of *Modern Aesthetics* covers, in detail, techniques for coaxing one's locks into a rambunctious side braid and ponytail combination.",
+   "zh-CN": "上面记载着特殊的发型。",
+   "zh-TW": "上面記載着特殊的髮型。",
+   "ja": "特別なヘアスタイルが記されたヘアカタログ"
+  }
+ },
+ {
+  "slug": "scion-special-issue-iv",
+  "en": "Scion Special Issue IV",
+  "n": {
+   "en": "Scion Special Issue IV",
+   "zh-CN": "血盟公爵",
+   "zh-TW": "血盟公爵",
+   "ja": "サイオンズアーク"
+  },
+  "desc": {
+   "en": "The realm's premier publication on beauty and fashion, this limited edition of *Modern Aesthetics* covers, in detail, techniques for emulating the style of G'raha Tia—definitively the dreamiest Scion of the Seventh Dawn, despite what previous editions may purport.",
+   "zh-CN": "上面记载着拂晓血盟贤人古·拉哈·提亚风格的发型。",
+   "zh-TW": "上面記載着拂曉血盟賢人古·拉哈·提亞風格的髮型。",
+   "ja": "暁の賢人グ・ラハ・ティア風のヘアスタイルが記されたヘアカタログ"
+  }
+ },
+ {
+  "slug": "voidswept-strands",
+  "en": "Voidswept Strands",
+  "n": {
+   "en": "Voidswept Strands",
+   "zh-CN": "蓬松短发",
+   "zh-TW": "蓬鬆短髮",
+   "ja": "グラジュエートボブ"
+  },
+  "desc": {
+   "en": "The realm's premier publication on beauty and fashion, this specific copy of *Modern Aesthetics* covers, in detail, techniques for achieving a perfectly unbalanced asymmetric bob.",
+   "zh-CN": "上面记载着随意的发型——蓬松短发。",
+   "zh-TW": "上面記載着隨意的髮型——蓬鬆短髮。",
+   "ja": "無造作なヘアスタイルが記されたヘアカタログ"
+  }
+ },
+ {
+  "slug": "hairscape-m",
+  "en": "Hairscape M",
+  "n": {
+   "en": "Hairscape M",
+   "zh-CN": "欧米茄M",
+   "zh-TW": "歐米茄M",
+   "ja": "オメガM"
+  },
+  "desc": {
+   "en": "The realm's premier publication on beauty and fashion, this otherworldly edition of *Modern Aesthetics* covers, in detail, techniques for molding one's coiffure into gravity-defying locks reminiscent of Omega-M. May you greet the world in style.",
+   "zh-CN": "上面记载着特殊的发型。",
+   "zh-TW": "上面記載着特殊的髮型。",
+   "ja": "特別なヘアスタイルが記されたヘアカタログ"
+  }
+ },
+ {
+  "slug": "hairscape-f",
+  "en": "Hairscape F",
+  "n": {
+   "en": "Hairscape F",
+   "zh-CN": "欧米茄F",
+   "zh-TW": "歐米茄F",
+   "ja": "オメガF"
+  },
+  "desc": {
+   "en": "The realm's premier publication on beauty and fashion, this otherworldly edition of *Modern Aesthetics* covers, in detail, techniques for styling a gravity-defying ponytail reminiscent of Omega-F. May you greet the world in style.",
+   "zh-CN": "上面记载着特殊的发型。",
+   "zh-TW": "上面記載着特殊的髮型。",
+   "ja": "特別なヘアスタイルが記されたヘアカタログ"
+  }
+ },
+ {
+  "slug": "simple-and-clean",
+  "en": "Simple and Clean",
+  "n": {
+   "en": "Simple and Clean",
+   "zh-CN": "长直发",
+   "zh-TW": "長直髮",
+   "ja": "シンプルストレート"
+  },
+  "desc": {
+   "en": "The realm's premier publication on beauty and fashion, this specific copy of *Modern Aesthetics* covers, in detail, techniques for achieving an eminently unfussy face-framing coiffure.",
+   "zh-CN": "上面记载着美丽的发型。",
+   "zh-TW": "上面記載着美麗的髮型。",
+   "ja": "美しいヘアスタイルが記されたヘアカタログ"
+  }
+ },
+ {
+  "slug": "the-warden",
+  "en": "The Warden",
+  "n": {
+   "en": "The Warden",
+   "zh-CN": "阿泽玛",
+   "zh-TW": "阿澤瑪",
+   "ja": "アーゼマ"
+  },
+  "desc": {
+   "en": "The realm's premier publication on beauty and fashion, this legendary edition of *Modern Aesthetics* covers, in detail, the cascading coiffure required to emulate the goddess Azeyma Herself.",
+   "zh-CN": "上面记载着特殊的发型。",
+   "zh-TW": "上面記載着特殊的髮型。",
+   "ja": "特別なヘアスタイルが記されたヘアカタログ"
+  }
+ },
+ {
+  "slug": "fulsome-forelocks",
+  "en": "Fulsome Forelocks",
+  "n": {
+   "en": "Fulsome Forelocks",
+   "zh-CN": "蘑菇头",
+   "zh-TW": "蘑菇頭",
+   "ja": "マッシュショート"
+  },
+  "desc": {
+   "en": "The realm's premier publication on beauty and fashion, this specific copy of *Modern Aesthetics* covers, in detail, techniques for concealing one's visage with a luscious curtain of locks that fall past the eyes.",
+   "zh-CN": "上面记载着特殊的发型。",
+   "zh-TW": "上面記載着特殊的髮型。",
+   "ja": "特別なヘアスタイルが記されたヘアカタログ"
+  }
+ },
+ {
+  "slug": "realms-ruffled",
+  "en": "Realms-ruffled",
+  "n": {
+   "en": "Realms-ruffled",
+   "zh-CN": "维度漫游者",
+   "zh-TW": "維度漫遊者",
+   "ja": "レルムローマー"
+  },
+  "desc": {
+   "en": "The realm's premier publication on beauty and fashion, this specific copy of *Modern Aesthetics* covers, in detail, techniques for an artfully accessorized style that appears tousled by otherworldly winds.",
+   "zh-CN": "上面记载着雷欧亚风格的发型。",
+   "zh-TW": "上面記載着雷歐亞風格的髮型。",
+   "ja": "レオア風のヘアスタイルが記されたヘアカタログ"
+  }
+ },
+ {
+  "slug": "tail-of-the-teller",
+  "en": "Tail of the Teller",
+  "n": {
+   "en": "Tail of the Teller",
+   "zh-CN": "恩城预言师",
+   "zh-TW": "恩城預言師",
+   "ja": "エンフォーチュンテラー"
+  },
+  "desc": {
+   "en": "The realm's premier publication on beauty and fashion, this specific copy of *Modern Aesthetics* covers, in detail, techniques for a ponytail that suggests a great destiny awaits the wearer, in spite of its simplicity.",
+   "zh-CN": "上面记载着琪娜风格的发型。",
+   "zh-TW": "上面記載着琪娜風格的髮型。",
+   "ja": "キーナ風のヘアスタイルが記されたヘアカタログ"
+  }
+ },
+ {
+  "slug": "fit-for-a-princess",
+  "en": "Fit for a Princess",
+  "n": {
+   "en": "Fit for a Princess",
+   "zh-CN": "威布拉公主",
+   "zh-TW": "威布拉公主",
+   "ja": "ビブラプリンセス"
+  },
+  "desc": {
+   "en": "The realm's premier publication on beauty and fashion, this specific copy of *Modern Aesthetics* covers, in detail, techniques for pinning your hair in a princess-perfect style.",
+   "zh-CN": "上面记载着谢莉尔风格的发型。",
+   "zh-TW": "上面記載着謝莉爾風格的髮型。",
+   "ja": "シャルル風のヘアスタイルが記されたヘアカタログ"
+  }
+ },
+ {
+  "slug": "shadowhunter-chic",
+  "en": "Shadowhunter Chic",
+  "n": {
+   "en": "Shadowhunter Chic",
+   "zh-CN": "盖乌斯",
+   "zh-TW": "蓋烏斯",
+   "ja": "ガイウス"
+  },
+  "desc": {
+   "en": "The realm's premier publication on beauty and fashion, this specific copy of *Modern Aesthetics* covers, in detail, techniques for emulating the signature look of the hunter formerly known as Gaius van Baelsar.",
+   "zh-CN": "上面记载着盖乌斯风格的发型。",
+   "zh-TW": "上面記載着蓋烏斯風格的髮型。",
+   "ja": "ガイウス風のヘアスタイルが記されたヘアカタログ"
+  }
+ }
+]
