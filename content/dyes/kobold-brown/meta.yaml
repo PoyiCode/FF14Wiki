@@ -1,0 +1,8 @@
+id: kobold-brown
+category: dyes
+type: dye
+dye: "Kobold Brown"
+color: "#30211B"
+metallic: false
+tags: [dye, color]
+status: stable

@@ -1,0 +1,8 @@
+id: gunmetal-black
+category: dyes
+type: dye
+dye: "Gunmetal Black"
+color: "#606068"
+metallic: true
+tags: [dye, color]
+status: stable

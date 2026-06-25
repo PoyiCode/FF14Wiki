@@ -1,0 +1,8 @@
+id: metallic-sky-blue
+category: dyes
+type: dye
+dye: "Metallic Sky Blue"
+color: "#5ED4E6"
+metallic: true
+tags: [dye, color]
+status: stable

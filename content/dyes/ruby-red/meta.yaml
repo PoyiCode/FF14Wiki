@@ -1,0 +1,8 @@
+id: ruby-red
+category: dyes
+type: dye
+dye: "Ruby Red"
+color: "#E40011"
+metallic: false
+tags: [dye, color]
+status: stable

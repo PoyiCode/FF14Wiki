@@ -1,0 +1,8 @@
+id: coeurl-yellow
+category: dyes
+type: dye
+dye: "Coeurl Yellow"
+color: "#BC8804"
+metallic: false
+tags: [dye, color]
+status: stable

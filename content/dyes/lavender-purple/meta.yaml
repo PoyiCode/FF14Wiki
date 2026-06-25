@@ -1,0 +1,8 @@
+id: lavender-purple
+category: dyes
+type: dye
+dye: "Lavender Purple"
+color: "#877FAE"
+metallic: false
+tags: [dye, color]
+status: stable

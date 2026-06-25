@@ -1,0 +1,8 @@
+id: millioncorn-yellow
+category: dyes
+type: dye
+dye: "Millioncorn Yellow"
+color: "#E49E34"
+metallic: false
+tags: [dye, color]
+status: stable

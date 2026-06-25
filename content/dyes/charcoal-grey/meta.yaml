@@ -1,0 +1,8 @@
+id: charcoal-grey
+category: dyes
+type: dye
+dye: "Charcoal Grey"
+color: "#484742"
+metallic: false
+tags: [dye, color]
+status: stable

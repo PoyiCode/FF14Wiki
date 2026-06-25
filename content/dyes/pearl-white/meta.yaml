@@ -1,0 +1,8 @@
+id: pearl-white
+category: dyes
+type: dye
+dye: "Pearl White"
+color: "#E9E3DA"
+metallic: true
+tags: [dye, color]
+status: stable

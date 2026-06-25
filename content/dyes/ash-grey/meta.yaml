@@ -1,0 +1,8 @@
+id: ash-grey
+category: dyes
+type: dye
+dye: "Ash Grey"
+color: "#ACA8A2"
+metallic: false
+tags: [dye, color]
+status: stable

@@ -1,0 +1,8 @@
+id: halatali-yellow
+category: dyes
+type: dye
+dye: "Halatali Yellow"
+color: "#A58430"
+metallic: false
+tags: [dye, color]
+status: stable

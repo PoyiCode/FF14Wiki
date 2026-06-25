@@ -1,0 +1,8 @@
+id: metallic-blue
+category: dyes
+type: dye
+dye: "Metallic Blue"
+color: "#5052D9"
+metallic: true
+tags: [dye, color]
+status: stable

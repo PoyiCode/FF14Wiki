@@ -1,0 +1,8 @@
+id: metallic-gold
+category: dyes
+type: dye
+dye: "Metallic Gold"
+color: "#EDE63D"
+metallic: true
+tags: [dye, color]
+status: stable

@@ -1,0 +1,8 @@
+id: lilac-purple
+category: dyes
+type: dye
+dye: "Lilac Purple"
+color: "#836969"
+metallic: false
+tags: [dye, color]
+status: stable

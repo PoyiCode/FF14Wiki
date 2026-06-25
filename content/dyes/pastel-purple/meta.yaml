@@ -1,0 +1,8 @@
+id: pastel-purple
+category: dyes
+type: dye
+dye: "Pastel Purple"
+color: "#BBB5DA"
+metallic: false
+tags: [dye, color]
+status: stable

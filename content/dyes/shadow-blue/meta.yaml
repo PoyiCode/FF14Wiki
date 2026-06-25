@@ -1,0 +1,8 @@
+id: shadow-blue
+category: dyes
+type: dye
+dye: "Shadow Blue"
+color: "#373747"
+metallic: false
+tags: [dye, color]
+status: stable

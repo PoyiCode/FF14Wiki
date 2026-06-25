@@ -1,0 +1,8 @@
+id: marsh-green
+category: dyes
+type: dye
+dye: "Marsh Green"
+color: "#323621"
+metallic: false
+tags: [dye, color]
+status: stable

@@ -1,0 +1,8 @@
+id: midnight-blue
+category: dyes
+type: dye
+dye: "Midnight Blue"
+color: "#181937"
+metallic: false
+tags: [dye, color]
+status: stable

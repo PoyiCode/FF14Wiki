@@ -1,0 +1,8 @@
+id: corpse-blue
+category: dyes
+type: dye
+dye: "Corpse Blue"
+color: "#8E9BAC"
+metallic: false
+tags: [dye, color]
+status: stable

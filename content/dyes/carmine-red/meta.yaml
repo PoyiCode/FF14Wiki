@@ -1,0 +1,8 @@
+id: carmine-red
+category: dyes
+type: dye
+dye: "Carmine Red"
+color: "#DE0B16"
+metallic: false
+tags: [dye, color]
+status: stable

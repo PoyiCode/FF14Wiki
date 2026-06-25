@@ -1,0 +1,8 @@
+id: sunset-orange
+category: dyes
+type: dye
+dye: "Sunset Orange"
+color: "#B75C2D"
+metallic: false
+tags: [dye, color]
+status: stable

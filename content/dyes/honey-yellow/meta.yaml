@@ -1,0 +1,8 @@
+id: honey-yellow
+category: dyes
+type: dye
+dye: "Honey Yellow"
+color: "#FAC62B"
+metallic: false
+tags: [dye, color]
+status: stable

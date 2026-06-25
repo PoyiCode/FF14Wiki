@@ -1,0 +1,8 @@
+id: neon-green
+category: dyes
+type: dye
+dye: "Neon Green"
+color: "#B5F710"
+metallic: false
+tags: [dye, color]
+status: stable

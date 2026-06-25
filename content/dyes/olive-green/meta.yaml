@@ -1,0 +1,8 @@
+id: olive-green
+category: dyes
+type: dye
+dye: "Olive Green"
+color: "#4B5232"
+metallic: false
+tags: [dye, color]
+status: stable

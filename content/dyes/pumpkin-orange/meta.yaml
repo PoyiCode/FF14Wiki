@@ -1,0 +1,8 @@
+id: pumpkin-orange
+category: dyes
+type: dye
+dye: "Pumpkin Orange"
+color: "#C57424"
+metallic: false
+tags: [dye, color]
+status: stable

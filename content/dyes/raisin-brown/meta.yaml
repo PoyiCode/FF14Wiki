@@ -1,0 +1,8 @@
+id: raisin-brown
+category: dyes
+type: dye
+dye: "Raisin Brown"
+color: "#403311"
+metallic: false
+tags: [dye, color]
+status: stable

@@ -1,0 +1,8 @@
+id: dragoon-blue
+category: dyes
+type: dye
+dye: "Dragoon Blue"
+color: "#000EA2"
+metallic: false
+tags: [dye, color]
+status: stable

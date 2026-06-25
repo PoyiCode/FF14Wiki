@@ -1,0 +1,8 @@
+id: rolanberry-red
+category: dyes
+type: dye
+dye: "Rolanberry Red"
+color: "#5B1729"
+metallic: false
+tags: [dye, color]
+status: stable

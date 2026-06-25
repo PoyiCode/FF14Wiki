@@ -1,0 +1,8 @@
+id: vanilla-yellow
+category: dyes
+type: dye
+dye: "Vanilla Yellow"
+color: "#FBF1B4"
+metallic: false
+tags: [dye, color]
+status: stable

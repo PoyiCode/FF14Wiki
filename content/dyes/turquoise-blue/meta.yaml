@@ -1,0 +1,8 @@
+id: turquoise-blue
+category: dyes
+type: dye
+dye: "Turquoise Blue"
+color: "#04AFCD"
+metallic: false
+tags: [dye, color]
+status: stable

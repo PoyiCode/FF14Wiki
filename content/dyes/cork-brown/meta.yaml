@@ -1,0 +1,8 @@
+id: cork-brown
+category: dyes
+type: dye
+dye: "Cork Brown"
+color: "#C99156"
+metallic: false
+tags: [dye, color]
+status: stable

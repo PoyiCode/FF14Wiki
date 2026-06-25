@@ -1,0 +1,8 @@
+id: metallic-cobalt-green
+category: dyes
+type: dye
+dye: "Metallic Cobalt Green"
+color: "#15423F"
+metallic: true
+tags: [dye, color]
+status: stable

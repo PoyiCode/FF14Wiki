@@ -1,0 +1,8 @@
+id: meadow-green
+category: dyes
+type: dye
+dye: "Meadow Green"
+color: "#8B9C63"
+metallic: false
+tags: [dye, color]
+status: stable

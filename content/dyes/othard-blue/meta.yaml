@@ -1,0 +1,8 @@
+id: othard-blue
+category: dyes
+type: dye
+dye: "Othard Blue"
+color: "#2F5889"
+metallic: false
+tags: [dye, color]
+status: stable

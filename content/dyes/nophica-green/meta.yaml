@@ -1,0 +1,8 @@
+id: nophica-green
+category: dyes
+type: dye
+dye: "Nophica Green"
+color: "#3B4D3C"
+metallic: false
+tags: [dye, color]
+status: stable

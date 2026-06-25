@@ -1,0 +1,8 @@
+id: colibri-pink
+category: dyes
+type: dye
+dye: "Colibri Pink"
+color: "#DC9BCA"
+metallic: false
+tags: [dye, color]
+status: stable

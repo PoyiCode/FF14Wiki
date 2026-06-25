@@ -1,0 +1,8 @@
+id: storm-blue
+category: dyes
+type: dye
+dye: "Storm Blue"
+color: "#234172"
+metallic: false
+tags: [dye, color]
+status: stable

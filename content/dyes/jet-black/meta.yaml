@@ -1,0 +1,8 @@
+id: jet-black
+category: dyes
+type: dye
+dye: "Jet Black"
+color: "#1E1E1E"
+metallic: false
+tags: [dye, color]
+status: stable

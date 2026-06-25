@@ -1,0 +1,8 @@
+id: gobbiebag-brown
+category: dyes
+type: dye
+dye: "Gobbiebag Brown"
+color: "#B9A489"
+metallic: false
+tags: [dye, color]
+status: stable

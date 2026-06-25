@@ -1,0 +1,8 @@
+id: regal-purple
+category: dyes
+type: dye
+dye: "Regal Purple"
+color: "#66304E"
+metallic: false
+tags: [dye, color]
+status: stable

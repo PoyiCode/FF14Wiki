@@ -1,0 +1,8 @@
+id: plum-purple
+category: dyes
+type: dye
+dye: "Plum Purple"
+color: "#79526C"
+metallic: false
+tags: [dye, color]
+status: stable

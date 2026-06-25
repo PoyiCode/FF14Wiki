@@ -1,0 +1,8 @@
+id: metallic-silver
+category: dyes
+type: dye
+dye: "Metallic Silver"
+color: "#A7A7A7"
+metallic: true
+tags: [dye, color]
+status: stable

@@ -1,0 +1,8 @@
+id: orchard-brown
+category: dyes
+type: dye
+dye: "Orchard Brown"
+color: "#644216"
+metallic: false
+tags: [dye, color]
+status: stable

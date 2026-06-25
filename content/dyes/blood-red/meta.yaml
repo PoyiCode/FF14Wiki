@@ -1,0 +1,8 @@
+id: blood-red
+category: dyes
+type: dye
+dye: "Blood Red"
+color: "#913B27"
+metallic: false
+tags: [dye, color]
+status: stable

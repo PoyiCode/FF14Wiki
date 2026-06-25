@@ -1,0 +1,8 @@
+id: cherry-pink
+category: dyes
+type: dye
+dye: "Cherry Pink"
+color: "#F5379B"
+metallic: false
+tags: [dye, color]
+status: stable

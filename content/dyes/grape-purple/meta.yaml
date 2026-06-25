@@ -1,0 +1,8 @@
+id: grape-purple
+category: dyes
+type: dye
+dye: "Grape Purple"
+color: "#3B2A3D"
+metallic: false
+tags: [dye, color]
+status: stable

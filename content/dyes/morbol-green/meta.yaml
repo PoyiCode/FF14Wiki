@@ -1,0 +1,8 @@
+id: morbol-green
+category: dyes
+type: dye
+dye: "Morbol Green"
+color: "#1F4646"
+metallic: false
+tags: [dye, color]
+status: stable

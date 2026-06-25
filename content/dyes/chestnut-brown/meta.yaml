@@ -1,0 +1,8 @@
+id: chestnut-brown
+category: dyes
+type: dye
+dye: "Chestnut Brown"
+color: "#3D290D"
+metallic: false
+tags: [dye, color]
+status: stable

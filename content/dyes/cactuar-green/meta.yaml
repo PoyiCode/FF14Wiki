@@ -1,0 +1,8 @@
+id: cactuar-green
+category: dyes
+type: dye
+dye: "Cactuar Green"
+color: "#658241"
+metallic: false
+tags: [dye, color]
+status: stable

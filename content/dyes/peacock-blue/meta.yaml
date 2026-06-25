@@ -1,0 +1,8 @@
+id: peacock-blue
+category: dyes
+type: dye
+dye: "Peacock Blue"
+color: "#3B6886"
+metallic: false
+tags: [dye, color]
+status: stable

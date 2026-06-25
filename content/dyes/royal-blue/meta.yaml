@@ -1,0 +1,8 @@
+id: royal-blue
+category: dyes
+type: dye
+dye: "Royal Blue"
+color: "#273067"
+metallic: false
+tags: [dye, color]
+status: stable

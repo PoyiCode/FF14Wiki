@@ -1,0 +1,8 @@
+id: acorn-brown
+category: dyes
+type: dye
+dye: "Acorn Brown"
+color: "#8E581B"
+metallic: false
+tags: [dye, color]
+status: stable

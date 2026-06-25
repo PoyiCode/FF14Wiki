@@ -1,0 +1,8 @@
+id: soot-black
+category: dyes
+type: dye
+dye: "Soot Black"
+color: "#2B2923"
+metallic: false
+tags: [dye, color]
+status: stable

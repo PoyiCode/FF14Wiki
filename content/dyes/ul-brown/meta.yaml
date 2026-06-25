@@ -1,0 +1,8 @@
+id: ul-brown
+category: dyes
+type: dye
+dye: "Ul Brown"
+color: "#B7A370"
+metallic: false
+tags: [dye, color]
+status: stable

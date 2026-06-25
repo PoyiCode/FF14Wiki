@@ -1,0 +1,8 @@
+id: pastel-green
+category: dyes
+type: dye
+dye: "Pastel Green"
+color: "#BACFAA"
+metallic: false
+tags: [dye, color]
+status: stable

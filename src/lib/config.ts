@@ -150,6 +150,16 @@ export const CATEGORIES: CategoryDef[] = [
       en: 'The titles adventurers display before or after their name — marks of identity and achievement, and a topic for a resident to chat about or introduce themselves with.',
     },
   },
+  {
+    key: 'dyes',
+    label: { 'zh-TW': '染料', 'zh-CN': '染料', ja: 'カララント', en: 'Dyes' },
+    description: {
+      'zh-TW': '為裝備與幻化上色的染料色彩，讓 bot 能描述自己的穿搭、聊配色與時尚。',
+      'zh-CN': '为装备与幻化上色的染料色彩，让 bot 能描述自己的穿搭、聊配色与时尚。',
+      ja: '装備やミラプリを染めるカララント（染料）の色。botが自分の装いを語り、配色やファッションを話せるように。',
+      en: 'The dye colours used to tint gear and glamours, so the bot can describe its own outfit and chat about colour and fashion.',
+    },
+  },
 ];
 
 export const CATEGORY_KEYS = CATEGORIES.map((c) => c.key);

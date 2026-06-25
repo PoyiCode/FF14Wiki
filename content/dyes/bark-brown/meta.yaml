@@ -1,0 +1,8 @@
+id: bark-brown
+category: dyes
+type: dye
+dye: "Bark Brown"
+color: "#6A4B37"
+metallic: false
+tags: [dye, color]
+status: stable

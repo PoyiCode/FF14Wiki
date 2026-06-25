@@ -1,0 +1,8 @@
+id: rose-pink
+category: dyes
+type: dye
+dye: "Rose Pink"
+color: "#E69F96"
+metallic: false
+tags: [dye, color]
+status: stable

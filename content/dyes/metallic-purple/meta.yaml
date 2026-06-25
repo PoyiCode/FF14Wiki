@@ -1,0 +1,8 @@
+id: metallic-purple
+category: dyes
+type: dye
+dye: "Metallic Purple"
+color: "#A366C2"
+metallic: true
+tags: [dye, color]
+status: stable

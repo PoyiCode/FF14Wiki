@@ -1,0 +1,8 @@
+id: snow-white
+category: dyes
+type: dye
+dye: "Snow White"
+color: "#E4DFD0"
+metallic: false
+tags: [dye, color]
+status: stable

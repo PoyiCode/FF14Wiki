@@ -1,0 +1,8 @@
+id: shale-brown
+category: dyes
+type: dye
+dye: "Shale Brown"
+color: "#92816C"
+metallic: false
+tags: [dye, color]
+status: stable

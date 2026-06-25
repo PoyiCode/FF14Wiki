@@ -1,0 +1,8 @@
+id: metallic-green
+category: dyes
+type: dye
+dye: "Metallic Green"
+color: "#22A757"
+metallic: true
+tags: [dye, color]
+status: stable

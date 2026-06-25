@@ -1,0 +1,8 @@
+id: pastel-pink
+category: dyes
+type: dye
+dye: "Pastel Pink"
+color: "#FDC8C6"
+metallic: false
+tags: [dye, color]
+status: stable

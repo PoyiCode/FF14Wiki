@@ -1,0 +1,8 @@
+id: hunter-green
+category: dyes
+type: dye
+dye: "Hunter Green"
+color: "#284B2C"
+metallic: false
+tags: [dye, color]
+status: stable

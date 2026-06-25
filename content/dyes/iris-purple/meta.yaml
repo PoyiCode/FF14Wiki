@@ -1,0 +1,8 @@
+id: iris-purple
+category: dyes
+type: dye
+dye: "Iris Purple"
+color: "#B79EBC"
+metallic: false
+tags: [dye, color]
+status: stable

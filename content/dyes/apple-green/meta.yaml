@@ -1,0 +1,8 @@
+id: apple-green
+category: dyes
+type: dye
+dye: "Apple Green"
+color: "#9BB363"
+metallic: false
+tags: [dye, color]
+status: stable

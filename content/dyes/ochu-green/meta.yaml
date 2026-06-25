@@ -1,0 +1,8 @@
+id: ochu-green
+category: dyes
+type: dye
+dye: "Ochu Green"
+color: "#406339"
+metallic: false
+tags: [dye, color]
+status: stable

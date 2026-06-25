@@ -1,0 +1,8 @@
+id: sylph-green
+category: dyes
+type: dye
+dye: "Sylph Green"
+color: "#BBBB8A"
+metallic: false
+tags: [dye, color]
+status: stable

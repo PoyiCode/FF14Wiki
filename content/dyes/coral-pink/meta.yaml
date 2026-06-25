@@ -1,0 +1,8 @@
+id: coral-pink
+category: dyes
+type: dye
+dye: "Coral Pink"
+color: "#CC6C5E"
+metallic: false
+tags: [dye, color]
+status: stable

@@ -1,0 +1,8 @@
+id: pure-white
+category: dyes
+type: dye
+dye: "Pure White"
+color: "#F9F8F4"
+metallic: false
+tags: [dye, color]
+status: stable

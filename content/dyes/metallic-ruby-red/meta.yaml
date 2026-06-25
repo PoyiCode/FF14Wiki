@@ -1,0 +1,8 @@
+id: metallic-ruby-red
+category: dyes
+type: dye
+dye: "Metallic Ruby Red"
+color: "#1F0000"
+metallic: true
+tags: [dye, color]
+status: stable

@@ -1,0 +1,8 @@
+id: celeste-green
+category: dyes
+type: dye
+dye: "Celeste Green"
+color: "#96BDB9"
+metallic: false
+tags: [dye, color]
+status: stable

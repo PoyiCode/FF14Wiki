@@ -1,0 +1,8 @@
+id: dark-blue
+category: dyes
+type: dye
+dye: "Dark Blue"
+color: "#121F2D"
+metallic: false
+tags: [dye, color]
+status: stable

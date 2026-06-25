@@ -1,0 +1,8 @@
+id: aldgoat-brown
+category: dyes
+type: dye
+dye: "Aldgoat Brown"
+color: "#A2875C"
+metallic: false
+tags: [dye, color]
+status: stable

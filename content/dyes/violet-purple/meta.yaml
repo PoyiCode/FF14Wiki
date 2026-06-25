@@ -1,0 +1,8 @@
+id: violet-purple
+category: dyes
+type: dye
+dye: "Violet Purple"
+color: "#62508F"
+metallic: false
+tags: [dye, color]
+status: stable

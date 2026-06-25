@@ -1,0 +1,8 @@
+id: metallic-orange
+category: dyes
+type: dye
+dye: "Metallic Orange"
+color: "#E48C2F"
+metallic: true
+tags: [dye, color]
+status: stable

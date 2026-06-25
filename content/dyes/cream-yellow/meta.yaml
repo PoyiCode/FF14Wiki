@@ -1,0 +1,8 @@
+id: cream-yellow
+category: dyes
+type: dye
+dye: "Cream Yellow"
+color: "#F2D770"
+metallic: false
+tags: [dye, color]
+status: stable

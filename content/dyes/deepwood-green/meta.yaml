@@ -1,0 +1,8 @@
+id: deepwood-green
+category: dyes
+type: dye
+dye: "Deepwood Green"
+color: "#1E2A21"
+metallic: false
+tags: [dye, color]
+status: stable

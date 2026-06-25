@@ -1,0 +1,8 @@
+id: woad-blue
+category: dyes
+type: dye
+dye: "Woad Blue"
+color: "#2F3851"
+metallic: false
+tags: [dye, color]
+status: stable

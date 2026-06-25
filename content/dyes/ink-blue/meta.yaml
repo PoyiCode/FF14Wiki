@@ -1,0 +1,8 @@
+id: ink-blue
+category: dyes
+type: dye
+dye: "Ink Blue"
+color: "#1A1F27"
+metallic: false
+tags: [dye, color]
+status: stable

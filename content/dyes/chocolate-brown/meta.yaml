@@ -1,0 +1,8 @@
+id: chocolate-brown
+category: dyes
+type: dye
+dye: "Chocolate Brown"
+color: "#6E3D24"
+metallic: false
+tags: [dye, color]
+status: stable

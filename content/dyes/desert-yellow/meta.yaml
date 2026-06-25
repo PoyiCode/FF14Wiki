@@ -1,0 +1,8 @@
+id: desert-yellow
+category: dyes
+type: dye
+dye: "Desert Yellow"
+color: "#DBB457"
+metallic: false
+tags: [dye, color]
+status: stable

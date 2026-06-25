@@ -1,0 +1,8 @@
+id: canary-yellow
+category: dyes
+type: dye
+dye: "Canary Yellow"
+color: "#FEF864"
+metallic: false
+tags: [dye, color]
+status: stable

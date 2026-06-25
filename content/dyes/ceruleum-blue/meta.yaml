@@ -1,0 +1,8 @@
+id: ceruleum-blue
+category: dyes
+type: dye
+dye: "Ceruleum Blue"
+color: "#4F5766"
+metallic: false
+tags: [dye, color]
+status: stable

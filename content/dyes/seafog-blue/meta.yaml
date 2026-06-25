@@ -1,0 +1,8 @@
+id: seafog-blue
+category: dyes
+type: dye
+dye: "Seafog Blue"
+color: "#6481A0"
+metallic: false
+tags: [dye, color]
+status: stable

@@ -1,0 +1,8 @@
+id: lotus-pink
+category: dyes
+type: dye
+dye: "Lotus Pink"
+color: "#FECEF5"
+metallic: false
+tags: [dye, color]
+status: stable

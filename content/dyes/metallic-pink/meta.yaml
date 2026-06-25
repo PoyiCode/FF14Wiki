@@ -1,0 +1,8 @@
+id: metallic-pink
+category: dyes
+type: dye
+dye: "Metallic Pink"
+color: "#A2596B"
+metallic: true
+tags: [dye, color]
+status: stable

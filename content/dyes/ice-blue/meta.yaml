@@ -1,0 +1,8 @@
+id: ice-blue
+category: dyes
+type: dye
+dye: "Ice Blue"
+color: "#B2C4CE"
+metallic: false
+tags: [dye, color]
+status: stable

@@ -1,0 +1,8 @@
+id: adamantoise-green
+category: dyes
+type: dye
+dye: "Adamantoise Green"
+color: "#5F7558"
+metallic: false
+tags: [dye, color]
+status: stable

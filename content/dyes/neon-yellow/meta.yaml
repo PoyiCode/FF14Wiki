@@ -1,0 +1,8 @@
+id: neon-yellow
+category: dyes
+type: dye
+dye: "Neon Yellow"
+color: "#DFEA08"
+metallic: false
+tags: [dye, color]
+status: stable

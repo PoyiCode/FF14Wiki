@@ -1,0 +1,1502 @@
+[
+ {
+  "slug": "snow-white",
+  "en": "Snow White",
+  "hex": "#E4DFD0",
+  "metallic": false,
+  "n": {
+   "en": "Snow White",
+   "zh-CN": "素雪白",
+   "zh-TW": "素雪白",
+   "ja": "スノウホワイト"
+  }
+ },
+ {
+  "slug": "ash-grey",
+  "en": "Ash Grey",
+  "hex": "#ACA8A2",
+  "metallic": false,
+  "n": {
+   "en": "Ash Grey",
+   "zh-CN": "苍白灰",
+   "zh-TW": "蒼白灰",
+   "ja": "アッシュグレイ"
+  }
+ },
+ {
+  "slug": "goobbue-grey",
+  "en": "Goobbue Grey",
+  "hex": "#898784",
+  "metallic": false,
+  "n": {
+   "en": "Goobbue Grey",
+   "zh-CN": "古菩灰",
+   "zh-TW": "古菩灰",
+   "ja": "グゥーブーグレイ"
+  }
+ },
+ {
+  "slug": "slate-grey",
+  "en": "Slate Grey",
+  "hex": "#656565",
+  "metallic": false,
+  "n": {
+   "en": "Slate Grey",
+   "zh-CN": "石板灰",
+   "zh-TW": "石板灰",
+   "ja": "スレートグレイ"
+  }
+ },
+ {
+  "slug": "charcoal-grey",
+  "en": "Charcoal Grey",
+  "hex": "#484742",
+  "metallic": false,
+  "n": {
+   "en": "Charcoal Grey",
+   "zh-CN": "木炭灰",
+   "zh-TW": "木炭灰",
+   "ja": "チャコールグレイ"
+  }
+ },
+ {
+  "slug": "soot-black",
+  "en": "Soot Black",
+  "hex": "#2B2923",
+  "metallic": false,
+  "n": {
+   "en": "Soot Black",
+   "zh-CN": "煤烟黑",
+   "zh-TW": "煤煙黑",
+   "ja": "スートブラック"
+  }
+ },
+ {
+  "slug": "rose-pink",
+  "en": "Rose Pink",
+  "hex": "#E69F96",
+  "metallic": false,
+  "n": {
+   "en": "Rose Pink",
+   "zh-CN": "玫瑰粉",
+   "zh-TW": "玫瑰粉",
+   "ja": "ローズピンク"
+  }
+ },
+ {
+  "slug": "lilac-purple",
+  "en": "Lilac Purple",
+  "hex": "#836969",
+  "metallic": false,
+  "n": {
+   "en": "Lilac Purple",
+   "zh-CN": "丁香紫",
+   "zh-TW": "丁香紫",
+   "ja": "ライラックパープル"
+  }
+ },
+ {
+  "slug": "rolanberry-red",
+  "en": "Rolanberry Red",
+  "hex": "#5B1729",
+  "metallic": false,
+  "n": {
+   "en": "Rolanberry Red",
+   "zh-CN": "罗兰莓",
+   "zh-TW": "羅蘭莓",
+   "ja": "ロランベリーレッド"
+  }
+ },
+ {
+  "slug": "dalamud-red",
+  "en": "Dalamud Red",
+  "hex": "#781A1A",
+  "metallic": false,
+  "n": {
+   "en": "Dalamud Red",
+   "zh-CN": "卫月红",
+   "zh-TW": "衛月紅",
+   "ja": "ダラガブレッド"
+  }
+ },
+ {
+  "slug": "rust-red",
+  "en": "Rust Red",
+  "hex": "#622207",
+  "metallic": false,
+  "n": {
+   "en": "Rust Red",
+   "zh-CN": "铁锈红",
+   "zh-TW": "鐵鏽紅",
+   "ja": "ラストレッド"
+  }
+ },
+ {
+  "slug": "wine-red",
+  "en": "Wine Red",
+  "hex": "#451511",
+  "metallic": false,
+  "n": {
+   "en": "Wine Red",
+   "zh-CN": "果酒红",
+   "zh-TW": "果酒紅",
+   "ja": "ワインレッド"
+  }
+ },
+ {
+  "slug": "coral-pink",
+  "en": "Coral Pink",
+  "hex": "#CC6C5E",
+  "metallic": false,
+  "n": {
+   "en": "Coral Pink",
+   "zh-CN": "珊瑚粉",
+   "zh-TW": "珊瑚粉",
+   "ja": "コーラルピンク"
+  }
+ },
+ {
+  "slug": "blood-red",
+  "en": "Blood Red",
+  "hex": "#913B27",
+  "metallic": false,
+  "n": {
+   "en": "Blood Red",
+   "zh-CN": "鲜血红",
+   "zh-TW": "鮮血紅",
+   "ja": "ブラッドレッド"
+  }
+ },
+ {
+  "slug": "salmon-pink",
+  "en": "Salmon Pink",
+  "hex": "#E4AA8A",
+  "metallic": false,
+  "n": {
+   "en": "Salmon Pink",
+   "zh-CN": "鲑鱼粉",
+   "zh-TW": "鮭魚粉",
+   "ja": "サーモンピンク"
+  }
+ },
+ {
+  "slug": "sunset-orange",
+  "en": "Sunset Orange",
+  "hex": "#B75C2D",
+  "metallic": false,
+  "n": {
+   "en": "Sunset Orange",
+   "zh-CN": "日落橙",
+   "zh-TW": "日落橙",
+   "ja": "サンセットオレンジ"
+  }
+ },
+ {
+  "slug": "mesa-red",
+  "en": "Mesa Red",
+  "hex": "#7D3906",
+  "metallic": false,
+  "n": {
+   "en": "Mesa Red",
+   "zh-CN": "台地红",
+   "zh-TW": "臺地紅",
+   "ja": "メサレッド"
+  }
+ },
+ {
+  "slug": "bark-brown",
+  "en": "Bark Brown",
+  "hex": "#6A4B37",
+  "metallic": false,
+  "n": {
+   "en": "Bark Brown",
+   "zh-CN": "树皮棕",
+   "zh-TW": "樹皮棕",
+   "ja": "バークブラウン"
+  }
+ },
+ {
+  "slug": "chocolate-brown",
+  "en": "Chocolate Brown",
+  "hex": "#6E3D24",
+  "metallic": false,
+  "n": {
+   "en": "Chocolate Brown",
+   "zh-CN": "巧克力",
+   "zh-TW": "巧克力",
+   "ja": "チョコレートブラウン"
+  }
+ },
+ {
+  "slug": "russet-brown",
+  "en": "Russet Brown",
+  "hex": "#4F2D1F",
+  "metallic": false,
+  "n": {
+   "en": "Russet Brown",
+   "zh-CN": "铁锈棕",
+   "zh-TW": "鐵鏽棕",
+   "ja": "ラセットブラウン"
+  }
+ },
+ {
+  "slug": "kobold-brown",
+  "en": "Kobold Brown",
+  "hex": "#30211B",
+  "metallic": false,
+  "n": {
+   "en": "Kobold Brown",
+   "zh-CN": "钴铁棕",
+   "zh-TW": "鈷鐵棕",
+   "ja": "コボルドブラウン"
+  }
+ },
+ {
+  "slug": "cork-brown",
+  "en": "Cork Brown",
+  "hex": "#C99156",
+  "metallic": false,
+  "n": {
+   "en": "Cork Brown",
+   "zh-CN": "软木棕",
+   "zh-TW": "軟木棕",
+   "ja": "コルクブラウン"
+  }
+ },
+ {
+  "slug": "qiqirn-brown",
+  "en": "Qiqirn Brown",
+  "hex": "#996E3F",
+  "metallic": false,
+  "n": {
+   "en": "Qiqirn Brown",
+   "zh-CN": "卢恩棕",
+   "zh-TW": "盧恩棕",
+   "ja": "キキルンブラウン"
+  }
+ },
+ {
+  "slug": "opo-opo-brown",
+  "en": "Opo-opo Brown",
+  "hex": "#7B5C2D",
+  "metallic": false,
+  "n": {
+   "en": "Opo-opo Brown",
+   "zh-CN": "奥猴棕",
+   "zh-TW": "奧猴棕",
+   "ja": "オポオポブラウン"
+  }
+ },
+ {
+  "slug": "aldgoat-brown",
+  "en": "Aldgoat Brown",
+  "hex": "#A2875C",
+  "metallic": false,
+  "n": {
+   "en": "Aldgoat Brown",
+   "zh-CN": "山羊棕",
+   "zh-TW": "山羊棕",
+   "ja": "アルドゴートブラウン"
+  }
+ },
+ {
+  "slug": "pumpkin-orange",
+  "en": "Pumpkin Orange",
+  "hex": "#C57424",
+  "metallic": false,
+  "n": {
+   "en": "Pumpkin Orange",
+   "zh-CN": "南瓜橙",
+   "zh-TW": "南瓜橙",
+   "ja": "パンプキンオレンジ"
+  }
+ },
+ {
+  "slug": "acorn-brown",
+  "en": "Acorn Brown",
+  "hex": "#8E581B",
+  "metallic": false,
+  "n": {
+   "en": "Acorn Brown",
+   "zh-CN": "橡果棕",
+   "zh-TW": "橡果棕",
+   "ja": "エーコンブラウン"
+  }
+ },
+ {
+  "slug": "orchard-brown",
+  "en": "Orchard Brown",
+  "hex": "#644216",
+  "metallic": false,
+  "n": {
+   "en": "Orchard Brown",
+   "zh-CN": "果园棕",
+   "zh-TW": "果園棕",
+   "ja": "オーチャードブラウン"
+  }
+ },
+ {
+  "slug": "chestnut-brown",
+  "en": "Chestnut Brown",
+  "hex": "#3D290D",
+  "metallic": false,
+  "n": {
+   "en": "Chestnut Brown",
+   "zh-CN": "山栗棕",
+   "zh-TW": "山栗棕",
+   "ja": "チェスナットブラウン"
+  }
+ },
+ {
+  "slug": "gobbiebag-brown",
+  "en": "Gobbiebag Brown",
+  "hex": "#B9A489",
+  "metallic": false,
+  "n": {
+   "en": "Gobbiebag Brown",
+   "zh-CN": "哥布林",
+   "zh-TW": "哥布林",
+   "ja": "ゴブリンブラウン"
+  }
+ },
+ {
+  "slug": "shale-brown",
+  "en": "Shale Brown",
+  "hex": "#92816C",
+  "metallic": false,
+  "n": {
+   "en": "Shale Brown",
+   "zh-CN": "页岩棕",
+   "zh-TW": "頁岩棕",
+   "ja": "シェールブラウン"
+  }
+ },
+ {
+  "slug": "mole-brown",
+  "en": "Mole Brown",
+  "hex": "#615245",
+  "metallic": false,
+  "n": {
+   "en": "Mole Brown",
+   "zh-CN": "鼹鼠棕",
+   "zh-TW": "鼴鼠棕",
+   "ja": "モールブラウン"
+  }
+ },
+ {
+  "slug": "loam-brown",
+  "en": "Loam Brown",
+  "hex": "#3F3329",
+  "metallic": false,
+  "n": {
+   "en": "Loam Brown",
+   "zh-CN": "沃土棕",
+   "zh-TW": "沃土棕",
+   "ja": "ロームブラウン"
+  }
+ },
+ {
+  "slug": "bone-white",
+  "en": "Bone White",
+  "hex": "#EBD3A0",
+  "metallic": false,
+  "n": {
+   "en": "Bone White",
+   "zh-CN": "骸骨白",
+   "zh-TW": "骸骨白",
+   "ja": "ボーンホワイト"
+  }
+ },
+ {
+  "slug": "ul-brown",
+  "en": "Ul Brown",
+  "hex": "#B7A370",
+  "metallic": false,
+  "n": {
+   "en": "Ul Brown",
+   "zh-CN": "黄沙棕",
+   "zh-TW": "黃沙棕",
+   "ja": "ウルダハンブラウン"
+  }
+ },
+ {
+  "slug": "desert-yellow",
+  "en": "Desert Yellow",
+  "hex": "#DBB457",
+  "metallic": false,
+  "n": {
+   "en": "Desert Yellow",
+   "zh-CN": "陆行鸟黄",
+   "zh-TW": "陸行鳥黃",
+   "ja": "デザートイエロー"
+  }
+ },
+ {
+  "slug": "honey-yellow",
+  "en": "Honey Yellow",
+  "hex": "#FAC62B",
+  "metallic": false,
+  "n": {
+   "en": "Honey Yellow",
+   "zh-CN": "蜂蜜黄",
+   "zh-TW": "蜂蜜黃",
+   "ja": "ハニーイエロー"
+  }
+ },
+ {
+  "slug": "millioncorn-yellow",
+  "en": "Millioncorn Yellow",
+  "hex": "#E49E34",
+  "metallic": false,
+  "n": {
+   "en": "Millioncorn Yellow",
+   "zh-CN": "玉米黄",
+   "zh-TW": "玉米黃",
+   "ja": "ミリオンコーンイエロー"
+  }
+ },
+ {
+  "slug": "coeurl-yellow",
+  "en": "Coeurl Yellow",
+  "hex": "#BC8804",
+  "metallic": false,
+  "n": {
+   "en": "Coeurl Yellow",
+   "zh-CN": "猛豹黄",
+   "zh-TW": "猛豹黃",
+   "ja": "クァールイエロー"
+  }
+ },
+ {
+  "slug": "cream-yellow",
+  "en": "Cream Yellow",
+  "hex": "#F2D770",
+  "metallic": false,
+  "n": {
+   "en": "Cream Yellow",
+   "zh-CN": "奶油黄",
+   "zh-TW": "奶油黃",
+   "ja": "クリームイエロー"
+  }
+ },
+ {
+  "slug": "halatali-yellow",
+  "en": "Halatali Yellow",
+  "hex": "#A58430",
+  "metallic": false,
+  "n": {
+   "en": "Halatali Yellow",
+   "zh-CN": "日影黄",
+   "zh-TW": "日影黃",
+   "ja": "ハラタリイエロー"
+  }
+ },
+ {
+  "slug": "raisin-brown",
+  "en": "Raisin Brown",
+  "hex": "#403311",
+  "metallic": false,
+  "n": {
+   "en": "Raisin Brown",
+   "zh-CN": "萄干棕",
+   "zh-TW": "萄幹棕",
+   "ja": "レーズンブラウン"
+  }
+ },
+ {
+  "slug": "mud-green",
+  "en": "Mud Green",
+  "hex": "#585230",
+  "metallic": false,
+  "n": {
+   "en": "Mud Green",
+   "zh-CN": "泥沼绿",
+   "zh-TW": "泥沼綠",
+   "ja": "マッドグリーン"
+  }
+ },
+ {
+  "slug": "sylph-green",
+  "en": "Sylph Green",
+  "hex": "#BBBB8A",
+  "metallic": false,
+  "n": {
+   "en": "Sylph Green",
+   "zh-CN": "妖精绿",
+   "zh-TW": "妖精綠",
+   "ja": "シルフグリーン"
+  }
+ },
+ {
+  "slug": "lime-green",
+  "en": "Lime Green",
+  "hex": "#ABB054",
+  "metallic": false,
+  "n": {
+   "en": "Lime Green",
+   "zh-CN": "青柠绿",
+   "zh-TW": "青檸綠",
+   "ja": "ライムグリーン"
+  }
+ },
+ {
+  "slug": "moss-green",
+  "en": "Moss Green",
+  "hex": "#707326",
+  "metallic": false,
+  "n": {
+   "en": "Moss Green",
+   "zh-CN": "苔藓绿",
+   "zh-TW": "苔蘚綠",
+   "ja": "モスグリーン"
+  }
+ },
+ {
+  "slug": "meadow-green",
+  "en": "Meadow Green",
+  "hex": "#8B9C63",
+  "metallic": false,
+  "n": {
+   "en": "Meadow Green",
+   "zh-CN": "牧草绿",
+   "zh-TW": "牧草綠",
+   "ja": "メドウグリーン"
+  }
+ },
+ {
+  "slug": "olive-green",
+  "en": "Olive Green",
+  "hex": "#4B5232",
+  "metallic": false,
+  "n": {
+   "en": "Olive Green",
+   "zh-CN": "橄榄绿",
+   "zh-TW": "橄欖綠",
+   "ja": "オリーヴグリーン"
+  }
+ },
+ {
+  "slug": "marsh-green",
+  "en": "Marsh Green",
+  "hex": "#323621",
+  "metallic": false,
+  "n": {
+   "en": "Marsh Green",
+   "zh-CN": "沼泽绿",
+   "zh-TW": "沼澤綠",
+   "ja": "マーシュグリーン"
+  }
+ },
+ {
+  "slug": "apple-green",
+  "en": "Apple Green",
+  "hex": "#9BB363",
+  "metallic": false,
+  "n": {
+   "en": "Apple Green",
+   "zh-CN": "苹果绿",
+   "zh-TW": "蘋果綠",
+   "ja": "アップルグリーン"
+  }
+ },
+ {
+  "slug": "cactuar-green",
+  "en": "Cactuar Green",
+  "hex": "#658241",
+  "metallic": false,
+  "n": {
+   "en": "Cactuar Green",
+   "zh-CN": "仙人掌",
+   "zh-TW": "仙人掌",
+   "ja": "サボテンダーグリーン"
+  }
+ },
+ {
+  "slug": "hunter-green",
+  "en": "Hunter Green",
+  "hex": "#284B2C",
+  "metallic": false,
+  "n": {
+   "en": "Hunter Green",
+   "zh-CN": "猎人绿",
+   "zh-TW": "獵人綠",
+   "ja": "ハンターグリーン"
+  }
+ },
+ {
+  "slug": "ochu-green",
+  "en": "Ochu Green",
+  "hex": "#406339",
+  "metallic": false,
+  "n": {
+   "en": "Ochu Green",
+   "zh-CN": "口花绿",
+   "zh-TW": "口花綠",
+   "ja": "オチューグリーン"
+  }
+ },
+ {
+  "slug": "adamantoise-green",
+  "en": "Adamantoise Green",
+  "hex": "#5F7558",
+  "metallic": false,
+  "n": {
+   "en": "Adamantoise Green",
+   "zh-CN": "金龟绿",
+   "zh-TW": "金龜綠",
+   "ja": "アダマンタスグリーン"
+  }
+ },
+ {
+  "slug": "nophica-green",
+  "en": "Nophica Green",
+  "hex": "#3B4D3C",
+  "metallic": false,
+  "n": {
+   "en": "Nophica Green",
+   "zh-CN": "地神绿",
+   "zh-TW": "地神綠",
+   "ja": "ノフィカグリーン"
+  }
+ },
+ {
+  "slug": "deepwood-green",
+  "en": "Deepwood Green",
+  "hex": "#1E2A21",
+  "metallic": false,
+  "n": {
+   "en": "Deepwood Green",
+   "zh-CN": "深林绿",
+   "zh-TW": "深林綠",
+   "ja": "ディープウッドグリーン"
+  }
+ },
+ {
+  "slug": "celeste-green",
+  "en": "Celeste Green",
+  "hex": "#96BDB9",
+  "metallic": false,
+  "n": {
+   "en": "Celeste Green",
+   "zh-CN": "天上蓝",
+   "zh-TW": "天上藍",
+   "ja": "セレストグリーン"
+  }
+ },
+ {
+  "slug": "turquoise-green",
+  "en": "Turquoise Green",
+  "hex": "#437272",
+  "metallic": false,
+  "n": {
+   "en": "Turquoise Green",
+   "zh-CN": "绿松蓝",
+   "zh-TW": "綠松藍",
+   "ja": "ターコイズグリーン"
+  }
+ },
+ {
+  "slug": "morbol-green",
+  "en": "Morbol Green",
+  "hex": "#1F4646",
+  "metallic": false,
+  "n": {
+   "en": "Morbol Green",
+   "zh-CN": "魔花绿",
+   "zh-TW": "魔花綠",
+   "ja": "モルボルグリーン"
+  }
+ },
+ {
+  "slug": "ice-blue",
+  "en": "Ice Blue",
+  "hex": "#B2C4CE",
+  "metallic": false,
+  "n": {
+   "en": "Ice Blue",
+   "zh-CN": "寒冰蓝",
+   "zh-TW": "寒冰藍",
+   "ja": "アイスブルー"
+  }
+ },
+ {
+  "slug": "sky-blue",
+  "en": "Sky Blue",
+  "hex": "#83B0D2",
+  "metallic": false,
+  "n": {
+   "en": "Sky Blue",
+   "zh-CN": "天空蓝",
+   "zh-TW": "天空藍",
+   "ja": "スカイブルー"
+  }
+ },
+ {
+  "slug": "seafog-blue",
+  "en": "Seafog Blue",
+  "hex": "#6481A0",
+  "metallic": false,
+  "n": {
+   "en": "Seafog Blue",
+   "zh-CN": "海雾蓝",
+   "zh-TW": "海霧藍",
+   "ja": "シーフォグブルー"
+  }
+ },
+ {
+  "slug": "peacock-blue",
+  "en": "Peacock Blue",
+  "hex": "#3B6886",
+  "metallic": false,
+  "n": {
+   "en": "Peacock Blue",
+   "zh-CN": "孔雀蓝",
+   "zh-TW": "孔雀藍",
+   "ja": "ピーコックブルー"
+  }
+ },
+ {
+  "slug": "rhotano-blue",
+  "en": "Rhotano Blue",
+  "hex": "#1C3D54",
+  "metallic": false,
+  "n": {
+   "en": "Rhotano Blue",
+   "zh-CN": "罗海蓝",
+   "zh-TW": "羅海藍",
+   "ja": "ロータノブルー"
+  }
+ },
+ {
+  "slug": "corpse-blue",
+  "en": "Corpse Blue",
+  "hex": "#8E9BAC",
+  "metallic": false,
+  "n": {
+   "en": "Corpse Blue",
+   "zh-CN": "腐尸蓝",
+   "zh-TW": "腐屍藍",
+   "ja": "コープスブルー"
+  }
+ },
+ {
+  "slug": "ceruleum-blue",
+  "en": "Ceruleum Blue",
+  "hex": "#4F5766",
+  "metallic": false,
+  "n": {
+   "en": "Ceruleum Blue",
+   "zh-CN": "青磷蓝",
+   "zh-TW": "青磷藍",
+   "ja": "セルレアムブルー"
+  }
+ },
+ {
+  "slug": "woad-blue",
+  "en": "Woad Blue",
+  "hex": "#2F3851",
+  "metallic": false,
+  "n": {
+   "en": "Woad Blue",
+   "zh-CN": "靛青蓝",
+   "zh-TW": "靛青藍",
+   "ja": "ウォードブルー"
+  }
+ },
+ {
+  "slug": "ink-blue",
+  "en": "Ink Blue",
+  "hex": "#1A1F27",
+  "metallic": false,
+  "n": {
+   "en": "Ink Blue",
+   "zh-CN": "油墨蓝",
+   "zh-TW": "油墨藍",
+   "ja": "インクブルー"
+  }
+ },
+ {
+  "slug": "raptor-blue",
+  "en": "Raptor Blue",
+  "hex": "#5B7FC0",
+  "metallic": false,
+  "n": {
+   "en": "Raptor Blue",
+   "zh-CN": "盗龙蓝",
+   "zh-TW": "盜龍藍",
+   "ja": "ラプトルブルー"
+  }
+ },
+ {
+  "slug": "othard-blue",
+  "en": "Othard Blue",
+  "hex": "#2F5889",
+  "metallic": false,
+  "n": {
+   "en": "Othard Blue",
+   "zh-CN": "东洲蓝",
+   "zh-TW": "東洲藍",
+   "ja": "オサードブルー"
+  }
+ },
+ {
+  "slug": "storm-blue",
+  "en": "Storm Blue",
+  "hex": "#234172",
+  "metallic": false,
+  "n": {
+   "en": "Storm Blue",
+   "zh-CN": "风暴蓝",
+   "zh-TW": "風暴藍",
+   "ja": "ストームブルー"
+  }
+ },
+ {
+  "slug": "void-blue",
+  "en": "Void Blue",
+  "hex": "#112944",
+  "metallic": false,
+  "n": {
+   "en": "Void Blue",
+   "zh-CN": "虚空蓝",
+   "zh-TW": "虛空藍",
+   "ja": "ヴォイドブルー"
+  }
+ },
+ {
+  "slug": "royal-blue",
+  "en": "Royal Blue",
+  "hex": "#273067",
+  "metallic": false,
+  "n": {
+   "en": "Royal Blue",
+   "zh-CN": "皇室蓝",
+   "zh-TW": "皇室藍",
+   "ja": "ロイヤルブルー"
+  }
+ },
+ {
+  "slug": "midnight-blue",
+  "en": "Midnight Blue",
+  "hex": "#181937",
+  "metallic": false,
+  "n": {
+   "en": "Midnight Blue",
+   "zh-CN": "午夜蓝",
+   "zh-TW": "午夜藍",
+   "ja": "ミッドナイトブルー"
+  }
+ },
+ {
+  "slug": "shadow-blue",
+  "en": "Shadow Blue",
+  "hex": "#373747",
+  "metallic": false,
+  "n": {
+   "en": "Shadow Blue",
+   "zh-CN": "阴影蓝",
+   "zh-TW": "陰影藍",
+   "ja": "シャドウブルー"
+  }
+ },
+ {
+  "slug": "abyssal-blue",
+  "en": "Abyssal Blue",
+  "hex": "#312D57",
+  "metallic": false,
+  "n": {
+   "en": "Abyssal Blue",
+   "zh-CN": "深渊蓝",
+   "zh-TW": "深淵藍",
+   "ja": "アビサルブルー"
+  }
+ },
+ {
+  "slug": "lavender-purple",
+  "en": "Lavender Purple",
+  "hex": "#877FAE",
+  "metallic": false,
+  "n": {
+   "en": "Lavender Purple",
+   "zh-CN": "薰衣草",
+   "zh-TW": "薰衣草",
+   "ja": "ラベンダーブルー"
+  }
+ },
+ {
+  "slug": "gloom-purple",
+  "en": "Gloom Purple",
+  "hex": "#514560",
+  "metallic": false,
+  "n": {
+   "en": "Gloom Purple",
+   "zh-CN": "忧郁紫",
+   "zh-TW": "憂鬱紫",
+   "ja": "グルームパープル"
+  }
+ },
+ {
+  "slug": "currant-purple",
+  "en": "Currant Purple",
+  "hex": "#322C3B",
+  "metallic": false,
+  "n": {
+   "en": "Currant Purple",
+   "zh-CN": "醋栗紫",
+   "zh-TW": "醋栗紫",
+   "ja": "カラントパープル"
+  }
+ },
+ {
+  "slug": "iris-purple",
+  "en": "Iris Purple",
+  "hex": "#B79EBC",
+  "metallic": false,
+  "n": {
+   "en": "Iris Purple",
+   "zh-CN": "鸢尾紫",
+   "zh-TW": "鳶尾紫",
+   "ja": "アイリスパープル"
+  }
+ },
+ {
+  "slug": "grape-purple",
+  "en": "Grape Purple",
+  "hex": "#3B2A3D",
+  "metallic": false,
+  "n": {
+   "en": "Grape Purple",
+   "zh-CN": "葡萄紫",
+   "zh-TW": "葡萄紫",
+   "ja": "グレープパープル"
+  }
+ },
+ {
+  "slug": "lotus-pink",
+  "en": "Lotus Pink",
+  "hex": "#FECEF5",
+  "metallic": false,
+  "n": {
+   "en": "Lotus Pink",
+   "zh-CN": "莲花粉",
+   "zh-TW": "蓮花粉",
+   "ja": "ロータスピンク"
+  }
+ },
+ {
+  "slug": "colibri-pink",
+  "en": "Colibri Pink",
+  "hex": "#DC9BCA",
+  "metallic": false,
+  "n": {
+   "en": "Colibri Pink",
+   "zh-CN": "蜂鸟粉",
+   "zh-TW": "蜂鳥粉",
+   "ja": "コリブリピンク"
+  }
+ },
+ {
+  "slug": "plum-purple",
+  "en": "Plum Purple",
+  "hex": "#79526C",
+  "metallic": false,
+  "n": {
+   "en": "Plum Purple",
+   "zh-CN": "仙子梅",
+   "zh-TW": "仙子梅",
+   "ja": "プラムパープル"
+  }
+ },
+ {
+  "slug": "regal-purple",
+  "en": "Regal Purple",
+  "hex": "#66304E",
+  "metallic": false,
+  "n": {
+   "en": "Regal Purple",
+   "zh-CN": "帝王紫",
+   "zh-TW": "帝王紫",
+   "ja": "リーガルパープル"
+  }
+ },
+ {
+  "slug": "ruby-red",
+  "en": "Ruby Red",
+  "hex": "#E40011",
+  "metallic": false,
+  "n": {
+   "en": "Ruby Red",
+   "zh-CN": "宝石红",
+   "zh-TW": "寶石紅",
+   "ja": "ルビーレッド"
+  }
+ },
+ {
+  "slug": "cherry-pink",
+  "en": "Cherry Pink",
+  "hex": "#F5379B",
+  "metallic": false,
+  "n": {
+   "en": "Cherry Pink",
+   "zh-CN": "樱桃粉",
+   "zh-TW": "櫻桃粉",
+   "ja": "チェリーピンク"
+  }
+ },
+ {
+  "slug": "canary-yellow",
+  "en": "Canary Yellow",
+  "hex": "#FEF864",
+  "metallic": false,
+  "n": {
+   "en": "Canary Yellow",
+   "zh-CN": "丝雀黄",
+   "zh-TW": "絲雀黃",
+   "ja": "カナリーイエロー"
+  }
+ },
+ {
+  "slug": "vanilla-yellow",
+  "en": "Vanilla Yellow",
+  "hex": "#FBF1B4",
+  "metallic": false,
+  "n": {
+   "en": "Vanilla Yellow",
+   "zh-CN": "香草黄",
+   "zh-TW": "香草黃",
+   "ja": "バニライエロー"
+  }
+ },
+ {
+  "slug": "dragoon-blue",
+  "en": "Dragoon Blue",
+  "hex": "#000EA2",
+  "metallic": false,
+  "n": {
+   "en": "Dragoon Blue",
+   "zh-CN": "龙骑蓝",
+   "zh-TW": "龍騎藍",
+   "ja": "ドラグーンブルー"
+  }
+ },
+ {
+  "slug": "turquoise-blue",
+  "en": "Turquoise Blue",
+  "hex": "#04AFCD",
+  "metallic": false,
+  "n": {
+   "en": "Turquoise Blue",
+   "zh-CN": "松石蓝",
+   "zh-TW": "松石藍",
+   "ja": "ターコイズブルー"
+  }
+ },
+ {
+  "slug": "gunmetal-black",
+  "en": "Gunmetal Black",
+  "hex": "#606068",
+  "metallic": true,
+  "n": {
+   "en": "Gunmetal Black",
+   "zh-CN": "炮铜黑",
+   "zh-TW": "炮銅黑",
+   "ja": "ガンメタル"
+  }
+ },
+ {
+  "slug": "pearl-white",
+  "en": "Pearl White",
+  "hex": "#E9E3DA",
+  "metallic": true,
+  "n": {
+   "en": "Pearl White",
+   "zh-CN": "珍珠白",
+   "zh-TW": "珍珠白",
+   "ja": "パールホワイト"
+  }
+ },
+ {
+  "slug": "metallic-brass",
+  "en": "Metallic Brass",
+  "hex": "#E7D197",
+  "metallic": true,
+  "n": {
+   "en": "Metallic Brass",
+   "zh-CN": "金属铜",
+   "zh-TW": "金屬銅",
+   "ja": "シャインブラス"
+  }
+ },
+ {
+  "slug": "carmine-red",
+  "en": "Carmine Red",
+  "hex": "#DE0B16",
+  "metallic": false,
+  "n": {
+   "en": "Carmine Red",
+   "zh-CN": "胭脂红",
+   "zh-TW": "胭脂紅",
+   "ja": "カーマインレッド"
+  }
+ },
+ {
+  "slug": "neon-pink",
+  "en": "Neon Pink",
+  "hex": "#ED118E",
+  "metallic": false,
+  "n": {
+   "en": "Neon Pink",
+   "zh-CN": "霓虹粉",
+   "zh-TW": "霓虹粉",
+   "ja": "ネオンピンク"
+  }
+ },
+ {
+  "slug": "bright-orange",
+  "en": "Bright Orange",
+  "hex": "#F45011",
+  "metallic": false,
+  "n": {
+   "en": "Bright Orange",
+   "zh-CN": "明亮橙",
+   "zh-TW": "明亮橙",
+   "ja": "ブライトオレンジ"
+  }
+ },
+ {
+  "slug": "neon-yellow",
+  "en": "Neon Yellow",
+  "hex": "#DFEA08",
+  "metallic": false,
+  "n": {
+   "en": "Neon Yellow",
+   "zh-CN": "霓虹黄",
+   "zh-TW": "霓虹黃",
+   "ja": "ネオンイエロー"
+  }
+ },
+ {
+  "slug": "neon-green",
+  "en": "Neon Green",
+  "hex": "#B5F710",
+  "metallic": false,
+  "n": {
+   "en": "Neon Green",
+   "zh-CN": "霓虹绿",
+   "zh-TW": "霓虹綠",
+   "ja": "ネオングリーン"
+  }
+ },
+ {
+  "slug": "azure-blue",
+  "en": "Azure Blue",
+  "hex": "#3A4C90",
+  "metallic": false,
+  "n": {
+   "en": "Azure Blue",
+   "zh-CN": "碧空蓝",
+   "zh-TW": "碧空藍",
+   "ja": "アズールブルー"
+  }
+ },
+ {
+  "slug": "pure-white",
+  "en": "Pure White",
+  "hex": "#F9F8F4",
+  "metallic": false,
+  "n": {
+   "en": "Pure White",
+   "zh-CN": "无瑕白",
+   "zh-TW": "無瑕白",
+   "ja": "ピュアホワイト"
+  }
+ },
+ {
+  "slug": "jet-black",
+  "en": "Jet Black",
+  "hex": "#1E1E1E",
+  "metallic": false,
+  "n": {
+   "en": "Jet Black",
+   "zh-CN": "煤玉黑",
+   "zh-TW": "煤玉黑",
+   "ja": "ジェットブラック"
+  }
+ },
+ {
+  "slug": "pastel-pink",
+  "en": "Pastel Pink",
+  "hex": "#FDC8C6",
+  "metallic": false,
+  "n": {
+   "en": "Pastel Pink",
+   "zh-CN": "柔彩粉",
+   "zh-TW": "柔彩粉",
+   "ja": "パステルピンク"
+  }
+ },
+ {
+  "slug": "dark-red",
+  "en": "Dark Red",
+  "hex": "#321919",
+  "metallic": false,
+  "n": {
+   "en": "Dark Red",
+   "zh-CN": "黑暗红",
+   "zh-TW": "黑暗紅",
+   "ja": "ダークレッド"
+  }
+ },
+ {
+  "slug": "dark-brown",
+  "en": "Dark Brown",
+  "hex": "#28211C",
+  "metallic": false,
+  "n": {
+   "en": "Dark Brown",
+   "zh-CN": "黑暗棕",
+   "zh-TW": "黑暗棕",
+   "ja": "ダークブラウン"
+  }
+ },
+ {
+  "slug": "pastel-green",
+  "en": "Pastel Green",
+  "hex": "#BACFAA",
+  "metallic": false,
+  "n": {
+   "en": "Pastel Green",
+   "zh-CN": "柔彩绿",
+   "zh-TW": "柔彩綠",
+   "ja": "パステルグリーン"
+  }
+ },
+ {
+  "slug": "dark-green",
+  "en": "Dark Green",
+  "hex": "#152C2C",
+  "metallic": false,
+  "n": {
+   "en": "Dark Green",
+   "zh-CN": "黑暗绿",
+   "zh-TW": "黑暗綠",
+   "ja": "ダークグリーン"
+  }
+ },
+ {
+  "slug": "pastel-blue",
+  "en": "Pastel Blue",
+  "hex": "#96A4D9",
+  "metallic": false,
+  "n": {
+   "en": "Pastel Blue",
+   "zh-CN": "柔彩蓝",
+   "zh-TW": "柔彩藍",
+   "ja": "パステルブルー"
+  }
+ },
+ {
+  "slug": "dark-blue",
+  "en": "Dark Blue",
+  "hex": "#121F2D",
+  "metallic": false,
+  "n": {
+   "en": "Dark Blue",
+   "zh-CN": "黑暗蓝",
+   "zh-TW": "黑暗藍",
+   "ja": "ダークブルー"
+  }
+ },
+ {
+  "slug": "pastel-purple",
+  "en": "Pastel Purple",
+  "hex": "#BBB5DA",
+  "metallic": false,
+  "n": {
+   "en": "Pastel Purple",
+   "zh-CN": "柔彩紫",
+   "zh-TW": "柔彩紫",
+   "ja": "パステルパープル"
+  }
+ },
+ {
+  "slug": "dark-purple",
+  "en": "Dark Purple",
+  "hex": "#232026",
+  "metallic": false,
+  "n": {
+   "en": "Dark Purple",
+   "zh-CN": "黑暗紫",
+   "zh-TW": "黑暗紫",
+   "ja": "ダークパープル"
+  }
+ },
+ {
+  "slug": "metallic-silver",
+  "en": "Metallic Silver",
+  "hex": "#A7A7A7",
+  "metallic": true,
+  "n": {
+   "en": "Metallic Silver",
+   "zh-CN": "闪耀银",
+   "zh-TW": "閃耀銀",
+   "ja": "シャインシルバー"
+  }
+ },
+ {
+  "slug": "metallic-gold",
+  "en": "Metallic Gold",
+  "hex": "#EDE63D",
+  "metallic": true,
+  "n": {
+   "en": "Metallic Gold",
+   "zh-CN": "闪耀金",
+   "zh-TW": "閃耀金",
+   "ja": "シャインゴールド"
+  }
+ },
+ {
+  "slug": "metallic-red",
+  "en": "Metallic Red",
+  "hex": "#B61D4B",
+  "metallic": true,
+  "n": {
+   "en": "Metallic Red",
+   "zh-CN": "金属红",
+   "zh-TW": "金屬紅",
+   "ja": "メタリックレッド"
+  }
+ },
+ {
+  "slug": "metallic-orange",
+  "en": "Metallic Orange",
+  "hex": "#E48C2F",
+  "metallic": true,
+  "n": {
+   "en": "Metallic Orange",
+   "zh-CN": "金属橙",
+   "zh-TW": "金屬橙",
+   "ja": "メタリックオレンジ"
+  }
+ },
+ {
+  "slug": "metallic-yellow",
+  "en": "Metallic Yellow",
+  "hex": "#F4DA46",
+  "metallic": true,
+  "n": {
+   "en": "Metallic Yellow",
+   "zh-CN": "金属黄",
+   "zh-TW": "金屬黃",
+   "ja": "メタリックイエロー"
+  }
+ },
+ {
+  "slug": "metallic-green",
+  "en": "Metallic Green",
+  "hex": "#22A757",
+  "metallic": true,
+  "n": {
+   "en": "Metallic Green",
+   "zh-CN": "金属绿",
+   "zh-TW": "金屬綠",
+   "ja": "メタリックグリーン"
+  }
+ },
+ {
+  "slug": "metallic-sky-blue",
+  "en": "Metallic Sky Blue",
+  "hex": "#5ED4E6",
+  "metallic": true,
+  "n": {
+   "en": "Metallic Sky Blue",
+   "zh-CN": "金属蓝",
+   "zh-TW": "金屬藍",
+   "ja": "メタリックスカイブルー"
+  }
+ },
+ {
+  "slug": "metallic-blue",
+  "en": "Metallic Blue",
+  "hex": "#5052D9",
+  "metallic": true,
+  "n": {
+   "en": "Metallic Blue",
+   "zh-CN": "金属靛",
+   "zh-TW": "金屬靛",
+   "ja": "メタリックブルー"
+  }
+ },
+ {
+  "slug": "metallic-purple",
+  "en": "Metallic Purple",
+  "hex": "#A366C2",
+  "metallic": true,
+  "n": {
+   "en": "Metallic Purple",
+   "zh-CN": "金属紫",
+   "zh-TW": "金屬紫",
+   "ja": "メタリックパープル"
+  }
+ },
+ {
+  "slug": "violet-purple",
+  "en": "Violet Purple",
+  "hex": "#62508F",
+  "metallic": false,
+  "n": {
+   "en": "Violet Purple",
+   "zh-CN": "罗兰紫",
+   "zh-TW": "羅蘭紫",
+   "ja": "バイオレットパープル"
+  }
+ },
+ {
+  "slug": "metallic-pink",
+  "en": "Metallic Pink",
+  "hex": "#A2596B",
+  "metallic": true,
+  "n": {
+   "en": "Metallic Pink",
+   "zh-CN": "金属粉",
+   "zh-TW": "金屬粉",
+   "ja": "メタリックピンク"
+  }
+ },
+ {
+  "slug": "metallic-ruby-red",
+  "en": "Metallic Ruby Red",
+  "hex": "#1F0000",
+  "metallic": true,
+  "n": {
+   "en": "Metallic Ruby Red",
+   "zh-CN": "金属宝石红",
+   "zh-TW": "金屬寶石紅",
+   "ja": "メタリックルビーレッド"
+  }
+ },
+ {
+  "slug": "metallic-cobalt-green",
+  "en": "Metallic Cobalt Green",
+  "hex": "#15423F",
+  "metallic": true,
+  "n": {
+   "en": "Metallic Cobalt Green",
+   "zh-CN": "金属钴铁绿",
+   "zh-TW": "金屬鈷鐵綠",
+   "ja": "メタリックコバルトグリーン"
+  }
+ },
+ {
+  "slug": "metallic-dark-blue",
+  "en": "Metallic Dark Blue",
+  "hex": "#08021F",
+  "metallic": true,
+  "n": {
+   "en": "Metallic Dark Blue",
+   "zh-CN": "金属黑暗蓝",
+   "zh-TW": "金屬黑暗藍",
+   "ja": "メタリックダークブルー"
+  }
+ }
+]

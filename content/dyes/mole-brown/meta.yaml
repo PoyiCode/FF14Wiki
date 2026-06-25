@@ -1,0 +1,8 @@
+id: mole-brown
+category: dyes
+type: dye
+dye: "Mole Brown"
+color: "#615245"
+metallic: false
+tags: [dye, color]
+status: stable

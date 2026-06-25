@@ -1,0 +1,8 @@
+id: azure-blue
+category: dyes
+type: dye
+dye: "Azure Blue"
+color: "#3A4C90"
+metallic: false
+tags: [dye, color]
+status: stable

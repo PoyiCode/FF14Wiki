@@ -1,0 +1,8 @@
+id: dark-green
+category: dyes
+type: dye
+dye: "Dark Green"
+color: "#152C2C"
+metallic: false
+tags: [dye, color]
+status: stable

@@ -1,0 +1,8 @@
+id: gloom-purple
+category: dyes
+type: dye
+dye: "Gloom Purple"
+color: "#514560"
+metallic: false
+tags: [dye, color]
+status: stable

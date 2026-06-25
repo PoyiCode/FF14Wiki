@@ -1,0 +1,8 @@
+id: dark-brown
+category: dyes
+type: dye
+dye: "Dark Brown"
+color: "#28211C"
+metallic: false
+tags: [dye, color]
+status: stable

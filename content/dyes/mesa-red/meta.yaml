@@ -1,0 +1,8 @@
+id: mesa-red
+category: dyes
+type: dye
+dye: "Mesa Red"
+color: "#7D3906"
+metallic: false
+tags: [dye, color]
+status: stable

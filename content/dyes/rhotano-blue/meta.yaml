@@ -1,0 +1,8 @@
+id: rhotano-blue
+category: dyes
+type: dye
+dye: "Rhotano Blue"
+color: "#1C3D54"
+metallic: false
+tags: [dye, color]
+status: stable

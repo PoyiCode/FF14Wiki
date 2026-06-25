@@ -1,0 +1,8 @@
+id: pastel-blue
+category: dyes
+type: dye
+dye: "Pastel Blue"
+color: "#96A4D9"
+metallic: false
+tags: [dye, color]
+status: stable

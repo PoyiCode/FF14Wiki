@@ -1,0 +1,8 @@
+id: abyssal-blue
+category: dyes
+type: dye
+dye: "Abyssal Blue"
+color: "#312D57"
+metallic: false
+tags: [dye, color]
+status: stable

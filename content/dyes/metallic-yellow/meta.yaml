@@ -1,0 +1,8 @@
+id: metallic-yellow
+category: dyes
+type: dye
+dye: "Metallic Yellow"
+color: "#F4DA46"
+metallic: true
+tags: [dye, color]
+status: stable

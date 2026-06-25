@@ -1,0 +1,8 @@
+id: goobbue-grey
+category: dyes
+type: dye
+dye: "Goobbue Grey"
+color: "#898784"
+metallic: false
+tags: [dye, color]
+status: stable

@@ -1,0 +1,8 @@
+id: dalamud-red
+category: dyes
+type: dye
+dye: "Dalamud Red"
+color: "#781A1A"
+metallic: false
+tags: [dye, color]
+status: stable

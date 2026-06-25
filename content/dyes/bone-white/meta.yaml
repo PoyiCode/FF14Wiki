@@ -1,0 +1,8 @@
+id: bone-white
+category: dyes
+type: dye
+dye: "Bone White"
+color: "#EBD3A0"
+metallic: false
+tags: [dye, color]
+status: stable

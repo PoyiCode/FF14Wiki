@@ -1,0 +1,8 @@
+id: moss-green
+category: dyes
+type: dye
+dye: "Moss Green"
+color: "#707326"
+metallic: false
+tags: [dye, color]
+status: stable

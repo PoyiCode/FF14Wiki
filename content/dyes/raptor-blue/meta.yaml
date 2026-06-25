@@ -1,0 +1,8 @@
+id: raptor-blue
+category: dyes
+type: dye
+dye: "Raptor Blue"
+color: "#5B7FC0"
+metallic: false
+tags: [dye, color]
+status: stable

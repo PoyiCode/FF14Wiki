@@ -1,0 +1,8 @@
+id: currant-purple
+category: dyes
+type: dye
+dye: "Currant Purple"
+color: "#322C3B"
+metallic: false
+tags: [dye, color]
+status: stable

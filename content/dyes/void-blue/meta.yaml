@@ -1,0 +1,8 @@
+id: void-blue
+category: dyes
+type: dye
+dye: "Void Blue"
+color: "#112944"
+metallic: false
+tags: [dye, color]
+status: stable

@@ -1,0 +1,8 @@
+id: metallic-brass
+category: dyes
+type: dye
+dye: "Metallic Brass"
+color: "#E7D197"
+metallic: true
+tags: [dye, color]
+status: stable

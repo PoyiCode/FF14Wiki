@@ -1,0 +1,8 @@
+id: loam-brown
+category: dyes
+type: dye
+dye: "Loam Brown"
+color: "#3F3329"
+metallic: false
+tags: [dye, color]
+status: stable
