@@ -1,0 +1,6 @@
+id: moogles
+category: lore
+type: beast-tribe
+beast_tribe: "moogles"
+tags: [beast-tribe, people]
+status: stable

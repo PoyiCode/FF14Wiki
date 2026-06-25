@@ -1,0 +1,6 @@
+id: namazu
+category: lore
+type: beast-tribe
+beast_tribe: "Namazu"
+tags: [beast-tribe, people]
+status: stable

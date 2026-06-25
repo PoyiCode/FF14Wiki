@@ -1,0 +1,6 @@
+id: dwarves
+category: lore
+type: beast-tribe
+beast_tribe: "dwarves"
+tags: [beast-tribe, people]
+status: stable

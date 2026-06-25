@@ -1,0 +1,6 @@
+id: sahagin
+category: lore
+type: beast-tribe
+beast_tribe: "Sahagin"
+tags: [beast-tribe, people]
+status: stable

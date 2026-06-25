@@ -1,0 +1,6 @@
+id: kobolds
+category: lore
+type: beast-tribe
+beast_tribe: "kobolds"
+tags: [beast-tribe, people]
+status: stable

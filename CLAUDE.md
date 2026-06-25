@@ -60,6 +60,7 @@ npm run lint       # next lint
 - `scripts/gen-geo.mjs` ← `scripts/aetheryte-data.json`（地區與傳送點 aetheryte）
 - `scripts/gen-races.mjs` ← `scripts/race-data.json`（種族與部族）
 - `scripts/gen-weather.mjs` ← `scripts/weather-data.json`（天氣）
+- `scripts/gen-beasttribes.mjs` ← `scripts/beasttribe-data.json`（蠻族／友好部族）
 
 ### 資料來源（皆取自 GitHub raw，本環境可直接 `curl`）
 

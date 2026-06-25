@@ -1,0 +1,6 @@
+id: pixies
+category: lore
+type: beast-tribe
+beast_tribe: "pixies"
+tags: [beast-tribe, people]
+status: stable

@@ -1,0 +1,6 @@
+id: qitari
+category: lore
+type: beast-tribe
+beast_tribe: "Qitari"
+tags: [beast-tribe, people]
+status: stable

@@ -1,0 +1,202 @@
+[
+ {
+  "slug": "amaljaa",
+  "en": "Amalj'aa",
+  "n": {
+   "en": "Amalj'aa",
+   "zh-CN": "蜥蜴人族",
+   "ja": "アマルジャ族",
+   "zh-TW": "蜥蜴人族"
+  }
+ },
+ {
+  "slug": "sylphs",
+  "en": "sylphs",
+  "n": {
+   "en": "sylphs",
+   "zh-CN": "妖精族",
+   "ja": "シルフ族",
+   "zh-TW": "妖精族"
+  }
+ },
+ {
+  "slug": "kobolds",
+  "en": "kobolds",
+  "n": {
+   "en": "kobolds",
+   "zh-CN": "地灵族",
+   "ja": "コボルド族",
+   "zh-TW": "地靈族"
+  }
+ },
+ {
+  "slug": "sahagin",
+  "en": "Sahagin",
+  "n": {
+   "en": "Sahagin",
+   "zh-CN": "鱼人族",
+   "ja": "サハギン族",
+   "zh-TW": "魚人族"
+  }
+ },
+ {
+  "slug": "ixal",
+  "en": "Ixal",
+  "n": {
+   "en": "Ixal",
+   "zh-CN": "鸟人族",
+   "ja": "イクサル族",
+   "zh-TW": "鳥人族"
+  }
+ },
+ {
+  "slug": "vanu-vanu",
+  "en": "Vanu Vanu",
+  "n": {
+   "en": "Vanu Vanu",
+   "zh-CN": "瓦努族",
+   "ja": "バヌバヌ族",
+   "zh-TW": "瓦努族"
+  }
+ },
+ {
+  "slug": "vath",
+  "en": "Vath",
+  "n": {
+   "en": "Vath",
+   "zh-CN": "骨颌族",
+   "ja": "グナース族",
+   "zh-TW": "骨頜族"
+  }
+ },
+ {
+  "slug": "moogles",
+  "en": "moogles",
+  "n": {
+   "en": "moogles",
+   "zh-CN": "莫古力族",
+   "ja": "モーグリ族",
+   "zh-TW": "莫古力族"
+  }
+ },
+ {
+  "slug": "kojin",
+  "en": "Kojin",
+  "n": {
+   "en": "Kojin",
+   "zh-CN": "甲人族",
+   "ja": "コウジン族",
+   "zh-TW": "甲人族"
+  }
+ },
+ {
+  "slug": "ananta",
+  "en": "Ananta",
+  "n": {
+   "en": "Ananta",
+   "zh-CN": "阿难陀族",
+   "ja": "アナンタ族",
+   "zh-TW": "阿難陀族"
+  }
+ },
+ {
+  "slug": "namazu",
+  "en": "Namazu",
+  "n": {
+   "en": "Namazu",
+   "zh-CN": "鲶鱼精族",
+   "ja": "ナマズオ族",
+   "zh-TW": "鯰魚精族"
+  }
+ },
+ {
+  "slug": "pixies",
+  "en": "pixies",
+  "n": {
+   "en": "pixies",
+   "zh-CN": "仙子族",
+   "ja": "ピクシー族",
+   "zh-TW": "仙子族"
+  }
+ },
+ {
+  "slug": "qitari",
+  "en": "Qitari",
+  "n": {
+   "en": "Qitari",
+   "zh-CN": "奇塔利族",
+   "ja": "キタリ族",
+   "zh-TW": "奇塔利族"
+  }
+ },
+ {
+  "slug": "dwarves",
+  "en": "dwarves",
+  "n": {
+   "en": "dwarves",
+   "zh-CN": "矮人族",
+   "ja": "ドワーフ族",
+   "zh-TW": "矮人族"
+  }
+ },
+ {
+  "slug": "arkasodara",
+  "en": "Arkasodara",
+  "n": {
+   "en": "Arkasodara",
+   "zh-CN": "悌阳象族",
+   "ja": "アルカソーダラ族",
+   "zh-TW": "悌陽象族"
+  }
+ },
+ {
+  "slug": "omicrons",
+  "en": "Omicrons",
+  "n": {
+   "en": "Omicrons",
+   "zh-CN": "奥密克戎族",
+   "ja": "オミクロン族",
+   "zh-TW": "奧密克戎族"
+  }
+ },
+ {
+  "slug": "loporrits",
+  "en": "Loporrits",
+  "n": {
+   "en": "Loporrits",
+   "zh-CN": "兔兔族",
+   "ja": "レポリット族",
+   "zh-TW": "兔兔族"
+  }
+ },
+ {
+  "slug": "pelupelu",
+  "en": "Pelupelu",
+  "n": {
+   "en": "Pelupelu",
+   "zh-CN": "佩鲁佩鲁族",
+   "ja": "ペルペル族",
+   "zh-TW": "佩魯佩魯族"
+  }
+ },
+ {
+  "slug": "mamool-ja",
+  "en": "Mamool Ja",
+  "n": {
+   "en": "Mamool Ja",
+   "zh-CN": "辉鳞族",
+   "ja": "マムージャ族",
+   "zh-TW": "輝鱗族"
+  }
+ },
+ {
+  "slug": "yok-huy",
+  "en": "Yok Huy",
+  "n": {
+   "en": "Yok Huy",
+   "zh-CN": "尤卡巨人族",
+   "ja": "ヨカフイ族",
+   "zh-TW": "尤卡巨人族"
+  }
+ }
+]
