@@ -1,37 +1,12 @@
-# 知識庫資料版本與來源（data provenance）
+# 知識庫資料版本
 #
-# content/ 內大量且結構化的條目（emote、傳送點、種族、天氣、坐騎…）並非手寫，
-# 而是從官方遊戲 datamining 資料以 scripts/gen-*.mjs 生成。本檔記錄該批次生成時
-# 所依據的「遊戲版本」與各資料來源的釘選 commit，供 AI agent 與維護者追溯、重現。
-# 生成方法詳見 CLAUDE.md「從官方遊戲資料生成批次條目」。
-#
-# 注意：手寫條目與後續 enrich-*.mjs 補強不一定對應此版本；此處記錄的是批次資料的基準。
+# content/ 內大量條目（emote、傳送點、種族、天氣、坐騎…）由官方遊戲 datamining
+# 以 scripts/gen-*.mjs 生成。本檔記錄這批資料對應的「FFXIV 遊戲版本」，供 AI agent
+# 與維護者判斷資料新舊。重跑生成器更新資料後，請更新下方版本。
 
-# Final Fantasy XIV 遊戲版本（英/日官方原文所對應的客戶端版本）
-game_version: "7.51h2"
-game_expansion: Dawntrail        # 7.x 資料片
-generated: "2026-06-25"          # 本知識庫最近一次批次生成日期（UTC）
+game_version: "7.51h2"     # Final Fantasy XIV 版本
+game_expansion: Dawntrail  # 7.x 資料片
+generated: "2026-06-25"    # 最近一次批次生成日期
 
-# 各資料來源（皆取自 GitHub raw，可離線重跑）
-sources:
-  - name: xivapi/ffxiv-datamining
-    role: 英 / 日 官方原文與語言中立事實（座標、傳送點、種族、天氣…）
-    url: https://github.com/xivapi/ffxiv-datamining
-    branch: master
-    commit: 81fc999fefe3c77b32e2bdb4132d72371db2e66d
-    game_version: "7.51h2"
-    as_of: "2026-06-23"
-
-  - name: thewakingsands/ffxiv-datamining-cn
-    role: 簡體中文名稱（zh-CN）
-    url: https://github.com/thewakingsands/ffxiv-datamining-cn
-    branch: master
-    commit: bdc3adfcecfa38772a26f98daaa9936d0dc40279
-    data_version: "2026.06.10.0000.0000"   # 國服客戶端資料版本
-    as_of: "2026-06-12"
-
-  - name: BYVoid/OpenCC
-    role: 繁體中文（zh-TW）— 以 STPhrases + STCharacters 由簡轉繁
-    url: https://github.com/BYVoid/OpenCC
-    version: ver.1.3.1
-    commit: 7451dc46f666320821c991f0ca5bef22df9a15b3
+# 資料來源：xivapi/ffxiv-datamining（英/日）、thewakingsands/ffxiv-datamining-cn
+# （簡中名稱）、BYVoid/OpenCC（繁中轉換）。詳見 CLAUDE.md。
