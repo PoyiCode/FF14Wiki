@@ -1,0 +1,6 @@
+id: millioncorn
+category: gardening
+type: crop
+crop: "Millioncorn"
+tags: [gardening, crop, plant]
+status: stable

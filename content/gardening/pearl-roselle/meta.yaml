@@ -1,0 +1,6 @@
+id: pearl-roselle
+category: gardening
+type: crop
+crop: "Pearl Roselle"
+tags: [gardening, crop, plant]
+status: stable

@@ -1,0 +1,6 @@
+id: popoto
+category: gardening
+type: crop
+crop: "Popoto"
+tags: [gardening, crop, plant]
+status: stable

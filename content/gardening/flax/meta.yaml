@@ -1,0 +1,6 @@
+id: flax
+category: gardening
+type: crop
+crop: "Flax"
+tags: [gardening, crop, plant]
+status: stable

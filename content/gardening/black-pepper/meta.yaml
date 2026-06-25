@@ -1,0 +1,6 @@
+id: black-pepper
+category: gardening
+type: crop
+crop: "Black Pepper"
+tags: [gardening, crop, plant]
+status: stable

@@ -1,0 +1,6 @@
+id: honey-lemon
+category: gardening
+type: crop
+crop: "Honey Lemon"
+tags: [gardening, crop, plant]
+status: stable

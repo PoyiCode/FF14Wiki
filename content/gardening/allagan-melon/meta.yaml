@@ -1,0 +1,6 @@
+id: allagan-melon
+category: gardening
+type: crop
+crop: "Allagan Melon"
+tags: [gardening, crop, plant]
+status: stable

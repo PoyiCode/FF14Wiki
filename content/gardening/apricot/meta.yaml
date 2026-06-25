@@ -1,0 +1,6 @@
+id: apricot
+category: gardening
+type: crop
+crop: "Apricot"
+tags: [gardening, crop, plant]
+status: stable

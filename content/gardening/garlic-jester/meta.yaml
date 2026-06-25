@@ -1,0 +1,6 @@
+id: garlic-jester
+category: gardening
+type: crop
+crop: "Garlic Jester"
+tags: [gardening, crop, plant]
+status: stable

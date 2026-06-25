@@ -1,0 +1,6 @@
+id: paprika
+category: gardening
+type: crop
+crop: "Paprika"
+tags: [gardening, crop, plant]
+status: stable

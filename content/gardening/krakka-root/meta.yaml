@@ -1,0 +1,6 @@
+id: krakka-root
+category: gardening
+type: crop
+crop: "Krakka Root"
+tags: [gardening, crop, plant]
+status: stable

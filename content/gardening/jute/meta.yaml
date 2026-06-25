@@ -1,0 +1,6 @@
+id: jute
+category: gardening
+type: crop
+crop: "Jute"
+tags: [gardening, crop, plant]
+status: stable

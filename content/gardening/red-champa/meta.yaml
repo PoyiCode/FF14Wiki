@@ -1,0 +1,6 @@
+id: red-champa
+category: gardening
+type: crop
+crop: "Red Champa"
+tags: [gardening, crop, plant]
+status: stable

@@ -1,0 +1,6 @@
+id: eggplant-knight
+category: gardening
+type: crop
+crop: "Eggplant Knight"
+tags: [gardening, crop, plant]
+status: stable

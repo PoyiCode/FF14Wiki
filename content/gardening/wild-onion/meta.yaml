@@ -1,0 +1,6 @@
+id: wild-onion
+category: gardening
+type: crop
+crop: "Wild Onion"
+tags: [gardening, crop, plant]
+status: stable

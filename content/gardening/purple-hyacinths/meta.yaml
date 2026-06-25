@@ -1,0 +1,6 @@
+id: purple-hyacinths
+category: gardening
+type: crop
+crop: "Purple Hyacinths"
+tags: [gardening, crop, plant]
+status: stable

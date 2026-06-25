@@ -1,0 +1,6 @@
+id: midland-cabbage
+category: gardening
+type: crop
+crop: "Midland Cabbage"
+tags: [gardening, crop, plant]
+status: stable

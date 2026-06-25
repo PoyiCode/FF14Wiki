@@ -1,0 +1,6 @@
+id: red-cherry-blossoms
+category: gardening
+type: crop
+crop: "Red Cherry Blossoms"
+tags: [gardening, crop, plant]
+status: stable

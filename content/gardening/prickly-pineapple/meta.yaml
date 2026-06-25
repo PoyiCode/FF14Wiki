@@ -1,0 +1,6 @@
+id: prickly-pineapple
+category: gardening
+type: crop
+crop: "Prickly Pineapple"
+tags: [gardening, crop, plant]
+status: stable

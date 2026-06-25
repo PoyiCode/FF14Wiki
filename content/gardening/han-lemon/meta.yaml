@@ -1,0 +1,6 @@
+id: han-lemon
+category: gardening
+type: crop
+crop: "Han Lemon"
+tags: [gardening, crop, plant]
+status: stable

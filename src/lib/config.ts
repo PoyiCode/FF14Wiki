@@ -290,6 +290,16 @@ export const CATEGORIES: CategoryDef[] = [
       en: 'The online statuses players can display (Role-playing, Looking for Party, New Adventurer, Mentor and more), so the bot can read others’ status and signal its own.',
     },
   },
+  {
+    key: 'gardening',
+    label: { 'zh-TW': '園藝作物', 'zh-CN': '园艺作物', ja: '栽培作物', en: 'Gardening' },
+    description: {
+      'zh-TW': '居民可在自家庭院栽種的作物與花草，讓 bot 能聊園藝、收成與親手種的蔬果香草。',
+      'zh-CN': '居民可在自家庭院栽种的作物与花草，让 bot 能聊园艺、收成与亲手种的蔬果香草。',
+      ja: '住民が自宅の庭で育てられる作物や草花。botが園芸や収穫、手ずから育てた野菜やハーブを語れるように。',
+      en: 'The crops and plants residents can grow in their gardens, so the bot can chat about gardening, harvests and home-grown produce.',
+    },
+  },
 ];
 
 export const CATEGORY_KEYS = CATEGORIES.map((c) => c.key);

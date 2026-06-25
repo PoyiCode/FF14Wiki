@@ -1,0 +1,6 @@
+id: broombush
+category: gardening
+type: crop
+crop: "Broombush"
+tags: [gardening, crop, plant]
+status: stable

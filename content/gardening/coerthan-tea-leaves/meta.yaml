@@ -1,0 +1,6 @@
+id: coerthan-tea-leaves
+category: gardening
+type: crop
+crop: "Coerthan Tea Leaves"
+tags: [gardening, crop, plant]
+status: stable

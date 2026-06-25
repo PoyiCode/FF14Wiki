@@ -1,0 +1,6 @@
+id: cloud-acorn
+category: gardening
+type: crop
+crop: "Cloud Acorn"
+tags: [gardening, crop, plant]
+status: stable

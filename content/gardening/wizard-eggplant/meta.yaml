@@ -1,0 +1,6 @@
+id: wizard-eggplant
+category: gardening
+type: crop
+crop: "Wizard Eggplant"
+tags: [gardening, crop, plant]
+status: stable

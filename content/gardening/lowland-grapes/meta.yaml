@@ -1,0 +1,6 @@
+id: lowland-grapes
+category: gardening
+type: crop
+crop: "Lowland Grapes"
+tags: [gardening, crop, plant]
+status: stable

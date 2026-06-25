@@ -1,0 +1,6 @@
+id: chamomile
+category: gardening
+type: crop
+crop: "Chamomile"
+tags: [gardening, crop, plant]
+status: stable

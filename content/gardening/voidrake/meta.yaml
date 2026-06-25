@@ -1,0 +1,6 @@
+id: voidrake
+category: gardening
+type: crop
+crop: "Voidrake"
+tags: [gardening, crop, plant]
+status: stable

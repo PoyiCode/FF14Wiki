@@ -1,0 +1,6 @@
+id: royal-fern
+category: gardening
+type: crop
+crop: "Royal Fern"
+tags: [gardening, crop, plant]
+status: stable

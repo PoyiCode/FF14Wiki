@@ -1,0 +1,6 @@
+id: faerie-apple
+category: gardening
+type: crop
+crop: "Faerie Apple"
+tags: [gardening, crop, plant]
+status: stable

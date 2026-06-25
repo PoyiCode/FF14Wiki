@@ -1,0 +1,6 @@
+id: star-anise
+category: gardening
+type: crop
+crop: "Star Anise"
+tags: [gardening, crop, plant]
+status: stable

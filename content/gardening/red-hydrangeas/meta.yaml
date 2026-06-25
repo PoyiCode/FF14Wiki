@@ -1,0 +1,6 @@
+id: red-hydrangeas
+category: gardening
+type: crop
+crop: "Red Hydrangeas"
+tags: [gardening, crop, plant]
+status: stable

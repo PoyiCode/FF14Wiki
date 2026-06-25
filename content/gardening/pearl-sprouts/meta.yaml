@@ -1,0 +1,6 @@
+id: pearl-sprouts
+category: gardening
+type: crop
+crop: "Pearl Sprouts"
+tags: [gardening, crop, plant]
+status: stable

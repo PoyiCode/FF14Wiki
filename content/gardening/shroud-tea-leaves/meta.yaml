@@ -1,0 +1,6 @@
+id: shroud-tea-leaves
+category: gardening
+type: crop
+crop: "Shroud Tea Leaves"
+tags: [gardening, crop, plant]
+status: stable

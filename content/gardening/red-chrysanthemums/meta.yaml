@@ -1,0 +1,6 @@
+id: red-chrysanthemums
+category: gardening
+type: crop
+crop: "Red Chrysanthemums"
+tags: [gardening, crop, plant]
+status: stable

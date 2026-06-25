@@ -1,0 +1,6 @@
+id: red-tea-flowers
+category: gardening
+type: crop
+crop: "Red Tea Flowers"
+tags: [gardening, crop, plant]
+status: stable

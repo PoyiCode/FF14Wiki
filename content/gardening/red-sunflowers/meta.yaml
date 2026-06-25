@@ -1,0 +1,6 @@
+id: red-sunflowers
+category: gardening
+type: crop
+crop: "Red Sunflowers"
+tags: [gardening, crop, plant]
+status: stable

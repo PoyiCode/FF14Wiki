@@ -1,0 +1,6 @@
+id: red-tulips
+category: gardening
+type: crop
+crop: "Red Tulips"
+tags: [gardening, crop, plant]
+status: stable

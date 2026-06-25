@@ -1,0 +1,6 @@
+id: red-cattleyas
+category: gardening
+type: crop
+crop: "Red Cattleyas"
+tags: [gardening, crop, plant]
+status: stable

@@ -1,0 +1,6 @@
+id: tantalplant
+category: gardening
+type: crop
+crop: "Tantalplant"
+tags: [gardening, crop, plant]
+status: stable

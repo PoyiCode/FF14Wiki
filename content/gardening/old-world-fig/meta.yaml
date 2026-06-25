@@ -1,0 +1,6 @@
+id: old-world-fig
+category: gardening
+type: crop
+crop: "Old World Fig"
+tags: [gardening, crop, plant]
+status: stable

@@ -1,0 +1,6 @@
+id: tomato-king
+category: gardening
+type: crop
+crop: "Tomato King"
+tags: [gardening, crop, plant]
+status: stable

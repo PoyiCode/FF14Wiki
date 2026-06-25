@@ -1,0 +1,6 @@
+id: chives
+category: gardening
+type: crop
+crop: "Chives"
+tags: [gardening, crop, plant]
+status: stable

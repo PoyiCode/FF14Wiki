@@ -1,0 +1,6 @@
+id: sun-lemon
+category: gardening
+type: crop
+crop: "Sun Lemon"
+tags: [gardening, crop, plant]
+status: stable

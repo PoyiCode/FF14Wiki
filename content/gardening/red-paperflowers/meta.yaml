@@ -1,0 +1,6 @@
+id: red-paperflowers
+category: gardening
+type: crop
+crop: "Red Paperflowers"
+tags: [gardening, crop, plant]
+status: stable

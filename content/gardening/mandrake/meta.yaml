@@ -1,0 +1,6 @@
+id: mandrake
+category: gardening
+type: crop
+crop: "Mandrake"
+tags: [gardening, crop, plant]
+status: stable

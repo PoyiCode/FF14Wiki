@@ -1,0 +1,6 @@
+id: yellow-daisies
+category: gardening
+type: crop
+crop: "Yellow Daisies"
+tags: [gardening, crop, plant]
+status: stable

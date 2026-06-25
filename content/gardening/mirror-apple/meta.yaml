@@ -1,0 +1,6 @@
+id: mirror-apple
+category: gardening
+type: crop
+crop: "Mirror Apple"
+tags: [gardening, crop, plant]
+status: stable

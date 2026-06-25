@@ -1,0 +1,6 @@
+id: lavender
+category: gardening
+type: crop
+crop: "Lavender"
+tags: [gardening, crop, plant]
+status: stable

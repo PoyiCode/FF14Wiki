@@ -1,0 +1,6 @@
+id: glazenut
+category: gardening
+type: crop
+crop: "Glazenut"
+tags: [gardening, crop, plant]
+status: stable

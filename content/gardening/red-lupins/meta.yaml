@@ -1,0 +1,6 @@
+id: red-lupins
+category: gardening
+type: crop
+crop: "Red Lupins"
+tags: [gardening, crop, plant]
+status: stable

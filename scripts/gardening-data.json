@@ -1,0 +1,1634 @@
+[
+ {
+  "slug": "wild-onion",
+  "en": "Wild Onion",
+  "n": {
+   "en": "Wild Onion",
+   "zh-CN": "野洋葱",
+   "zh-TW": "野洋蔥",
+   "ja": "ワイルドオニオン"
+  },
+  "desc": {
+   "en": "A pungent bulb vegetable native to the Near East.",
+   "zh-CN": "原产于近东地区的食用球根。",
+   "zh-TW": "原產於近東地區的食用球根。",
+   "ja": "近東原産とされる食用の球根"
+  }
+ },
+ {
+  "slug": "coerthan-carrot",
+  "en": "Coerthan Carrot",
+  "n": {
+   "en": "Coerthan Carrot",
+   "zh-CN": "库尔札斯胡萝卜",
+   "zh-TW": "庫爾札斯胡蘿蔔",
+   "ja": "クルザスカロット"
+  },
+  "desc": {
+   "en": "A long orange root vegetable commonly grown in the rocky alpine soil of the Coerthas region.",
+   "zh-CN": "主要栽种于库尔札斯地区，细长的朱红色根菜。",
+   "zh-TW": "主要栽種於庫爾札斯地區，細長的硃紅色根菜。",
+   "ja": "クルザス地方で栽培の盛んな細長い朱色の根菜"
+  }
+ },
+ {
+  "slug": "la-noscean-lettuce",
+  "en": "La Noscean Lettuce",
+  "n": {
+   "en": "La Noscean Lettuce",
+   "zh-CN": "拉诺西亚莴苣",
+   "zh-TW": "拉諾西亞萵苣",
+   "ja": "ラノシアレタス"
+  },
+  "desc": {
+   "en": "A crisp leafy vegetable native to the plains of La Noscea.",
+   "zh-CN": "原产于拉诺西亚，富含水分的叶菜。",
+   "zh-TW": "原產於拉諾西亞，富含水分的葉菜。",
+   "ja": "ラノシア原産の水分の多い葉菜"
+  }
+ },
+ {
+  "slug": "paprika",
+  "en": "Paprika",
+  "n": {
+   "en": "Paprika",
+   "zh-CN": "红辣椒",
+   "zh-TW": "紅辣椒",
+   "ja": "パプリカ"
+  },
+  "desc": {
+   "en": "A pepper which can be dried and ground to make a mild red spice. It is often used in medicines, as well as in cooking.",
+   "zh-CN": "用辣椒的果实制成的调味剂，味道微苦，用于药品或香料。",
+   "zh-TW": "用辣椒的果實製成的調味劑，味道微苦，用於藥品或香料。",
+   "ja": "果実から成るスパイス。やや苦みがあり、薬品や香料に用いられる"
+  }
+ },
+ {
+  "slug": "popoto",
+  "en": "Popoto",
+  "n": {
+   "en": "Popoto",
+   "zh-CN": "新薯",
+   "zh-TW": "新薯",
+   "ja": "ポポト"
+  },
+  "desc": {
+   "en": "A starchy tuberous vegetable originally introduced to Eorzea by explorers from the distant western continent.",
+   "zh-CN": "从新大陆引进的富含淀粉的根菜。",
+   "zh-TW": "從新大陸引進的富含澱粉的根菜。",
+   "ja": "新大陸伝来の澱粉に富む根菜"
+  }
+ },
+ {
+  "slug": "wizard-eggplant",
+  "en": "Wizard Eggplant",
+  "n": {
+   "en": "Wizard Eggplant",
+   "zh-CN": "巫茄",
+   "zh-TW": "巫茄",
+   "ja": "エッグプラント"
+  },
+  "desc": {
+   "en": "A firm purple-skinned vegetable indigenous to the mountains of the Near East. A common wives' tale claims if you eat too many of this vegetable, you will turn into one.",
+   "zh-CN": "原产于近东地区的紫色果菜。",
+   "zh-TW": "原產於近東地區的紫色果菜。",
+   "ja": "近東原産の紫色の果菜"
+  }
+ },
+ {
+  "slug": "midland-cabbage",
+  "en": "Midland Cabbage",
+  "n": {
+   "en": "Midland Cabbage",
+   "zh-CN": "中原甘蓝",
+   "zh-TW": "中原甘藍",
+   "ja": "ミッドランドキャベツ"
+  },
+  "desc": {
+   "en": "A round leafy vegetable which prefers the steady climate of the Black Shroud.",
+   "zh-CN": "原产于黑衣森林的球状叶菜。",
+   "zh-TW": "原產於黑衣森林的球狀葉菜。",
+   "ja": "黒衣森原産の球状の葉菜"
+  }
+ },
+ {
+  "slug": "cinderfoot-olive",
+  "en": "Cinderfoot Olive",
+  "n": {
+   "en": "Cinderfoot Olive",
+   "zh-CN": "橄榄",
+   "zh-TW": "橄欖",
+   "ja": "オリーヴ"
+  },
+  "desc": {
+   "en": "The seed of an olive tree, often preserved in brine or pressed to make oil.",
+   "zh-CN": "适合用在盐浸或榨油等方面的橄榄果实。",
+   "zh-TW": "適合用在鹽浸或榨油等方面的橄欖果實。",
+   "ja": "塩漬けや採油に適するオリーヴの果実"
+  }
+ },
+ {
+  "slug": "lowland-grapes",
+  "en": "Lowland Grapes",
+  "n": {
+   "en": "Lowland Grapes",
+   "zh-CN": "低地葡萄",
+   "zh-TW": "低地葡萄",
+   "ja": "ローランドグレープ"
+  },
+  "desc": {
+   "en": "A semisweet variety of grape which has adapted to the volcanic soil abundant on Vylbrand.",
+   "zh-CN": "原产于威尔布兰德岛的串生葡萄果实。",
+   "zh-TW": "原產於威爾布蘭德島的串生葡萄果實。",
+   "ja": "バイルブランド島原産の房状になったブドウの果実"
+  }
+ },
+ {
+  "slug": "la-noscean-orange",
+  "en": "La Noscean Orange",
+  "n": {
+   "en": "La Noscean Orange",
+   "zh-CN": "拉诺西亚香橙",
+   "zh-TW": "拉諾西亞香橙",
+   "ja": "ラノシアオレンジ"
+  },
+  "desc": {
+   "en": "A sweet citrus fruit known to thrive in the temperate climate of lower La Noscea.",
+   "zh-CN": "在拉诺西亚地区栽培的甜味果实。",
+   "zh-TW": "在拉諾西亞地區栽培的甜味果實。",
+   "ja": "ラノシアで栽培される甘い果実"
+  }
+ },
+ {
+  "slug": "faerie-apple",
+  "en": "Faerie Apple",
+  "n": {
+   "en": "Faerie Apple",
+   "zh-CN": "仙女苹果",
+   "zh-TW": "仙女蘋果",
+   "ja": "フェアリーアップル"
+  },
+  "desc": {
+   "en": "A tart variety of apple commonly found growing in the cool mountain passes of Coerthas.",
+   "zh-CN": "原产于库尔札斯，酸甜口味的苹果果实。",
+   "zh-TW": "原產於庫爾札斯，酸甜口味的蘋果果實。",
+   "ja": "クルザス原産の甘酸っぱいリンゴの果実"
+  }
+ },
+ {
+  "slug": "sun-lemon",
+  "en": "Sun Lemon",
+  "n": {
+   "en": "Sun Lemon",
+   "zh-CN": "太阳柠檬",
+   "zh-TW": "太陽檸檬",
+   "ja": "サンレモン"
+  },
+  "desc": {
+   "en": "A sour citrus fruit indigenous to the Near East.",
+   "zh-CN": "原产于近东地区，酸味强烈的果实。",
+   "zh-TW": "原產於近東地區，酸味強烈的果實。",
+   "ja": "近東原産の酸味の強い果実"
+  }
+ },
+ {
+  "slug": "pixie-plums",
+  "en": "Pixie Plums",
+  "n": {
+   "en": "Pixie Plums",
+   "zh-CN": "仙子梅",
+   "zh-TW": "仙子梅",
+   "ja": "ピクシープラム"
+  },
+  "desc": {
+   "en": "A tart fruit commonly grown in mountain orchards in the Coerthas region.",
+   "zh-CN": "原产库尔札斯地区的苦味果实。",
+   "zh-TW": "原產庫爾札斯地區的苦味果實。",
+   "ja": "クルザス原産のほろ苦い果実"
+  }
+ },
+ {
+  "slug": "blood-currants",
+  "en": "Blood Currants",
+  "n": {
+   "en": "Blood Currants",
+   "zh-CN": "血红奇异果",
+   "zh-TW": "血紅奇異果",
+   "ja": "ブラッドカーラント"
+  },
+  "desc": {
+   "en": "A tart red berry found growing throughout the Black Shroud.",
+   "zh-CN": "原产于黑衣森林地区的酸味果实。",
+   "zh-TW": "原產於黑衣森林地區的酸味果實。",
+   "ja": "黒衣森原産の甘酸っぱい果実"
+  }
+ },
+ {
+  "slug": "rolanberry",
+  "en": "Rolanberry",
+  "n": {
+   "en": "Rolanberry",
+   "zh-CN": "罗兰莓",
+   "zh-TW": "羅蘭莓",
+   "ja": "ロランベリー"
+  },
+  "desc": {
+   "en": "A tart fruit—one of few still found growing in the devastated region of Mor Dhona.",
+   "zh-CN": "原产于摩杜纳地区的酸味果实。",
+   "zh-TW": "原產於摩杜納地區的酸味果實。",
+   "ja": "モードゥナ原産の甘酸っぱい果実"
+  }
+ },
+ {
+  "slug": "prickly-pineapple",
+  "en": "Prickly Pineapple",
+  "n": {
+   "en": "Prickly Pineapple",
+   "zh-CN": "多刺菠萝",
+   "zh-TW": "多刺菠蘿",
+   "ja": "パイナップル"
+  },
+  "desc": {
+   "en": "A sweet and tangy fruit covered in a thick, spike-laden skin.",
+   "zh-CN": "从新大陆引进的酸甜口味的果实。",
+   "zh-TW": "從新大陸引進的酸甜口味的果實。",
+   "ja": "新大陸伝来の甘酸っぱい果実"
+  }
+ },
+ {
+  "slug": "millioncorn",
+  "en": "Millioncorn",
+  "n": {
+   "en": "Millioncorn",
+   "zh-CN": "多实玉米",
+   "zh-TW": "多實玉米",
+   "ja": "ミリオンコーン"
+  },
+  "desc": {
+   "en": "Hundreds of sweet yellow kernels adorn each cob of this vegetable native to the recently discovered New World.",
+   "zh-CN": "结了无数的粒状果实的新大陆谷类。",
+   "zh-TW": "結了無數的粒狀果實的新大陸穀類。",
+   "ja": "粒状の実を無数につける新大陸伝来の穀類"
+  }
+ },
+ {
+  "slug": "garlean-garlic",
+  "en": "Garlean Garlic",
+  "n": {
+   "en": "Garlean Garlic",
+   "zh-CN": "大蒜",
+   "zh-TW": "大蒜",
+   "ja": "ガーリック"
+  },
+  "desc": {
+   "en": "A pungent spice used to flavor many different varieties of dishes. It is also thought to ward off vampiric bats, but there is no evidence to substantiate that claim.",
+   "zh-CN": "用球根制成的调味料。具有独特的臭味，用作香料。",
+   "zh-TW": "用球根製成的調味料。具有獨特的臭味，用作香料。",
+   "ja": "球根から成るスパイス。独特の臭気と風味があり、香料に用いられる"
+  }
+ },
+ {
+  "slug": "black-pepper",
+  "en": "Black Pepper",
+  "n": {
+   "en": "Black Pepper",
+   "zh-CN": "黑胡椒",
+   "zh-TW": "黑胡椒",
+   "ja": "ブラックペッパー"
+  },
+  "desc": {
+   "en": "An aromatic spice used in cooking as well as pickling.",
+   "zh-CN": "用种子制成的调味料。具有独特的风味，用作保存剂或香料。",
+   "zh-TW": "用種子製成的調味料。具有獨特的風味，用作保存劑或香料。",
+   "ja": "種子から成るスパイス。独特の風味があり、保存料や香料に用いられる"
+  }
+ },
+ {
+  "slug": "ala-mhigan-mustard",
+  "en": "Ala Mhigan Mustard",
+  "n": {
+   "en": "Ala Mhigan Mustard",
+   "zh-CN": "阿拉米格芥子",
+   "zh-TW": "阿拉米格芥子",
+   "ja": "アラミゴマスタード"
+  },
+  "desc": {
+   "en": "When dried and ground into a fine powder, this yellow-tinged spice can add quite the kick to any dish.",
+   "zh-CN": "用种子制成的调味剂。有刺激的辛辣味，用于香料。",
+   "zh-TW": "用種子製成的調味劑。有刺激的辛辣味，用於香料。",
+   "ja": "種子から成るスパイス。刺激のある辛みがあり、香料に用いられる"
+  }
+ },
+ {
+  "slug": "pearl-ginger",
+  "en": "Pearl Ginger",
+  "n": {
+   "en": "Pearl Ginger",
+   "zh-CN": "生姜",
+   "zh-TW": "生薑",
+   "ja": "パールジンジャー"
+  },
+  "desc": {
+   "en": "An exotic root vegetable native to the Far East that is often dried, ground, and used in cooking as well as in the creation of medicines.",
+   "zh-CN": "用根茎制成的调味料。具有独特的辛辣味，用作药品或香料。",
+   "zh-TW": "用根莖製成的調味料。具有獨特的辛辣味，用作藥品或香料。",
+   "ja": "根茎から成るスパイス。独特の辛みがあり、薬品や香料に用いられる"
+  }
+ },
+ {
+  "slug": "midland-basil",
+  "en": "Midland Basil",
+  "n": {
+   "en": "Midland Basil",
+   "zh-CN": "中原罗勒草",
+   "zh-TW": "中原羅勒草",
+   "ja": "ミッドランドバジル"
+  },
+  "desc": {
+   "en": "A fragrant herb used to flavor various meat and poultry dishes.",
+   "zh-CN": "用叶子制成的调味剂。用作香料。",
+   "zh-TW": "用葉子製成的調味劑。用作香料。",
+   "ja": "葉から成るスパイス。香料に用いられる"
+  }
+ },
+ {
+  "slug": "almonds",
+  "en": "Almonds",
+  "n": {
+   "en": "Almonds",
+   "zh-CN": "扁桃",
+   "zh-TW": "扁桃",
+   "ja": "アーモンド"
+  },
+  "desc": {
+   "en": "A tear-shaped nut which can be used to season exotic sweets, or pressed for its fragrant oil.",
+   "zh-CN": "用扁桃制作的调味剂。用于香料或精油。",
+   "zh-TW": "用扁桃製作的調味劑。用於香料或精油。",
+   "ja": "仁から成るスパイス。香料や精油に用いられる"
+  }
+ },
+ {
+  "slug": "gysahl-greens",
+  "en": "Gysahl Greens",
+  "n": {
+   "en": "Gysahl Greens",
+   "zh-CN": "基萨尔野菜",
+   "zh-TW": "基薩爾野菜",
+   "ja": "ギサールの野菜"
+  },
+  "desc": {
+   "en": "A leafy vegetable indigenous to the Near East. While too bitter for most people's tastes, chocobos are known to enjoy the flavor, and thus the greens are often used as fodder for the animals.",
+   "zh-CN": "原产于近东地区的球形野菜，是陆行鸟的主要饲料。",
+   "zh-TW": "原產於近東地區的球形野菜，是陸行鳥的主要飼料。",
+   "ja": "近東原産の球形の葉菜。チョコボの飼料として有名"
+  }
+ },
+ {
+  "slug": "flax",
+  "en": "Flax",
+  "n": {
+   "en": "Flax",
+   "zh-CN": "亚麻",
+   "zh-TW": "亞麻",
+   "ja": "亜麻"
+  },
+  "desc": {
+   "en": "Commonly growing in the highlands of Coerthas, the stalk of this fibrous plant is used to create a linen yarn.",
+   "zh-CN": "主要在伊修加德栽培的纤维作物，可以用茎提取纤维。",
+   "zh-TW": "主要在伊修加德栽培的纖維作物，可以用莖提取纖維。",
+   "ja": "主にイシュガルドで栽培される繊維作物。茎から繊維が採れる"
+  }
+ },
+ {
+  "slug": "lavender",
+  "en": "Lavender",
+  "n": {
+   "en": "Lavender",
+   "zh-CN": "薰衣草",
+   "zh-TW": "薰衣草",
+   "ja": "ラベンダー"
+  },
+  "desc": {
+   "en": "A fragrant purple flower found growing in coastal areas throughout Aldenard.",
+   "zh-CN": "阿尔迪纳德大陆生长的药草，花可作香料用。",
+   "zh-TW": "阿爾迪納德大陸生長的藥草，花可作香料用。",
+   "ja": "アルデナード大陸に自生する薬草。花が香料として知られる"
+  }
+ },
+ {
+  "slug": "chamomile",
+  "en": "Chamomile",
+  "n": {
+   "en": "Chamomile",
+   "zh-CN": "甘菊",
+   "zh-TW": "甘菊",
+   "ja": "カモミール"
+  },
+  "desc": {
+   "en": "A fragrant yellow flower found growing throughout Vylbrand.",
+   "zh-CN": "威尔布兰德岛上生长的药草，花可作香料用。",
+   "zh-TW": "威爾布蘭德島上生長的藥草，花可作香料用。",
+   "ja": "バイルブランド島に自生する薬草。花が香料として知られる"
+  }
+ },
+ {
+  "slug": "mandrake",
+  "en": "Mandrake",
+  "n": {
+   "en": "Mandrake",
+   "zh-CN": "风茄",
+   "zh-TW": "風茄",
+   "ja": "マンドレイク"
+  },
+  "desc": {
+   "en": "The man-shaped root of a wild plant commonly found growing on Vylbrand.",
+   "zh-CN": "威尔布兰德岛上生长的野草。",
+   "zh-TW": "威爾布蘭德島上生長的野草。",
+   "ja": "バイルブランド島に自生する野草"
+  }
+ },
+ {
+  "slug": "mirror-apple",
+  "en": "Mirror Apple",
+  "n": {
+   "en": "Mirror Apple",
+   "zh-CN": "晶亮苹果",
+   "zh-TW": "晶亮蘋果",
+   "ja": "シャインアップル"
+  },
+  "desc": {
+   "en": "A sweet yet sour variety of apples native to Coerthas. When polished, the skins become so shiny it is said one can see their own reflection in them.",
+   "zh-CN": "原产于库尔札斯地区的稀少品种，非常非常甜。",
+   "zh-TW": "原產於庫爾札斯地區的稀少品種，非常非常甜。",
+   "ja": "クルザス原産の甘酸っぱいリンゴの果実。特に甘みが強い稀少な品種"
+  }
+ },
+ {
+  "slug": "honey-lemon",
+  "en": "Honey Lemon",
+  "n": {
+   "en": "Honey Lemon",
+   "zh-CN": "蜜柠檬",
+   "zh-TW": "蜜檸檬",
+   "ja": "ハニーレモン"
+  },
+  "desc": {
+   "en": "This rare type of lemon native to the continent of Othard is so sweet, it can be eaten raw.",
+   "zh-CN": "原产于近东地区的稀少品种，味道虽然很酸，不过也混有些微甜味。",
+   "zh-TW": "原產於近東地區的稀少品種，味道雖然很酸，不過也混有些微甜味。",
+   "ja": "近東原産の酸味の強い果実。微かな甘みを併せ持つ稀少な品種"
+  }
+ },
+ {
+  "slug": "dzemael-tomato",
+  "en": "Dzemael Tomato",
+  "n": {
+   "en": "Dzemael Tomato",
+   "zh-CN": "泽梅尔番茄",
+   "zh-TW": "澤梅爾番茄",
+   "ja": "ゼーメルトマト"
+  },
+  "desc": {
+   "en": "A rare crossbreed of ruby tomato developed and perfected by House Dzemael botanists.",
+   "zh-CN": "稀少品种的红色果菜，由名门泽梅尔家出身的修行僧加以改良，味道无与伦比。",
+   "zh-TW": "稀少品種的紅色果菜，由名門澤梅爾家出身的修行僧加以改良，味道無與倫比。",
+   "ja": "名門ゼーメル家出身の修道僧が品種改良した真紅の果菜。濃厚な旨味がある稀少な品種"
+  }
+ },
+ {
+  "slug": "shroud-tea-leaves",
+  "en": "Shroud Tea Leaves",
+  "n": {
+   "en": "Shroud Tea Leaves",
+   "zh-CN": "提诺尔卡茶叶",
+   "zh-TW": "提諾爾卡茶葉",
+   "ja": "ティノルカ茶葉"
+  },
+  "desc": {
+   "en": "Picked from plants that grow wild in the Black Shroud, these leaves are extremely bitter and are not ideal for brewing tea.",
+   "zh-CN": "黑衣森林中生长的野茶叶子，口感苦涩，基本不建议饮用。",
+   "zh-TW": "黑衣森林中生長的野茶葉子，口感苦澀，基本不建議飲用。",
+   "ja": "黒衣森に自生する野生の茶葉。非常に渋く飲用には向かない"
+  }
+ },
+ {
+  "slug": "apricot",
+  "en": "Apricot",
+  "n": {
+   "en": "Apricot",
+   "zh-CN": "黄杏",
+   "zh-TW": "黃杏",
+   "ja": "アプリコット"
+  },
+  "desc": {
+   "en": "A variety of stone fruit borne over from the Near East. Its orange flesh is at once sweet and tart.",
+   "zh-CN": "原产于近东地区的果实，通过贸易传到了艾欧泽亚。",
+   "zh-TW": "原產於近東地區的果實，通過貿易傳到了艾歐澤亞。",
+   "ja": "交易を通じて流入した、近東原産のアンズの果実"
+  }
+ },
+ {
+  "slug": "la-noscean-leek",
+  "en": "La Noscean Leek",
+  "n": {
+   "en": "La Noscean Leek",
+   "zh-CN": "拉诺西亚韭葱",
+   "zh-TW": "拉諾西亞韭蔥",
+   "ja": "ラノシアリーキ"
+  },
+  "desc": {
+   "en": "A rare variety of leek, typically harvested young for a milder flavor.",
+   "zh-CN": "原产于拉诺西亚的叶菜，青嫩的时期采下来是一种不可多得的美味。",
+   "zh-TW": "原產於拉諾西亞的葉菜，青嫩的時期採下來是一種不可多得的美味。",
+   "ja": "ラノシア原産の稀少な葉菜。若採りすると美味"
+  }
+ },
+ {
+  "slug": "star-anise",
+  "en": "Star Anise",
+  "n": {
+   "en": "Star Anise",
+   "zh-CN": "星八角",
+   "zh-TW": "星八角",
+   "ja": "スターアニス"
+  },
+  "desc": {
+   "en": "Originating from the Far East, this fragrant spice is shaped like eight-pointed stars.",
+   "zh-CN": "东方传来的一种香料，名字得自八角星一样的外型。",
+   "zh-TW": "東方傳來的一種香料，名字得自八角星一樣的外型。",
+   "ja": "八角の星形が特徴的な東方由来のスパイス"
+  }
+ },
+ {
+  "slug": "dalamud-popoto",
+  "en": "Dalamud Popoto",
+  "n": {
+   "en": "Dalamud Popoto",
+   "zh-CN": "卫月新薯",
+   "zh-TW": "衛月新薯",
+   "ja": "ダラガブポポト"
+  },
+  "desc": {
+   "en": "Hailing also from the western continent, this cousin to the common popoto is lurid red in color.",
+   "zh-CN": "新大陆传来的一种根菜，与普通的新薯外型差不多，但是颜色像卫月一样红。",
+   "zh-TW": "新大陸傳來的一種根菜，與普通的新薯外型差不多，但是顏色像衛月一樣紅。",
+   "ja": "新大陸伝来の稀少な根菜。ダラガブのように赤い"
+  }
+ },
+ {
+  "slug": "royal-kukuru-bean",
+  "en": "Royal Kukuru Bean",
+  "n": {
+   "en": "Royal Kukuru Bean",
+   "zh-CN": "皇家可可豆",
+   "zh-TW": "皇家可可豆",
+   "ja": "ロイヤルククルビーン"
+  },
+  "desc": {
+   "en": "A king among kukuru bean varieties, prized for its high nutritional value.",
+   "zh-CN": "这种可可树的种子十分罕见，其高营养价值带来了犹如皇族的地位。",
+   "zh-TW": "這種可可樹的種子十分罕見，其高營養價值帶來了猶如皇族的地位。",
+   "ja": "ククルの木の種。栄養価が高い稀少種"
+  }
+ },
+ {
+  "slug": "halone-gerbera",
+  "en": "Halone Gerbera",
+  "n": {
+   "en": "Halone Gerbera",
+   "zh-CN": "哈罗妮丁菊",
+   "zh-TW": "哈羅妮丁菊",
+   "ja": "ハルオーネガーベラ"
+  },
+  "desc": {
+   "en": "A flowering ornamental plant said to be beloved of Halone, the Fury.",
+   "zh-CN": "据说战争女神哈罗妮非常喜欢这种观赏植物。",
+   "zh-TW": "據說戰爭女神哈羅妮非常喜歡這種觀賞植物。",
+   "ja": "戦神ハルオーネに愛されたと伝えられる観葉植物"
+  }
+ },
+ {
+  "slug": "azeyma-rose",
+  "en": "Azeyma Rose",
+  "n": {
+   "en": "Azeyma Rose",
+   "zh-CN": "阿泽玛玫瑰",
+   "zh-TW": "阿澤瑪玫瑰",
+   "ja": "アーゼマローズ"
+  },
+  "desc": {
+   "en": "A flowering ornamental plant said to be beloved of Azeyma, the Warden.",
+   "zh-CN": "据说太阳神阿泽玛非常喜欢这种观赏植物。",
+   "zh-TW": "據說太陽神阿澤瑪非常喜歡這種觀賞植物。",
+   "ja": "日神アーゼマに愛されたと伝えられる観葉植物"
+  }
+ },
+ {
+  "slug": "nymeia-lily",
+  "en": "Nymeia Lily",
+  "n": {
+   "en": "Nymeia Lily",
+   "zh-CN": "妮美雅百合",
+   "zh-TW": "妮美雅百合",
+   "ja": "ニメーヤリリー"
+  },
+  "desc": {
+   "en": "A flowering ornamental plant said to be beloved of Nymeia, the Spinner.",
+   "zh-CN": "据说命运女神妮美雅非常喜欢这种观赏植物。",
+   "zh-TW": "據說命運女神妮美雅非常喜歡這種觀賞植物。",
+   "ja": "星神ニメーヤに愛されたと伝えられる観葉植物"
+  }
+ },
+ {
+  "slug": "umbrella-fig",
+  "en": "Umbrella Fig",
+  "n": {
+   "en": "Umbrella Fig",
+   "zh-CN": "伞叶无花果",
+   "zh-TW": "傘葉無花果",
+   "ja": "アンブレラフィグ"
+  },
+  "desc": {
+   "en": "An ornamental plant native to the islands of the south seas, given its name by Lalafellin clans who used its prodigious leaves in lieu of umbrellas.",
+   "zh-CN": "一种南洋原产的阔叶植物，其叶子之大甚至可以让拉拉菲尔族用来当做雨伞。",
+   "zh-TW": "一種南洋原產的闊葉植物，其葉子之大甚至可以讓拉拉菲爾族用來當做雨傘。",
+   "ja": "ララフェル族が傘代わりに使ったとされる大きな葉が茂る南洋原産の観葉植物"
+  }
+ },
+ {
+  "slug": "jute",
+  "en": "Jute",
+  "n": {
+   "en": "Jute",
+   "zh-CN": "黄麻",
+   "zh-TW": "黃麻",
+   "ja": "黄麻"
+  },
+  "desc": {
+   "en": "Native to the islands of the south seas, the fibrous stem of this plant can be used to weave cloth.",
+   "zh-CN": "原产于南洋的纤维作物，可以用茎提取纤维。",
+   "zh-TW": "原產於南洋的纖維作物，可以用莖提取纖維。",
+   "ja": "南洋原産の繊維作物。茎から繊維が取れる"
+  }
+ },
+ {
+  "slug": "glazenut",
+  "en": "Glazenut",
+  "n": {
+   "en": "Glazenut",
+   "zh-CN": "釉质坚果",
+   "zh-TW": "釉質堅果",
+   "ja": "グレイズナッツ"
+  },
+  "desc": {
+   "en": "The oil extracted from this nut is ideal for use as varnish.",
+   "zh-CN": "含油量丰富的豆类，榨出的油可以用来制成油漆。",
+   "zh-TW": "含油量豐富的豆類，榨出的油可以用來製成油漆。",
+   "ja": "油分豊富な豆。これを絞ると、ニスとして利用できる"
+  }
+ },
+ {
+  "slug": "broombush",
+  "en": "Broombush",
+  "n": {
+   "en": "Broombush",
+   "zh-CN": "扫帚草",
+   "zh-TW": "掃帚草",
+   "ja": "ホウキグサ"
+  },
+  "desc": {
+   "en": "The dried stalks of this hardy shrub are commonly used in the making of brooms.",
+   "zh-CN": "茎干燥之后是制作扫帚的主要材料，也正是因此而得名。",
+   "zh-TW": "莖幹燥之後是製作掃帚的主要材料，也正是因此而得名。",
+   "ja": "乾燥させた茎をホウキに用いることから、その名が付いた一年草"
+  }
+ },
+ {
+  "slug": "curiel-root",
+  "en": "Curiel Root",
+  "n": {
+   "en": "Curiel Root",
+   "zh-CN": "库里尔萝卜",
+   "zh-TW": "庫里爾蘿蔔",
+   "ja": "クリーエの野菜"
+  },
+  "desc": {
+   "en": "A parsnip-like tuber found growing on the windswept islands of the northern seas. While too bitter for most people's tastes, chocobos are known to enjoy the flavor, and thus the root is often used as fodder for the animals.",
+   "zh-CN": "带有浓香的野菜，原产于北洋群岛，做出来的饲料能让陆行鸟吃上瘾。",
+   "zh-TW": "帶有濃香的野菜，原產於北洋羣島，做出來的飼料能讓陸行鳥喫上癮。",
+   "ja": "北洋諸島原産の香り高い根菜。食べるほどクセになるらしいチョコボの飼料"
+  }
+ },
+ {
+  "slug": "sylkis-bud",
+  "en": "Sylkis Bud",
+  "n": {
+   "en": "Sylkis Bud",
+   "zh-CN": "希尔奇斯菜蓟",
+   "zh-TW": "希爾奇斯菜薊",
+   "ja": "シルキスの野菜"
+  },
+  "desc": {
+   "en": "An artichoke-like flower found growing on a majority of the Cieldalaes. While too bitter for most people's tastes, chocobos are known to enjoy the flavor, and thus the meaty buds are often used as fodder for the animals.",
+   "zh-CN": "原产于谢尔达莱群岛的野菜，做出来的饲料能让陆行鸟吃上瘾。",
+   "zh-TW": "原產於謝爾達萊羣島的野菜，做出來的飼料能讓陸行鳥喫上癮。",
+   "ja": "シェルダレー諸島原産の蕾を食する花菜。食べるほどクセになるらしいチョコボの飼料"
+  }
+ },
+ {
+  "slug": "mimett-gourd",
+  "en": "Mimett Gourd",
+  "n": {
+   "en": "Mimett Gourd",
+   "zh-CN": "米梅特葫芦",
+   "zh-TW": "米梅特葫蘆",
+   "ja": "ミメットの野菜"
+  },
+  "desc": {
+   "en": "A large fleshy squash brought back from the New World by Lominsan explorers. While too sweet for most people's tastes, chocobos are known to enjoy the flavor, and thus the gourds are often used as fodder for the animals.",
+   "zh-CN": "带有甜味的野菜，原产于新大陆，做出来的饲料能让陆行鸟吃上瘾。",
+   "zh-TW": "帶有甜味的野菜，原產於新大陸，做出來的飼料能讓陸行鳥喫上癮。",
+   "ja": "新大陸伝来の甘い味の果菜。食べるほどクセになるらしいチョコボの飼料"
+  }
+ },
+ {
+  "slug": "tantalplant",
+  "en": "Tantalplant",
+  "n": {
+   "en": "Tantalplant",
+   "zh-CN": "坦塔尔矮瓜",
+   "zh-TW": "坦塔爾矮瓜",
+   "ja": "タンタルの野菜"
+  },
+  "desc": {
+   "en": "A vibrant purple vegetable commonly found growing in the Near East. While too bitter for most people's tastes, chocobos are known to enjoy the flavor, and thus these aubergines are often used as fodder for the animals.",
+   "zh-CN": "紫色的野菜，原产于近东地区，做出来的饲料能让陆行鸟吃上瘾。",
+   "zh-TW": "紫色的野菜，原產於近東地區，做出來的飼料能讓陸行鳥喫上癮。",
+   "ja": "近東原産の紫色の果菜。食べるほどクセになるらしいチョコボの飼料"
+  }
+ },
+ {
+  "slug": "pahsana-fruit",
+  "en": "Pahsana Fruit",
+  "n": {
+   "en": "Pahsana Fruit",
+   "zh-CN": "帕萨纳红茄",
+   "zh-TW": "帕薩納紅茄",
+   "ja": "パサーナの野菜"
+  },
+  "desc": {
+   "en": "A bright-red tomato-like fruit brought back from the New World by Lominsan explorers. While too tangy for most people's tastes, chocobos are known to enjoy the flavor, and thus the fruits are often used as fodder for the animals.",
+   "zh-CN": "赤红色的野菜，原产于新大陆，做出来的饲料能让陆行鸟吃上瘾。",
+   "zh-TW": "赤紅色的野菜，原產於新大陸，做出來的飼料能讓陸行鳥喫上癮。",
+   "ja": "新大陸伝来の真紅の果菜。食べるほどクセになるらしいチョコボの飼料"
+  }
+ },
+ {
+  "slug": "pearl-roselle",
+  "en": "Pearl Roselle",
+  "n": {
+   "en": "Pearl Roselle",
+   "zh-CN": "珍珠葵",
+   "zh-TW": "珍珠葵",
+   "ja": "パールローゼル"
+  },
+  "desc": {
+   "en": "A milky white flower commonly found growing in the humid climes of the southern seas.",
+   "zh-CN": "一种纯白的花，原产自南洋群岛。",
+   "zh-TW": "一種純白的花，原產自南洋羣島。",
+   "ja": "南洋諸島原産の純白の花"
+  }
+ },
+ {
+  "slug": "xelphatol-apple",
+  "en": "Xelphatol Apple",
+  "n": {
+   "en": "Xelphatol Apple",
+   "zh-CN": "塞尔法特尔沙果",
+   "zh-TW": "塞爾法特爾沙果",
+   "ja": "ゼルファトルの果実"
+  },
+  "desc": {
+   "en": "A bitter fruit found growing in the Ixali homelands. While typically avoided by the Ixal themselves, it is a favorite amongst chocobos, and is known to deepen the red hues of their feathers.",
+   "zh-CN": "陆行鸟非常喜欢的一种果实。",
+   "zh-TW": "陸行鳥非常喜歡的一種果實。",
+   "ja": "チョコボのおやつに適した果実。"
+  }
+ },
+ {
+  "slug": "doman-plum",
+  "en": "Doman Plum",
+  "n": {
+   "en": "Doman Plum",
+   "zh-CN": "多玛青梅",
+   "zh-TW": "多瑪青梅",
+   "ja": "ドマの果実"
+  },
+  "desc": {
+   "en": "A hard, bitter fruit found in the forests of Far Eastern Doma. It is a favorite amongst chocobos, and is known to lighten the red hues of their feathers.",
+   "zh-CN": "陆行鸟非常喜欢的一种果实。",
+   "zh-TW": "陸行鳥非常喜歡的一種果實。",
+   "ja": "チョコボのおやつに適した果実。"
+  }
+ },
+ {
+  "slug": "mamook-pear",
+  "en": "Mamook Pear",
+  "n": {
+   "en": "Mamook Pear",
+   "zh-CN": "辉鳞油梨",
+   "zh-TW": "輝鱗油梨",
+   "ja": "マムークの果実"
+  },
+  "desc": {
+   "en": "A bitter fruit found growing in the arid soils of Mamook. While typically avoided by the Mamool Ja themselves, it is a favorite amongst chocobos, and is known to deepen the green hues of their feathers.",
+   "zh-CN": "陆行鸟非常喜欢的一种果实。",
+   "zh-TW": "陸行鳥非常喜歡的一種果實。",
+   "ja": "チョコボのおやつに適した果実。"
+  }
+ },
+ {
+  "slug": "valfruit",
+  "en": "Valfruit",
+  "n": {
+   "en": "Valfruit",
+   "zh-CN": "瓦尔醋栗",
+   "zh-TW": "瓦爾醋栗",
+   "ja": "バルの果実"
+  },
+  "desc": {
+   "en": "A bitter berry found growing on the distant Isle of Val. It is a favorite amongst chocobos, and is known to lighten the green hues of their feathers.",
+   "zh-CN": "陆行鸟非常喜欢的一种果实。",
+   "zh-TW": "陸行鳥非常喜歡的一種果實。",
+   "ja": "チョコボのおやつに適した果実。"
+  }
+ },
+ {
+  "slug": "o-ghomoro-berries",
+  "en": "O'Ghomoro Berries",
+  "n": {
+   "en": "O'Ghomoro Berries",
+   "zh-CN": "奥·哥摩罗浆果",
+   "zh-TW": "奧·哥摩羅漿果",
+   "ja": "オ・ゴモロの果実"
+  },
+  "desc": {
+   "en": "A bitter fruit found growing on the volcanic soil of O'Ghomoro. While typically avoided by the kobolds, it is a favorite amongst chocobos, and is known to deepen the blue hues of their feathers.",
+   "zh-CN": "陆行鸟非常喜欢的一种果实。",
+   "zh-TW": "陸行鳥非常喜歡的一種果實。",
+   "ja": "チョコボのおやつに適した果実。"
+  }
+ },
+ {
+  "slug": "cieldalaes-pineapple",
+  "en": "Cieldalaes Pineapple",
+  "n": {
+   "en": "Cieldalaes Pineapple",
+   "zh-CN": "谢尔达莱凤梨",
+   "zh-TW": "謝爾達萊鳳梨",
+   "ja": "シェルダレーの果実"
+  },
+  "desc": {
+   "en": "A bitter fruit found growing on the Cieldalaes—a remote archipelago in the Rhotano Sea. It is a favorite amongst chocobos, and is known to lighten the blue hues of their feathers.",
+   "zh-CN": "陆行鸟非常喜欢的一种果实。",
+   "zh-TW": "陸行鳥非常喜歡的一種果實。",
+   "ja": "チョコボのおやつに適した果実。"
+  }
+ },
+ {
+  "slug": "han-lemon",
+  "en": "Han Lemon",
+  "n": {
+   "en": "Han Lemon",
+   "zh-CN": "拉札罕柠檬",
+   "zh-TW": "拉札罕檸檬",
+   "ja": "ラザハンの果実"
+  },
+  "desc": {
+   "en": "A foul, bitter fruit found growing on the Near Eastern island of Thavnair. While typically avoided by the residents of Radz-at-Han, it is a favorite amongst chocobos, and is known to restore feathers to their original hue.",
+   "zh-CN": "陆行鸟非常喜欢的一种果实。",
+   "zh-TW": "陸行鳥非常喜歡的一種果實。",
+   "ja": "チョコボのおやつに適した果実。"
+  }
+ },
+ {
+  "slug": "krakka-root",
+  "en": "Krakka Root",
+  "n": {
+   "en": "Krakka Root",
+   "zh-CN": "克拉卡萝卜",
+   "zh-TW": "克拉卡蘿蔔",
+   "ja": "カラッカの野菜"
+  },
+  "desc": {
+   "en": "A bitter carrot-like root vegetable native to the Near East and a favorite amongst chocobos.",
+   "zh-CN": "红色的细长野菜，原产于近东地区，可以用来制作陆行鸟的饲料。",
+   "zh-TW": "紅色的細長野菜，原產於近東地區，可以用來製作陸行鳥的飼料。",
+   "ja": "近東原産の細長い朱色の根菜。チョコボの飼料として知られる"
+  }
+ },
+ {
+  "slug": "thavnairian-onion",
+  "en": "Thavnairian Onion",
+  "n": {
+   "en": "Thavnairian Onion",
+   "zh-CN": "萨维奈圆葱",
+   "zh-TW": "薩維奈圓蔥",
+   "ja": "サベネアの野菜"
+  },
+  "desc": {
+   "en": "A pungent, tear-inducing vegetable that thrives in the alkali sands of Near Eastern Thavnair. It is a favorite amongst chocobos.",
+   "zh-CN": "圆形的野菜，原产于近东地区，可以用来制作陆行鸟的饲料。",
+   "zh-TW": "圓形的野菜，原產於近東地區，可以用來製作陸行鳥的飼料。",
+   "ja": "近東原産のまん丸い根菜。チョコボの飼料として知られる"
+  }
+ },
+ {
+  "slug": "onion-prince",
+  "en": "Onion Prince",
+  "n": {
+   "en": "Onion Prince",
+   "zh-CN": "洋葱王子",
+   "zh-TW": "洋蔥王子",
+   "ja": "オニオンプリンス"
+  },
+  "desc": {
+   "en": "He would die 4 U. Or possibly cry 4 U. Or most likely make U cry. 4 U.",
+   "zh-CN": "获得新宠物“洋葱王子”。",
+   "zh-TW": "獲得新寵物“洋蔥王子”。",
+   "ja": "ミニオン修得"
+  }
+ },
+ {
+  "slug": "eggplant-knight",
+  "en": "Eggplant Knight",
+  "n": {
+   "en": "Eggplant Knight",
+   "zh-CN": "茄子骑士",
+   "zh-TW": "茄子騎士",
+   "ja": "エッグナイト"
+  },
+  "desc": {
+   "en": "His childhood dream to become a wizard was frowned upon by his overbearing father.",
+   "zh-CN": "获得新宠物“茄子骑士”。",
+   "zh-TW": "獲得新寵物“茄子騎士”。",
+   "ja": "ミニオン修得"
+  }
+ },
+ {
+  "slug": "garlic-jester",
+  "en": "Garlic Jester",
+  "n": {
+   "en": "Garlic Jester",
+   "zh-CN": "蒜头明星",
+   "zh-TW": "蒜頭明星",
+   "ja": "ガーリックスター"
+  },
+  "desc": {
+   "en": "Every breath you take will act as a reminder that your pungent pal is right behind you.",
+   "zh-CN": "获得新宠物“蒜头明星”。",
+   "zh-TW": "獲得新寵物“蒜頭明星”。",
+   "ja": "ミニオン修得"
+  }
+ },
+ {
+  "slug": "tomato-king",
+  "en": "Tomato King",
+  "n": {
+   "en": "Tomato King",
+   "zh-CN": "番茄国王",
+   "zh-TW": "番茄國王",
+   "ja": "キングトマト"
+  },
+  "desc": {
+   "en": "Has issued a royal decree for the public defenestration of any and all who mistakenly claim the king is a vegetable.",
+   "zh-CN": "获得新宠物“番茄国王”。",
+   "zh-TW": "獲得新寵物“番茄國王”。",
+   "ja": "ミニオン修得"
+  }
+ },
+ {
+  "slug": "mandragora-queen",
+  "en": "Mandragora Queen",
+  "n": {
+   "en": "Mandragora Queen",
+   "zh-CN": "蔓德拉王后",
+   "zh-TW": "蔓德拉王后",
+   "ja": "マンドラクイーン"
+  },
+  "desc": {
+   "en": "Though wed to the Tomato King in a move to strengthen the bond of houses Tomato and Mandragora, the queen longs to steal away with her one true love—the Eggplant Knight. What will become of this forbidden romance!? Use item to acquire the Mandragora Queen minion and find out!",
+   "zh-CN": "获得新宠物“蔓德拉王后”。",
+   "zh-TW": "獲得新寵物“蔓德拉王后”。",
+   "ja": "ミニオン修得"
+  }
+ },
+ {
+  "slug": "pearl-sprouts",
+  "en": "Pearl Sprouts",
+  "n": {
+   "en": "Pearl Sprouts",
+   "zh-CN": "小包心菜",
+   "zh-TW": "小包心菜",
+   "ja": "プチキャベツ"
+  },
+  "desc": {
+   "en": "Tiny cabbage-like vegetables native to the highlands of Coerthas.",
+   "zh-CN": "原产于库尔札斯地区，小型球状叶菜。",
+   "zh-TW": "原產於庫爾札斯地區，小型球狀葉菜。",
+   "ja": "クルザス原産の小さな球状の葉菜"
+  }
+ },
+ {
+  "slug": "coerthan-tea-leaves",
+  "en": "Coerthan Tea Leaves",
+  "n": {
+   "en": "Coerthan Tea Leaves",
+   "zh-CN": "库尔札斯茶叶",
+   "zh-TW": "庫爾札斯茶葉",
+   "ja": "クルザス茶葉"
+  },
+  "desc": {
+   "en": "Considerably smaller than Thanalan tea leaves, more than double the amount of Ishgardian tea leaves are required to brew a single cup of tea.",
+   "zh-CN": "库尔札斯地区栽培的茶叶。",
+   "zh-TW": "庫爾札斯地區栽培的茶葉。",
+   "ja": "クルザスで栽培された茶葉"
+  }
+ },
+ {
+  "slug": "chives",
+  "en": "Chives",
+  "n": {
+   "en": "Chives",
+   "zh-CN": "库尔札斯青葱",
+   "zh-TW": "庫爾札斯青蔥",
+   "ja": "チャイブ"
+  },
+  "desc": {
+   "en": "A thin green onion used in many Ishgardian dishes.",
+   "zh-CN": "原产于库尔札斯地区的细长叶菜。",
+   "zh-TW": "原產於庫爾札斯地區的細長葉菜。",
+   "ja": "クルザス原産の細長い葉菜"
+  }
+ },
+ {
+  "slug": "old-world-fig",
+  "en": "Old World Fig",
+  "n": {
+   "en": "Old World Fig",
+   "zh-CN": "旧世界无花果",
+   "zh-TW": "舊世界無花果",
+   "ja": "オールドワールドフィグ"
+  },
+  "desc": {
+   "en": "A symbol of long life and femininity, this autumn fruit was originally brought from their homeland to Eorzea by the Sharlayans.",
+   "zh-CN": "也被称为长寿果。",
+   "zh-TW": "也被稱爲長壽果。",
+   "ja": "不老長寿の果物とも呼ばれる高木の果実"
+  }
+ },
+ {
+  "slug": "blood-pepper",
+  "en": "Blood Pepper",
+  "n": {
+   "en": "Blood Pepper",
+   "zh-CN": "血椒",
+   "zh-TW": "血椒",
+   "ja": "ブラッドペッパー"
+  },
+  "desc": {
+   "en": "A deep red variety of dragon pepper so hot it is widely believed by Far Eastern cultures to drive away malignant spirits.",
+   "zh-CN": "血红色的龙息椒，在东方常用于驱魔。",
+   "zh-TW": "血紅色的龍息椒，在東方常用於驅魔。",
+   "ja": "血のように赤いドラゴンペッパー。東方では魔除けに用いられる"
+  }
+ },
+ {
+  "slug": "red-oldroses",
+  "en": "Red Oldroses",
+  "n": {
+   "en": "Red Oldroses",
+   "zh-CN": "红色古典玫瑰",
+   "zh-TW": "紅色古典玫瑰",
+   "ja": "オールドローズ:レッド"
+  },
+  "desc": {
+   "en": "A bunch of red oldroses, selectively fertilized to achieve their vibrant color.",
+   "zh-CN": "红色的古典玫瑰，娇艳欲滴。",
+   "zh-TW": "紅色的古典玫瑰，嬌豔欲滴。",
+   "ja": "鮮やかな赤色のオールドローズ"
+  }
+ },
+ {
+  "slug": "althyk-lavender",
+  "en": "Althyk Lavender",
+  "n": {
+   "en": "Althyk Lavender",
+   "zh-CN": "阿尔基克薰衣草",
+   "zh-TW": "阿爾基克薰衣草",
+   "ja": "アルジクラベンダー"
+  },
+  "desc": {
+   "en": "A fragrant variety of lavender rarely found in the arid lowland regions of Thanalan.",
+   "zh-CN": "以光阴神阿尔基克名字命名的薰衣草，稀有品种。",
+   "zh-TW": "以光陰神阿爾基克名字命名的薰衣草，稀有品種。",
+   "ja": "時神アルジクの名を冠した稀少なラベンダー"
+  }
+ },
+ {
+  "slug": "voidrake",
+  "en": "Voidrake",
+  "n": {
+   "en": "Voidrake",
+   "zh-CN": "虚无界风茄",
+   "zh-TW": "虛無界風茄",
+   "ja": "ヴォイドマンドレイク"
+  },
+  "desc": {
+   "en": "Given its bizarre shape and extreme toxicity, this root is thought to have originated from the void.",
+   "zh-CN": "外形很奇特的野草，有剧毒，以至于人们称它是虚无界的植物。",
+   "zh-TW": "外形很奇特的野草，有劇毒，以至於人們稱它是虛無界的植物。",
+   "ja": "奇妙な姿をした野草。その強い毒性から、異界ヴォイドの植物とも呼ばれる"
+  }
+ },
+ {
+  "slug": "purple-violas",
+  "en": "Purple Violas",
+  "n": {
+   "en": "Purple Violas",
+   "zh-CN": "紫色三色堇",
+   "zh-TW": "紫色三色堇",
+   "ja": "パンジー:パープル"
+  },
+  "desc": {
+   "en": "A bunch of purple violas, selectively fertilized to achieve their vibrant color.",
+   "zh-CN": "紫色的三色堇，华贵淡雅。",
+   "zh-TW": "紫色的三色堇，華貴淡雅。",
+   "ja": "鮮やかな紫色のパンジー"
+  }
+ },
+ {
+  "slug": "red-cherry-blossoms",
+  "en": "Red Cherry Blossoms",
+  "n": {
+   "en": "Red Cherry Blossoms",
+   "zh-CN": "红色樱花",
+   "zh-TW": "紅色櫻花",
+   "ja": "チェリーブロッサム:レッド"
+  },
+  "desc": {
+   "en": "A bunch of red Shroud cherry blossoms, selectively fertilized to achieve their vibrant color.",
+   "zh-CN": "红色的樱花，娇艳欲滴。",
+   "zh-TW": "紅色的櫻花，嬌豔欲滴。",
+   "ja": "鮮やかな赤色のシュラウドチェリーの花"
+  }
+ },
+ {
+  "slug": "cloud-acorn",
+  "en": "Cloud Acorn",
+  "n": {
+   "en": "Cloud Acorn",
+   "zh-CN": "云海橡果",
+   "zh-TW": "雲海橡果",
+   "ja": "クラウドエーコン"
+  },
+  "desc": {
+   "en": "The Vanu Vanu will oft use these large seeds in the creation of sacred ornaments, or even armor.",
+   "zh-CN": "原产于阿巴拉提亚云海的大橡果，瓦努族会用作建筑装饰等。",
+   "zh-TW": "原產於阿巴拉提亞雲海的大橡果，瓦努族會用作建築裝飾等。",
+   "ja": "バヌバヌ族が建築装飾などに用いる、アバラシア雲海原産の大きなドングリ"
+  }
+ },
+ {
+  "slug": "yellow-daisies",
+  "en": "Yellow Daisies",
+  "n": {
+   "en": "Yellow Daisies",
+   "zh-CN": "黄色雏菊",
+   "zh-TW": "黃色雛菊",
+   "ja": "マーガレット:イエロー"
+  },
+  "desc": {
+   "en": "A bunch of yellow daisies, selectively fertilized to achieve their vibrant color.",
+   "zh-CN": "黄色的雏菊，热情奔放。",
+   "zh-TW": "黃色的雛菊，熱情奔放。",
+   "ja": "鮮やかな黄色のマーガレット"
+  }
+ },
+ {
+  "slug": "cloudsbreath",
+  "en": "Cloudsbreath",
+  "n": {
+   "en": "Cloudsbreath",
+   "zh-CN": "白云花",
+   "zh-TW": "白雲花",
+   "ja": "ウキグモソウ"
+  },
+  "desc": {
+   "en": "Lack of imagination has led to most white flowers found growing in the skybound regions of Dravania and Abalathia to be named after clouds, this specimen featuring winglike leaves being no exception.",
+   "zh-CN": "叶子像羽毛一样的植物。由于想象力的匮乏，几乎所有龙堡和阿巴拉提亚地区的白花都会以云来命名，这种花也毫不例外。",
+   "zh-TW": "葉子像羽毛一樣的植物。由於想像力的匱乏，幾乎所有龍堡和阿巴拉提亞地區的白花都會以雲來命名，這種花也毫不例外。",
+   "ja": "鳥の羽のような葉をつける植物"
+  }
+ },
+ {
+  "slug": "royal-fern",
+  "en": "Royal Fern",
+  "n": {
+   "en": "Royal Fern",
+   "zh-CN": "魔蕨菜",
+   "zh-TW": "魔蕨菜",
+   "ja": "マナゼンマイ"
+  },
+  "desc": {
+   "en": "The broad fronds of this brilliant green variety of fern are believed to be imbued with heavenly magicks.",
+   "zh-CN": "一种蕨菜，人们相信其中含有神秘的力量。",
+   "zh-TW": "一種蕨菜，人們相信其中含有神祕的力量。",
+   "ja": "神秘的な力を秘めていると信じられるゼンマイ"
+  }
+ },
+ {
+  "slug": "red-brightlilies",
+  "en": "Red Brightlilies",
+  "n": {
+   "en": "Red Brightlilies",
+   "zh-CN": "红色光明百合",
+   "zh-TW": "紅色光明百合",
+   "ja": "ブライトリリー:レッド"
+  },
+  "desc": {
+   "en": "A bunch of red brightlilies, selectively fertilized to achieve their vibrant color.",
+   "zh-CN": "红色的光明百合，娇艳欲滴。",
+   "zh-TW": "紅色的光明百合，嬌豔欲滴。",
+   "ja": "鮮やかな赤色のリリー"
+  }
+ },
+ {
+  "slug": "red-tulips",
+  "en": "Red Tulips",
+  "n": {
+   "en": "Red Tulips",
+   "zh-CN": "红色郁金香",
+   "zh-TW": "紅色鬱金香",
+   "ja": "チューリップ:レッド"
+  },
+  "desc": {
+   "en": "A bunch of red tulips, selectively fertilized to achieve their vibrant color.",
+   "zh-CN": "红色的郁金香，娇艳欲滴。",
+   "zh-TW": "紅色的鬱金香，嬌豔欲滴。",
+   "ja": "鮮やかな赤色のチューリップ"
+  }
+ },
+ {
+  "slug": "red-dahlias",
+  "en": "Red Dahlias",
+  "n": {
+   "en": "Red Dahlias",
+   "zh-CN": "红色大丽花",
+   "zh-TW": "紅色大麗花",
+   "ja": "ダリア:レッド"
+  },
+  "desc": {
+   "en": "A bunch of red dahlias, selectively fertilized to achieve their vibrant color.",
+   "zh-CN": "红色的大丽花，娇艳欲滴。",
+   "zh-TW": "紅色的大麗花，嬌豔欲滴。",
+   "ja": "鮮やかな赤色のダリア"
+  }
+ },
+ {
+  "slug": "red-arums",
+  "en": "Red Arums",
+  "n": {
+   "en": "Red Arums",
+   "zh-CN": "红色马蹄莲",
+   "zh-TW": "紅色馬蹄蓮",
+   "ja": "カラー:レッド"
+  },
+  "desc": {
+   "en": "A bunch of red arums, selectively fertilized to achieve their vibrant color.",
+   "zh-CN": "红色的马蹄莲。",
+   "zh-TW": "紅色的馬蹄蓮。",
+   "ja": "鮮やかな赤色のカラー"
+  }
+ },
+ {
+  "slug": "red-lilies-of-the-valley",
+  "en": "Red Lilies of the Valley",
+  "n": {
+   "en": "Red Lilies of the Valley",
+   "zh-CN": "红色铃兰",
+   "zh-TW": "紅色鈴蘭",
+   "ja": "リリーオブバレー:レッド"
+  },
+  "desc": {
+   "en": "A bunch of red lilies of the valley, selectively fertilized to achieve their vibrant color.",
+   "zh-CN": "红色的铃兰。",
+   "zh-TW": "紅色的鈴蘭。",
+   "ja": "鮮やかな赤色のリリーオブバレーの花"
+  }
+ },
+ {
+  "slug": "red-hydrangeas",
+  "en": "Red Hydrangeas",
+  "n": {
+   "en": "Red Hydrangeas",
+   "zh-CN": "红色绣球花",
+   "zh-TW": "紅色繡球花",
+   "ja": "ハイドレインジャ:レッド"
+  },
+  "desc": {
+   "en": "A bunch of red hydrangeas, selectively fertilized to achieve their vibrant color.",
+   "zh-CN": "红色的绣球花，娇艳欲滴。",
+   "zh-TW": "紅色的繡球花，嬌豔欲滴。",
+   "ja": "鮮やかな赤色のハイドレインジャ"
+  }
+ },
+ {
+  "slug": "red-campanulas",
+  "en": "Red Campanulas",
+  "n": {
+   "en": "Red Campanulas",
+   "zh-CN": "红色风铃草",
+   "zh-TW": "紅色風鈴草",
+   "ja": "カンパニュラ:レッド"
+  },
+  "desc": {
+   "en": "A bunch of red campanulas, selectively fertilized to achieve their vibrant color.",
+   "zh-CN": "红色的风铃草，娇艳欲滴。",
+   "zh-TW": "紅色的風鈴草，嬌豔欲滴。",
+   "ja": "鮮やかな赤色のカンパニュラ"
+  }
+ },
+ {
+  "slug": "purple-hyacinths",
+  "en": "Purple Hyacinths",
+  "n": {
+   "en": "Purple Hyacinths",
+   "zh-CN": "紫色风信子",
+   "zh-TW": "紫色風信子",
+   "ja": "ヒヤシンス:パープル"
+  },
+  "desc": {
+   "en": "A bunch of purple hyacinths, selectively fertilized to achieve their vibrant color.",
+   "zh-CN": "紫色的风信子，华贵淡雅。",
+   "zh-TW": "紫色的風信子，華貴淡雅。",
+   "ja": "鮮やかな紫色のヒヤシンス"
+  }
+ },
+ {
+  "slug": "purple-cosmos",
+  "en": "Purple Cosmos",
+  "n": {
+   "en": "Purple Cosmos",
+   "zh-CN": "紫色秋英",
+   "zh-TW": "紫色秋英",
+   "ja": "コスモス:パープル"
+  },
+  "desc": {
+   "en": "A bunch of purple cosmos, selectively fertilized to achieve their vibrant color.",
+   "zh-CN": "紫色的秋英，华贵淡雅。",
+   "zh-TW": "紫色的秋英，華貴淡雅。",
+   "ja": "鮮やかな紫色のコスモス"
+  }
+ },
+ {
+  "slug": "allagan-melon",
+  "en": "Allagan Melon",
+  "n": {
+   "en": "Allagan Melon",
+   "zh-CN": "亚拉戈西瓜",
+   "zh-TW": "亞拉戈西瓜",
+   "ja": "アラガンメロン"
+  },
+  "desc": {
+   "en": "Capable of movement and tremendously juicy.",
+   "zh-CN": "获得新宠物“亚拉戈西瓜”。",
+   "zh-TW": "獲得新寵物“亞拉戈西瓜”。",
+   "ja": "ミニオン修得"
+  }
+ },
+ {
+  "slug": "red-carnations",
+  "en": "Red Carnations",
+  "n": {
+   "en": "Red Carnations",
+   "zh-CN": "红色康乃馨",
+   "zh-TW": "紅色康乃馨",
+   "ja": "カーネーション:レッド"
+  },
+  "desc": {
+   "en": "A bunch of red carnations, selectively fertilized to achieve their vibrant color.",
+   "zh-CN": "红色的康乃馨，娇艳欲滴。",
+   "zh-TW": "紅色的康乃馨，嬌豔欲滴。",
+   "ja": "鮮やかな赤色のカーネーション"
+  }
+ },
+ {
+  "slug": "red-moth-orchids",
+  "en": "Red Moth Orchids",
+  "n": {
+   "en": "Red Moth Orchids",
+   "zh-CN": "红色蝴蝶兰",
+   "zh-TW": "紅色蝴蝶蘭",
+   "ja": "胡蝶蘭:紅"
+  },
+  "desc": {
+   "en": "A bunch of red moth orchids, selectively fertilized to achieve their vibrant color.",
+   "zh-CN": "红色的蝴蝶兰，娇艳欲滴。",
+   "zh-TW": "紅色的蝴蝶蘭，嬌豔欲滴。",
+   "ja": "鮮やかな紅色の胡蝶蘭の花"
+  }
+ },
+ {
+  "slug": "red-triteleia",
+  "en": "Red Triteleia",
+  "n": {
+   "en": "Red Triteleia",
+   "zh-CN": "红色紫灯花",
+   "zh-TW": "紅色紫燈花",
+   "ja": "トリテレイア:レッド"
+  },
+  "desc": {
+   "en": "A bunch of red triteleia, selectively fertilized to achieve their vibrant color.",
+   "zh-CN": "红色的紫灯花，娇艳欲滴。",
+   "zh-TW": "紅色的紫燈花，嬌豔欲滴。",
+   "ja": "鮮やかな赤色のトリテレイア"
+  }
+ },
+ {
+  "slug": "red-byregotia",
+  "en": "Red Byregotia",
+  "n": {
+   "en": "Red Byregotia",
+   "zh-CN": "红色比尔格紫罗兰",
+   "zh-TW": "紅色比爾格紫羅蘭",
+   "ja": "ビエルゴヴァイオレット:レッド"
+  },
+  "desc": {
+   "en": "A bunch of red Byregotia, selectively fertilized to achieve their vibrant color.",
+   "zh-CN": "红色的比尔格紫罗兰，娇艳欲滴。",
+   "zh-TW": "紅色的比爾格紫羅蘭，嬌豔欲滴。",
+   "ja": "鮮やかな赤色のビエルゴヴァイオレット"
+  }
+ },
+ {
+  "slug": "red-sweet-peas",
+  "en": "Red Sweet Peas",
+  "n": {
+   "en": "Red Sweet Peas",
+   "zh-CN": "红色香豌豆花",
+   "zh-TW": "紅色香豌豆花",
+   "ja": "スイートピー:レッド"
+  },
+  "desc": {
+   "en": "A bunch of red sweet peas, selectively fertilized to achieve their vibrant color.",
+   "zh-CN": "红色的香豌豆花，娇艳欲滴。",
+   "zh-TW": "紅色的香豌豆花，嬌豔欲滴。",
+   "ja": "鮮やかな赤色のスイートピー"
+  }
+ },
+ {
+  "slug": "red-morning-glories",
+  "en": "Red Morning Glories",
+  "n": {
+   "en": "Red Morning Glories",
+   "zh-CN": "红色牵牛花",
+   "zh-TW": "紅色牽牛花",
+   "ja": "モーニンググローリー:レッド"
+  },
+  "desc": {
+   "en": "A bunch of red morning glories, selectively fertilized to achieve their vibrant color.",
+   "zh-CN": "红色的牵牛花，娇艳欲滴。",
+   "zh-TW": "紅色的牽牛花，嬌豔欲滴。",
+   "ja": "鮮やかな赤色のモーニンググローリー"
+  }
+ },
+ {
+  "slug": "red-chrysanthemums",
+  "en": "Red Chrysanthemums",
+  "n": {
+   "en": "Red Chrysanthemums",
+   "zh-CN": "红色菊花",
+   "zh-TW": "紅色菊花",
+   "ja": "クリサンセマム:レッド"
+  },
+  "desc": {
+   "en": "A bunch of red chrysanthemums, selectively fertilized to achieve their vibrant color.",
+   "zh-CN": "红色的菊花，娇艳欲滴。",
+   "zh-TW": "紅色的菊花，嬌豔欲滴。",
+   "ja": "鮮やかな赤色のクリサンセマム"
+  }
+ },
+ {
+  "slug": "red-lupins",
+  "en": "Red Lupins",
+  "n": {
+   "en": "Red Lupins",
+   "zh-CN": "红色鲁冰花",
+   "zh-TW": "紅色魯冰花",
+   "ja": "ルピナス:レッド"
+  },
+  "desc": {
+   "en": "A bunch of red lupins, selectively fertilized to achieve their vibrant color.",
+   "zh-CN": "红色的鲁冰花，娇艳欲滴。",
+   "zh-TW": "紅色的魯冰花，嬌豔欲滴。",
+   "ja": "鮮やかな赤色のルピナス"
+  }
+ },
+ {
+  "slug": "red-sunflowers",
+  "en": "Red Sunflowers",
+  "n": {
+   "en": "Red Sunflowers",
+   "zh-CN": "红色向日葵",
+   "zh-TW": "紅色向日葵",
+   "ja": "サンフラワー:レッド"
+  },
+  "desc": {
+   "en": "A bunch of red sunflowers, selectively fertilized to achieve their vibrant color.",
+   "zh-CN": "红色的向日葵，娇艳欲滴。",
+   "zh-TW": "紅色的向日葵，嬌豔欲滴。",
+   "ja": "鮮やかな赤色のサンフラワー"
+  }
+ },
+ {
+  "slug": "red-cattleyas",
+  "en": "Red Cattleyas",
+  "n": {
+   "en": "Red Cattleyas",
+   "zh-CN": "红色卡特兰",
+   "zh-TW": "紅色卡特蘭",
+   "ja": "カトレア:レッド"
+  },
+  "desc": {
+   "en": "A bunch of red cattleyas, selectively fertilized to achieve their vibrant color.",
+   "zh-CN": "红色的卡特兰，娇艳欲滴。",
+   "zh-TW": "紅色的卡特蘭，嬌豔欲滴。",
+   "ja": "鮮やかな赤色のカトレア"
+  }
+ },
+ {
+  "slug": "red-champa",
+  "en": "Red Champa",
+  "n": {
+   "en": "Red Champa",
+   "zh-CN": "红色大季花",
+   "zh-TW": "紅色大季花",
+   "ja": "チャンパー:レッド"
+  },
+  "desc": {
+   "en": "A bunch of red champa, selectively fertilized to achieve their vibrant color.",
+   "zh-CN": "红色的大季花，娇艳欲滴。",
+   "zh-TW": "紅色的大季花，嬌豔欲滴。",
+   "ja": "鮮やかな赤色のチャンパー"
+  }
+ },
+ {
+  "slug": "red-paperflowers",
+  "en": "Red Paperflowers",
+  "n": {
+   "en": "Red Paperflowers",
+   "zh-CN": "红色叶子花",
+   "zh-TW": "紅色葉子花",
+   "ja": "ペーパーフラワー:レッド"
+  },
+  "desc": {
+   "en": "A bunch of red paperflowers, selectively fertilized to achieve their vibrant color.",
+   "zh-CN": "红色的叶子花，娇艳欲滴。",
+   "zh-TW": "紅色的葉子花，嬌豔欲滴。",
+   "ja": "鮮やかな赤色のペーパーフラワー"
+  }
+ },
+ {
+  "slug": "red-tea-flowers",
+  "en": "Red Tea Flowers",
+  "n": {
+   "en": "Red Tea Flowers",
+   "zh-CN": "红色山茶花",
+   "zh-TW": "紅色山茶花",
+   "ja": "ティーフラワー:レッド"
+  },
+  "desc": {
+   "en": "A bunch of red tea flowers, selectively fertilized to achieve their vibrant color.",
+   "zh-CN": "红色的山茶花，娇艳欲滴。",
+   "zh-TW": "紅色的山茶花，嬌豔欲滴。",
+   "ja": "鮮やかな赤色のティーフラワー"
+  }
+ },
+ {
+  "slug": "red-cornflowers",
+  "en": "Red Cornflowers",
+  "n": {
+   "en": "Red Cornflowers",
+   "zh-CN": "红色矢车菊",
+   "zh-TW": "紅色矢車菊",
+   "ja": "コーンフラワー:レッド"
+  },
+  "desc": {
+   "en": "A bunch of red cornflowers, selectively fertilized to achieve their vibrant color.",
+   "zh-CN": "红色的矢车菊，娇艳欲滴。",
+   "zh-TW": "紅色的矢車菊，嬌豔欲滴。",
+   "ja": "鮮やかな赤色のコーンフラワー"
+  }
+ }
+]

@@ -1,0 +1,6 @@
+id: red-carnations
+category: gardening
+type: crop
+crop: "Red Carnations"
+tags: [gardening, crop, plant]
+status: stable

@@ -1,0 +1,6 @@
+id: red-dahlias
+category: gardening
+type: crop
+crop: "Red Dahlias"
+tags: [gardening, crop, plant]
+status: stable

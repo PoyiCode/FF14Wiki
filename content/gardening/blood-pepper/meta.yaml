@@ -1,0 +1,6 @@
+id: blood-pepper
+category: gardening
+type: crop
+crop: "Blood Pepper"
+tags: [gardening, crop, plant]
+status: stable

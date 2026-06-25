@@ -1,0 +1,6 @@
+id: rolanberry
+category: gardening
+type: crop
+crop: "Rolanberry"
+tags: [gardening, crop, plant]
+status: stable

@@ -1,0 +1,6 @@
+id: almonds
+category: gardening
+type: crop
+crop: "Almonds"
+tags: [gardening, crop, plant]
+status: stable

@@ -1,0 +1,6 @@
+id: valfruit
+category: gardening
+type: crop
+crop: "Valfruit"
+tags: [gardening, crop, plant]
+status: stable
