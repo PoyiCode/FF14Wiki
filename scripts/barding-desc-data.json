@@ -1,0 +1,596 @@
+{
+ "lominsan-half-barding": {
+  "en": "A lightweight suit of Maelstrom-issue chocobo armor.",
+  "ja": "黒渦団が制式採用した略式チョコボ装甲",
+  "zh-CN": "黑涡团制式的陆行鸟用简略装甲。",
+  "zh-TW": "黑渦團制式的陸行鳥用簡略裝甲。"
+ },
+ "lominsan-barding": {
+  "en": "A full-plate suit of Maelstrom-issue chocobo armor.",
+  "ja": "黒渦団が制式採用したチョコボ装甲",
+  "zh-CN": "黑涡团制式的陆行鸟用标准装甲。",
+  "zh-TW": "黑渦團制式的陸行鳥用標準裝甲。"
+ },
+ "lominsan-crested-barding": {
+  "en": "An elaborately decorated suit of Maelstrom-issue chocobo armor.",
+  "ja": "黒渦団が制式採用した装飾付きチョコボ装甲",
+  "zh-CN": "黑涡团制式的陆行鸟用武装装甲。",
+  "zh-TW": "黑渦團制式的陸行鳥用武裝裝甲。"
+ },
+ "gridanian-half-barding": {
+  "en": "A lightweight suit of Twin Adder-issue chocobo armor.",
+  "ja": "双蛇党が制式採用した略式チョコボ装甲",
+  "zh-CN": "双蛇党制式的陆行鸟用简略装甲。",
+  "zh-TW": "雙蛇黨制式的陸行鳥用簡略裝甲。"
+ },
+ "gridanian-barding": {
+  "en": "A full-plate suit of Twin Adder-issue chocobo armor.",
+  "ja": "双蛇党が制式採用したチョコボ装甲",
+  "zh-CN": "双蛇党制式的陆行鸟用标准装甲。",
+  "zh-TW": "雙蛇黨制式的陸行鳥用標準裝甲。"
+ },
+ "gridanian-crested-barding": {
+  "en": "An elaborately decorated suit of Twin Adder-issue chocobo armor.",
+  "ja": "双蛇党が制式採用した装飾付きチョコボ装甲",
+  "zh-CN": "双蛇党制式的陆行鸟用武装装甲。",
+  "zh-TW": "雙蛇黨制式的陸行鳥用武裝裝甲。"
+ },
+ "ul-dahn-half-barding": {
+  "en": "A lightweight suit of Immortal Flame-issue chocobo armor.",
+  "ja": "不滅隊が制式採用した略式チョコボ装甲",
+  "zh-CN": "恒辉队制式的陆行鸟用简略装甲。",
+  "zh-TW": "恆輝隊制式的陸行鳥用簡略裝甲。"
+ },
+ "ul-dahn-barding": {
+  "en": "A full-plate suit of Immortal Flame-issue chocobo armor.",
+  "ja": "不滅隊が制式採用したチョコボ装甲",
+  "zh-CN": "恒辉队制式的陆行鸟用标准装甲。",
+  "zh-TW": "恆輝隊制式的陸行鳥用標準裝甲。"
+ },
+ "ul-dahn-crested-barding": {
+  "en": "An elaborately decorated suit of Immortal Flame-issue chocobo armor.",
+  "ja": "不滅隊が制式採用した装飾付きチョコボ装甲",
+  "zh-CN": "恒辉队制式的陆行鸟用武装装甲。",
+  "zh-TW": "恆輝隊制式的陸行鳥用武裝裝甲。"
+ },
+ "sleipnir-barding": {
+  "en": "A suit of pitch-black chocobo armor designed to resemble that worn by the legendary steed of the elder primal Odin.",
+  "ja": "オーディンの愛馬スレイプニルを模したチョコボ装甲",
+  "zh-CN": "以奥丁的爱马斯莱普尼尔的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以奧丁的愛馬斯萊普尼爾的形象設計出的陸行鳥用裝甲。"
+ },
+ "behemoth-barding": {
+  "en": "A suit of chocobo armor designed to resemble a ferocious behemoth.",
+  "ja": "魔獣ベヒーモスを模したチョコボ装甲",
+  "zh-CN": "以魔兽贝希摩斯的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以魔獸貝希摩斯的形象設計出的陸行鳥用裝甲。"
+ },
+ "flyer-shaffron": {
+  "en": "Headgear designed specially for flying chocobos.",
+  "ja": "飛行用にデザインされたチョコボ航空帽",
+  "zh-CN": "以飞行员为概念设计出的陆行鸟用兜帽。",
+  "zh-TW": "以飛行員爲概念設計出的陸行鳥用兜帽。"
+ },
+ "black-mage-barding": {
+  "en": "An expertly crafted suit of aether-infused chocobo armor, designed to mimic the garb of the black mages of days past.",
+  "ja": "伝説の黒魔道士を模したチョコボ装甲",
+  "zh-CN": "以传说中的黑魔法师的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以傳說中的黑魔法師的形象設計出的陸行鳥用裝甲。"
+ },
+ "sovereign-barding": {
+  "en": "A suit of chocobo armor designed to resemble that of a chocobo king of legend.",
+  "ja": "伝説のチョコボ王を模したチョコボ装甲",
+  "zh-CN": "以传说中的陆行鸟王的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以傳說中的陸行鳥王的形象設計出的陸行鳥用裝甲。"
+ },
+ "starlight-barding": {
+  "en": "A suit of chocobo armor as worn by those legendary birds said to carry gifts from the stars.",
+  "ja": "星からの贈物を運ぶ星芒祭用チョコボ装甲",
+  "zh-CN": "星芒节用的陆行鸟装甲，用来运送来自繁星的礼物。",
+  "zh-TW": "星芒節用的陸行鳥裝甲，用來運送來自繁星的禮物。"
+ },
+ "tidal-barding": {
+  "en": "A suit of chocobo armor designed to resemble Leviathan, the Lord of the Whorl.",
+  "ja": "水神リヴァイアサンを模したチョコボ装甲",
+  "zh-CN": "以水神利维亚桑的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以水神利維亞桑的形象設計出的陸行鳥用裝甲。"
+ },
+ "barding-of-light": {
+  "en": "A suit of chocobo armor designed to resemble a legendary Warrior of the Light.",
+  "ja": "伝説の光の戦士を模したチョコボ装甲",
+  "zh-CN": "以传说中的光之战士的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以傳說中的光之戰士的形象設計出的陸行鳥用裝甲。"
+ },
+ "levin-barding": {
+  "en": "A suit of chocobo armor designed to resemble Ramuh, the Lord of Levin.",
+  "ja": "雷神ラムウを模したチョコボ装甲",
+  "zh-CN": "以雷神拉姆的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以雷神拉姆的形象設計出的陸行鳥用裝甲。"
+ },
+ "plumed-barding": {
+  "en": "A suit of chocobo armor adorned with brilliant plumage. This particular design is quite popular amongst chocobo enthusiasts.",
+  "ja": "愛チョコボ家の証とされる、羽根飾り付きチョコボ装甲",
+  "zh-CN": "装饰着羽毛的陆行鸟用装甲，是爱鸟之人的证明。",
+  "zh-TW": "裝飾着羽毛的陸行鳥用裝甲，是愛鳥之人的證明。"
+ },
+ "eerie-barding": {
+  "en": "A purely decorative chocobo costume created for All Saints' Wake.",
+  "ja": "守護天節の仮装用チョコボ装甲",
+  "zh-CN": "守护天节用的陆行鸟装甲，鸟儿也可以乔装打扮。",
+  "zh-TW": "守護天節用的陸行鳥裝甲，鳥兒也可以喬裝打扮。"
+ },
+ "ice-barding": {
+  "en": "A suit of chocobo armor designed to resemble the Lady of Frost, Shiva.",
+  "ja": "氷神シヴァを模したチョコボ装甲",
+  "zh-CN": "以冰神希瓦的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以冰神希瓦的形象設計出的陸行鳥用裝甲。"
+ },
+ "gambler-barding": {
+  "en": "Chocobo armor designed to replicate the lavish accoutrements of a legendary gambler.",
+  "ja": "伝説のギャンブラーの衣装を模したチョコボ装甲",
+  "zh-CN": "以传说中胜负师的服装为概念设计出的陆行鸟用装甲。",
+  "zh-TW": "以傳說中勝負師的服裝爲概念設計出的陸行鳥用裝甲。"
+ },
+ "paramour-barding": {
+  "en": "A gaudy suit of chocobo armor designed for use during Valentione's Day celebrations.",
+  "ja": "ヴァレンティオンデーの祝祭用のチョコボ装甲",
+  "zh-CN": "用于庆祝恋人节的陆行鸟装甲。",
+  "zh-TW": "用於慶祝戀人節的陸行鳥裝甲。"
+ },
+ "ishgardian-half-barding": {
+  "en": "A lightweight suit of Ishgardian chocobo armor.",
+  "ja": "イシュガルドが制式採用した略式チョコボ装甲",
+  "zh-CN": "伊修加德制式的陆行鸟用简略装甲。",
+  "zh-TW": "伊修加德制式的陸行鳥用簡略裝甲。"
+ },
+ "ishgardian-barding": {
+  "en": "A full-plate suit of Ishgardian chocobo armor.",
+  "ja": "イシュガルドが制式採用したチョコボ装甲",
+  "zh-CN": "伊修加德制式的陆行鸟用标准装甲。",
+  "zh-TW": "伊修加德制式的陸行鳥用標準裝甲。"
+ },
+ "expanse-barding": {
+  "en": "A suit of chocobo armor designed to resemble Bismarck, the Lord of the Mists.",
+  "ja": "雲神ビスマルクを模したチョコボ装甲",
+  "zh-CN": "以云神俾斯麦的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以雲神俾斯麥的形象設計出的陸行鳥用裝甲。"
+ },
+ "hive-barding": {
+  "en": "A suit of chocobo armor designed to resemble Ravana, the Lord of the Hive.",
+  "ja": "武神ラーヴァナを模したチョコボ装甲",
+  "zh-CN": "以武神罗波那的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以武神羅波那的形象設計出的陸行鳥用裝甲。"
+ },
+ "noble-barding": {
+  "en": "A lavishly decorated suit of armor crafted for the riding chocobos of Ishgardian nobles.",
+  "ja": "イシュガルド貴族風の豪奢なチョコボ装甲",
+  "zh-CN": "伊修加德贵族风格的豪华陆行鸟装甲。",
+  "zh-TW": "伊修加德貴族風格的豪華陸行鳥裝甲。"
+ },
+ "orthodox-barding": {
+  "en": "A beautifully ornamented suit of plate armor worn by chocobos in the service of church officiants.",
+  "ja": "イシュガルド正教徒風の優美なチョコボ装甲",
+  "zh-CN": "伊修加德正教教徒风格的陆行鸟装甲，十分优美高贵。",
+  "zh-TW": "伊修加德正教教徒風格的陸行鳥裝甲，十分優美高貴。"
+ },
+ "highland-barding": {
+  "en": "A suit of chocobo armor outfitted with multiple layers of leather and fur to protect its wearer from the elements.",
+  "ja": "防寒対策を施した寒冷地用チョコボ装甲",
+  "zh-CN": "防寒陆行鸟装甲，适合在寒冷地区装备。",
+  "zh-TW": "防寒陸行鳥裝甲，適合在寒冷地區裝備。"
+ },
+ "wild-rose-barding": {
+  "en": "A suit of chocobo armor designed to resemble that worn by a long-forgotten hero of legend.",
+  "ja": "古の英雄の装備を模したチョコボ装甲",
+  "zh-CN": "以传说中的英雄的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以傳說中的英雄的形象設計出的陸行鳥用裝甲。"
+ },
+ "round-table-barding": {
+  "en": "A suit of chocobo armor crafted using a design employed during the age of Thordan and his knights twelve.",
+  "ja": "騎神トールダンを模したチョコボ装甲",
+  "zh-CN": "以骑神托尔丹的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以騎神托爾丹的形象設計出的陸行鳥用裝甲。"
+ },
+ "sephirotic-barding": {
+  "en": "A suit of chocobo armor designed to resemble Sephirot, the Fiend.",
+  "ja": "魔神セフィロトを模したチョコボ装甲",
+  "zh-CN": "以魔神萨菲洛特的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以魔神薩菲洛特的形象設計出的陸行鳥用裝甲。"
+ },
+ "egg-hunter-barding": {
+  "en": "A suit of chocobo armor equipped with a basket for hunting eggs during Hatching–tide.",
+  "ja": "エッグハントの祝祭用のチョコボ装甲",
+  "zh-CN": "用于彩蛋狩猎活动的陆行鸟装甲。",
+  "zh-TW": "用於彩蛋狩獵活動的陸行鳥裝甲。"
+ },
+ "far-eastern-barding": {
+  "en": "An extravagant suit of celebratory chocobo armor.",
+  "ja": "東方の祝祭用チョコボ装甲",
+  "zh-CN": "东方风格的节日用陆行鸟装甲。",
+  "zh-TW": "東方風格的節日用陸行鳥裝甲。"
+ },
+ "race-barding": {
+  "en": "Lightweight armor designed for race chocobos.",
+  "ja": "チョコボレース用のチョコボ装甲",
+  "zh-CN": "用于陆行鸟竞赛的陆行鸟装甲。",
+  "zh-TW": "用於陸行鳥競賽的陸行鳥裝甲。"
+ },
+ "horde-barding": {
+  "en": "A suit of chocobo armor designed to resemble the great wyrm Nidhogg.",
+  "ja": "邪竜ニーズヘッグを模したチョコボ装甲",
+  "zh-CN": "以邪龙尼德霍格的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以邪龍尼德霍格的形象設計出的陸行鳥用裝甲。"
+ },
+ "butlery-barding": {
+  "en": "A suit of chocobo armor designed to fool the world into believing your chocobo is a man hired to answer your front door.",
+  "ja": "執事風の装飾を施したチョコボ装甲",
+  "zh-CN": "管家风范的陆行鸟用装甲。",
+  "zh-TW": "管家風範的陸行鳥用裝甲。"
+ },
+ "sophic-barding": {
+  "en": "A suit of chocobo armor designed to resemble Sophia, the Goddess.",
+  "ja": "女神ソフィアを模したチョコボ装甲",
+  "zh-CN": "以女神索菲娅的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以女神索菲婭的形象設計出的陸行鳥用裝甲。"
+ },
+ "abigail-barding": {
+  "en": "A suit of chocobo armor designed to fulfill your lifelong desire to see a chocobo dressed like a scullery maid.",
+  "ja": "メイドの衣装を模したチョコボ装甲",
+  "zh-CN": "以女仆的服装设计出的陆行鸟用装甲。",
+  "zh-TW": "以女僕的服裝設計出的陸行鳥用裝甲。"
+ },
+ "mandervillian-barding": {
+  "en": "Expertly tailored trumpery designed to resemble the uniforms worn by the maidservants employed at the Manderville manor.",
+  "ja": "マンダヴィル家の専属メイドの衣装を模したチョコボ装甲",
+  "zh-CN": "以曼德维尔家专属女仆的服装设计出的陆行鸟用装甲。",
+  "zh-TW": "以曼德維爾家專屬女僕的服裝設計出的陸行鳥用裝甲。"
+ },
+ "angelic-barding": {
+  "en": "A suit of armor designed to give your chocobo another pair of flightless wings.",
+  "ja": "天使を模したチョコボ装甲",
+  "zh-CN": "以天使的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以天使的形象設計出的陸行鳥用裝甲。"
+ },
+ "demonic-barding": {
+  "en": "A suit of armor designed to have you questioning your chocobo's motives.",
+  "ja": "悪魔を模したチョコボ装甲",
+  "zh-CN": "以恶魔的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以惡魔的形象設計出的陸行鳥用裝甲。"
+ },
+ "zurvanite-barding": {
+  "en": "A suit of chocobo armor designed to resemble Zurvan, the Demon.",
+  "ja": "鬼神ズルワーンを模したチョコボ装甲",
+  "zh-CN": "以鬼神祖尔宛的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以鬼神祖爾宛的形象設計出的陸行鳥用裝甲。"
+ },
+ "reveler-s-barding": {
+  "en": "A suit of chocobo armor designed to resemble Susano, the Lord of the Revel.",
+  "ja": "豪神スサノオを模したチョコボ装甲",
+  "zh-CN": "以豪神须佐之男的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以豪神須佐之男的形象設計出的陸行鳥用裝甲。"
+ },
+ "ala-mhigan-barding": {
+  "en": "A suit of traditional Ala Mhigan chocobo armor.",
+  "ja": "アラミゴに伝わる伝統的なチョコボ装甲",
+  "zh-CN": "阿拉米格传统样式的陆行鸟用装甲。",
+  "zh-TW": "阿拉米格傳統樣式的陸行鳥用裝甲。"
+ },
+ "blissful-barding": {
+  "en": "A suit of chocobo armor designed to resemble Lakshmi, Lady of Bliss.",
+  "ja": "美神ラクシュミを模したチョコボ装甲",
+  "zh-CN": "以美神吉祥天女的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以美神吉祥天女的形象設計出的陸行鳥用裝甲。"
+ },
+ "hingan-barding": {
+  "en": "Lightweight chocobo armor designed to resemble traditional Hingan garb.",
+  "ja": "ひんがしの国に伝わる衣装を採り入れたチョコボ装甲",
+  "zh-CN": "采用远东之国的传统服饰元素设计出的陆行鸟用装甲。",
+  "zh-TW": "採用遠東之國的傳統服飾元素設計出的陸行鳥用裝甲。"
+ },
+ "oriental-barding": {
+  "en": "Lightweight chocobo armor designed to resemble traditional Hingan garb.",
+  "ja": "ひんがしの国に伝わる衣装を採り入れたチョコボ装甲",
+  "zh-CN": "采用远东之国的传统服饰元素设计出的陆行鸟用装甲。",
+  "zh-TW": "採用遠東之國的傳統服飾元素設計出的陸行鳥用裝甲。"
+ },
+ "nezha-barding": {
+  "en": "Chocobo armor designed to resemble the protective garb worn by the great Nezha—hero of Doman legend.",
+  "ja": "伝説の英雄を模したチョコボ装甲",
+  "zh-CN": "以传说中的英雄形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以傳說中的英雄形象設計出的陸行鳥用裝甲。"
+ },
+ "shinryu-barding": {
+  "en": "A suit of chocobo armor designed to resemble Shinryu, fearsome dragon of legend.",
+  "ja": "神龍を模したチョコボ装甲",
+  "zh-CN": "以神龙的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以神龍的形象設計出的陸行鳥用裝甲。"
+ },
+ "ixion-barding": {
+  "en": "A suit of chocobo armor designed to resemble Ixion, a steed as eclectic as he is electric.",
+  "ja": "雷馬イクシオンを模したチョコボ装甲",
+  "zh-CN": "以雷马伊克西翁的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以雷馬伊克西翁的形象設計出的陸行鳥用裝甲。"
+ },
+ "red-mage-barding": {
+  "en": "Chocobo barding designed to pair well with traditional red mage garb.",
+  "ja": "赤魔道士を模したチョコボ装甲",
+  "zh-CN": "以赤魔法师的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以赤魔法師的形象設計出的陸行鳥用裝甲。"
+ },
+ "byakko-barding": {
+  "en": "A suit of chocobo armor designed to resemble the Far Eastern auspice Byakko.",
+  "ja": "白虎を模したチョコボ装甲",
+  "zh-CN": "以白虎的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以白虎的形象設計出的陸行鳥用裝甲。"
+ },
+ "chocobo-raincoat": {
+  "en": "A light tarp designed to protect a chocobo from the rain...and not much else.",
+  "ja": "雨天に対応したチョコボ装甲",
+  "zh-CN": "适用于雨天的陆行鸟用装甲。",
+  "zh-TW": "適用於雨天的陸行鳥用裝甲。"
+ },
+ "lunar-barding": {
+  "en": "A suit of chocobo armor designed to resemble Tsukuyomi, Lady of the Moon.",
+  "ja": "ツクヨミを模したチョコボ装甲",
+  "zh-CN": "以月读的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以月讀的形象設計出的陸行鳥用裝甲。"
+ },
+ "suzaku-barding": {
+  "en": "A suit of chocobo armor designed to resemble the Far Eastern auspice Suzaku.",
+  "ja": "朱雀を模したチョコボ装甲",
+  "zh-CN": "以朱雀的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以朱雀的形象設計出的陸行鳥用裝甲。"
+ },
+ "samurai-barding": {
+  "en": "Chocobo barding designed to pair well with traditional samurai garb.",
+  "ja": "侍を模したチョコボ装甲",
+  "zh-CN": "以武士的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以武士的形象設計出的陸行鳥用裝甲。"
+ },
+ "seiryu-barding": {
+  "en": "A suit of chocobo armor designed to resemble the Far Eastern auspice Seiryu.",
+  "ja": "青龍を模したチョコボ装甲",
+  "zh-CN": "以青龙的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以青龍的形象設計出的陸行鳥用裝甲。"
+ },
+ "yojimbo-barding": {
+  "en": "A suit of chocobo armor designed to resemble the...colorful...bodyguard known to some as “Jim.”",
+  "ja": "ヨウジンボウを模したチョコボ装甲",
+  "zh-CN": "以保镖的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以保鏢的形象設計出的陸行鳥用裝甲。"
+ },
+ "titania-barding": {
+  "en": "A suit of chocobo armor designed to resemble the pixie king Titania.",
+  "ja": "ティターニアを模したチョコボ装甲",
+  "zh-CN": "以缇坦妮雅的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以緹坦妮雅的形象設計出的陸行鳥用裝甲。"
+ },
+ "innocence-barding": {
+  "en": "A suit of chocobo armor designed to resemble the Lightwarden Innocence.",
+  "ja": "イノセンスを模したチョコボ装甲",
+  "zh-CN": "以无瑕灵君的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以無瑕靈君的形象設計出的陸行鳥用裝甲。"
+ },
+ "dancer-barding": {
+  "en": "Chocobo barding designed to pair well with traditional dancer's garb.",
+  "ja": "踊り子を模したチョコボ装甲",
+  "zh-CN": "以舞者的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以舞者的形象設計出的陸行鳥用裝甲。"
+ },
+ "deepshadow-barding": {
+  "en": "A full suit of pitch-black chocobo armor.",
+  "ja": "闇の装束を纏ったチョコボ装甲",
+  "zh-CN": "包裹着黑色装束的陆行鸟用装甲。",
+  "zh-TW": "包裹着黑色裝束的陸行鳥用裝甲。"
+ },
+ "hades-barding": {
+  "en": "A suit of chocobo armor designed to commemorate Hades.",
+  "ja": "冥王ハーデスを模したチョコボ装甲",
+  "zh-CN": "以冥王哈迪斯的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以冥王哈迪斯的形象設計出的陸行鳥用裝甲。"
+ },
+ "saintly-barding": {
+  "en": "A suit of chocobo armor designed to spread festive cheer.",
+  "ja": "星からの贈物を運ぶ星芒祭用チョコボ装甲",
+  "zh-CN": "星芒节用的陆行鸟装甲，用来运送来自繁星的礼物。",
+  "zh-TW": "星芒節用的陸行鳥裝甲，用來運送來自繁星的禮物。"
+ },
+ "ruby-barding": {
+  "en": "A suit of chocobo armor designed to resemble the Ruby Weapon.",
+  "ja": "ルビーウェポンを模したチョコボ装甲",
+  "zh-CN": "以红宝石神兵的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以紅寶石神兵的形象設計出的陸行鳥用裝甲。"
+ },
+ "machinist-barding": {
+  "en": "Chocobo barding designed to pair well with machinist's garb.",
+  "ja": "機工士を模したチョコボ装甲",
+  "zh-CN": "以机工士的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以機工士的形象設計出的陸行鳥用裝甲。"
+ },
+ "true-barding-of-light": {
+  "en": "A suit of chocobo armor designed to resemble an ancient hero not wholly unlike yourself.",
+  "ja": "ウォーリア・オブ・ライトを模したチョコボ装甲",
+  "zh-CN": "以光之战士的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以光之戰士的形象設計出的陸行鳥用裝甲。"
+ },
+ "emerald-barding": {
+  "en": "A suit of chocobo armor designed to resemble the Emerald Weapon.",
+  "ja": "エメラルドウェポンを模したチョコボ装甲",
+  "zh-CN": "以绿宝石神兵的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以綠寶石神兵的形象設計出的陸行鳥用裝甲。"
+ },
+ "queen-s-guard-barding": {
+  "en": "A suit of chocobo armor modeled after that worn by a legendary queen's personal guard—willingly and otherwise.",
+  "ja": "闘神セイブ・ザ・クイーンを模したチョコボ装甲",
+  "zh-CN": "以斗神天佑女王的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以鬥神天佑女王的形象設計出的陸行鳥用裝甲。"
+ },
+ "bozjan-barding": {
+  "en": "A suit of chocobo armor typical of those used by the Bozjan Resistance.",
+  "ja": "ボズヤ・レジスタンス風の勇壮なチョコボ装甲",
+  "zh-CN": "博兹雅义军风格的英勇的陆行鸟用装甲。",
+  "zh-TW": "博茲雅義軍風格的英勇的陸行鳥用裝甲。"
+ },
+ "diamond-barding": {
+  "en": "A suit of chocobo armor designed to resemble the Diamond Weapon.",
+  "ja": "ダイヤウェポンを模したチョコボ装甲",
+  "zh-CN": "以钻石神兵的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以鑽石神兵的形象設計出的陸行鳥用裝甲。"
+ },
+ "barding-of-eternal-darkness": {
+  "en": "A suit of chocobo armor that radiates Darkness.",
+  "ja": "強き闇を感じさせるチョコボ装甲",
+  "zh-CN": "给人以强大而永恒的黑暗印象的陆行鸟用装甲。",
+  "zh-TW": "給人以強大而永恆的黑暗印象的陸行鳥用裝甲。"
+ },
+ "barding-of-divine-light": {
+  "en": "A suit of chocobo armor that radiates Light.",
+  "ja": "眩き光を感じさせるチョコボ装甲",
+  "zh-CN": "给人以炫目而神圣的光辉印象的陆行鸟用装甲。",
+  "zh-TW": "給人以炫目而神聖的光輝印象的陸行鳥用裝甲。"
+ },
+ "postmoogle-barding": {
+  "en": "A festive suit of chocobo armor inspired by hardworking postmoogles everywhere.",
+  "ja": "大切な人に気持ちを届ける配達士を模した、祝祭用のチョコボ装甲",
+  "zh-CN": "以专为心怀爱意的人传递思念的邮差为原型制作的，用于庆祝恋人节的陆行鸟装甲。",
+  "zh-TW": "以專爲心懷愛意的人傳遞思念的郵差爲原型製作的，用於慶祝戀人節的陸行鳥裝甲。"
+ },
+ "thavnairian-barding": {
+  "en": "A suit of chocobo armor inspired by traditional Thavnairian dress.",
+  "ja": "サベネア島の伝統装束を模したチョコボ装甲",
+  "zh-CN": "以萨维奈传统装束形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以薩維奈傳統裝束形象設計出的陸行鳥用裝甲。"
+ },
+ "bluefeather-barding": {
+  "en": "A suit of chocobo armor designed to resemble a devastating blue bird.",
+  "ja": "青い鳥を模したチョコボ装甲",
+  "zh-CN": "以青鸟的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以青鳥的形象設計出的陸行鳥用裝甲。"
+ },
+ "wolf-barding": {
+  "en": "A suit of chocobo armor designed to obfuscate your steed's unfortunate affliction during the full moon.",
+  "ja": "狼を模したチョコボ装甲",
+  "zh-CN": "以饿狼的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以餓狼的形象設計出的陸行鳥用裝甲。"
+ },
+ "windswept-barding": {
+  "en": "A suit of chocobo armor designed to resemble Barbariccia, the archfiend of wind.",
+  "ja": "風の大妖異を模したチョコボ装甲",
+  "zh-CN": "以风之大妖异的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以風之大妖異的形象設計出的陸行鳥用裝甲。"
+ },
+ "isle-pioneer-s-barding": {
+  "en": "A suit of practical chocobo armor custom-made for island pioneers.",
+  "ja": "無人島開拓に特化したチョコボ装甲",
+  "zh-CN": "适用于开拓无人岛的陆行鸟装甲。",
+  "zh-TW": "適用於開拓無人島的陸行鳥裝甲。"
+ },
+ "flamecloaked-barding": {
+  "en": "A suit of chocobo armor designed to resemble Rubicante, the archfiend of fire.",
+  "ja": "火の大妖異を模したチョコボ装甲",
+  "zh-CN": "以火之大妖异的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以火之大妖異的形象設計出的陸行鳥用裝甲。"
+ },
+ "allagan-barding": {
+  "en": "A suit of chocobo armor that may or may not be an authentic and precious relic of an ancient civilization.",
+  "ja": "アラグ様式のチョコボ装甲",
+  "zh-CN": "亚拉戈式样的陆行鸟用装甲。",
+  "zh-TW": "亞拉戈式樣的陸行鳥用裝甲。"
+ },
+ "voidcast-barding": {
+  "en": "A suit of chocobo armor designed to resemble Golbez.",
+  "ja": "ゴルベーザを模したチョコボ装甲",
+  "zh-CN": "以高贝扎的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以高貝扎的形象設計出的陸行鳥用裝甲。"
+ },
+ "felicitous-barding": {
+  "en": "A suit of chocobo armor designed to resemble the felicitous furball.",
+  "ja": "ねこみみさんを模したチョコボ装甲",
+  "zh-CN": "以猫耳小员的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以貓耳小員的形象設計出的陸行鳥用裝甲。"
+ },
+ "abyssal-barding": {
+  "en": "A suit of chocobo armor designed to resemble Zeromus.",
+  "ja": "ゼロムスを模したチョコボ装甲",
+  "zh-CN": "以泽罗姆斯的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以澤羅姆斯的形象設計出的陸行鳥用裝甲。"
+ },
+ "wayfarer-s-barding": {
+  "en": "A suit of bespoke chocobo armor lovingly handcrafted by Tataru Taru.",
+  "ja": "旅人の旅装とお揃いのチョコボ装甲",
+  "zh-CN": "和旅行者套装成套的陆行鸟装甲。",
+  "zh-TW": "和旅行者套裝成套的陸行鳥裝甲。"
+ },
+ "turali-barding": {
+  "en": "A suit of chocobo armor designed for travel across a vast continent.",
+  "ja": "トラル大陸の風を感じさせるチョコボ装甲",
+  "zh-CN": "为感受图拉尔大陆的风而准备的陆行鸟用装甲。",
+  "zh-TW": "爲感受圖拉爾大陸的風而準備的陸行鳥用裝甲。"
+ },
+ "skyruin-barding": {
+  "en": "Rest assured that equipping your chocobo with this suit of armor will not *actually* transform it into a vicious tural vidraal.",
+  "ja": "ヴァリガルマンダを模したチョコボ装甲",
+  "zh-CN": "以艳翼蛇鸟的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以豔翼蛇鳥的形象設計出的陸行鳥用裝甲。"
+ },
+ "electrope-barding": {
+  "en": "A suit of chocobo armor created by means of otherworldly technology.",
+  "ja": "エレクトロープ技術を取り入れたチョコボ装甲",
+  "zh-CN": "运用雷转质技术制作的陆行鸟用装甲。",
+  "zh-TW": "運用雷轉質技術製作的陸行鳥用裝甲。"
+ },
+ "wild-ride-barding": {
+  "en": "A bright suit of chocobo armor for the adventurous and fashionable.",
+  "ja": "トラル大陸の装いを取り入れたチョコボ装甲",
+  "zh-CN": "采用图拉尔风格装饰的陆行鸟用装甲。",
+  "zh-TW": "採用圖拉爾風格裝飾的陸行鳥用裝甲。"
+ },
+ "eternal-barding": {
+  "en": "A suit of chocobo armor designed to resemble Queen Eternal.",
+  "ja": "エターナルクイーンを模したチョコボ装甲",
+  "zh-CN": "以永恒女王的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以永恆女王的形象設計出的陸行鳥用裝甲。"
+ },
+ "starlight-stalls-barding": {
+  "en": "A suit of chocobo armor designed and crafted by the Saint of Nymeia himself in order to help spread warmth and cheer at the Starlight Stalls.",
+  "ja": "星からの贈物を運ぶ星芒祭用チョコボ装甲",
+  "zh-CN": "星芒节用的陆行鸟装甲，用来运送来自繁星的礼物。",
+  "zh-TW": "星芒節用的陸行鳥裝甲，用來運送來自繁星的禮物。"
+ },
+ "queen-s-knight-barding": {
+  "en": "A suit of chocobo armor designed in the image of a dedicated servant to her sovereign.",
+  "ja": "とある女王に忠誠を誓う誇り高き騎士を模したチョコボ装甲",
+  "zh-CN": "以一位向女王宣示效忠的高洁骑士的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以一位向女王宣示效忠的高潔騎士的形象設計出的陸行鳥用裝甲。"
+ },
+ "barding-of-the-dead": {
+  "en": "A suit of chocobo armor designed to resemble Necron.",
+  "ja": "永遠の闇を模したチョコボ装甲",
+  "zh-CN": "以永远之暗的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以永遠之暗的形象設計出的陸行鳥用裝甲。"
+ },
+ "pilgrim-s-barding": {
+  "en": "A suit of chocobo armor inspired by designs from the Church of the First Light.",
+  "ja": "光耀教会の意匠を取り入れたチョコボ装甲",
+  "zh-CN": "采用了光耀教会风格设计的陆行鸟用装甲。",
+  "zh-TW": "採用了光耀教會風格設計的陸行鳥用裝甲。"
+ },
+ "runaway-barding": {
+  "en": "A suit of chocobo armor designed to resemble the Doomtrain.",
+  "ja": "グラシャラボラスを模したチョコボ装甲",
+  "zh-CN": "以格莱杨拉波尔的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以格萊楊拉波爾的形象設計出的陸行鳥用裝甲。"
+ },
+ "cosmic-barding": {
+  "en": "A suit of chocobo armor designed to resemble a cosmosuit.",
+  "ja": "惑星探索に特化したチョコボ装甲",
+  "zh-CN": "专为宇宙探索开发的陆行鸟用装甲。",
+  "zh-TW": "專爲宇宙探索開發的陸行鳥用裝甲。"
+ },
+ "barding-of-naught": {
+  "en": "A suit of chocobo armor designed to resemble Enuo.",
+  "ja": "エヌオーを模したチョコボ装甲",
+  "zh-CN": "以恩欧的形象设计出的陆行鸟用装甲。",
+  "zh-TW": "以恩歐的形象設計出的陸行鳥用裝甲。"
+ }
+}
