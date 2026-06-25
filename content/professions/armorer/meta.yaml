@@ -1,0 +1,7 @@
+id: armorer
+category: professions
+type: profession
+profession: "Armorer"
+discipline: hand
+tags: [profession, trade, crafter]
+status: stable

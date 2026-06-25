@@ -1,0 +1,7 @@
+id: miner
+category: professions
+type: profession
+profession: "Miner"
+discipline: land
+tags: [profession, trade, gatherer]
+status: stable

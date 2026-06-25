@@ -1,0 +1,7 @@
+id: leatherworker
+category: professions
+type: profession
+profession: "Leatherworker"
+discipline: hand
+tags: [profession, trade, crafter]
+status: stable

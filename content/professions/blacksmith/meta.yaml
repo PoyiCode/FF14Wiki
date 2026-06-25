@@ -1,0 +1,7 @@
+id: blacksmith
+category: professions
+type: profession
+profession: "Blacksmith"
+discipline: hand
+tags: [profession, trade, crafter]
+status: stable

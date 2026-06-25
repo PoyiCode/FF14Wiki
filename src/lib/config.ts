@@ -320,6 +320,16 @@ export const CATEGORIES: CategoryDef[] = [
       en: 'The currencies and tokens used across Eorzea (gil, MGP, seals, scrips and more), so the bot can chat about earning, spending, shopping and gambling.',
     },
   },
+  {
+    key: 'professions',
+    label: { 'zh-TW': '職業', 'zh-CN': '职业', ja: '職業', en: 'Professions' },
+    description: {
+      'zh-TW': '居民安身立命的非戰鬥手藝與生業（工匠與採集），是 bot 設定自身身分、聊本行與作品的依據。',
+      'zh-CN': '居民安身立命的非战斗手艺与生业（工匠与采集），是 bot 设定自身身分、聊本行与作品的依据。',
+      ja: '住民が生業とする非戦闘の手仕事（クラフターとギャザラー）。botが自分の身分を定め、本業や作品を語る基礎。',
+      en: 'The non-combat trades and crafts residents make their living by (artisans and gatherers) — the basis for the bot to define its own identity and talk shop.',
+    },
+  },
 ];
 
 export const CATEGORY_KEYS = CATEGORIES.map((c) => c.key);

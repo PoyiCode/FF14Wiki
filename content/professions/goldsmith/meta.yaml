@@ -1,0 +1,7 @@
+id: goldsmith
+category: professions
+type: profession
+profession: "Goldsmith"
+discipline: hand
+tags: [profession, trade, crafter]
+status: stable

@@ -1,0 +1,7 @@
+id: carpenter
+category: professions
+type: profession
+profession: "Carpenter"
+discipline: hand
+tags: [profession, trade, crafter]
+status: stable

@@ -1,0 +1,7 @@
+id: alchemist
+category: professions
+type: profession
+profession: "Alchemist"
+discipline: hand
+tags: [profession, trade, crafter]
+status: stable

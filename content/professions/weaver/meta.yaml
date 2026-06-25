@@ -1,0 +1,7 @@
+id: weaver
+category: professions
+type: profession
+profession: "Weaver"
+discipline: hand
+tags: [profession, trade, crafter]
+status: stable

@@ -1,0 +1,7 @@
+id: fisher
+category: professions
+type: profession
+profession: "Fisher"
+discipline: land
+tags: [profession, trade, gatherer]
+status: stable

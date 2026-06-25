@@ -1,0 +1,7 @@
+id: culinarian
+category: professions
+type: profession
+profession: "Culinarian"
+discipline: hand
+tags: [profession, trade, crafter]
+status: stable

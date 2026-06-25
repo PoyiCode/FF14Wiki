@@ -1,0 +1,7 @@
+id: botanist
+category: professions
+type: profession
+profession: "Botanist"
+discipline: land
+tags: [profession, trade, gatherer]
+status: stable
