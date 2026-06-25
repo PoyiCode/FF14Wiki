@@ -1,0 +1,9 @@
+id: stellar-cross-pein-hammer
+category: tools
+type: tool
+tool: "Stellar Cross-pein Hammer"
+profession: blacksmith
+slot: primary
+related: [blacksmith]
+tags: [tool, blacksmith, main-tool]
+status: stable

@@ -1,0 +1,9 @@
+id: cosmic-cross-pein-hammer-prototype-v0-4
+category: tools
+type: tool
+tool: "Cosmic Cross-pein Hammer Prototype v0.4"
+profession: blacksmith
+slot: primary
+related: [blacksmith]
+tags: [tool, blacksmith, main-tool]
+status: stable

@@ -1,0 +1,9 @@
+id: vrandtic-visionary-s-round-knife
+category: tools
+type: tool
+tool: "Vrandtic Visionary's Round Knife"
+profession: leatherworker
+slot: primary
+related: [leatherworker]
+tags: [tool, leatherworker, main-tool]
+status: stable

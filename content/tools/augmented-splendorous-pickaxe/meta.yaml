@@ -1,0 +1,9 @@
+id: augmented-splendorous-pickaxe
+category: tools
+type: tool
+tool: "Augmented Splendorous Pickaxe"
+profession: miner
+slot: primary
+related: [miner]
+tags: [tool, miner, main-tool]
+status: stable

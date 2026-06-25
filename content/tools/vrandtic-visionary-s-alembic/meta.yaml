@@ -1,0 +1,9 @@
+id: vrandtic-visionary-s-alembic
+category: tools
+type: tool
+tool: "Vrandtic Visionary's Alembic"
+profession: alchemist
+slot: primary
+related: [alchemist]
+tags: [tool, alchemist, main-tool]
+status: stable

@@ -1,0 +1,9 @@
+id: raising-hammer-of-stars
+category: tools
+type: tool
+tool: "Raising Hammer of Stars"
+profession: armorer
+slot: primary
+related: [armorer]
+tags: [tool, armorer, main-tool]
+status: stable

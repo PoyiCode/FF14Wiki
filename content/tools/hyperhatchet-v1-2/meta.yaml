@@ -1,0 +1,9 @@
+id: hyperhatchet-v1-2
+category: tools
+type: tool
+tool: "Hyperhatchet v1.2"
+profession: botanist
+slot: primary
+related: [botanist]
+tags: [tool, botanist, main-tool]
+status: stable

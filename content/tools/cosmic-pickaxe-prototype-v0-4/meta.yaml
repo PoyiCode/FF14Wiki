@@ -1,0 +1,9 @@
+id: cosmic-pickaxe-prototype-v0-4
+category: tools
+type: tool
+tool: "Cosmic Pickaxe Prototype v0.4"
+profession: miner
+slot: primary
+related: [miner]
+tags: [tool, miner, main-tool]
+status: stable

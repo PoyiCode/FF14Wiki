@@ -1,0 +1,9 @@
+id: stellar-raising-hammer-v1-2
+category: tools
+type: tool
+tool: "Stellar Raising Hammer v1.2"
+profession: armorer
+slot: primary
+related: [armorer]
+tags: [tool, armorer, main-tool]
+status: stable

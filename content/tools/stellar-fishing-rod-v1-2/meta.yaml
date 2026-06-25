@@ -1,0 +1,9 @@
+id: stellar-fishing-rod-v1-2
+category: tools
+type: tool
+tool: "Stellar Fishing Rod v1.2"
+profession: fisher
+slot: primary
+related: [fisher]
+tags: [tool, fisher, main-tool]
+status: stable

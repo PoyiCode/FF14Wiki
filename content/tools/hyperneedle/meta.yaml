@@ -1,0 +1,9 @@
+id: hyperneedle
+category: tools
+type: tool
+tool: "Hyperneedle"
+profession: weaver
+slot: primary
+related: [weaver]
+tags: [tool, weaver, main-tool]
+status: stable

@@ -1,0 +1,9 @@
+id: augmented-dragonsung-alembic
+category: tools
+type: tool
+tool: "Augmented Dragonsung Alembic"
+profession: alchemist
+slot: primary
+related: [alchemist]
+tags: [tool, alchemist, main-tool]
+status: stable

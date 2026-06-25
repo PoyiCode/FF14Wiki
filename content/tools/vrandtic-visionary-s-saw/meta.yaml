@@ -1,0 +1,9 @@
+id: vrandtic-visionary-s-saw
+category: tools
+type: tool
+tool: "Vrandtic Visionary's Saw"
+profession: carpenter
+slot: primary
+related: [carpenter]
+tags: [tool, carpenter, main-tool]
+status: stable

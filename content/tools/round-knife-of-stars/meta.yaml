@@ -1,0 +1,9 @@
+id: round-knife-of-stars
+category: tools
+type: tool
+tool: "Round Knife of Stars"
+profession: leatherworker
+slot: primary
+related: [leatherworker]
+tags: [tool, leatherworker, main-tool]
+status: stable

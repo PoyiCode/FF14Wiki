@@ -1,0 +1,9 @@
+id: skysteel-hatchet-1
+category: tools
+type: tool
+tool: "Skysteel Hatchet +1"
+profession: botanist
+slot: primary
+related: [botanist]
+tags: [tool, botanist, main-tool]
+status: stable

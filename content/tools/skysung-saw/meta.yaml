@@ -1,0 +1,9 @@
+id: skysung-saw
+category: tools
+type: tool
+tool: "Skysung Saw"
+profession: carpenter
+slot: primary
+related: [carpenter]
+tags: [tool, carpenter, main-tool]
+status: stable

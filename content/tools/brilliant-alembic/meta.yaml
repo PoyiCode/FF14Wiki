@@ -1,0 +1,9 @@
+id: brilliant-alembic
+category: tools
+type: tool
+tool: "Brilliant Alembic"
+profession: alchemist
+slot: primary
+related: [alchemist]
+tags: [tool, alchemist, main-tool]
+status: stable

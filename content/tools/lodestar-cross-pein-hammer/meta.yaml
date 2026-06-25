@@ -1,0 +1,9 @@
+id: lodestar-cross-pein-hammer
+category: tools
+type: tool
+tool: "Lodestar Cross-pein Hammer"
+profession: blacksmith
+slot: primary
+related: [blacksmith]
+tags: [tool, blacksmith, main-tool]
+status: stable

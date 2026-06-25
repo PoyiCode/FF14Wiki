@@ -1,0 +1,9 @@
+id: vrandtic-visionary-s-raising-hammer
+category: tools
+type: tool
+tool: "Vrandtic Visionary's Raising Hammer"
+profession: armorer
+slot: primary
+related: [armorer]
+tags: [tool, armorer, main-tool]
+status: stable

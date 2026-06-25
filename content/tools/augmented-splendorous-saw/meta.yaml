@@ -1,0 +1,9 @@
+id: augmented-splendorous-saw
+category: tools
+type: tool
+tool: "Augmented Splendorous Saw"
+profession: carpenter
+slot: primary
+related: [carpenter]
+tags: [tool, carpenter, main-tool]
+status: stable

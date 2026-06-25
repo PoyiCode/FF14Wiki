@@ -1,0 +1,9 @@
+id: splendorous-frypan
+category: tools
+type: tool
+tool: "Splendorous Frypan"
+profession: culinarian
+slot: primary
+related: [culinarian]
+tags: [tool, culinarian, main-tool]
+status: stable

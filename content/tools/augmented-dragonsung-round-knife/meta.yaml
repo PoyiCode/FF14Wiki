@@ -1,0 +1,9 @@
+id: augmented-dragonsung-round-knife
+category: tools
+type: tool
+tool: "Augmented Dragonsung Round Knife"
+profession: leatherworker
+slot: primary
+related: [leatherworker]
+tags: [tool, leatherworker, main-tool]
+status: stable

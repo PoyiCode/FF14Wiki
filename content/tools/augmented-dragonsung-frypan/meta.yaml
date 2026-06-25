@@ -1,0 +1,9 @@
+id: augmented-dragonsung-frypan
+category: tools
+type: tool
+tool: "Augmented Dragonsung Frypan"
+profession: culinarian
+slot: primary
+related: [culinarian]
+tags: [tool, culinarian, main-tool]
+status: stable

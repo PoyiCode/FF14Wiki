@@ -1,0 +1,9 @@
+id: skysung-lapidary-hammer
+category: tools
+type: tool
+tool: "Skysung Lapidary Hammer"
+profession: goldsmith
+slot: primary
+related: [goldsmith]
+tags: [tool, goldsmith, main-tool]
+status: stable

@@ -1,0 +1,9 @@
+id: crystalline-frypan
+category: tools
+type: tool
+tool: "Crystalline Frypan"
+profession: culinarian
+slot: primary
+related: [culinarian]
+tags: [tool, culinarian, main-tool]
+status: stable

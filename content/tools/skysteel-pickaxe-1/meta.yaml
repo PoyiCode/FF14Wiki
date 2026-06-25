@@ -1,0 +1,9 @@
+id: skysteel-pickaxe-1
+category: tools
+type: tool
+tool: "Skysteel Pickaxe +1"
+profession: miner
+slot: primary
+related: [miner]
+tags: [tool, miner, main-tool]
+status: stable

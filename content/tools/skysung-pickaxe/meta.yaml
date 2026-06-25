@@ -1,0 +1,9 @@
+id: skysung-pickaxe
+category: tools
+type: tool
+tool: "Skysung Pickaxe"
+profession: miner
+slot: primary
+related: [miner]
+tags: [tool, miner, main-tool]
+status: stable

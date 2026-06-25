@@ -1,0 +1,9 @@
+id: needle-of-stars
+category: tools
+type: tool
+tool: "Needle of Stars"
+profession: weaver
+slot: primary
+related: [weaver]
+tags: [tool, weaver, main-tool]
+status: stable

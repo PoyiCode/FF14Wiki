@@ -340,6 +340,16 @@ export const CATEGORIES: CategoryDef[] = [
       en: 'The ingredients residents cook and shop with (vegetables, fruit, meat, dairy, seasonings and more), so the bot can chat about shopping, cooking and flavours.',
     },
   },
+  {
+    key: 'tools',
+    label: { 'zh-TW': '工具', 'zh-CN': '工具', ja: 'ツール', en: 'Tools' },
+    description: {
+      'zh-TW': '工匠與採集者本行所用的器具（鋸、錘、釣竿、鎬等），連結到職業，讓 bot 能聊自己吃飯的傢伙。',
+      'zh-CN': '工匠与采集者本行所用的器具（锯、锤、钓竿、镐等），连结到职业，让 bot 能聊自己吃饭的家伙。',
+      ja: 'クラフターやギャザラーが生業に使う道具（ノコギリ・ハンマー・釣り竿・ツルハシなど）。職業と結びつき、botが自分の商売道具を語れるように。',
+      en: 'The implements artisans and gatherers use in their trade (saws, hammers, fishing rods, pickaxes and the like), linked to professions so the bot can talk about its tools of the trade.',
+    },
+  },
 ];
 
 export const CATEGORY_KEYS = CATEGORIES.map((c) => c.key);

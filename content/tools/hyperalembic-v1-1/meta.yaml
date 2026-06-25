@@ -1,0 +1,9 @@
+id: hyperalembic-v1-1
+category: tools
+type: tool
+tool: "Hyperalembic v1.1"
+profession: alchemist
+slot: primary
+related: [alchemist]
+tags: [tool, alchemist, main-tool]
+status: stable

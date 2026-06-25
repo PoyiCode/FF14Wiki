@@ -1,0 +1,9 @@
+id: skysteel-cross-pein-hammer-1
+category: tools
+type: tool
+tool: "Skysteel Cross-pein Hammer +1"
+profession: blacksmith
+slot: primary
+related: [blacksmith]
+tags: [tool, blacksmith, main-tool]
+status: stable

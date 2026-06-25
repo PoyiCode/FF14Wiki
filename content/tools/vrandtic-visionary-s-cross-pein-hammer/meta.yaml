@@ -1,0 +1,9 @@
+id: vrandtic-visionary-s-cross-pein-hammer
+category: tools
+type: tool
+tool: "Vrandtic Visionary's Cross-pein Hammer"
+profession: blacksmith
+slot: primary
+related: [blacksmith]
+tags: [tool, blacksmith, main-tool]
+status: stable

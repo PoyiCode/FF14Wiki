@@ -1,0 +1,9 @@
+id: skybuilders-saw
+category: tools
+type: tool
+tool: "Skybuilders' Saw"
+profession: carpenter
+slot: primary
+related: [carpenter]
+tags: [tool, carpenter, main-tool]
+status: stable

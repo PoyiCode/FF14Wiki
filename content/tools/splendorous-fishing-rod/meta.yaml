@@ -1,0 +1,9 @@
+id: splendorous-fishing-rod
+category: tools
+type: tool
+tool: "Splendorous Fishing Rod"
+profession: fisher
+slot: primary
+related: [fisher]
+tags: [tool, fisher, main-tool]
+status: stable

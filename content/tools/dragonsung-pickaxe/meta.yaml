@@ -1,0 +1,9 @@
+id: dragonsung-pickaxe
+category: tools
+type: tool
+tool: "Dragonsung Pickaxe"
+profession: miner
+slot: primary
+related: [miner]
+tags: [tool, miner, main-tool]
+status: stable

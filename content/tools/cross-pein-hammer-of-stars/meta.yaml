@@ -1,0 +1,9 @@
+id: cross-pein-hammer-of-stars
+category: tools
+type: tool
+tool: "Cross-pein Hammer of Stars"
+profession: blacksmith
+slot: primary
+related: [blacksmith]
+tags: [tool, blacksmith, main-tool]
+status: stable

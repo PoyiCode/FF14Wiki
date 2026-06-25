@@ -1,0 +1,9 @@
+id: cosmic-needle-v0-8
+category: tools
+type: tool
+tool: "Cosmic Needle v0.8"
+profession: weaver
+slot: primary
+related: [weaver]
+tags: [tool, weaver, main-tool]
+status: stable

@@ -1,0 +1,9 @@
+id: lodestar-mallet
+category: tools
+type: tool
+tool: "Lodestar Mallet"
+profession: goldsmith
+slot: primary
+related: [goldsmith]
+tags: [tool, goldsmith, main-tool]
+status: stable

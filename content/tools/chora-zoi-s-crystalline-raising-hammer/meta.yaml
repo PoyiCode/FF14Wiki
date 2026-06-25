@@ -1,0 +1,9 @@
+id: chora-zoi-s-crystalline-raising-hammer
+category: tools
+type: tool
+tool: "Chora-Zoi's Crystalline Raising Hammer"
+profession: armorer
+slot: primary
+related: [armorer]
+tags: [tool, armorer, main-tool]
+status: stable

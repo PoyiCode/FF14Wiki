@@ -1,0 +1,9 @@
+id: skysteel-round-knife-1
+category: tools
+type: tool
+tool: "Skysteel Round Knife +1"
+profession: leatherworker
+slot: primary
+related: [leatherworker]
+tags: [tool, leatherworker, main-tool]
+status: stable

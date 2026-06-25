@@ -1,0 +1,9 @@
+id: lodestar-fishing-rod
+category: tools
+type: tool
+tool: "Lodestar Fishing Rod"
+profession: fisher
+slot: primary
+related: [fisher]
+tags: [tool, fisher, main-tool]
+status: stable

@@ -14,6 +14,7 @@ const CATEGORIES = [
   'sightseeing', 'food', 'furniture', 'garden', 'hairstyles', 'fish',
   'facewear', 'fishing-spots', 'instruments', 'barding', 'online-status',
   'gardening', 'housing-fixtures', 'currency', 'professions', 'ingredients',
+  'tools',
 ];
 const CONTENT_DIR = path.join(process.cwd(), 'content');
 

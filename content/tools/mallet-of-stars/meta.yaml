@@ -1,0 +1,9 @@
+id: mallet-of-stars
+category: tools
+type: tool
+tool: "Mallet of Stars"
+profession: goldsmith
+slot: primary
+related: [goldsmith]
+tags: [tool, goldsmith, main-tool]
+status: stable

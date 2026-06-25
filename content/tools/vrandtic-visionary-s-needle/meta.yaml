@@ -1,0 +1,9 @@
+id: vrandtic-visionary-s-needle
+category: tools
+type: tool
+tool: "Vrandtic Visionary's Needle"
+profession: weaver
+slot: primary
+related: [weaver]
+tags: [tool, weaver, main-tool]
+status: stable

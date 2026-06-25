@@ -1,0 +1,9 @@
+id: skysteel-frypan-1
+category: tools
+type: tool
+tool: "Skysteel Frypan +1"
+profession: culinarian
+slot: primary
+related: [culinarian]
+tags: [tool, culinarian, main-tool]
+status: stable

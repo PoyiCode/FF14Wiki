@@ -1,0 +1,9 @@
+id: stellar-mallet
+category: tools
+type: tool
+tool: "Stellar Mallet"
+profession: goldsmith
+slot: primary
+related: [goldsmith]
+tags: [tool, goldsmith, main-tool]
+status: stable

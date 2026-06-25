@@ -1,0 +1,9 @@
+id: skysteel-alembic
+category: tools
+type: tool
+tool: "Skysteel Alembic"
+profession: alchemist
+slot: primary
+related: [alchemist]
+tags: [tool, alchemist, main-tool]
+status: stable

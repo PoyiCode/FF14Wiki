@@ -1,0 +1,9 @@
+id: stellar-needle-v1-1
+category: tools
+type: tool
+tool: "Stellar Needle v1.1"
+profession: weaver
+slot: primary
+related: [weaver]
+tags: [tool, weaver, main-tool]
+status: stable

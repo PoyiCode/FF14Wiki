@@ -1,0 +1,9 @@
+id: splendorous-knife
+category: tools
+type: tool
+tool: "Splendorous Knife"
+profession: leatherworker
+slot: primary
+related: [leatherworker]
+tags: [tool, leatherworker, main-tool]
+status: stable

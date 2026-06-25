@@ -1,0 +1,9 @@
+id: chora-zoi-s-crystalline-mallet
+category: tools
+type: tool
+tool: "Chora-Zoi's Crystalline Mallet"
+profession: goldsmith
+slot: primary
+related: [goldsmith]
+tags: [tool, goldsmith, main-tool]
+status: stable

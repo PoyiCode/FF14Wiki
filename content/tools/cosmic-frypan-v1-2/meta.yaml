@@ -1,0 +1,9 @@
+id: cosmic-frypan-v1-2
+category: tools
+type: tool
+tool: "Cosmic Frypan v1.2"
+profession: culinarian
+slot: primary
+related: [culinarian]
+tags: [tool, culinarian, main-tool]
+status: stable

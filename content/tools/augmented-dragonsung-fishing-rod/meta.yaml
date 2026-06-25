@@ -1,0 +1,9 @@
+id: augmented-dragonsung-fishing-rod
+category: tools
+type: tool
+tool: "Augmented Dragonsung Fishing Rod"
+profession: fisher
+slot: primary
+related: [fisher]
+tags: [tool, fisher, main-tool]
+status: stable

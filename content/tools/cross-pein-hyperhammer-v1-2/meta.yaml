@@ -1,0 +1,9 @@
+id: cross-pein-hyperhammer-v1-2
+category: tools
+type: tool
+tool: "Cross-pein Hyperhammer v1.2"
+profession: blacksmith
+slot: primary
+related: [blacksmith]
+tags: [tool, blacksmith, main-tool]
+status: stable

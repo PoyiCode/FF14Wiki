@@ -1,0 +1,9 @@
+id: fishing-rod-of-stars
+category: tools
+type: tool
+tool: "Fishing Rod of Stars"
+profession: fisher
+slot: primary
+related: [fisher]
+tags: [tool, fisher, main-tool]
+status: stable

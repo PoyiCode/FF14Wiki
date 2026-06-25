@@ -1,0 +1,9 @@
+id: cosmic-alembic-prototype-v0-3
+category: tools
+type: tool
+tool: "Cosmic Alembic Prototype v0.3"
+profession: alchemist
+slot: primary
+related: [alchemist]
+tags: [tool, alchemist, main-tool]
+status: stable

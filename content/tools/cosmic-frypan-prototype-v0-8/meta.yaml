@@ -1,0 +1,9 @@
+id: cosmic-frypan-prototype-v0-8
+category: tools
+type: tool
+tool: "Cosmic Frypan Prototype v0.8"
+profession: culinarian
+slot: primary
+related: [culinarian]
+tags: [tool, culinarian, main-tool]
+status: stable

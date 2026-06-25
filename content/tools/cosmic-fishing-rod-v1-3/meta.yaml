@@ -1,0 +1,9 @@
+id: cosmic-fishing-rod-v1-3
+category: tools
+type: tool
+tool: "Cosmic Fishing Rod v1.3"
+profession: fisher
+slot: primary
+related: [fisher]
+tags: [tool, fisher, main-tool]
+status: stable

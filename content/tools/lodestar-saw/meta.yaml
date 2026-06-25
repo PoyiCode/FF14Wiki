@@ -1,0 +1,9 @@
+id: lodestar-saw
+category: tools
+type: tool
+tool: "Lodestar Saw"
+profession: carpenter
+slot: primary
+related: [carpenter]
+tags: [tool, carpenter, main-tool]
+status: stable

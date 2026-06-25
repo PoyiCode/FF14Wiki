@@ -1,0 +1,9 @@
+id: dragonsung-hatchet
+category: tools
+type: tool
+tool: "Dragonsung Hatchet"
+profession: botanist
+slot: primary
+related: [botanist]
+tags: [tool, botanist, main-tool]
+status: stable

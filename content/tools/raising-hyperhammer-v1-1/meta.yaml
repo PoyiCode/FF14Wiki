@@ -1,0 +1,9 @@
+id: raising-hyperhammer-v1-1
+category: tools
+type: tool
+tool: "Raising Hyperhammer v1.1"
+profession: armorer
+slot: primary
+related: [armorer]
+tags: [tool, armorer, main-tool]
+status: stable

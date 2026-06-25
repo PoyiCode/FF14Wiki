@@ -1,0 +1,9 @@
+id: chora-zoi-s-crystalline-hatchet
+category: tools
+type: tool
+tool: "Chora-Zoi's Crystalline Hatchet"
+profession: botanist
+slot: primary
+related: [botanist]
+tags: [tool, botanist, main-tool]
+status: stable

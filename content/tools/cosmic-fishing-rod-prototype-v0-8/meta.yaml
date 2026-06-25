@@ -1,0 +1,9 @@
+id: cosmic-fishing-rod-prototype-v0-8
+category: tools
+type: tool
+tool: "Cosmic Fishing Rod Prototype v0.8"
+profession: fisher
+slot: primary
+related: [fisher]
+tags: [tool, fisher, main-tool]
+status: stable

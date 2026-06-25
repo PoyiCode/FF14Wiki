@@ -1,0 +1,9 @@
+id: skysung-frypan
+category: tools
+type: tool
+tool: "Skysung Frypan"
+profession: culinarian
+slot: primary
+related: [culinarian]
+tags: [tool, culinarian, main-tool]
+status: stable

@@ -1,0 +1,9 @@
+id: crystalline-pickaxe
+category: tools
+type: tool
+tool: "Crystalline Pickaxe"
+profession: miner
+slot: primary
+related: [miner]
+tags: [tool, miner, main-tool]
+status: stable

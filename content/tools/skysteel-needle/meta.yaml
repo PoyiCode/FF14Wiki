@@ -1,0 +1,9 @@
+id: skysteel-needle
+category: tools
+type: tool
+tool: "Skysteel Needle"
+profession: weaver
+slot: primary
+related: [weaver]
+tags: [tool, weaver, main-tool]
+status: stable

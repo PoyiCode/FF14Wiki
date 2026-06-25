@@ -1,0 +1,9 @@
+id: crystalline-hatchet
+category: tools
+type: tool
+tool: "Crystalline Hatchet"
+profession: botanist
+slot: primary
+related: [botanist]
+tags: [tool, botanist, main-tool]
+status: stable

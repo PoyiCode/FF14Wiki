@@ -1,0 +1,9 @@
+id: vrandtic-visionary-s-pickaxe
+category: tools
+type: tool
+tool: "Vrandtic Visionary's Pickaxe"
+profession: miner
+slot: primary
+related: [miner]
+tags: [tool, miner, main-tool]
+status: stable

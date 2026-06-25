@@ -1,0 +1,9 @@
+id: cosmic-saw-prototype-v0-6
+category: tools
+type: tool
+tool: "Cosmic Saw Prototype v0.6"
+profession: carpenter
+slot: primary
+related: [carpenter]
+tags: [tool, carpenter, main-tool]
+status: stable

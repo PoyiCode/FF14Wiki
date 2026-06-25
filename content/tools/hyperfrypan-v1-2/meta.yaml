@@ -1,0 +1,9 @@
+id: hyperfrypan-v1-2
+category: tools
+type: tool
+tool: "Hyperfrypan v1.2"
+profession: culinarian
+slot: primary
+related: [culinarian]
+tags: [tool, culinarian, main-tool]
+status: stable

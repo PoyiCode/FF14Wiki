@@ -1,0 +1,9 @@
+id: alembic-of-stars
+category: tools
+type: tool
+tool: "Alembic of Stars"
+profession: alchemist
+slot: primary
+related: [alchemist]
+tags: [tool, alchemist, main-tool]
+status: stable

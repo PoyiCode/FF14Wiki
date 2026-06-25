@@ -1,0 +1,9 @@
+id: chora-zoi-s-crystalline-frypan
+category: tools
+type: tool
+tool: "Chora-Zoi's Crystalline Frypan"
+profession: culinarian
+slot: primary
+related: [culinarian]
+tags: [tool, culinarian, main-tool]
+status: stable

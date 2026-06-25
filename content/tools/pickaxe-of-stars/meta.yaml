@@ -1,0 +1,9 @@
+id: pickaxe-of-stars
+category: tools
+type: tool
+tool: "Pickaxe of Stars"
+profession: miner
+slot: primary
+related: [miner]
+tags: [tool, miner, main-tool]
+status: stable

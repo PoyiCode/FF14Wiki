@@ -1,0 +1,9 @@
+id: lodestar-pickaxe
+category: tools
+type: tool
+tool: "Lodestar Pickaxe"
+profession: miner
+slot: primary
+related: [miner]
+tags: [tool, miner, main-tool]
+status: stable

@@ -1,0 +1,9 @@
+id: cosmic-hatchet-prototype-v0-2
+category: tools
+type: tool
+tool: "Cosmic Hatchet Prototype v0.2"
+profession: botanist
+slot: primary
+related: [botanist]
+tags: [tool, botanist, main-tool]
+status: stable

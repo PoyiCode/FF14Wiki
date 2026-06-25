@@ -1,0 +1,9 @@
+id: round-hyperknife-v1-1
+category: tools
+type: tool
+tool: "Round Hyperknife v1.1"
+profession: leatherworker
+slot: primary
+related: [leatherworker]
+tags: [tool, leatherworker, main-tool]
+status: stable

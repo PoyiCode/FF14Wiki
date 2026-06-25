@@ -1,0 +1,9 @@
+id: dragonsung-lapidary-hammer
+category: tools
+type: tool
+tool: "Dragonsung Lapidary Hammer"
+profession: goldsmith
+slot: primary
+related: [goldsmith]
+tags: [tool, goldsmith, main-tool]
+status: stable

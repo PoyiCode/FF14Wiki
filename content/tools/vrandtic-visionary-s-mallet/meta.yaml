@@ -1,0 +1,9 @@
+id: vrandtic-visionary-s-mallet
+category: tools
+type: tool
+tool: "Vrandtic Visionary's Mallet"
+profession: goldsmith
+slot: primary
+related: [goldsmith]
+tags: [tool, goldsmith, main-tool]
+status: stable

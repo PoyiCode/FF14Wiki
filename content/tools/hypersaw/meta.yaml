@@ -1,0 +1,9 @@
+id: hypersaw
+category: tools
+type: tool
+tool: "Hypersaw"
+profession: carpenter
+slot: primary
+related: [carpenter]
+tags: [tool, carpenter, main-tool]
+status: stable

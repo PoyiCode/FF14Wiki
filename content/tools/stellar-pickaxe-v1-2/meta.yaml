@@ -1,0 +1,9 @@
+id: stellar-pickaxe-v1-2
+category: tools
+type: tool
+tool: "Stellar Pickaxe v1.2"
+profession: miner
+slot: primary
+related: [miner]
+tags: [tool, miner, main-tool]
+status: stable

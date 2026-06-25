@@ -1,0 +1,9 @@
+id: vrandtic-visionary-s-fishing-rod
+category: tools
+type: tool
+tool: "Vrandtic Visionary's Fishing Rod"
+profession: fisher
+slot: primary
+related: [fisher]
+tags: [tool, fisher, main-tool]
+status: stable

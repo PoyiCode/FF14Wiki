@@ -1,0 +1,9 @@
+id: brilliant-cross-pein-hammer
+category: tools
+type: tool
+tool: "Brilliant Cross-pein Hammer"
+profession: blacksmith
+slot: primary
+related: [blacksmith]
+tags: [tool, blacksmith, main-tool]
+status: stable

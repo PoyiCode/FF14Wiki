@@ -1,0 +1,9 @@
+id: skysung-hatchet
+category: tools
+type: tool
+tool: "Skysung Hatchet"
+profession: botanist
+slot: primary
+related: [botanist]
+tags: [tool, botanist, main-tool]
+status: stable

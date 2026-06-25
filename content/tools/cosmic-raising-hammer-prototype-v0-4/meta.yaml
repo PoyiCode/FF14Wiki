@@ -1,0 +1,9 @@
+id: cosmic-raising-hammer-prototype-v0-4
+category: tools
+type: tool
+tool: "Cosmic Raising Hammer Prototype v0.4"
+profession: armorer
+slot: primary
+related: [armorer]
+tags: [tool, armorer, main-tool]
+status: stable

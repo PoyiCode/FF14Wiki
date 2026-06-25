@@ -1,0 +1,9 @@
+id: augmented-dragonsung-needle
+category: tools
+type: tool
+tool: "Augmented Dragonsung Needle"
+profession: weaver
+slot: primary
+related: [weaver]
+tags: [tool, weaver, main-tool]
+status: stable

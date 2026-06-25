@@ -1,0 +1,9 @@
+id: stellar-round-knife-v1-2
+category: tools
+type: tool
+tool: "Stellar Round Knife v1.2"
+profession: leatherworker
+slot: primary
+related: [leatherworker]
+tags: [tool, leatherworker, main-tool]
+status: stable

@@ -1,0 +1,9 @@
+id: vrandtic-visionary-s-frypan
+category: tools
+type: tool
+tool: "Vrandtic Visionary's Frypan"
+profession: culinarian
+slot: primary
+related: [culinarian]
+tags: [tool, culinarian, main-tool]
+status: stable

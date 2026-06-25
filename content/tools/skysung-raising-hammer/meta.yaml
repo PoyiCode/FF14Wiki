@@ -1,0 +1,9 @@
+id: skysung-raising-hammer
+category: tools
+type: tool
+tool: "Skysung Raising Hammer"
+profession: armorer
+slot: primary
+related: [armorer]
+tags: [tool, armorer, main-tool]
+status: stable

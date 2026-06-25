@@ -1,0 +1,9 @@
+id: cosmic-cross-pein-hammer-v1-3
+category: tools
+type: tool
+tool: "Cosmic Cross-pein Hammer v1.3"
+profession: blacksmith
+slot: primary
+related: [blacksmith]
+tags: [tool, blacksmith, main-tool]
+status: stable

@@ -1,0 +1,9 @@
+id: ironworks-fishing-rod
+category: tools
+type: tool
+tool: "Ironworks Fishing Rod"
+profession: fisher
+slot: primary
+related: [fisher]
+tags: [tool, fisher, main-tool]
+status: stable

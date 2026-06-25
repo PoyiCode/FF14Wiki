@@ -1,0 +1,9 @@
+id: fishing-hyperrod-v1-1
+category: tools
+type: tool
+tool: "Fishing Hyperrod v1.1"
+profession: fisher
+slot: primary
+related: [fisher]
+tags: [tool, fisher, main-tool]
+status: stable

@@ -1,0 +1,9 @@
+id: cosmic-hatchet-v1-3
+category: tools
+type: tool
+tool: "Cosmic Hatchet v1.3"
+profession: botanist
+slot: primary
+related: [botanist]
+tags: [tool, botanist, main-tool]
+status: stable

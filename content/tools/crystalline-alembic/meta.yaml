@@ -1,0 +1,9 @@
+id: crystalline-alembic
+category: tools
+type: tool
+tool: "Crystalline Alembic"
+profession: alchemist
+slot: primary
+related: [alchemist]
+tags: [tool, alchemist, main-tool]
+status: stable

@@ -1,0 +1,9 @@
+id: frypan-of-stars
+category: tools
+type: tool
+tool: "Frypan of Stars"
+profession: culinarian
+slot: primary
+related: [culinarian]
+tags: [tool, culinarian, main-tool]
+status: stable

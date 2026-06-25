@@ -1,0 +1,9 @@
+id: cosmic-mallet-v1-4
+category: tools
+type: tool
+tool: "Cosmic Mallet v1.4"
+profession: goldsmith
+slot: primary
+related: [goldsmith]
+tags: [tool, goldsmith, main-tool]
+status: stable

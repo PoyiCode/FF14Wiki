@@ -1,0 +1,9 @@
+id: hyperpickaxe-v1-2
+category: tools
+type: tool
+tool: "Hyperpickaxe v1.2"
+profession: miner
+slot: primary
+related: [miner]
+tags: [tool, miner, main-tool]
+status: stable

@@ -1,0 +1,9 @@
+id: chora-zoi-s-crystalline-alembic
+category: tools
+type: tool
+tool: "Chora-Zoi's Crystalline Alembic"
+profession: alchemist
+slot: primary
+related: [alchemist]
+tags: [tool, alchemist, main-tool]
+status: stable

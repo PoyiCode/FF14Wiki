@@ -1,0 +1,9 @@
+id: skysteel-saw-1
+category: tools
+type: tool
+tool: "Skysteel Saw +1"
+profession: carpenter
+slot: primary
+related: [carpenter]
+tags: [tool, carpenter, main-tool]
+status: stable

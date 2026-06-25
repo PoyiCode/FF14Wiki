@@ -1,0 +1,9 @@
+id: cosmic-round-knife-v0-7
+category: tools
+type: tool
+tool: "Cosmic Round Knife v0.7"
+profession: leatherworker
+slot: primary
+related: [leatherworker]
+tags: [tool, leatherworker, main-tool]
+status: stable

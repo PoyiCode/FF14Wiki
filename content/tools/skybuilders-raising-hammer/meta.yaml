@@ -1,0 +1,9 @@
+id: skybuilders-raising-hammer
+category: tools
+type: tool
+tool: "Skybuilders' Raising Hammer"
+profession: armorer
+slot: primary
+related: [armorer]
+tags: [tool, armorer, main-tool]
+status: stable

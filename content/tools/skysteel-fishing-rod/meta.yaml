@@ -1,0 +1,9 @@
+id: skysteel-fishing-rod
+category: tools
+type: tool
+tool: "Skysteel Fishing Rod"
+profession: fisher
+slot: primary
+related: [fisher]
+tags: [tool, fisher, main-tool]
+status: stable

@@ -1,0 +1,6918 @@
+[
+ {
+  "slug": "ironworks-fishing-rod",
+  "en": "Ironworks Fishing Rod",
+  "profession": "fisher",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Ironworks Fishing Rod",
+   "zh-CN": "加隆德鱼竿",
+   "zh-TW": "加隆德魚竿",
+   "ja": "ガーロンド・フィッシングロッド"
+  },
+  "desc": {
+   "en": "Rumor has that fishing enthusiast Biggs used the Garlond Ironworks crafting facilities after-hours to create this magitek-enhanced rod.",
+   "zh-CN": "据说加隆德炼铁厂的比格斯把几乎所有魔导技术都用到了这把鱼竿上，看来他也是个爱钓鱼的人。",
+   "zh-TW": "據說加隆德煉鐵廠的比格斯把幾乎所有魔導技術都用到了這把魚竿上，看來他也是個愛釣魚的人。",
+   "ja": "釣り好きのガーロンド・アイアンワークス社・社員ビッグスが、魔導技術の全てをつぎ込んで開発した高性能釣竿"
+  }
+ },
+ {
+  "slug": "skysteel-saw",
+  "en": "Skysteel Saw",
+  "profession": "carpenter",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Skysteel Saw",
+   "zh-CN": "天钢手锯",
+   "zh-TW": "天鋼手鋸",
+   "ja": "スカイスチール・ソー"
+  },
+  "desc": {
+   "en": "Skysteel prototype.",
+   "zh-CN": "天钢工具第1阶段",
+   "zh-TW": "天鋼工具第1階段",
+   "ja": "[スカイスチールツール第1段階]"
+  }
+ },
+ {
+  "slug": "skysteel-cross-pein-hammer",
+  "en": "Skysteel Cross-pein Hammer",
+  "profession": "blacksmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Skysteel Cross-pein Hammer",
+   "zh-CN": "天钢横头锤",
+   "zh-TW": "天鋼橫頭錘",
+   "ja": "スカイスチール・クロスペインハンマー"
+  },
+  "desc": {
+   "en": "Skysteel prototype.",
+   "zh-CN": "天钢工具第1阶段",
+   "zh-TW": "天鋼工具第1階段",
+   "ja": "[スカイスチールツール第1段階]"
+  }
+ },
+ {
+  "slug": "skysteel-raising-hammer",
+  "en": "Skysteel Raising Hammer",
+  "profession": "armorer",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Skysteel Raising Hammer",
+   "zh-CN": "天钢圆头锤",
+   "zh-TW": "天鋼圓頭錘",
+   "ja": "スカイスチール・レイジングハンマー"
+  },
+  "desc": {
+   "en": "Skysteel prototype.",
+   "zh-CN": "天钢工具第1阶段",
+   "zh-TW": "天鋼工具第1階段",
+   "ja": "[スカイスチールツール第1段階]"
+  }
+ },
+ {
+  "slug": "skysteel-lapidary-hammer",
+  "en": "Skysteel Lapidary Hammer",
+  "profession": "goldsmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Skysteel Lapidary Hammer",
+   "zh-CN": "天钢工艺锤",
+   "zh-TW": "天鋼工藝錘",
+   "ja": "スカイスチール・ラピダリーハンマー"
+  },
+  "desc": {
+   "en": "Skysteel prototype.",
+   "zh-CN": "天钢工具第1阶段",
+   "zh-TW": "天鋼工具第1階段",
+   "ja": "[スカイスチールツール第1段階]"
+  }
+ },
+ {
+  "slug": "skysteel-round-knife",
+  "en": "Skysteel Round Knife",
+  "profession": "leatherworker",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Skysteel Round Knife",
+   "zh-CN": "天钢圆革刀",
+   "zh-TW": "天鋼圓革刀",
+   "ja": "スカイスチール・ラウンドナイフ"
+  },
+  "desc": {
+   "en": "Skysteel prototype.",
+   "zh-CN": "天钢工具第1阶段",
+   "zh-TW": "天鋼工具第1階段",
+   "ja": "[スカイスチールツール第1段階]"
+  }
+ },
+ {
+  "slug": "skysteel-needle",
+  "en": "Skysteel Needle",
+  "profession": "weaver",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Skysteel Needle",
+   "zh-CN": "天钢缝针",
+   "zh-TW": "天鋼縫針",
+   "ja": "スカイスチール・ニードル"
+  },
+  "desc": {
+   "en": "Skysteel prototype.",
+   "zh-CN": "天钢工具第1阶段",
+   "zh-TW": "天鋼工具第1階段",
+   "ja": "[スカイスチールツール第1段階]"
+  }
+ },
+ {
+  "slug": "skysteel-alembic",
+  "en": "Skysteel Alembic",
+  "profession": "alchemist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Skysteel Alembic",
+   "zh-CN": "天钢蒸馏器",
+   "zh-TW": "天鋼蒸餾器",
+   "ja": "スカイスチール・アレンビック"
+  },
+  "desc": {
+   "en": "Skysteel prototype.",
+   "zh-CN": "天钢工具第1阶段",
+   "zh-TW": "天鋼工具第1階段",
+   "ja": "[スカイスチールツール第1段階]"
+  }
+ },
+ {
+  "slug": "skysteel-frypan",
+  "en": "Skysteel Frypan",
+  "profession": "culinarian",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Skysteel Frypan",
+   "zh-CN": "天钢煎锅",
+   "zh-TW": "天鋼煎鍋",
+   "ja": "スカイスチール・フライパン"
+  },
+  "desc": {
+   "en": "Skysteel prototype.",
+   "zh-CN": "天钢工具第1阶段",
+   "zh-TW": "天鋼工具第1階段",
+   "ja": "[スカイスチールツール第1段階]"
+  }
+ },
+ {
+  "slug": "skysteel-hatchet",
+  "en": "Skysteel Hatchet",
+  "profession": "botanist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Skysteel Hatchet",
+   "zh-CN": "天钢手斧",
+   "zh-TW": "天鋼手斧",
+   "ja": "スカイスチール・ハチェット"
+  },
+  "desc": {
+   "en": "Skysteel prototype.",
+   "zh-CN": "天钢工具第1阶段",
+   "zh-TW": "天鋼工具第1階段",
+   "ja": "[スカイスチールツール第1段階]"
+  }
+ },
+ {
+  "slug": "skysteel-pickaxe",
+  "en": "Skysteel Pickaxe",
+  "profession": "miner",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Skysteel Pickaxe",
+   "zh-CN": "天钢鹤嘴锄",
+   "zh-TW": "天鋼鶴嘴鋤",
+   "ja": "スカイスチール・ピック"
+  },
+  "desc": {
+   "en": "Skysteel prototype.",
+   "zh-CN": "天钢工具第1阶段",
+   "zh-TW": "天鋼工具第1階段",
+   "ja": "[スカイスチールツール第1段階]"
+  }
+ },
+ {
+  "slug": "skysteel-fishing-rod",
+  "en": "Skysteel Fishing Rod",
+  "profession": "fisher",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Skysteel Fishing Rod",
+   "zh-CN": "天钢钓竿",
+   "zh-TW": "天鋼釣竿",
+   "ja": "スカイスチール・フィッシングロッド"
+  },
+  "desc": {
+   "en": "Skysteel prototype.",
+   "zh-CN": "天钢工具第1阶段",
+   "zh-TW": "天鋼工具第1階段",
+   "ja": "[スカイスチールツール第1段階]"
+  }
+ },
+ {
+  "slug": "skysteel-saw-1",
+  "en": "Skysteel Saw +1",
+  "profession": "carpenter",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Skysteel Saw +1",
+   "zh-CN": "天钢手锯+1",
+   "zh-TW": "天鋼手鋸+1",
+   "ja": "スカイスチール・ソー+1"
+  },
+  "desc": {
+   "en": "Skysteel prototype.",
+   "zh-CN": "天钢工具第2阶段",
+   "zh-TW": "天鋼工具第2階段",
+   "ja": "[スカイスチールツール第2段階]"
+  }
+ },
+ {
+  "slug": "skysteel-cross-pein-hammer-1",
+  "en": "Skysteel Cross-pein Hammer +1",
+  "profession": "blacksmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Skysteel Cross-pein Hammer +1",
+   "zh-CN": "天钢横头锤+1",
+   "zh-TW": "天鋼橫頭錘+1",
+   "ja": "スカイスチール・クロスペインハンマー+1"
+  },
+  "desc": {
+   "en": "Skysteel prototype.",
+   "zh-CN": "天钢工具第2阶段",
+   "zh-TW": "天鋼工具第2階段",
+   "ja": "[スカイスチールツール第2段階]"
+  }
+ },
+ {
+  "slug": "skysteel-raising-hammer-1",
+  "en": "Skysteel Raising Hammer +1",
+  "profession": "armorer",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Skysteel Raising Hammer +1",
+   "zh-CN": "天钢圆头锤+1",
+   "zh-TW": "天鋼圓頭錘+1",
+   "ja": "スカイスチール・レイジングハンマー+1"
+  },
+  "desc": {
+   "en": "Skysteel prototype.",
+   "zh-CN": "天钢工具第2阶段",
+   "zh-TW": "天鋼工具第2階段",
+   "ja": "[スカイスチールツール第2段階]"
+  }
+ },
+ {
+  "slug": "skysteel-lapidary-hammer-1",
+  "en": "Skysteel Lapidary Hammer +1",
+  "profession": "goldsmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Skysteel Lapidary Hammer +1",
+   "zh-CN": "天钢工艺锤+1",
+   "zh-TW": "天鋼工藝錘+1",
+   "ja": "スカイスチール・ラピダリーハンマー+1"
+  },
+  "desc": {
+   "en": "Skysteel prototype.",
+   "zh-CN": "天钢工具第2阶段",
+   "zh-TW": "天鋼工具第2階段",
+   "ja": "[スカイスチールツール第2段階]"
+  }
+ },
+ {
+  "slug": "skysteel-round-knife-1",
+  "en": "Skysteel Round Knife +1",
+  "profession": "leatherworker",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Skysteel Round Knife +1",
+   "zh-CN": "天钢圆革刀+1",
+   "zh-TW": "天鋼圓革刀+1",
+   "ja": "スカイスチール・ラウンドナイフ+1"
+  },
+  "desc": {
+   "en": "Skysteel prototype.",
+   "zh-CN": "天钢工具第2阶段",
+   "zh-TW": "天鋼工具第2階段",
+   "ja": "[スカイスチールツール第2段階]"
+  }
+ },
+ {
+  "slug": "skysteel-needle-1",
+  "en": "Skysteel Needle +1",
+  "profession": "weaver",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Skysteel Needle +1",
+   "zh-CN": "天钢缝针+1",
+   "zh-TW": "天鋼縫針+1",
+   "ja": "スカイスチール・ニードル+1"
+  },
+  "desc": {
+   "en": "Skysteel prototype.",
+   "zh-CN": "天钢工具第2阶段",
+   "zh-TW": "天鋼工具第2階段",
+   "ja": "[スカイスチールツール第2段階]"
+  }
+ },
+ {
+  "slug": "skysteel-alembic-1",
+  "en": "Skysteel Alembic +1",
+  "profession": "alchemist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Skysteel Alembic +1",
+   "zh-CN": "天钢蒸馏器+1",
+   "zh-TW": "天鋼蒸餾器+1",
+   "ja": "スカイスチール・アレンビック+1"
+  },
+  "desc": {
+   "en": "Skysteel prototype.",
+   "zh-CN": "天钢工具第2阶段",
+   "zh-TW": "天鋼工具第2階段",
+   "ja": "[スカイスチールツール第2段階]"
+  }
+ },
+ {
+  "slug": "skysteel-frypan-1",
+  "en": "Skysteel Frypan +1",
+  "profession": "culinarian",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Skysteel Frypan +1",
+   "zh-CN": "天钢煎锅+1",
+   "zh-TW": "天鋼煎鍋+1",
+   "ja": "スカイスチール・フライパン+1"
+  },
+  "desc": {
+   "en": "Skysteel prototype.",
+   "zh-CN": "天钢工具第2阶段",
+   "zh-TW": "天鋼工具第2階段",
+   "ja": "[スカイスチールツール第2段階]"
+  }
+ },
+ {
+  "slug": "skysteel-hatchet-1",
+  "en": "Skysteel Hatchet +1",
+  "profession": "botanist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Skysteel Hatchet +1",
+   "zh-CN": "天钢手斧+1",
+   "zh-TW": "天鋼手斧+1",
+   "ja": "スカイスチール・ハチェット+1"
+  },
+  "desc": {
+   "en": "Skysteel prototype.",
+   "zh-CN": "天钢工具第2阶段",
+   "zh-TW": "天鋼工具第2階段",
+   "ja": "[スカイスチールツール第2段階]"
+  }
+ },
+ {
+  "slug": "skysteel-pickaxe-1",
+  "en": "Skysteel Pickaxe +1",
+  "profession": "miner",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Skysteel Pickaxe +1",
+   "zh-CN": "天钢鹤嘴锄+1",
+   "zh-TW": "天鋼鶴嘴鋤+1",
+   "ja": "スカイスチール・ピック+1"
+  },
+  "desc": {
+   "en": "Skysteel prototype.",
+   "zh-CN": "天钢工具第2阶段",
+   "zh-TW": "天鋼工具第2階段",
+   "ja": "[スカイスチールツール第2段階]"
+  }
+ },
+ {
+  "slug": "skysteel-fishing-rod-1",
+  "en": "Skysteel Fishing Rod +1",
+  "profession": "fisher",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Skysteel Fishing Rod +1",
+   "zh-CN": "天钢钓竿+1",
+   "zh-TW": "天鋼釣竿+1",
+   "ja": "スカイスチール・フィッシングロッド+1"
+  },
+  "desc": {
+   "en": "Skysteel prototype.",
+   "zh-CN": "天钢工具第2阶段",
+   "zh-TW": "天鋼工具第2階段",
+   "ja": "[スカイスチールツール第2段階]"
+  }
+ },
+ {
+  "slug": "dragonsung-saw",
+  "en": "Dragonsung Saw",
+  "profession": "carpenter",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Dragonsung Saw",
+   "zh-CN": "龙诗手锯",
+   "zh-TW": "龍詩手鋸",
+   "ja": "ドラゴンソング・ソー"
+  },
+  "desc": {
+   "en": "Skysteel tool.",
+   "zh-CN": "天钢工具第3阶段",
+   "zh-TW": "天鋼工具第3階段",
+   "ja": "[スカイスチールツール第3段階]"
+  }
+ },
+ {
+  "slug": "dragonsung-cross-pein-hammer",
+  "en": "Dragonsung Cross-pein Hammer",
+  "profession": "blacksmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Dragonsung Cross-pein Hammer",
+   "zh-CN": "龙诗横头锤",
+   "zh-TW": "龍詩橫頭錘",
+   "ja": "ドラゴンソング・クロスペインハンマー"
+  },
+  "desc": {
+   "en": "Skysteel tool.",
+   "zh-CN": "天钢工具第3阶段",
+   "zh-TW": "天鋼工具第3階段",
+   "ja": "[スカイスチールツール第3段階]"
+  }
+ },
+ {
+  "slug": "dragonsung-raising-hammer",
+  "en": "Dragonsung Raising Hammer",
+  "profession": "armorer",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Dragonsung Raising Hammer",
+   "zh-CN": "龙诗圆头锤",
+   "zh-TW": "龍詩圓頭錘",
+   "ja": "ドラゴンソング・レイジングハンマー"
+  },
+  "desc": {
+   "en": "Skysteel tool.",
+   "zh-CN": "天钢工具第3阶段",
+   "zh-TW": "天鋼工具第3階段",
+   "ja": "[スカイスチールツール第3段階]"
+  }
+ },
+ {
+  "slug": "dragonsung-lapidary-hammer",
+  "en": "Dragonsung Lapidary Hammer",
+  "profession": "goldsmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Dragonsung Lapidary Hammer",
+   "zh-CN": "龙诗工艺锤",
+   "zh-TW": "龍詩工藝錘",
+   "ja": "ドラゴンソング・ラピダリーハンマー"
+  },
+  "desc": {
+   "en": "Skysteel tool.",
+   "zh-CN": "天钢工具第3阶段",
+   "zh-TW": "天鋼工具第3階段",
+   "ja": "[スカイスチールツール第3段階]"
+  }
+ },
+ {
+  "slug": "dragonsung-round-knife",
+  "en": "Dragonsung Round Knife",
+  "profession": "leatherworker",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Dragonsung Round Knife",
+   "zh-CN": "龙诗圆革刀",
+   "zh-TW": "龍詩圓革刀",
+   "ja": "ドラゴンソング・ラウンドナイフ"
+  },
+  "desc": {
+   "en": "Skysteel tool.",
+   "zh-CN": "天钢工具第3阶段",
+   "zh-TW": "天鋼工具第3階段",
+   "ja": "[スカイスチールツール第3段階]"
+  }
+ },
+ {
+  "slug": "dragonsung-needle",
+  "en": "Dragonsung Needle",
+  "profession": "weaver",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Dragonsung Needle",
+   "zh-CN": "龙诗缝针",
+   "zh-TW": "龍詩縫針",
+   "ja": "ドラゴンソング・ニードル"
+  },
+  "desc": {
+   "en": "Skysteel tool.",
+   "zh-CN": "天钢工具第3阶段",
+   "zh-TW": "天鋼工具第3階段",
+   "ja": "[スカイスチールツール第3段階]"
+  }
+ },
+ {
+  "slug": "dragonsung-alembic",
+  "en": "Dragonsung Alembic",
+  "profession": "alchemist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Dragonsung Alembic",
+   "zh-CN": "龙诗蒸馏器",
+   "zh-TW": "龍詩蒸餾器",
+   "ja": "ドラゴンソング・アレンビック"
+  },
+  "desc": {
+   "en": "Skysteel tool.",
+   "zh-CN": "天钢工具第3阶段",
+   "zh-TW": "天鋼工具第3階段",
+   "ja": "[スカイスチールツール第3段階]"
+  }
+ },
+ {
+  "slug": "dragonsung-frypan",
+  "en": "Dragonsung Frypan",
+  "profession": "culinarian",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Dragonsung Frypan",
+   "zh-CN": "龙诗煎锅",
+   "zh-TW": "龍詩煎鍋",
+   "ja": "ドラゴンソング・フライパン"
+  },
+  "desc": {
+   "en": "Skysteel tool.",
+   "zh-CN": "天钢工具第3阶段",
+   "zh-TW": "天鋼工具第3階段",
+   "ja": "[スカイスチールツール第3段階]"
+  }
+ },
+ {
+  "slug": "dragonsung-hatchet",
+  "en": "Dragonsung Hatchet",
+  "profession": "botanist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Dragonsung Hatchet",
+   "zh-CN": "龙诗手斧",
+   "zh-TW": "龍詩手斧",
+   "ja": "ドラゴンソング・ハチェット"
+  },
+  "desc": {
+   "en": "Skysteel tool.",
+   "zh-CN": "天钢工具第3阶段",
+   "zh-TW": "天鋼工具第3階段",
+   "ja": "[スカイスチールツール第3段階]"
+  }
+ },
+ {
+  "slug": "dragonsung-pickaxe",
+  "en": "Dragonsung Pickaxe",
+  "profession": "miner",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Dragonsung Pickaxe",
+   "zh-CN": "龙诗鹤嘴锄",
+   "zh-TW": "龍詩鶴嘴鋤",
+   "ja": "ドラゴンソング・ピック"
+  },
+  "desc": {
+   "en": "Skysteel tool.",
+   "zh-CN": "天钢工具第3阶段",
+   "zh-TW": "天鋼工具第3階段",
+   "ja": "[スカイスチールツール第3段階]"
+  }
+ },
+ {
+  "slug": "dragonsung-fishing-rod",
+  "en": "Dragonsung Fishing Rod",
+  "profession": "fisher",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Dragonsung Fishing Rod",
+   "zh-CN": "龙诗钓竿",
+   "zh-TW": "龍詩釣竿",
+   "ja": "ドラゴンソング・フィッシングロッド"
+  },
+  "desc": {
+   "en": "Skysteel tool.",
+   "zh-CN": "天钢工具第3阶段",
+   "zh-TW": "天鋼工具第3階段",
+   "ja": "[スカイスチールツール第3段階]"
+  }
+ },
+ {
+  "slug": "augmented-dragonsung-saw",
+  "en": "Augmented Dragonsung Saw",
+  "profession": "carpenter",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Augmented Dragonsung Saw",
+   "zh-CN": "改良型龙诗手锯",
+   "zh-TW": "改良型龍詩手鋸",
+   "ja": "ドラゴンソング・ソーRE"
+  },
+  "desc": {
+   "en": "Skysteel tool.",
+   "zh-CN": "天钢工具第4阶段",
+   "zh-TW": "天鋼工具第4階段",
+   "ja": "[スカイスチールツール第4段階]"
+  }
+ },
+ {
+  "slug": "augmented-dragonsung-cross-pein-hammer",
+  "en": "Augmented Dragonsung Cross-pein Hammer",
+  "profession": "blacksmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Augmented Dragonsung Cross-pein Hammer",
+   "zh-CN": "改良型龙诗横头锤",
+   "zh-TW": "改良型龍詩橫頭錘",
+   "ja": "ドラゴンソング・クロスペインハンマーRE"
+  },
+  "desc": {
+   "en": "Skysteel tool.",
+   "zh-CN": "天钢工具第4阶段",
+   "zh-TW": "天鋼工具第4階段",
+   "ja": "[スカイスチールツール第4段階]"
+  }
+ },
+ {
+  "slug": "augmented-dragonsung-raising-hammer",
+  "en": "Augmented Dragonsung Raising Hammer",
+  "profession": "armorer",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Augmented Dragonsung Raising Hammer",
+   "zh-CN": "改良型龙诗圆头锤",
+   "zh-TW": "改良型龍詩圓頭錘",
+   "ja": "ドラゴンソング・レイジングハンマーRE"
+  },
+  "desc": {
+   "en": "Skysteel tool.",
+   "zh-CN": "天钢工具第4阶段",
+   "zh-TW": "天鋼工具第4階段",
+   "ja": "[スカイスチールツール第4段階]"
+  }
+ },
+ {
+  "slug": "augmented-dragonsung-lapidary-hammer",
+  "en": "Augmented Dragonsung Lapidary Hammer",
+  "profession": "goldsmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Augmented Dragonsung Lapidary Hammer",
+   "zh-CN": "改良型龙诗工艺锤",
+   "zh-TW": "改良型龍詩工藝錘",
+   "ja": "ドラゴンソング・ラピダリーハンマーRE"
+  },
+  "desc": {
+   "en": "Skysteel tool.",
+   "zh-CN": "天钢工具第4阶段",
+   "zh-TW": "天鋼工具第4階段",
+   "ja": "[スカイスチールツール第4段階]"
+  }
+ },
+ {
+  "slug": "augmented-dragonsung-round-knife",
+  "en": "Augmented Dragonsung Round Knife",
+  "profession": "leatherworker",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Augmented Dragonsung Round Knife",
+   "zh-CN": "改良型龙诗圆革刀",
+   "zh-TW": "改良型龍詩圓革刀",
+   "ja": "ドラゴンソング・ラウンドナイフRE"
+  },
+  "desc": {
+   "en": "Skysteel tool.",
+   "zh-CN": "天钢工具第4阶段",
+   "zh-TW": "天鋼工具第4階段",
+   "ja": "[スカイスチールツール第4段階]"
+  }
+ },
+ {
+  "slug": "augmented-dragonsung-needle",
+  "en": "Augmented Dragonsung Needle",
+  "profession": "weaver",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Augmented Dragonsung Needle",
+   "zh-CN": "改良型龙诗缝针",
+   "zh-TW": "改良型龍詩縫針",
+   "ja": "ドラゴンソング・ニードルRE"
+  },
+  "desc": {
+   "en": "Skysteel tool.",
+   "zh-CN": "天钢工具第4阶段",
+   "zh-TW": "天鋼工具第4階段",
+   "ja": "[スカイスチールツール第4段階]"
+  }
+ },
+ {
+  "slug": "augmented-dragonsung-alembic",
+  "en": "Augmented Dragonsung Alembic",
+  "profession": "alchemist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Augmented Dragonsung Alembic",
+   "zh-CN": "改良型龙诗蒸馏器",
+   "zh-TW": "改良型龍詩蒸餾器",
+   "ja": "ドラゴンソング・アレンビックRE"
+  },
+  "desc": {
+   "en": "Skysteel tool.",
+   "zh-CN": "天钢工具第4阶段",
+   "zh-TW": "天鋼工具第4階段",
+   "ja": "[スカイスチールツール第4段階]"
+  }
+ },
+ {
+  "slug": "augmented-dragonsung-frypan",
+  "en": "Augmented Dragonsung Frypan",
+  "profession": "culinarian",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Augmented Dragonsung Frypan",
+   "zh-CN": "改良型龙诗煎锅",
+   "zh-TW": "改良型龍詩煎鍋",
+   "ja": "ドラゴンソング・フライパンRE"
+  },
+  "desc": {
+   "en": "Skysteel tool.",
+   "zh-CN": "天钢工具第4阶段",
+   "zh-TW": "天鋼工具第4階段",
+   "ja": "[スカイスチールツール第4段階]"
+  }
+ },
+ {
+  "slug": "augmented-dragonsung-hatchet",
+  "en": "Augmented Dragonsung Hatchet",
+  "profession": "botanist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Augmented Dragonsung Hatchet",
+   "zh-CN": "改良型龙诗手斧",
+   "zh-TW": "改良型龍詩手斧",
+   "ja": "ドラゴンソング・ハチェットRE"
+  },
+  "desc": {
+   "en": "Skysteel tool.",
+   "zh-CN": "天钢工具第4阶段",
+   "zh-TW": "天鋼工具第4階段",
+   "ja": "[スカイスチールツール第4段階]"
+  }
+ },
+ {
+  "slug": "augmented-dragonsung-pickaxe",
+  "en": "Augmented Dragonsung Pickaxe",
+  "profession": "miner",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Augmented Dragonsung Pickaxe",
+   "zh-CN": "改良型龙诗鹤嘴锄",
+   "zh-TW": "改良型龍詩鶴嘴鋤",
+   "ja": "ドラゴンソング・ピックRE"
+  },
+  "desc": {
+   "en": "Skysteel tool.",
+   "zh-CN": "天钢工具第4阶段",
+   "zh-TW": "天鋼工具第4階段",
+   "ja": "[スカイスチールツール第4段階]"
+  }
+ },
+ {
+  "slug": "augmented-dragonsung-fishing-rod",
+  "en": "Augmented Dragonsung Fishing Rod",
+  "profession": "fisher",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Augmented Dragonsung Fishing Rod",
+   "zh-CN": "改良型龙诗钓竿",
+   "zh-TW": "改良型龍詩釣竿",
+   "ja": "ドラゴンソング・フィッシングロッドRE"
+  },
+  "desc": {
+   "en": "Skysteel tool.",
+   "zh-CN": "天钢工具第4阶段",
+   "zh-TW": "天鋼工具第4階段",
+   "ja": "[スカイスチールツール第4段階]"
+  }
+ },
+ {
+  "slug": "skysung-saw",
+  "en": "Skysung Saw",
+  "profession": "carpenter",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Skysung Saw",
+   "zh-CN": "天诗手锯",
+   "zh-TW": "天詩手鋸",
+   "ja": "スカイソング・ソー"
+  },
+  "desc": {
+   "en": "Improved Skysteel tool.",
+   "zh-CN": "天钢工具第5阶段",
+   "zh-TW": "天鋼工具第5階段",
+   "ja": "[スカイスチールツール第5段階]"
+  }
+ },
+ {
+  "slug": "skysung-cross-pein-hammer",
+  "en": "Skysung Cross-pein Hammer",
+  "profession": "blacksmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Skysung Cross-pein Hammer",
+   "zh-CN": "天诗横头锤",
+   "zh-TW": "天詩橫頭錘",
+   "ja": "スカイソング・クロスペインハンマー"
+  },
+  "desc": {
+   "en": "Improved Skysteel tool.",
+   "zh-CN": "天钢工具第5阶段",
+   "zh-TW": "天鋼工具第5階段",
+   "ja": "[スカイスチールツール第5段階]"
+  }
+ },
+ {
+  "slug": "skysung-raising-hammer",
+  "en": "Skysung Raising Hammer",
+  "profession": "armorer",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Skysung Raising Hammer",
+   "zh-CN": "天诗圆头锤",
+   "zh-TW": "天詩圓頭錘",
+   "ja": "スカイソング・レイジングハンマー"
+  },
+  "desc": {
+   "en": "Improved Skysteel tool.",
+   "zh-CN": "天钢工具第5阶段",
+   "zh-TW": "天鋼工具第5階段",
+   "ja": "[スカイスチールツール第5段階]"
+  }
+ },
+ {
+  "slug": "skysung-lapidary-hammer",
+  "en": "Skysung Lapidary Hammer",
+  "profession": "goldsmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Skysung Lapidary Hammer",
+   "zh-CN": "天诗工艺锤",
+   "zh-TW": "天詩工藝錘",
+   "ja": "スカイソング・ラピダリーハンマー"
+  },
+  "desc": {
+   "en": "Improved Skysteel tool.",
+   "zh-CN": "天钢工具第5阶段",
+   "zh-TW": "天鋼工具第5階段",
+   "ja": "[スカイスチールツール第5段階]"
+  }
+ },
+ {
+  "slug": "skysung-round-knife",
+  "en": "Skysung Round Knife",
+  "profession": "leatherworker",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Skysung Round Knife",
+   "zh-CN": "天诗圆革刀",
+   "zh-TW": "天詩圓革刀",
+   "ja": "スカイソング・ラウンドナイフ"
+  },
+  "desc": {
+   "en": "Improved Skysteel tool.",
+   "zh-CN": "天钢工具第5阶段",
+   "zh-TW": "天鋼工具第5階段",
+   "ja": "[スカイスチールツール第5段階]"
+  }
+ },
+ {
+  "slug": "skysung-needle",
+  "en": "Skysung Needle",
+  "profession": "weaver",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Skysung Needle",
+   "zh-CN": "天诗缝针",
+   "zh-TW": "天詩縫針",
+   "ja": "スカイソング・ニードル"
+  },
+  "desc": {
+   "en": "Improved Skysteel tool.",
+   "zh-CN": "天钢工具第5阶段",
+   "zh-TW": "天鋼工具第5階段",
+   "ja": "[スカイスチールツール第5段階]"
+  }
+ },
+ {
+  "slug": "skysung-alembic",
+  "en": "Skysung Alembic",
+  "profession": "alchemist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Skysung Alembic",
+   "zh-CN": "天诗蒸馏器",
+   "zh-TW": "天詩蒸餾器",
+   "ja": "スカイソング・アレンビック"
+  },
+  "desc": {
+   "en": "Improved Skysteel tool.",
+   "zh-CN": "天钢工具第5阶段",
+   "zh-TW": "天鋼工具第5階段",
+   "ja": "[スカイスチールツール第5段階]"
+  }
+ },
+ {
+  "slug": "skysung-frypan",
+  "en": "Skysung Frypan",
+  "profession": "culinarian",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Skysung Frypan",
+   "zh-CN": "天诗煎锅",
+   "zh-TW": "天詩煎鍋",
+   "ja": "スカイソング・フライパン"
+  },
+  "desc": {
+   "en": "Improved Skysteel tool.",
+   "zh-CN": "天钢工具第5阶段",
+   "zh-TW": "天鋼工具第5階段",
+   "ja": "[スカイスチールツール第5段階]"
+  }
+ },
+ {
+  "slug": "skysung-hatchet",
+  "en": "Skysung Hatchet",
+  "profession": "botanist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Skysung Hatchet",
+   "zh-CN": "天诗手斧",
+   "zh-TW": "天詩手斧",
+   "ja": "スカイソング・ハチェット"
+  },
+  "desc": {
+   "en": "Improved Skysteel tool.",
+   "zh-CN": "天钢工具第5阶段",
+   "zh-TW": "天鋼工具第5階段",
+   "ja": "[スカイスチールツール第5段階]"
+  }
+ },
+ {
+  "slug": "skysung-pickaxe",
+  "en": "Skysung Pickaxe",
+  "profession": "miner",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Skysung Pickaxe",
+   "zh-CN": "天诗鹤嘴锄",
+   "zh-TW": "天詩鶴嘴鋤",
+   "ja": "スカイソング・ピック"
+  },
+  "desc": {
+   "en": "Improved Skysteel tool.",
+   "zh-CN": "天钢工具第5阶段",
+   "zh-TW": "天鋼工具第5階段",
+   "ja": "[スカイスチールツール第5段階]"
+  }
+ },
+ {
+  "slug": "skysung-fishing-rod",
+  "en": "Skysung Fishing Rod",
+  "profession": "fisher",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Skysung Fishing Rod",
+   "zh-CN": "天诗钓竿",
+   "zh-TW": "天詩釣竿",
+   "ja": "スカイソング・フィッシングロッド"
+  },
+  "desc": {
+   "en": "Improved Skysteel tool.",
+   "zh-CN": "天钢工具第5阶段",
+   "zh-TW": "天鋼工具第5階段",
+   "ja": "[スカイスチールツール第5段階]"
+  }
+ },
+ {
+  "slug": "skybuilders-saw",
+  "en": "Skybuilders' Saw",
+  "profession": "carpenter",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Skybuilders' Saw",
+   "zh-CN": "天工手锯",
+   "zh-TW": "天工手鋸",
+   "ja": "スカイビルダーズ・ソー"
+  },
+  "desc": {
+   "en": "Perfected Skysteel tool.",
+   "zh-CN": "天钢工具最终阶段",
+   "zh-TW": "天鋼工具最終階段",
+   "ja": "[スカイスチールツール最終段階]"
+  }
+ },
+ {
+  "slug": "skybuilders-cross-pein-hammer",
+  "en": "Skybuilders' Cross-pein Hammer",
+  "profession": "blacksmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Skybuilders' Cross-pein Hammer",
+   "zh-CN": "天工横头锤",
+   "zh-TW": "天工橫頭錘",
+   "ja": "スカイビルダーズ・クロスペインハンマー"
+  },
+  "desc": {
+   "en": "Perfected Skysteel tool.",
+   "zh-CN": "天钢工具最终阶段",
+   "zh-TW": "天鋼工具最終階段",
+   "ja": "[スカイスチールツール最終段階]"
+  }
+ },
+ {
+  "slug": "skybuilders-raising-hammer",
+  "en": "Skybuilders' Raising Hammer",
+  "profession": "armorer",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Skybuilders' Raising Hammer",
+   "zh-CN": "天工圆头锤",
+   "zh-TW": "天工圓頭錘",
+   "ja": "スカイビルダーズ・レイジングハンマー"
+  },
+  "desc": {
+   "en": "Perfected Skysteel tool.",
+   "zh-CN": "天钢工具最终阶段",
+   "zh-TW": "天鋼工具最終階段",
+   "ja": "[スカイスチールツール最終段階]"
+  }
+ },
+ {
+  "slug": "skybuilders-lapidary-hammer",
+  "en": "Skybuilders' Lapidary Hammer",
+  "profession": "goldsmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Skybuilders' Lapidary Hammer",
+   "zh-CN": "天工工艺锤",
+   "zh-TW": "天工工藝錘",
+   "ja": "スカイビルダーズ・ラピダリーハンマー"
+  },
+  "desc": {
+   "en": "Perfected Skysteel tool.",
+   "zh-CN": "天钢工具最终阶段",
+   "zh-TW": "天鋼工具最終階段",
+   "ja": "[スカイスチールツール最終段階]"
+  }
+ },
+ {
+  "slug": "skybuilders-round-knife",
+  "en": "Skybuilders' Round Knife",
+  "profession": "leatherworker",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Skybuilders' Round Knife",
+   "zh-CN": "天工圆革刀",
+   "zh-TW": "天工圓革刀",
+   "ja": "スカイビルダーズ・ラウンドナイフ"
+  },
+  "desc": {
+   "en": "Perfected Skysteel tool.",
+   "zh-CN": "天钢工具最终阶段",
+   "zh-TW": "天鋼工具最終階段",
+   "ja": "[スカイスチールツール最終段階]"
+  }
+ },
+ {
+  "slug": "skybuilders-needle",
+  "en": "Skybuilders' Needle",
+  "profession": "weaver",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Skybuilders' Needle",
+   "zh-CN": "天工缝针",
+   "zh-TW": "天工縫針",
+   "ja": "スカイビルダーズ・ニードル"
+  },
+  "desc": {
+   "en": "Perfected Skysteel tool.",
+   "zh-CN": "天钢工具最终阶段",
+   "zh-TW": "天鋼工具最終階段",
+   "ja": "[スカイスチールツール最終段階]"
+  }
+ },
+ {
+  "slug": "skybuilders-alembic",
+  "en": "Skybuilders' Alembic",
+  "profession": "alchemist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Skybuilders' Alembic",
+   "zh-CN": "天工蒸馏器",
+   "zh-TW": "天工蒸餾器",
+   "ja": "スカイビルダーズ・アレンビック"
+  },
+  "desc": {
+   "en": "Perfected Skysteel tool.",
+   "zh-CN": "天钢工具最终阶段",
+   "zh-TW": "天鋼工具最終階段",
+   "ja": "[スカイスチールツール最終段階]"
+  }
+ },
+ {
+  "slug": "skybuilders-frypan",
+  "en": "Skybuilders' Frypan",
+  "profession": "culinarian",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Skybuilders' Frypan",
+   "zh-CN": "天工煎锅",
+   "zh-TW": "天工煎鍋",
+   "ja": "スカイビルダーズ・フライパン"
+  },
+  "desc": {
+   "en": "Perfected Skysteel tool.",
+   "zh-CN": "天钢工具最终阶段",
+   "zh-TW": "天鋼工具最終階段",
+   "ja": "[スカイスチールツール最終段階]"
+  }
+ },
+ {
+  "slug": "skybuilders-hatchet",
+  "en": "Skybuilders' Hatchet",
+  "profession": "botanist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Skybuilders' Hatchet",
+   "zh-CN": "天工手斧",
+   "zh-TW": "天工手斧",
+   "ja": "スカイビルダーズ・ハチェット"
+  },
+  "desc": {
+   "en": "Perfected Skysteel tool.",
+   "zh-CN": "天钢工具最终阶段",
+   "zh-TW": "天鋼工具最終階段",
+   "ja": "[スカイスチールツール最終段階]"
+  }
+ },
+ {
+  "slug": "skybuilders-pickaxe",
+  "en": "Skybuilders' Pickaxe",
+  "profession": "miner",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Skybuilders' Pickaxe",
+   "zh-CN": "天工鹤嘴锄",
+   "zh-TW": "天工鶴嘴鋤",
+   "ja": "スカイビルダーズ・ピック"
+  },
+  "desc": {
+   "en": "Perfected Skysteel tool.",
+   "zh-CN": "天钢工具最终阶段",
+   "zh-TW": "天鋼工具最終階段",
+   "ja": "[スカイスチールツール最終段階]"
+  }
+ },
+ {
+  "slug": "skybuilders-fishing-rod",
+  "en": "Skybuilders' Fishing Rod",
+  "profession": "fisher",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Skybuilders' Fishing Rod",
+   "zh-CN": "天工钓竿",
+   "zh-TW": "天工釣竿",
+   "ja": "スカイビルダーズ・フィッシングロッド"
+  },
+  "desc": {
+   "en": "Perfected Skysteel tool.",
+   "zh-CN": "天钢工具最终阶段",
+   "zh-TW": "天鋼工具最終階段",
+   "ja": "[スカイスチールツール最終段階]"
+  }
+ },
+ {
+  "slug": "splendorous-saw",
+  "en": "Splendorous Saw",
+  "profession": "carpenter",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Splendorous Saw",
+   "zh-CN": "卓越手锯",
+   "zh-TW": "卓越手鋸",
+   "ja": "モーエン・ソー"
+  },
+  "desc": {
+   "en": "Base splendorous tool.",
+   "zh-CN": "莫雯卓越工具第1阶段",
+   "zh-TW": "莫雯卓越工具第1階段",
+   "ja": "[モーエンツール第1段階]"
+  }
+ },
+ {
+  "slug": "splendorous-cross-pein-hammer",
+  "en": "Splendorous Cross-pein Hammer",
+  "profession": "blacksmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Splendorous Cross-pein Hammer",
+   "zh-CN": "卓越横头锤",
+   "zh-TW": "卓越橫頭錘",
+   "ja": "モーエン・クロスペインハンマー"
+  },
+  "desc": {
+   "en": "Base splendorous tool.",
+   "zh-CN": "莫雯卓越工具第1阶段",
+   "zh-TW": "莫雯卓越工具第1階段",
+   "ja": "[モーエンツール第1段階]"
+  }
+ },
+ {
+  "slug": "splendorous-raising-hammer",
+  "en": "Splendorous Raising Hammer",
+  "profession": "armorer",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Splendorous Raising Hammer",
+   "zh-CN": "卓越圆头锤",
+   "zh-TW": "卓越圓頭錘",
+   "ja": "モーエン・レイジングハンマー"
+  },
+  "desc": {
+   "en": "Base splendorous tool.",
+   "zh-CN": "莫雯卓越工具第1阶段",
+   "zh-TW": "莫雯卓越工具第1階段",
+   "ja": "[モーエンツール第1段階]"
+  }
+ },
+ {
+  "slug": "splendorous-mallet",
+  "en": "Splendorous Mallet",
+  "profession": "goldsmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Splendorous Mallet",
+   "zh-CN": "卓越工艺锤",
+   "zh-TW": "卓越工藝錘",
+   "ja": "モーエン・マレット"
+  },
+  "desc": {
+   "en": "Base splendorous tool.",
+   "zh-CN": "莫雯卓越工具第1阶段",
+   "zh-TW": "莫雯卓越工具第1階段",
+   "ja": "[モーエンツール第1段階]"
+  }
+ },
+ {
+  "slug": "splendorous-knife",
+  "en": "Splendorous Knife",
+  "profession": "leatherworker",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Splendorous Knife",
+   "zh-CN": "卓越圆革刀",
+   "zh-TW": "卓越圓革刀",
+   "ja": "モーエン・ナイフ"
+  },
+  "desc": {
+   "en": "Base splendorous tool.",
+   "zh-CN": "莫雯卓越工具第1阶段",
+   "zh-TW": "莫雯卓越工具第1階段",
+   "ja": "[モーエンツール第1段階]"
+  }
+ },
+ {
+  "slug": "splendorous-needle",
+  "en": "Splendorous Needle",
+  "profession": "weaver",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Splendorous Needle",
+   "zh-CN": "卓越缝针",
+   "zh-TW": "卓越縫針",
+   "ja": "モーエン・ニードル"
+  },
+  "desc": {
+   "en": "Base splendorous tool.",
+   "zh-CN": "莫雯卓越工具第1阶段",
+   "zh-TW": "莫雯卓越工具第1階段",
+   "ja": "[モーエンツール第1段階]"
+  }
+ },
+ {
+  "slug": "splendorous-alembic",
+  "en": "Splendorous Alembic",
+  "profession": "alchemist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Splendorous Alembic",
+   "zh-CN": "卓越蒸馏器",
+   "zh-TW": "卓越蒸餾器",
+   "ja": "モーエン・アレンビック"
+  },
+  "desc": {
+   "en": "Base splendorous tool.",
+   "zh-CN": "莫雯卓越工具第1阶段",
+   "zh-TW": "莫雯卓越工具第1階段",
+   "ja": "[モーエンツール第1段階]"
+  }
+ },
+ {
+  "slug": "splendorous-frypan",
+  "en": "Splendorous Frypan",
+  "profession": "culinarian",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Splendorous Frypan",
+   "zh-CN": "卓越煎锅",
+   "zh-TW": "卓越煎鍋",
+   "ja": "モーエン・フライパン"
+  },
+  "desc": {
+   "en": "Base splendorous tool.",
+   "zh-CN": "莫雯卓越工具第1阶段",
+   "zh-TW": "莫雯卓越工具第1階段",
+   "ja": "[モーエンツール第1段階]"
+  }
+ },
+ {
+  "slug": "splendorous-pickaxe",
+  "en": "Splendorous Pickaxe",
+  "profession": "miner",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Splendorous Pickaxe",
+   "zh-CN": "卓越鹤嘴锄",
+   "zh-TW": "卓越鶴嘴鋤",
+   "ja": "モーエン・ピック"
+  },
+  "desc": {
+   "en": "Base splendorous tool.",
+   "zh-CN": "莫雯卓越工具第1阶段",
+   "zh-TW": "莫雯卓越工具第1階段",
+   "ja": "[モーエンツール第1段階]"
+  }
+ },
+ {
+  "slug": "splendorous-hatchet",
+  "en": "Splendorous Hatchet",
+  "profession": "botanist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Splendorous Hatchet",
+   "zh-CN": "卓越手斧",
+   "zh-TW": "卓越手斧",
+   "ja": "モーエン・ハチェット"
+  },
+  "desc": {
+   "en": "Base splendorous tool.",
+   "zh-CN": "莫雯卓越工具第1阶段",
+   "zh-TW": "莫雯卓越工具第1階段",
+   "ja": "[モーエンツール第1段階]"
+  }
+ },
+ {
+  "slug": "splendorous-fishing-rod",
+  "en": "Splendorous Fishing Rod",
+  "profession": "fisher",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Splendorous Fishing Rod",
+   "zh-CN": "卓越钓竿",
+   "zh-TW": "卓越釣竿",
+   "ja": "モーエン・ロッド"
+  },
+  "desc": {
+   "en": "Base splendorous tool.",
+   "zh-CN": "莫雯卓越工具第1阶段",
+   "zh-TW": "莫雯卓越工具第1階段",
+   "ja": "[モーエンツール第1段階]"
+  }
+ },
+ {
+  "slug": "augmented-splendorous-saw",
+  "en": "Augmented Splendorous Saw",
+  "profession": "carpenter",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Augmented Splendorous Saw",
+   "zh-CN": "改良型卓越手锯",
+   "zh-TW": "改良型卓越手鋸",
+   "ja": "モーエン・ソーRE"
+  },
+  "desc": {
+   "en": "Augmented splendorous tool.",
+   "zh-CN": "莫雯卓越工具第2阶段",
+   "zh-TW": "莫雯卓越工具第2階段",
+   "ja": "[モーエンツール第2段階]"
+  }
+ },
+ {
+  "slug": "augmented-splendorous-cross-pein-hammer",
+  "en": "Augmented Splendorous Cross-pein Hammer",
+  "profession": "blacksmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Augmented Splendorous Cross-pein Hammer",
+   "zh-CN": "改良型卓越横头锤",
+   "zh-TW": "改良型卓越橫頭錘",
+   "ja": "モーエン・クロスペインハンマーRE"
+  },
+  "desc": {
+   "en": "Augmented splendorous tool.",
+   "zh-CN": "莫雯卓越工具第2阶段",
+   "zh-TW": "莫雯卓越工具第2階段",
+   "ja": "[モーエンツール第2段階]"
+  }
+ },
+ {
+  "slug": "augmented-splendorous-raising-hammer",
+  "en": "Augmented Splendorous Raising Hammer",
+  "profession": "armorer",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Augmented Splendorous Raising Hammer",
+   "zh-CN": "改良型卓越圆头锤",
+   "zh-TW": "改良型卓越圓頭錘",
+   "ja": "モーエン・レイジングハンマーRE"
+  },
+  "desc": {
+   "en": "Augmented splendorous tool.",
+   "zh-CN": "莫雯卓越工具第2阶段",
+   "zh-TW": "莫雯卓越工具第2階段",
+   "ja": "[モーエンツール第2段階]"
+  }
+ },
+ {
+  "slug": "augmented-splendorous-mallet",
+  "en": "Augmented Splendorous Mallet",
+  "profession": "goldsmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Augmented Splendorous Mallet",
+   "zh-CN": "改良型卓越工艺锤",
+   "zh-TW": "改良型卓越工藝錘",
+   "ja": "モーエン・マレットRE"
+  },
+  "desc": {
+   "en": "Augmented splendorous tool.",
+   "zh-CN": "莫雯卓越工具第2阶段",
+   "zh-TW": "莫雯卓越工具第2階段",
+   "ja": "[モーエンツール第2段階]"
+  }
+ },
+ {
+  "slug": "augmented-splendorous-knife",
+  "en": "Augmented Splendorous Knife",
+  "profession": "leatherworker",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Augmented Splendorous Knife",
+   "zh-CN": "改良型卓越圆革刀",
+   "zh-TW": "改良型卓越圓革刀",
+   "ja": "モーエン・ナイフRE"
+  },
+  "desc": {
+   "en": "Augmented splendorous tool.",
+   "zh-CN": "莫雯卓越工具第2阶段",
+   "zh-TW": "莫雯卓越工具第2階段",
+   "ja": "[モーエンツール第2段階]"
+  }
+ },
+ {
+  "slug": "augmented-splendorous-needle",
+  "en": "Augmented Splendorous Needle",
+  "profession": "weaver",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Augmented Splendorous Needle",
+   "zh-CN": "改良型卓越缝针",
+   "zh-TW": "改良型卓越縫針",
+   "ja": "モーエン・ニードルRE"
+  },
+  "desc": {
+   "en": "Augmented splendorous tool.",
+   "zh-CN": "莫雯卓越工具第2阶段",
+   "zh-TW": "莫雯卓越工具第2階段",
+   "ja": "[モーエンツール第2段階]"
+  }
+ },
+ {
+  "slug": "augmented-splendorous-alembic",
+  "en": "Augmented Splendorous Alembic",
+  "profession": "alchemist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Augmented Splendorous Alembic",
+   "zh-CN": "改良型卓越蒸馏器",
+   "zh-TW": "改良型卓越蒸餾器",
+   "ja": "モーエン・アレンビックRE"
+  },
+  "desc": {
+   "en": "Augmented splendorous tool.",
+   "zh-CN": "莫雯卓越工具第2阶段",
+   "zh-TW": "莫雯卓越工具第2階段",
+   "ja": "[モーエンツール第2段階]"
+  }
+ },
+ {
+  "slug": "augmented-splendorous-frypan",
+  "en": "Augmented Splendorous Frypan",
+  "profession": "culinarian",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Augmented Splendorous Frypan",
+   "zh-CN": "改良型卓越煎锅",
+   "zh-TW": "改良型卓越煎鍋",
+   "ja": "モーエン・フライパンRE"
+  },
+  "desc": {
+   "en": "Augmented splendorous tool.",
+   "zh-CN": "莫雯卓越工具第2阶段",
+   "zh-TW": "莫雯卓越工具第2階段",
+   "ja": "[モーエンツール第2段階]"
+  }
+ },
+ {
+  "slug": "augmented-splendorous-pickaxe",
+  "en": "Augmented Splendorous Pickaxe",
+  "profession": "miner",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Augmented Splendorous Pickaxe",
+   "zh-CN": "改良型卓越鹤嘴锄",
+   "zh-TW": "改良型卓越鶴嘴鋤",
+   "ja": "モーエン・ピックRE"
+  },
+  "desc": {
+   "en": "Augmented splendorous tool.",
+   "zh-CN": "莫雯卓越工具第2阶段",
+   "zh-TW": "莫雯卓越工具第2階段",
+   "ja": "[モーエンツール第2段階]"
+  }
+ },
+ {
+  "slug": "augmented-splendorous-hatchet",
+  "en": "Augmented Splendorous Hatchet",
+  "profession": "botanist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Augmented Splendorous Hatchet",
+   "zh-CN": "改良型卓越手斧",
+   "zh-TW": "改良型卓越手斧",
+   "ja": "モーエン・ハチェットRE"
+  },
+  "desc": {
+   "en": "Augmented splendorous tool.",
+   "zh-CN": "莫雯卓越工具第2阶段",
+   "zh-TW": "莫雯卓越工具第2階段",
+   "ja": "[モーエンツール第2段階]"
+  }
+ },
+ {
+  "slug": "augmented-splendorous-fishing-rod",
+  "en": "Augmented Splendorous Fishing Rod",
+  "profession": "fisher",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Augmented Splendorous Fishing Rod",
+   "zh-CN": "改良型卓越钓竿",
+   "zh-TW": "改良型卓越釣竿",
+   "ja": "モーエン・ロッドRE"
+  },
+  "desc": {
+   "en": "Augmented splendorous tool.",
+   "zh-CN": "莫雯卓越工具第2阶段",
+   "zh-TW": "莫雯卓越工具第2階段",
+   "ja": "[モーエンツール第2段階]"
+  }
+ },
+ {
+  "slug": "crystalline-saw",
+  "en": "Crystalline Saw",
+  "profession": "carpenter",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Crystalline Saw",
+   "zh-CN": "水晶手锯",
+   "zh-TW": "水晶手鋸",
+   "ja": "クリスタライン・ソー"
+  },
+  "desc": {
+   "en": "Adaptive splendorous tool.",
+   "zh-CN": "莫雯卓越工具第3阶段",
+   "zh-TW": "莫雯卓越工具第3階段",
+   "ja": "[モーエンツール第3段階]"
+  }
+ },
+ {
+  "slug": "crystalline-cross-pein-hammer",
+  "en": "Crystalline Cross-pein Hammer",
+  "profession": "blacksmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Crystalline Cross-pein Hammer",
+   "zh-CN": "水晶横头锤",
+   "zh-TW": "水晶橫頭錘",
+   "ja": "クリスタライン・クロスペインハンマー"
+  },
+  "desc": {
+   "en": "Adaptive splendorous tool.",
+   "zh-CN": "莫雯卓越工具第3阶段",
+   "zh-TW": "莫雯卓越工具第3階段",
+   "ja": "[モーエンツール第3段階]"
+  }
+ },
+ {
+  "slug": "crystalline-raising-hammer",
+  "en": "Crystalline Raising Hammer",
+  "profession": "armorer",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Crystalline Raising Hammer",
+   "zh-CN": "水晶圆头锤",
+   "zh-TW": "水晶圓頭錘",
+   "ja": "クリスタライン・レイジングハンマー"
+  },
+  "desc": {
+   "en": "Adaptive splendorous tool.",
+   "zh-CN": "莫雯卓越工具第3阶段",
+   "zh-TW": "莫雯卓越工具第3階段",
+   "ja": "[モーエンツール第3段階]"
+  }
+ },
+ {
+  "slug": "crystalline-mallet",
+  "en": "Crystalline Mallet",
+  "profession": "goldsmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Crystalline Mallet",
+   "zh-CN": "水晶工艺锤",
+   "zh-TW": "水晶工藝錘",
+   "ja": "クリスタライン・マレット"
+  },
+  "desc": {
+   "en": "Adaptive splendorous tool.",
+   "zh-CN": "莫雯卓越工具第3阶段",
+   "zh-TW": "莫雯卓越工具第3階段",
+   "ja": "[モーエンツール第3段階]"
+  }
+ },
+ {
+  "slug": "crystalline-round-knife",
+  "en": "Crystalline Round Knife",
+  "profession": "leatherworker",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Crystalline Round Knife",
+   "zh-CN": "水晶圆革刀",
+   "zh-TW": "水晶圓革刀",
+   "ja": "クリスタライン・ラウンドナイフ"
+  },
+  "desc": {
+   "en": "Adaptive splendorous tool.",
+   "zh-CN": "莫雯卓越工具第3阶段",
+   "zh-TW": "莫雯卓越工具第3階段",
+   "ja": "[モーエンツール第3段階]"
+  }
+ },
+ {
+  "slug": "crystalline-needle",
+  "en": "Crystalline Needle",
+  "profession": "weaver",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Crystalline Needle",
+   "zh-CN": "水晶缝针",
+   "zh-TW": "水晶縫針",
+   "ja": "クリスタライン・ニードル"
+  },
+  "desc": {
+   "en": "Adaptive splendorous tool.",
+   "zh-CN": "莫雯卓越工具第3阶段",
+   "zh-TW": "莫雯卓越工具第3階段",
+   "ja": "[モーエンツール第3段階]"
+  }
+ },
+ {
+  "slug": "crystalline-alembic",
+  "en": "Crystalline Alembic",
+  "profession": "alchemist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Crystalline Alembic",
+   "zh-CN": "水晶蒸馏器",
+   "zh-TW": "水晶蒸餾器",
+   "ja": "クリスタライン・アレンビック"
+  },
+  "desc": {
+   "en": "Adaptive splendorous tool.",
+   "zh-CN": "莫雯卓越工具第3阶段",
+   "zh-TW": "莫雯卓越工具第3階段",
+   "ja": "[モーエンツール第3段階]"
+  }
+ },
+ {
+  "slug": "crystalline-frypan",
+  "en": "Crystalline Frypan",
+  "profession": "culinarian",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Crystalline Frypan",
+   "zh-CN": "水晶煎锅",
+   "zh-TW": "水晶煎鍋",
+   "ja": "クリスタライン・フライパン"
+  },
+  "desc": {
+   "en": "Adaptive splendorous tool.",
+   "zh-CN": "莫雯卓越工具第3阶段",
+   "zh-TW": "莫雯卓越工具第3階段",
+   "ja": "[モーエンツール第3段階]"
+  }
+ },
+ {
+  "slug": "crystalline-pickaxe",
+  "en": "Crystalline Pickaxe",
+  "profession": "miner",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Crystalline Pickaxe",
+   "zh-CN": "水晶鹤嘴锄",
+   "zh-TW": "水晶鶴嘴鋤",
+   "ja": "クリスタライン・ピック"
+  },
+  "desc": {
+   "en": "Adaptive splendorous tool.",
+   "zh-CN": "莫雯卓越工具第3阶段",
+   "zh-TW": "莫雯卓越工具第3階段",
+   "ja": "[モーエンツール第3段階]"
+  }
+ },
+ {
+  "slug": "crystalline-hatchet",
+  "en": "Crystalline Hatchet",
+  "profession": "botanist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Crystalline Hatchet",
+   "zh-CN": "水晶手斧",
+   "zh-TW": "水晶手斧",
+   "ja": "クリスタライン・ハチェット"
+  },
+  "desc": {
+   "en": "Adaptive splendorous tool.",
+   "zh-CN": "莫雯卓越工具第3阶段",
+   "zh-TW": "莫雯卓越工具第3階段",
+   "ja": "[モーエンツール第3段階]"
+  }
+ },
+ {
+  "slug": "crystalline-fishing-rod",
+  "en": "Crystalline Fishing Rod",
+  "profession": "fisher",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Crystalline Fishing Rod",
+   "zh-CN": "水晶钓竿",
+   "zh-TW": "水晶釣竿",
+   "ja": "クリスタライン・フィッシングロッド"
+  },
+  "desc": {
+   "en": "Adaptive splendorous tool.",
+   "zh-CN": "莫雯卓越工具第3阶段",
+   "zh-TW": "莫雯卓越工具第3階段",
+   "ja": "[モーエンツール第3段階]"
+  }
+ },
+ {
+  "slug": "chora-zoi-s-crystalline-saw",
+  "en": "Chora-Zoi's Crystalline Saw",
+  "profession": "carpenter",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Chora-Zoi's Crystalline Saw",
+   "zh-CN": "乔菈水晶手锯",
+   "zh-TW": "喬菈水晶手鋸",
+   "ja": "ゾイズクリスタライン・ソー"
+  },
+  "desc": {
+   "en": "Customized splendorous tool.",
+   "zh-CN": "莫雯卓越工具第4阶段",
+   "zh-TW": "莫雯卓越工具第4階段",
+   "ja": "[モーエンツール第4段階]"
+  }
+ },
+ {
+  "slug": "chora-zoi-s-crystalline-cross-pein-hammer",
+  "en": "Chora-Zoi's Crystalline Cross-pein Hammer",
+  "profession": "blacksmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Chora-Zoi's Crystalline Cross-pein Hammer",
+   "zh-CN": "乔菈水晶横头锤",
+   "zh-TW": "喬菈水晶橫頭錘",
+   "ja": "ゾイズクリスタライン・クロスペインハンマー"
+  },
+  "desc": {
+   "en": "Customized splendorous tool.",
+   "zh-CN": "莫雯卓越工具第4阶段",
+   "zh-TW": "莫雯卓越工具第4階段",
+   "ja": "[モーエンツール第4段階]"
+  }
+ },
+ {
+  "slug": "chora-zoi-s-crystalline-raising-hammer",
+  "en": "Chora-Zoi's Crystalline Raising Hammer",
+  "profession": "armorer",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Chora-Zoi's Crystalline Raising Hammer",
+   "zh-CN": "乔菈水晶圆头锤",
+   "zh-TW": "喬菈水晶圓頭錘",
+   "ja": "ゾイズクリスタライン・レイジングハンマー"
+  },
+  "desc": {
+   "en": "Customized splendorous tool.",
+   "zh-CN": "莫雯卓越工具第4阶段",
+   "zh-TW": "莫雯卓越工具第4階段",
+   "ja": "[モーエンツール第4段階]"
+  }
+ },
+ {
+  "slug": "chora-zoi-s-crystalline-mallet",
+  "en": "Chora-Zoi's Crystalline Mallet",
+  "profession": "goldsmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Chora-Zoi's Crystalline Mallet",
+   "zh-CN": "乔菈水晶工艺锤",
+   "zh-TW": "喬菈水晶工藝錘",
+   "ja": "ゾイズクリスタライン・マレット"
+  },
+  "desc": {
+   "en": "Customized splendorous tool.",
+   "zh-CN": "莫雯卓越工具第4阶段",
+   "zh-TW": "莫雯卓越工具第4階段",
+   "ja": "[モーエンツール第4段階]"
+  }
+ },
+ {
+  "slug": "chora-zoi-s-crystalline-round-knife",
+  "en": "Chora-Zoi's Crystalline Round Knife",
+  "profession": "leatherworker",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Chora-Zoi's Crystalline Round Knife",
+   "zh-CN": "乔菈水晶圆革刀",
+   "zh-TW": "喬菈水晶圓革刀",
+   "ja": "ゾイズクリスタライン・ラウンドナイフ"
+  },
+  "desc": {
+   "en": "Customized splendorous tool.",
+   "zh-CN": "莫雯卓越工具第4阶段",
+   "zh-TW": "莫雯卓越工具第4階段",
+   "ja": "[モーエンツール第4段階]"
+  }
+ },
+ {
+  "slug": "chora-zoi-s-crystalline-needle",
+  "en": "Chora-Zoi's Crystalline Needle",
+  "profession": "weaver",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Chora-Zoi's Crystalline Needle",
+   "zh-CN": "乔菈水晶缝针",
+   "zh-TW": "喬菈水晶縫針",
+   "ja": "ゾイズクリスタライン・ニードル"
+  },
+  "desc": {
+   "en": "Customized splendorous tool.",
+   "zh-CN": "莫雯卓越工具第4阶段",
+   "zh-TW": "莫雯卓越工具第4階段",
+   "ja": "[モーエンツール第4段階]"
+  }
+ },
+ {
+  "slug": "chora-zoi-s-crystalline-alembic",
+  "en": "Chora-Zoi's Crystalline Alembic",
+  "profession": "alchemist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Chora-Zoi's Crystalline Alembic",
+   "zh-CN": "乔菈水晶蒸馏器",
+   "zh-TW": "喬菈水晶蒸餾器",
+   "ja": "ゾイズクリスタライン・アレンビック"
+  },
+  "desc": {
+   "en": "Customized splendorous tool.",
+   "zh-CN": "莫雯卓越工具第4阶段",
+   "zh-TW": "莫雯卓越工具第4階段",
+   "ja": "[モーエンツール第4段階]"
+  }
+ },
+ {
+  "slug": "chora-zoi-s-crystalline-frypan",
+  "en": "Chora-Zoi's Crystalline Frypan",
+  "profession": "culinarian",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Chora-Zoi's Crystalline Frypan",
+   "zh-CN": "乔菈水晶煎锅",
+   "zh-TW": "喬菈水晶煎鍋",
+   "ja": "ゾイズクリスタライン・フライパン"
+  },
+  "desc": {
+   "en": "Customized splendorous tool.",
+   "zh-CN": "莫雯卓越工具第4阶段",
+   "zh-TW": "莫雯卓越工具第4階段",
+   "ja": "[モーエンツール第4段階]"
+  }
+ },
+ {
+  "slug": "chora-zoi-s-crystalline-pickaxe",
+  "en": "Chora-Zoi's Crystalline Pickaxe",
+  "profession": "miner",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Chora-Zoi's Crystalline Pickaxe",
+   "zh-CN": "乔菈水晶鹤嘴锄",
+   "zh-TW": "喬菈水晶鶴嘴鋤",
+   "ja": "ゾイズクリスタライン・ピック"
+  },
+  "desc": {
+   "en": "Customized splendorous tool.",
+   "zh-CN": "莫雯卓越工具第4阶段",
+   "zh-TW": "莫雯卓越工具第4階段",
+   "ja": "[モーエンツール第4段階]"
+  }
+ },
+ {
+  "slug": "chora-zoi-s-crystalline-hatchet",
+  "en": "Chora-Zoi's Crystalline Hatchet",
+  "profession": "botanist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Chora-Zoi's Crystalline Hatchet",
+   "zh-CN": "乔菈水晶手斧",
+   "zh-TW": "喬菈水晶手斧",
+   "ja": "ゾイズクリスタライン・ハチェット"
+  },
+  "desc": {
+   "en": "Customized splendorous tool.",
+   "zh-CN": "莫雯卓越工具第4阶段",
+   "zh-TW": "莫雯卓越工具第4階段",
+   "ja": "[モーエンツール第4段階]"
+  }
+ },
+ {
+  "slug": "chora-zoi-s-crystalline-fishing-rod",
+  "en": "Chora-Zoi's Crystalline Fishing Rod",
+  "profession": "fisher",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Chora-Zoi's Crystalline Fishing Rod",
+   "zh-CN": "乔菈水晶钓竿",
+   "zh-TW": "喬菈水晶釣竿",
+   "ja": "ゾイズクリスタライン・フィッシングロッド"
+  },
+  "desc": {
+   "en": "Customized splendorous tool.",
+   "zh-CN": "莫雯卓越工具第4阶段",
+   "zh-TW": "莫雯卓越工具第4階段",
+   "ja": "[モーエンツール第4段階]"
+  }
+ },
+ {
+  "slug": "brilliant-saw",
+  "en": "Brilliant Saw",
+  "profession": "carpenter",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Brilliant Saw",
+   "zh-CN": "乔菈卓绝手锯",
+   "zh-TW": "喬菈卓絕手鋸",
+   "ja": "ゾイズスプレンディド・ソー"
+  },
+  "desc": {
+   "en": "Brilliant splendorous tool.",
+   "zh-CN": "莫雯卓越工具第5阶段",
+   "zh-TW": "莫雯卓越工具第5階段",
+   "ja": "[モーエンツール第5段階]"
+  }
+ },
+ {
+  "slug": "brilliant-cross-pein-hammer",
+  "en": "Brilliant Cross-pein Hammer",
+  "profession": "blacksmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Brilliant Cross-pein Hammer",
+   "zh-CN": "乔菈卓绝横头锤",
+   "zh-TW": "喬菈卓絕橫頭錘",
+   "ja": "ゾイズスプレンディド・クロスペインハンマー"
+  },
+  "desc": {
+   "en": "Brilliant splendorous tool.",
+   "zh-CN": "莫雯卓越工具第5阶段",
+   "zh-TW": "莫雯卓越工具第5階段",
+   "ja": "[モーエンツール第5段階]"
+  }
+ },
+ {
+  "slug": "brilliant-raising-hammer",
+  "en": "Brilliant Raising Hammer",
+  "profession": "armorer",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Brilliant Raising Hammer",
+   "zh-CN": "乔菈卓绝圆头锤",
+   "zh-TW": "喬菈卓絕圓頭錘",
+   "ja": "ゾイズスプレンディド・レイジングハンマー"
+  },
+  "desc": {
+   "en": "Brilliant splendorous tool.",
+   "zh-CN": "莫雯卓越工具第5阶段",
+   "zh-TW": "莫雯卓越工具第5階段",
+   "ja": "[モーエンツール第5段階]"
+  }
+ },
+ {
+  "slug": "brilliant-mallet",
+  "en": "Brilliant Mallet",
+  "profession": "goldsmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Brilliant Mallet",
+   "zh-CN": "乔菈卓绝工艺锤",
+   "zh-TW": "喬菈卓絕工藝錘",
+   "ja": "ゾイズスプレンディド・マレット"
+  },
+  "desc": {
+   "en": "Brilliant splendorous tool.",
+   "zh-CN": "莫雯卓越工具第5阶段",
+   "zh-TW": "莫雯卓越工具第5階段",
+   "ja": "[モーエンツール第5段階]"
+  }
+ },
+ {
+  "slug": "brilliant-round-knife",
+  "en": "Brilliant Round Knife",
+  "profession": "leatherworker",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Brilliant Round Knife",
+   "zh-CN": "乔菈卓绝圆革刀",
+   "zh-TW": "喬菈卓絕圓革刀",
+   "ja": "ゾイズスプレンディド・ラウンドナイフ"
+  },
+  "desc": {
+   "en": "Brilliant splendorous tool.",
+   "zh-CN": "莫雯卓越工具第5阶段",
+   "zh-TW": "莫雯卓越工具第5階段",
+   "ja": "[モーエンツール第5段階]"
+  }
+ },
+ {
+  "slug": "brilliant-needle",
+  "en": "Brilliant Needle",
+  "profession": "weaver",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Brilliant Needle",
+   "zh-CN": "乔菈卓绝缝针",
+   "zh-TW": "喬菈卓絕縫針",
+   "ja": "ゾイズスプレンディド・ニードル"
+  },
+  "desc": {
+   "en": "Brilliant splendorous tool.",
+   "zh-CN": "莫雯卓越工具第5阶段",
+   "zh-TW": "莫雯卓越工具第5階段",
+   "ja": "[モーエンツール第5段階]"
+  }
+ },
+ {
+  "slug": "brilliant-alembic",
+  "en": "Brilliant Alembic",
+  "profession": "alchemist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Brilliant Alembic",
+   "zh-CN": "乔菈卓绝蒸馏器",
+   "zh-TW": "喬菈卓絕蒸餾器",
+   "ja": "ゾイズスプレンディド・アレンビック"
+  },
+  "desc": {
+   "en": "Brilliant splendorous tool.",
+   "zh-CN": "莫雯卓越工具第5阶段",
+   "zh-TW": "莫雯卓越工具第5階段",
+   "ja": "[モーエンツール第5段階]"
+  }
+ },
+ {
+  "slug": "brilliant-frypan",
+  "en": "Brilliant Frypan",
+  "profession": "culinarian",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Brilliant Frypan",
+   "zh-CN": "乔菈卓绝煎锅",
+   "zh-TW": "喬菈卓絕煎鍋",
+   "ja": "ゾイズスプレンディド・フライパン"
+  },
+  "desc": {
+   "en": "Brilliant splendorous tool.",
+   "zh-CN": "莫雯卓越工具第5阶段",
+   "zh-TW": "莫雯卓越工具第5階段",
+   "ja": "[モーエンツール第5段階]"
+  }
+ },
+ {
+  "slug": "brilliant-pickaxe",
+  "en": "Brilliant Pickaxe",
+  "profession": "miner",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Brilliant Pickaxe",
+   "zh-CN": "乔菈卓绝鹤嘴锄",
+   "zh-TW": "喬菈卓絕鶴嘴鋤",
+   "ja": "ゾイズスプレンディド・ピック"
+  },
+  "desc": {
+   "en": "Brilliant splendorous tool.",
+   "zh-CN": "莫雯卓越工具第5阶段",
+   "zh-TW": "莫雯卓越工具第5階段",
+   "ja": "[モーエンツール第5段階]"
+  }
+ },
+ {
+  "slug": "brilliant-hatchet",
+  "en": "Brilliant Hatchet",
+  "profession": "botanist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Brilliant Hatchet",
+   "zh-CN": "乔菈卓绝手斧",
+   "zh-TW": "喬菈卓絕手斧",
+   "ja": "ゾイズスプレンディド・ハチェット"
+  },
+  "desc": {
+   "en": "Brilliant splendorous tool.",
+   "zh-CN": "莫雯卓越工具第5阶段",
+   "zh-TW": "莫雯卓越工具第5階段",
+   "ja": "[モーエンツール第5段階]"
+  }
+ },
+ {
+  "slug": "brilliant-fishing-rod",
+  "en": "Brilliant Fishing Rod",
+  "profession": "fisher",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Brilliant Fishing Rod",
+   "zh-CN": "乔菈卓绝钓竿",
+   "zh-TW": "喬菈卓絕釣竿",
+   "ja": "ゾイズスプレンディド・フィッシングロッド"
+  },
+  "desc": {
+   "en": "Brilliant splendorous tool.",
+   "zh-CN": "莫雯卓越工具第5阶段",
+   "zh-TW": "莫雯卓越工具第5階段",
+   "ja": "[モーエンツール第5段階]"
+  }
+ },
+ {
+  "slug": "vrandtic-visionary-s-saw",
+  "en": "Vrandtic Visionary's Saw",
+  "profession": "carpenter",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Vrandtic Visionary's Saw",
+   "zh-CN": "诺弗兰特远见手锯",
+   "zh-TW": "諾弗蘭特遠見手鋸",
+   "ja": "ヴランティック・ソー"
+  },
+  "desc": {
+   "en": "Inspirational splendorous tool.",
+   "zh-CN": "莫雯卓越工具第6阶段",
+   "zh-TW": "莫雯卓越工具第6階段",
+   "ja": "[モーエンツール第6段階]"
+  }
+ },
+ {
+  "slug": "vrandtic-visionary-s-cross-pein-hammer",
+  "en": "Vrandtic Visionary's Cross-pein Hammer",
+  "profession": "blacksmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Vrandtic Visionary's Cross-pein Hammer",
+   "zh-CN": "诺弗兰特远见横头锤",
+   "zh-TW": "諾弗蘭特遠見橫頭錘",
+   "ja": "ヴランティック・クロスペインハンマー"
+  },
+  "desc": {
+   "en": "Inspirational splendorous tool.",
+   "zh-CN": "莫雯卓越工具第6阶段",
+   "zh-TW": "莫雯卓越工具第6階段",
+   "ja": "[モーエンツール第6段階]"
+  }
+ },
+ {
+  "slug": "vrandtic-visionary-s-raising-hammer",
+  "en": "Vrandtic Visionary's Raising Hammer",
+  "profession": "armorer",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Vrandtic Visionary's Raising Hammer",
+   "zh-CN": "诺弗兰特远见圆头锤",
+   "zh-TW": "諾弗蘭特遠見圓頭錘",
+   "ja": "ヴランティック・レイジングハンマー"
+  },
+  "desc": {
+   "en": "Inspirational splendorous tool.",
+   "zh-CN": "莫雯卓越工具第6阶段",
+   "zh-TW": "莫雯卓越工具第6階段",
+   "ja": "[モーエンツール第6段階]"
+  }
+ },
+ {
+  "slug": "vrandtic-visionary-s-mallet",
+  "en": "Vrandtic Visionary's Mallet",
+  "profession": "goldsmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Vrandtic Visionary's Mallet",
+   "zh-CN": "诺弗兰特远见工艺锤",
+   "zh-TW": "諾弗蘭特遠見工藝錘",
+   "ja": "ヴランティック・マレット"
+  },
+  "desc": {
+   "en": "Inspirational splendorous tool.",
+   "zh-CN": "莫雯卓越工具第6阶段",
+   "zh-TW": "莫雯卓越工具第6階段",
+   "ja": "[モーエンツール第6段階]"
+  }
+ },
+ {
+  "slug": "vrandtic-visionary-s-round-knife",
+  "en": "Vrandtic Visionary's Round Knife",
+  "profession": "leatherworker",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Vrandtic Visionary's Round Knife",
+   "zh-CN": "诺弗兰特远见圆革刀",
+   "zh-TW": "諾弗蘭特遠見圓革刀",
+   "ja": "ヴランティック・ラウンドナイフ"
+  },
+  "desc": {
+   "en": "Inspirational splendorous tool.",
+   "zh-CN": "莫雯卓越工具第6阶段",
+   "zh-TW": "莫雯卓越工具第6階段",
+   "ja": "[モーエンツール第6段階]"
+  }
+ },
+ {
+  "slug": "vrandtic-visionary-s-needle",
+  "en": "Vrandtic Visionary's Needle",
+  "profession": "weaver",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Vrandtic Visionary's Needle",
+   "zh-CN": "诺弗兰特远见缝针",
+   "zh-TW": "諾弗蘭特遠見縫針",
+   "ja": "ヴランティック・ニードル"
+  },
+  "desc": {
+   "en": "Inspirational splendorous tool.",
+   "zh-CN": "莫雯卓越工具第6阶段",
+   "zh-TW": "莫雯卓越工具第6階段",
+   "ja": "[モーエンツール第6段階]"
+  }
+ },
+ {
+  "slug": "vrandtic-visionary-s-alembic",
+  "en": "Vrandtic Visionary's Alembic",
+  "profession": "alchemist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Vrandtic Visionary's Alembic",
+   "zh-CN": "诺弗兰特远见蒸馏器",
+   "zh-TW": "諾弗蘭特遠見蒸餾器",
+   "ja": "ヴランティック・アレンビック"
+  },
+  "desc": {
+   "en": "Inspirational splendorous tool.",
+   "zh-CN": "莫雯卓越工具第6阶段",
+   "zh-TW": "莫雯卓越工具第6階段",
+   "ja": "[モーエンツール第6段階]"
+  }
+ },
+ {
+  "slug": "vrandtic-visionary-s-frypan",
+  "en": "Vrandtic Visionary's Frypan",
+  "profession": "culinarian",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Vrandtic Visionary's Frypan",
+   "zh-CN": "诺弗兰特远见平底锅",
+   "zh-TW": "諾弗蘭特遠見平底鍋",
+   "ja": "ヴランティック・フライパン"
+  },
+  "desc": {
+   "en": "Inspirational splendorous tool.",
+   "zh-CN": "莫雯卓越工具第6阶段",
+   "zh-TW": "莫雯卓越工具第6階段",
+   "ja": "[モーエンツール第6段階]"
+  }
+ },
+ {
+  "slug": "vrandtic-visionary-s-pickaxe",
+  "en": "Vrandtic Visionary's Pickaxe",
+  "profession": "miner",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Vrandtic Visionary's Pickaxe",
+   "zh-CN": "诺弗兰特远见鹤嘴锄",
+   "zh-TW": "諾弗蘭特遠見鶴嘴鋤",
+   "ja": "ヴランティック・ピック"
+  },
+  "desc": {
+   "en": "Inspirational splendorous tool.",
+   "zh-CN": "莫雯卓越工具第6阶段",
+   "zh-TW": "莫雯卓越工具第6階段",
+   "ja": "[モーエンツール第6段階]"
+  }
+ },
+ {
+  "slug": "vrandtic-visionary-s-hatchet",
+  "en": "Vrandtic Visionary's Hatchet",
+  "profession": "botanist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Vrandtic Visionary's Hatchet",
+   "zh-CN": "诺弗兰特远见手斧",
+   "zh-TW": "諾弗蘭特遠見手斧",
+   "ja": "ヴランティック・ハチェット"
+  },
+  "desc": {
+   "en": "Inspirational splendorous tool.",
+   "zh-CN": "莫雯卓越工具第6阶段",
+   "zh-TW": "莫雯卓越工具第6階段",
+   "ja": "[モーエンツール第6段階]"
+  }
+ },
+ {
+  "slug": "vrandtic-visionary-s-fishing-rod",
+  "en": "Vrandtic Visionary's Fishing Rod",
+  "profession": "fisher",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Vrandtic Visionary's Fishing Rod",
+   "zh-CN": "诺弗兰特远见钓竿",
+   "zh-TW": "諾弗蘭特遠見釣竿",
+   "ja": "ヴランティック・フィッシングロッド"
+  },
+  "desc": {
+   "en": "Inspirational splendorous tool.",
+   "zh-CN": "莫雯卓越工具第6阶段",
+   "zh-TW": "莫雯卓越工具第6階段",
+   "ja": "[モーエンツール第6段階]"
+  }
+ },
+ {
+  "slug": "lodestar-saw",
+  "en": "Lodestar Saw",
+  "profession": "carpenter",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Lodestar Saw",
+   "zh-CN": "领航星手锯",
+   "zh-TW": "領航星手鋸",
+   "ja": "ロードスター・ソー"
+  },
+  "desc": {
+   "en": "Perfected splendorous tool.",
+   "zh-CN": "莫雯卓越工具最终阶段",
+   "zh-TW": "莫雯卓越工具最終階段",
+   "ja": "[モーエンツール最終段階]"
+  }
+ },
+ {
+  "slug": "lodestar-cross-pein-hammer",
+  "en": "Lodestar Cross-pein Hammer",
+  "profession": "blacksmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Lodestar Cross-pein Hammer",
+   "zh-CN": "领航星横头锤",
+   "zh-TW": "領航星橫頭錘",
+   "ja": "ロードスター・クロスペインハンマー"
+  },
+  "desc": {
+   "en": "Perfected splendorous tool.",
+   "zh-CN": "莫雯卓越工具最终阶段",
+   "zh-TW": "莫雯卓越工具最終階段",
+   "ja": "[モーエンツール最終段階]"
+  }
+ },
+ {
+  "slug": "lodestar-raising-hammer",
+  "en": "Lodestar Raising Hammer",
+  "profession": "armorer",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Lodestar Raising Hammer",
+   "zh-CN": "领航星圆头锤",
+   "zh-TW": "領航星圓頭錘",
+   "ja": "ロードスター・レイジングハンマー"
+  },
+  "desc": {
+   "en": "Perfected splendorous tool.",
+   "zh-CN": "莫雯卓越工具最终阶段",
+   "zh-TW": "莫雯卓越工具最終階段",
+   "ja": "[モーエンツール最終段階]"
+  }
+ },
+ {
+  "slug": "lodestar-mallet",
+  "en": "Lodestar Mallet",
+  "profession": "goldsmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Lodestar Mallet",
+   "zh-CN": "领航星工艺锤",
+   "zh-TW": "領航星工藝錘",
+   "ja": "ロードスター・マレット"
+  },
+  "desc": {
+   "en": "Perfected splendorous tool.",
+   "zh-CN": "莫雯卓越工具最终阶段",
+   "zh-TW": "莫雯卓越工具最終階段",
+   "ja": "[モーエンツール最終段階]"
+  }
+ },
+ {
+  "slug": "lodestar-round-knife",
+  "en": "Lodestar Round Knife",
+  "profession": "leatherworker",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Lodestar Round Knife",
+   "zh-CN": "领航星圆革刀",
+   "zh-TW": "領航星圓革刀",
+   "ja": "ロードスター・ラウンドナイフ"
+  },
+  "desc": {
+   "en": "Perfected splendorous tool.",
+   "zh-CN": "莫雯卓越工具最终阶段",
+   "zh-TW": "莫雯卓越工具最終階段",
+   "ja": "[モーエンツール最終段階]"
+  }
+ },
+ {
+  "slug": "lodestar-needle",
+  "en": "Lodestar Needle",
+  "profession": "weaver",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Lodestar Needle",
+   "zh-CN": "领航星缝针",
+   "zh-TW": "領航星縫針",
+   "ja": "ロードスター・ニードル"
+  },
+  "desc": {
+   "en": "Perfected splendorous tool.",
+   "zh-CN": "莫雯卓越工具最终阶段",
+   "zh-TW": "莫雯卓越工具最終階段",
+   "ja": "[モーエンツール最終段階]"
+  }
+ },
+ {
+  "slug": "lodestar-alembic",
+  "en": "Lodestar Alembic",
+  "profession": "alchemist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Lodestar Alembic",
+   "zh-CN": "领航星蒸馏器",
+   "zh-TW": "領航星蒸餾器",
+   "ja": "ロードスター・アレンビック"
+  },
+  "desc": {
+   "en": "Perfected splendorous tool.",
+   "zh-CN": "莫雯卓越工具最终阶段",
+   "zh-TW": "莫雯卓越工具最終階段",
+   "ja": "[モーエンツール最終段階]"
+  }
+ },
+ {
+  "slug": "lodestar-frypan",
+  "en": "Lodestar Frypan",
+  "profession": "culinarian",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Lodestar Frypan",
+   "zh-CN": "领航星平底锅",
+   "zh-TW": "領航星平底鍋",
+   "ja": "ロードスター・フライパン"
+  },
+  "desc": {
+   "en": "Perfected splendorous tool.",
+   "zh-CN": "莫雯卓越工具最终阶段",
+   "zh-TW": "莫雯卓越工具最終階段",
+   "ja": "[モーエンツール最終段階]"
+  }
+ },
+ {
+  "slug": "lodestar-pickaxe",
+  "en": "Lodestar Pickaxe",
+  "profession": "miner",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Lodestar Pickaxe",
+   "zh-CN": "领航星鹤嘴锄",
+   "zh-TW": "領航星鶴嘴鋤",
+   "ja": "ロードスター・ピック"
+  },
+  "desc": {
+   "en": "Perfected splendorous tool.",
+   "zh-CN": "莫雯卓越工具最终阶段",
+   "zh-TW": "莫雯卓越工具最終階段",
+   "ja": "[モーエンツール最終段階]"
+  }
+ },
+ {
+  "slug": "lodestar-hatchet",
+  "en": "Lodestar Hatchet",
+  "profession": "botanist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Lodestar Hatchet",
+   "zh-CN": "领航星手斧",
+   "zh-TW": "領航星手斧",
+   "ja": "ロードスター・ハチェット"
+  },
+  "desc": {
+   "en": "Perfected splendorous tool.",
+   "zh-CN": "莫雯卓越工具最终阶段",
+   "zh-TW": "莫雯卓越工具最終階段",
+   "ja": "[モーエンツール最終段階]"
+  }
+ },
+ {
+  "slug": "lodestar-fishing-rod",
+  "en": "Lodestar Fishing Rod",
+  "profession": "fisher",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Lodestar Fishing Rod",
+   "zh-CN": "领航星钓竿",
+   "zh-TW": "領航星釣竿",
+   "ja": "ロードスター・フィッシングロッド"
+  },
+  "desc": {
+   "en": "Perfected splendorous tool.",
+   "zh-CN": "莫雯卓越工具最终阶段",
+   "zh-TW": "莫雯卓越工具最終階段",
+   "ja": "[モーエンツール最終段階]"
+  }
+ },
+ {
+  "slug": "cosmic-saw-prototype-v0-1",
+  "en": "Cosmic Saw Prototype v0.1",
+  "profession": "carpenter",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Saw Prototype v0.1",
+   "zh-CN": "原型宇宙手锯v0.1",
+   "zh-TW": "原型宇宙手鋸v0.1",
+   "ja": "プロトコスモ・ソー v0.1"
+  },
+  "desc": {
+   "en": "Phase 1 cosmic tool.",
+   "zh-CN": "宇宙工具第1阶段",
+   "zh-TW": "宇宙工具第1階段",
+   "ja": "[コスモツール第1段階]"
+  }
+ },
+ {
+  "slug": "cosmic-cross-pein-hammer-prototype-v0-1",
+  "en": "Cosmic Cross-pein Hammer Prototype v0.1",
+  "profession": "blacksmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Cross-pein Hammer Prototype v0.1",
+   "zh-CN": "原型宇宙横头锤v0.1",
+   "zh-TW": "原型宇宙橫頭錘v0.1",
+   "ja": "プロトコスモ・クロスペインハンマー v0.1"
+  },
+  "desc": {
+   "en": "Phase 1 cosmic tool.",
+   "zh-CN": "宇宙工具第1阶段",
+   "zh-TW": "宇宙工具第1階段",
+   "ja": "[コスモツール第1段階]"
+  }
+ },
+ {
+  "slug": "cosmic-raising-hammer-prototype-v0-1",
+  "en": "Cosmic Raising Hammer Prototype v0.1",
+  "profession": "armorer",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Raising Hammer Prototype v0.1",
+   "zh-CN": "原型宇宙圆头锤v0.1",
+   "zh-TW": "原型宇宙圓頭錘v0.1",
+   "ja": "プロトコスモ・レイジングハンマー v0.1"
+  },
+  "desc": {
+   "en": "Phase 1 cosmic tool.",
+   "zh-CN": "宇宙工具第1阶段",
+   "zh-TW": "宇宙工具第1階段",
+   "ja": "[コスモツール第1段階]"
+  }
+ },
+ {
+  "slug": "cosmic-mallet-prototype-v0-1",
+  "en": "Cosmic Mallet Prototype v0.1",
+  "profession": "goldsmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Mallet Prototype v0.1",
+   "zh-CN": "原型宇宙工艺锤v0.1",
+   "zh-TW": "原型宇宙工藝錘v0.1",
+   "ja": "プロトコスモ・マレット v0.1"
+  },
+  "desc": {
+   "en": "Phase 1 cosmic tool.",
+   "zh-CN": "宇宙工具第1阶段",
+   "zh-TW": "宇宙工具第1階段",
+   "ja": "[コスモツール第1段階]"
+  }
+ },
+ {
+  "slug": "cosmic-round-knife-v0-1",
+  "en": "Cosmic Round Knife v0.1",
+  "profession": "leatherworker",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Round Knife v0.1",
+   "zh-CN": "原型宇宙圆革刀v0.1",
+   "zh-TW": "原型宇宙圓革刀v0.1",
+   "ja": "プロトコスモ・ラウンドナイフ v0.1"
+  },
+  "desc": {
+   "en": "Phase 1 cosmic tool.",
+   "zh-CN": "宇宙工具第1阶段",
+   "zh-TW": "宇宙工具第1階段",
+   "ja": "[コスモツール第1段階]"
+  }
+ },
+ {
+  "slug": "cosmic-needle-v0-1",
+  "en": "Cosmic Needle v0.1",
+  "profession": "weaver",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Needle v0.1",
+   "zh-CN": "原型宇宙缝针v0.1",
+   "zh-TW": "原型宇宙縫針v0.1",
+   "ja": "プロトコスモ・ニードル v0.1"
+  },
+  "desc": {
+   "en": "Phase 1 cosmic tool.",
+   "zh-CN": "宇宙工具第1阶段",
+   "zh-TW": "宇宙工具第1階段",
+   "ja": "[コスモツール第1段階]"
+  }
+ },
+ {
+  "slug": "cosmic-alembic-prototype-v0-1",
+  "en": "Cosmic Alembic Prototype v0.1",
+  "profession": "alchemist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Alembic Prototype v0.1",
+   "zh-CN": "原型宇宙蒸馏器v0.1",
+   "zh-TW": "原型宇宙蒸餾器v0.1",
+   "ja": "プロトコスモ・アレンビック v0.1"
+  },
+  "desc": {
+   "en": "Phase 1 cosmic tool.",
+   "zh-CN": "宇宙工具第1阶段",
+   "zh-TW": "宇宙工具第1階段",
+   "ja": "[コスモツール第1段階]"
+  }
+ },
+ {
+  "slug": "cosmic-frypan-prototype-v0-1",
+  "en": "Cosmic Frypan Prototype v0.1",
+  "profession": "culinarian",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Frypan Prototype v0.1",
+   "zh-CN": "原型宇宙煎锅v0.1",
+   "zh-TW": "原型宇宙煎鍋v0.1",
+   "ja": "プロトコスモ・フライパン v0.1"
+  },
+  "desc": {
+   "en": "Phase 1 cosmic tool.",
+   "zh-CN": "宇宙工具第1阶段",
+   "zh-TW": "宇宙工具第1階段",
+   "ja": "[コスモツール第1段階]"
+  }
+ },
+ {
+  "slug": "cosmic-pickaxe-prototype-v0-1",
+  "en": "Cosmic Pickaxe Prototype v0.1",
+  "profession": "miner",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Pickaxe Prototype v0.1",
+   "zh-CN": "原型宇宙鹤嘴锄v0.1",
+   "zh-TW": "原型宇宙鶴嘴鋤v0.1",
+   "ja": "プロトコスモ・ピック v0.1"
+  },
+  "desc": {
+   "en": "Phase 1 cosmic tool.",
+   "zh-CN": "宇宙工具第1阶段",
+   "zh-TW": "宇宙工具第1階段",
+   "ja": "[コスモツール第1段階]"
+  }
+ },
+ {
+  "slug": "cosmic-hatchet-prototype-v0-1",
+  "en": "Cosmic Hatchet Prototype v0.1",
+  "profession": "botanist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Hatchet Prototype v0.1",
+   "zh-CN": "原型宇宙手斧v0.1",
+   "zh-TW": "原型宇宙手斧v0.1",
+   "ja": "プロトコスモ・ハチェット v0.1"
+  },
+  "desc": {
+   "en": "Phase 1 cosmic tool.",
+   "zh-CN": "宇宙工具第1阶段",
+   "zh-TW": "宇宙工具第1階段",
+   "ja": "[コスモツール第1段階]"
+  }
+ },
+ {
+  "slug": "cosmic-fishing-rod-prototype-v0-1",
+  "en": "Cosmic Fishing Rod Prototype v0.1",
+  "profession": "fisher",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Fishing Rod Prototype v0.1",
+   "zh-CN": "原型宇宙钓竿v0.1",
+   "zh-TW": "原型宇宙釣竿v0.1",
+   "ja": "プロトコスモ・フィッシングロッド v0.1"
+  },
+  "desc": {
+   "en": "Phase 1 cosmic tool.",
+   "zh-CN": "宇宙工具第1阶段",
+   "zh-TW": "宇宙工具第1階段",
+   "ja": "[コスモツール第1段階]"
+  }
+ },
+ {
+  "slug": "cosmic-saw-prototype-v0-2",
+  "en": "Cosmic Saw Prototype v0.2",
+  "profession": "carpenter",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Saw Prototype v0.2",
+   "zh-CN": "原型宇宙手锯v0.2",
+   "zh-TW": "原型宇宙手鋸v0.2",
+   "ja": "プロトコスモ・ソー v0.2"
+  },
+  "desc": {
+   "en": "Phase 2 cosmic tool.",
+   "zh-CN": "宇宙工具第2阶段",
+   "zh-TW": "宇宙工具第2階段",
+   "ja": "[コスモツール第2段階]"
+  }
+ },
+ {
+  "slug": "cosmic-cross-pein-hammer-prototype-v0-2",
+  "en": "Cosmic Cross-pein Hammer Prototype v0.2",
+  "profession": "blacksmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Cross-pein Hammer Prototype v0.2",
+   "zh-CN": "原型宇宙横头锤v0.2",
+   "zh-TW": "原型宇宙橫頭錘v0.2",
+   "ja": "プロトコスモ・クロスペインハンマー v0.2"
+  },
+  "desc": {
+   "en": "Phase 2 cosmic tool.",
+   "zh-CN": "宇宙工具第2阶段",
+   "zh-TW": "宇宙工具第2階段",
+   "ja": "[コスモツール第2段階]"
+  }
+ },
+ {
+  "slug": "cosmic-raising-hammer-prototype-v0-2",
+  "en": "Cosmic Raising Hammer Prototype v0.2",
+  "profession": "armorer",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Raising Hammer Prototype v0.2",
+   "zh-CN": "原型宇宙圆头锤v0.2",
+   "zh-TW": "原型宇宙圓頭錘v0.2",
+   "ja": "プロトコスモ・レイジングハンマー v0.2"
+  },
+  "desc": {
+   "en": "Phase 2 cosmic tool.",
+   "zh-CN": "宇宙工具第2阶段",
+   "zh-TW": "宇宙工具第2階段",
+   "ja": "[コスモツール第2段階]"
+  }
+ },
+ {
+  "slug": "cosmic-mallet-prototype-v0-2",
+  "en": "Cosmic Mallet Prototype v0.2",
+  "profession": "goldsmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Mallet Prototype v0.2",
+   "zh-CN": "原型宇宙工艺锤v0.2",
+   "zh-TW": "原型宇宙工藝錘v0.2",
+   "ja": "プロトコスモ・マレット v0.2"
+  },
+  "desc": {
+   "en": "Phase 2 cosmic tool.",
+   "zh-CN": "宇宙工具第2阶段",
+   "zh-TW": "宇宙工具第2階段",
+   "ja": "[コスモツール第2段階]"
+  }
+ },
+ {
+  "slug": "cosmic-round-knife-v0-2",
+  "en": "Cosmic Round Knife v0.2",
+  "profession": "leatherworker",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Round Knife v0.2",
+   "zh-CN": "原型宇宙圆革刀v0.2",
+   "zh-TW": "原型宇宙圓革刀v0.2",
+   "ja": "プロトコスモ・ラウンドナイフ v0.2"
+  },
+  "desc": {
+   "en": "Phase 2 cosmic tool.",
+   "zh-CN": "宇宙工具第2阶段",
+   "zh-TW": "宇宙工具第2階段",
+   "ja": "[コスモツール第2段階]"
+  }
+ },
+ {
+  "slug": "cosmic-needle-v0-2",
+  "en": "Cosmic Needle v0.2",
+  "profession": "weaver",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Needle v0.2",
+   "zh-CN": "原型宇宙缝针v0.2",
+   "zh-TW": "原型宇宙縫針v0.2",
+   "ja": "プロトコスモ・ニードル v0.2"
+  },
+  "desc": {
+   "en": "Phase 2 cosmic tool.",
+   "zh-CN": "宇宙工具第2阶段",
+   "zh-TW": "宇宙工具第2階段",
+   "ja": "[コスモツール第2段階]"
+  }
+ },
+ {
+  "slug": "cosmic-alembic-prototype-v0-2",
+  "en": "Cosmic Alembic Prototype v0.2",
+  "profession": "alchemist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Alembic Prototype v0.2",
+   "zh-CN": "原型宇宙蒸馏器v0.2",
+   "zh-TW": "原型宇宙蒸餾器v0.2",
+   "ja": "プロトコスモ・アレンビック v0.2"
+  },
+  "desc": {
+   "en": "Phase 2 cosmic tool.",
+   "zh-CN": "宇宙工具第2阶段",
+   "zh-TW": "宇宙工具第2階段",
+   "ja": "[コスモツール第2段階]"
+  }
+ },
+ {
+  "slug": "cosmic-frypan-prototype-v0-2",
+  "en": "Cosmic Frypan Prototype v0.2",
+  "profession": "culinarian",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Frypan Prototype v0.2",
+   "zh-CN": "原型宇宙煎锅v0.2",
+   "zh-TW": "原型宇宙煎鍋v0.2",
+   "ja": "プロトコスモ・フライパン v0.2"
+  },
+  "desc": {
+   "en": "Phase 2 cosmic tool.",
+   "zh-CN": "宇宙工具第2阶段",
+   "zh-TW": "宇宙工具第2階段",
+   "ja": "[コスモツール第2段階]"
+  }
+ },
+ {
+  "slug": "cosmic-pickaxe-prototype-v0-2",
+  "en": "Cosmic Pickaxe Prototype v0.2",
+  "profession": "miner",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Pickaxe Prototype v0.2",
+   "zh-CN": "原型宇宙鹤嘴锄v0.2",
+   "zh-TW": "原型宇宙鶴嘴鋤v0.2",
+   "ja": "プロトコスモ・ピック v0.2"
+  },
+  "desc": {
+   "en": "Phase 2 cosmic tool.",
+   "zh-CN": "宇宙工具第2阶段",
+   "zh-TW": "宇宙工具第2階段",
+   "ja": "[コスモツール第2段階]"
+  }
+ },
+ {
+  "slug": "cosmic-hatchet-prototype-v0-2",
+  "en": "Cosmic Hatchet Prototype v0.2",
+  "profession": "botanist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Hatchet Prototype v0.2",
+   "zh-CN": "原型宇宙手斧v0.2",
+   "zh-TW": "原型宇宙手斧v0.2",
+   "ja": "プロトコスモ・ハチェット v0.2"
+  },
+  "desc": {
+   "en": "Phase 2 cosmic tool.",
+   "zh-CN": "宇宙工具第2阶段",
+   "zh-TW": "宇宙工具第2階段",
+   "ja": "[コスモツール第2段階]"
+  }
+ },
+ {
+  "slug": "cosmic-fishing-rod-prototype-v0-2",
+  "en": "Cosmic Fishing Rod Prototype v0.2",
+  "profession": "fisher",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Fishing Rod Prototype v0.2",
+   "zh-CN": "原型宇宙钓竿v0.2",
+   "zh-TW": "原型宇宙釣竿v0.2",
+   "ja": "プロトコスモ・フィッシングロッド v0.2"
+  },
+  "desc": {
+   "en": "Phase 2 cosmic tool.",
+   "zh-CN": "宇宙工具第2阶段",
+   "zh-TW": "宇宙工具第2階段",
+   "ja": "[コスモツール第2段階]"
+  }
+ },
+ {
+  "slug": "cosmic-saw-prototype-v0-3",
+  "en": "Cosmic Saw Prototype v0.3",
+  "profession": "carpenter",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Saw Prototype v0.3",
+   "zh-CN": "原型宇宙手锯v0.3",
+   "zh-TW": "原型宇宙手鋸v0.3",
+   "ja": "プロトコスモ・ソー v0.3"
+  },
+  "desc": {
+   "en": "Phase 3 cosmic tool.",
+   "zh-CN": "宇宙工具第3阶段",
+   "zh-TW": "宇宙工具第3階段",
+   "ja": "[コスモツール第3段階]"
+  }
+ },
+ {
+  "slug": "cosmic-cross-pein-hammer-prototype-v0-3",
+  "en": "Cosmic Cross-pein Hammer Prototype v0.3",
+  "profession": "blacksmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Cross-pein Hammer Prototype v0.3",
+   "zh-CN": "原型宇宙横头锤v0.3",
+   "zh-TW": "原型宇宙橫頭錘v0.3",
+   "ja": "プロトコスモ・クロスペインハンマー v0.3"
+  },
+  "desc": {
+   "en": "Phase 3 cosmic tool.",
+   "zh-CN": "宇宙工具第3阶段",
+   "zh-TW": "宇宙工具第3階段",
+   "ja": "[コスモツール第3段階]"
+  }
+ },
+ {
+  "slug": "cosmic-raising-hammer-prototype-v0-3",
+  "en": "Cosmic Raising Hammer Prototype v0.3",
+  "profession": "armorer",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Raising Hammer Prototype v0.3",
+   "zh-CN": "原型宇宙圆头锤v0.3",
+   "zh-TW": "原型宇宙圓頭錘v0.3",
+   "ja": "プロトコスモ・レイジングハンマー v0.3"
+  },
+  "desc": {
+   "en": "Phase 3 cosmic tool.",
+   "zh-CN": "宇宙工具第3阶段",
+   "zh-TW": "宇宙工具第3階段",
+   "ja": "[コスモツール第3段階]"
+  }
+ },
+ {
+  "slug": "cosmic-mallet-prototype-v0-3",
+  "en": "Cosmic Mallet Prototype v0.3",
+  "profession": "goldsmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Mallet Prototype v0.3",
+   "zh-CN": "原型宇宙工艺锤v0.3",
+   "zh-TW": "原型宇宙工藝錘v0.3",
+   "ja": "プロトコスモ・マレット v0.3"
+  },
+  "desc": {
+   "en": "Phase 3 cosmic tool.",
+   "zh-CN": "宇宙工具第3阶段",
+   "zh-TW": "宇宙工具第3階段",
+   "ja": "[コスモツール第3段階]"
+  }
+ },
+ {
+  "slug": "cosmic-round-knife-v0-3",
+  "en": "Cosmic Round Knife v0.3",
+  "profession": "leatherworker",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Round Knife v0.3",
+   "zh-CN": "原型宇宙圆革刀v0.3",
+   "zh-TW": "原型宇宙圓革刀v0.3",
+   "ja": "プロトコスモ・ラウンドナイフ v0.3"
+  },
+  "desc": {
+   "en": "Phase 3 cosmic tool.",
+   "zh-CN": "宇宙工具第3阶段",
+   "zh-TW": "宇宙工具第3階段",
+   "ja": "[コスモツール第3段階]"
+  }
+ },
+ {
+  "slug": "cosmic-needle-v0-3",
+  "en": "Cosmic Needle v0.3",
+  "profession": "weaver",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Needle v0.3",
+   "zh-CN": "原型宇宙缝针v0.3",
+   "zh-TW": "原型宇宙縫針v0.3",
+   "ja": "プロトコスモ・ニードル v0.3"
+  },
+  "desc": {
+   "en": "Phase 3 cosmic tool.",
+   "zh-CN": "宇宙工具第3阶段",
+   "zh-TW": "宇宙工具第3階段",
+   "ja": "[コスモツール第3段階]"
+  }
+ },
+ {
+  "slug": "cosmic-alembic-prototype-v0-3",
+  "en": "Cosmic Alembic Prototype v0.3",
+  "profession": "alchemist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Alembic Prototype v0.3",
+   "zh-CN": "原型宇宙蒸馏器v0.3",
+   "zh-TW": "原型宇宙蒸餾器v0.3",
+   "ja": "プロトコスモ・アレンビック v0.3"
+  },
+  "desc": {
+   "en": "Phase 3 cosmic tool.",
+   "zh-CN": "宇宙工具第3阶段",
+   "zh-TW": "宇宙工具第3階段",
+   "ja": "[コスモツール第3段階]"
+  }
+ },
+ {
+  "slug": "cosmic-frypan-prototype-v0-3",
+  "en": "Cosmic Frypan Prototype v0.3",
+  "profession": "culinarian",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Frypan Prototype v0.3",
+   "zh-CN": "原型宇宙煎锅v0.3",
+   "zh-TW": "原型宇宙煎鍋v0.3",
+   "ja": "プロトコスモ・フライパン v0.3"
+  },
+  "desc": {
+   "en": "Phase 3 cosmic tool.",
+   "zh-CN": "宇宙工具第3阶段",
+   "zh-TW": "宇宙工具第3階段",
+   "ja": "[コスモツール第3段階]"
+  }
+ },
+ {
+  "slug": "cosmic-pickaxe-prototype-v0-3",
+  "en": "Cosmic Pickaxe Prototype v0.3",
+  "profession": "miner",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Pickaxe Prototype v0.3",
+   "zh-CN": "原型宇宙鹤嘴锄v0.3",
+   "zh-TW": "原型宇宙鶴嘴鋤v0.3",
+   "ja": "プロトコスモ・ピック v0.3"
+  },
+  "desc": {
+   "en": "Phase 3 cosmic tool.",
+   "zh-CN": "宇宙工具第3阶段",
+   "zh-TW": "宇宙工具第3階段",
+   "ja": "[コスモツール第3段階]"
+  }
+ },
+ {
+  "slug": "cosmic-hatchet-prototype-v0-3",
+  "en": "Cosmic Hatchet Prototype v0.3",
+  "profession": "botanist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Hatchet Prototype v0.3",
+   "zh-CN": "原型宇宙手斧v0.3",
+   "zh-TW": "原型宇宙手斧v0.3",
+   "ja": "プロトコスモ・ハチェット v0.3"
+  },
+  "desc": {
+   "en": "Phase 3 cosmic tool.",
+   "zh-CN": "宇宙工具第3阶段",
+   "zh-TW": "宇宙工具第3階段",
+   "ja": "[コスモツール第3段階]"
+  }
+ },
+ {
+  "slug": "cosmic-fishing-rod-prototype-v0-3",
+  "en": "Cosmic Fishing Rod Prototype v0.3",
+  "profession": "fisher",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Fishing Rod Prototype v0.3",
+   "zh-CN": "原型宇宙钓竿v0.3",
+   "zh-TW": "原型宇宙釣竿v0.3",
+   "ja": "プロトコスモ・フィッシングロッド v0.3"
+  },
+  "desc": {
+   "en": "Phase 3 cosmic tool.",
+   "zh-CN": "宇宙工具第3阶段",
+   "zh-TW": "宇宙工具第3階段",
+   "ja": "[コスモツール第3段階]"
+  }
+ },
+ {
+  "slug": "cosmic-saw-prototype-v0-4",
+  "en": "Cosmic Saw Prototype v0.4",
+  "profession": "carpenter",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Saw Prototype v0.4",
+   "zh-CN": "原型宇宙手锯v0.4",
+   "zh-TW": "原型宇宙手鋸v0.4",
+   "ja": "プロトコスモ・ソー v0.4"
+  },
+  "desc": {
+   "en": "Phase 4 cosmic tool.",
+   "zh-CN": "宇宙工具第4阶段",
+   "zh-TW": "宇宙工具第4階段",
+   "ja": "[コスモツール第4段階]"
+  }
+ },
+ {
+  "slug": "cosmic-cross-pein-hammer-prototype-v0-4",
+  "en": "Cosmic Cross-pein Hammer Prototype v0.4",
+  "profession": "blacksmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Cross-pein Hammer Prototype v0.4",
+   "zh-CN": "原型宇宙横头锤v0.4",
+   "zh-TW": "原型宇宙橫頭錘v0.4",
+   "ja": "プロトコスモ・クロスペインハンマー v0.4"
+  },
+  "desc": {
+   "en": "Phase 4 cosmic tool.",
+   "zh-CN": "宇宙工具第4阶段",
+   "zh-TW": "宇宙工具第4階段",
+   "ja": "[コスモツール第4段階]"
+  }
+ },
+ {
+  "slug": "cosmic-raising-hammer-prototype-v0-4",
+  "en": "Cosmic Raising Hammer Prototype v0.4",
+  "profession": "armorer",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Raising Hammer Prototype v0.4",
+   "zh-CN": "原型宇宙圆头锤v0.4",
+   "zh-TW": "原型宇宙圓頭錘v0.4",
+   "ja": "プロトコスモ・レイジングハンマー v0.4"
+  },
+  "desc": {
+   "en": "Phase 4 cosmic tool.",
+   "zh-CN": "宇宙工具第4阶段",
+   "zh-TW": "宇宙工具第4階段",
+   "ja": "[コスモツール第4段階]"
+  }
+ },
+ {
+  "slug": "cosmic-mallet-prototype-v0-4",
+  "en": "Cosmic Mallet Prototype v0.4",
+  "profession": "goldsmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Mallet Prototype v0.4",
+   "zh-CN": "原型宇宙工艺锤v0.4",
+   "zh-TW": "原型宇宙工藝錘v0.4",
+   "ja": "プロトコスモ・マレット v0.4"
+  },
+  "desc": {
+   "en": "Phase 4 cosmic tool.",
+   "zh-CN": "宇宙工具第4阶段",
+   "zh-TW": "宇宙工具第4階段",
+   "ja": "[コスモツール第4段階]"
+  }
+ },
+ {
+  "slug": "cosmic-round-knife-v0-4",
+  "en": "Cosmic Round Knife v0.4",
+  "profession": "leatherworker",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Round Knife v0.4",
+   "zh-CN": "原型宇宙圆革刀v0.4",
+   "zh-TW": "原型宇宙圓革刀v0.4",
+   "ja": "プロトコスモ・ラウンドナイフ v0.4"
+  },
+  "desc": {
+   "en": "Phase 4 cosmic tool.",
+   "zh-CN": "宇宙工具第4阶段",
+   "zh-TW": "宇宙工具第4階段",
+   "ja": "[コスモツール第4段階]"
+  }
+ },
+ {
+  "slug": "cosmic-needle-v0-4",
+  "en": "Cosmic Needle v0.4",
+  "profession": "weaver",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Needle v0.4",
+   "zh-CN": "原型宇宙缝针v0.4",
+   "zh-TW": "原型宇宙縫針v0.4",
+   "ja": "プロトコスモ・ニードル v0.4"
+  },
+  "desc": {
+   "en": "Phase 4 cosmic tool.",
+   "zh-CN": "宇宙工具第4阶段",
+   "zh-TW": "宇宙工具第4階段",
+   "ja": "[コスモツール第4段階]"
+  }
+ },
+ {
+  "slug": "cosmic-alembic-prototype-v0-4",
+  "en": "Cosmic Alembic Prototype v0.4",
+  "profession": "alchemist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Alembic Prototype v0.4",
+   "zh-CN": "原型宇宙蒸馏器v0.4",
+   "zh-TW": "原型宇宙蒸餾器v0.4",
+   "ja": "プロトコスモ・アレンビック v0.4"
+  },
+  "desc": {
+   "en": "Phase 4 cosmic tool.",
+   "zh-CN": "宇宙工具第4阶段",
+   "zh-TW": "宇宙工具第4階段",
+   "ja": "[コスモツール第4段階]"
+  }
+ },
+ {
+  "slug": "cosmic-frypan-prototype-v0-4",
+  "en": "Cosmic Frypan Prototype v0.4",
+  "profession": "culinarian",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Frypan Prototype v0.4",
+   "zh-CN": "原型宇宙煎锅v0.4",
+   "zh-TW": "原型宇宙煎鍋v0.4",
+   "ja": "プロトコスモ・フライパン v0.4"
+  },
+  "desc": {
+   "en": "Phase 4 cosmic tool.",
+   "zh-CN": "宇宙工具第4阶段",
+   "zh-TW": "宇宙工具第4階段",
+   "ja": "[コスモツール第4段階]"
+  }
+ },
+ {
+  "slug": "cosmic-pickaxe-prototype-v0-4",
+  "en": "Cosmic Pickaxe Prototype v0.4",
+  "profession": "miner",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Pickaxe Prototype v0.4",
+   "zh-CN": "原型宇宙鹤嘴锄v0.4",
+   "zh-TW": "原型宇宙鶴嘴鋤v0.4",
+   "ja": "プロトコスモ・ピック v0.4"
+  },
+  "desc": {
+   "en": "Phase 4 cosmic tool.",
+   "zh-CN": "宇宙工具第4阶段",
+   "zh-TW": "宇宙工具第4階段",
+   "ja": "[コスモツール第4段階]"
+  }
+ },
+ {
+  "slug": "cosmic-hatchet-prototype-v0-4",
+  "en": "Cosmic Hatchet Prototype v0.4",
+  "profession": "botanist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Hatchet Prototype v0.4",
+   "zh-CN": "原型宇宙手斧v0.4",
+   "zh-TW": "原型宇宙手斧v0.4",
+   "ja": "プロトコスモ・ハチェット v0.4"
+  },
+  "desc": {
+   "en": "Phase 4 cosmic tool.",
+   "zh-CN": "宇宙工具第4阶段",
+   "zh-TW": "宇宙工具第4階段",
+   "ja": "[コスモツール第4段階]"
+  }
+ },
+ {
+  "slug": "cosmic-fishing-rod-prototype-v0-4",
+  "en": "Cosmic Fishing Rod Prototype v0.4",
+  "profession": "fisher",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Fishing Rod Prototype v0.4",
+   "zh-CN": "原型宇宙钓竿v0.4",
+   "zh-TW": "原型宇宙釣竿v0.4",
+   "ja": "プロトコスモ・フィッシングロッド v0.4"
+  },
+  "desc": {
+   "en": "Phase 4 cosmic tool.",
+   "zh-CN": "宇宙工具第4阶段",
+   "zh-TW": "宇宙工具第4階段",
+   "ja": "[コスモツール第4段階]"
+  }
+ },
+ {
+  "slug": "cosmic-saw-prototype-v0-5",
+  "en": "Cosmic Saw Prototype v0.5",
+  "profession": "carpenter",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Saw Prototype v0.5",
+   "zh-CN": "原型宇宙手锯v0.5",
+   "zh-TW": "原型宇宙手鋸v0.5",
+   "ja": "プロトコスモ・ソー v0.5"
+  },
+  "desc": {
+   "en": "Phase 5 cosmic tool.",
+   "zh-CN": "宇宙工具第5阶段",
+   "zh-TW": "宇宙工具第5階段",
+   "ja": "[コスモツール第5段階]"
+  }
+ },
+ {
+  "slug": "cosmic-cross-pein-hammer-prototype-v0-5",
+  "en": "Cosmic Cross-pein Hammer Prototype v0.5",
+  "profession": "blacksmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Cross-pein Hammer Prototype v0.5",
+   "zh-CN": "原型宇宙横头锤v0.5",
+   "zh-TW": "原型宇宙橫頭錘v0.5",
+   "ja": "プロトコスモ・クロスペインハンマー v0.5"
+  },
+  "desc": {
+   "en": "Phase 5 cosmic tool.",
+   "zh-CN": "宇宙工具第5阶段",
+   "zh-TW": "宇宙工具第5階段",
+   "ja": "[コスモツール第5段階]"
+  }
+ },
+ {
+  "slug": "cosmic-raising-hammer-prototype-v0-5",
+  "en": "Cosmic Raising Hammer Prototype v0.5",
+  "profession": "armorer",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Raising Hammer Prototype v0.5",
+   "zh-CN": "原型宇宙圆头锤v0.5",
+   "zh-TW": "原型宇宙圓頭錘v0.5",
+   "ja": "プロトコスモ・レイジングハンマー v0.5"
+  },
+  "desc": {
+   "en": "Phase 5 cosmic tool.",
+   "zh-CN": "宇宙工具第5阶段",
+   "zh-TW": "宇宙工具第5階段",
+   "ja": "[コスモツール第5段階]"
+  }
+ },
+ {
+  "slug": "cosmic-mallet-prototype-v0-5",
+  "en": "Cosmic Mallet Prototype v0.5",
+  "profession": "goldsmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Mallet Prototype v0.5",
+   "zh-CN": "原型宇宙工艺锤v0.5",
+   "zh-TW": "原型宇宙工藝錘v0.5",
+   "ja": "プロトコスモ・マレット v0.5"
+  },
+  "desc": {
+   "en": "Phase 5 cosmic tool.",
+   "zh-CN": "宇宙工具第5阶段",
+   "zh-TW": "宇宙工具第5階段",
+   "ja": "[コスモツール第5段階]"
+  }
+ },
+ {
+  "slug": "cosmic-round-knife-v0-5",
+  "en": "Cosmic Round Knife v0.5",
+  "profession": "leatherworker",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Round Knife v0.5",
+   "zh-CN": "原型宇宙圆革刀v0.5",
+   "zh-TW": "原型宇宙圓革刀v0.5",
+   "ja": "プロトコスモ・ラウンドナイフ v0.5"
+  },
+  "desc": {
+   "en": "Phase 5 cosmic tool.",
+   "zh-CN": "宇宙工具第5阶段",
+   "zh-TW": "宇宙工具第5階段",
+   "ja": "[コスモツール第5段階]"
+  }
+ },
+ {
+  "slug": "cosmic-needle-v0-5",
+  "en": "Cosmic Needle v0.5",
+  "profession": "weaver",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Needle v0.5",
+   "zh-CN": "原型宇宙缝针v0.5",
+   "zh-TW": "原型宇宙縫針v0.5",
+   "ja": "プロトコスモ・ニードル v0.5"
+  },
+  "desc": {
+   "en": "Phase 5 cosmic tool.",
+   "zh-CN": "宇宙工具第5阶段",
+   "zh-TW": "宇宙工具第5階段",
+   "ja": "[コスモツール第5段階]"
+  }
+ },
+ {
+  "slug": "cosmic-alembic-prototype-v0-5",
+  "en": "Cosmic Alembic Prototype v0.5",
+  "profession": "alchemist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Alembic Prototype v0.5",
+   "zh-CN": "原型宇宙蒸馏器v0.5",
+   "zh-TW": "原型宇宙蒸餾器v0.5",
+   "ja": "プロトコスモ・アレンビック v0.5"
+  },
+  "desc": {
+   "en": "Phase 5 cosmic tool.",
+   "zh-CN": "宇宙工具第5阶段",
+   "zh-TW": "宇宙工具第5階段",
+   "ja": "[コスモツール第5段階]"
+  }
+ },
+ {
+  "slug": "cosmic-frypan-prototype-v0-5",
+  "en": "Cosmic Frypan Prototype v0.5",
+  "profession": "culinarian",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Frypan Prototype v0.5",
+   "zh-CN": "原型宇宙煎锅v0.5",
+   "zh-TW": "原型宇宙煎鍋v0.5",
+   "ja": "プロトコスモ・フライパン v0.5"
+  },
+  "desc": {
+   "en": "Phase 5 cosmic tool.",
+   "zh-CN": "宇宙工具第5阶段",
+   "zh-TW": "宇宙工具第5階段",
+   "ja": "[コスモツール第5段階]"
+  }
+ },
+ {
+  "slug": "cosmic-pickaxe-prototype-v0-5",
+  "en": "Cosmic Pickaxe Prototype v0.5",
+  "profession": "miner",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Pickaxe Prototype v0.5",
+   "zh-CN": "原型宇宙鹤嘴锄v0.5",
+   "zh-TW": "原型宇宙鶴嘴鋤v0.5",
+   "ja": "プロトコスモ・ピック v0.5"
+  },
+  "desc": {
+   "en": "Phase 5 cosmic tool.",
+   "zh-CN": "宇宙工具第5阶段",
+   "zh-TW": "宇宙工具第5階段",
+   "ja": "[コスモツール第5段階]"
+  }
+ },
+ {
+  "slug": "cosmic-hatchet-prototype-v0-5",
+  "en": "Cosmic Hatchet Prototype v0.5",
+  "profession": "botanist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Hatchet Prototype v0.5",
+   "zh-CN": "原型宇宙手斧v0.5",
+   "zh-TW": "原型宇宙手斧v0.5",
+   "ja": "プロトコスモ・ハチェット v0.5"
+  },
+  "desc": {
+   "en": "Phase 5 cosmic tool.",
+   "zh-CN": "宇宙工具第5阶段",
+   "zh-TW": "宇宙工具第5階段",
+   "ja": "[コスモツール第5段階]"
+  }
+ },
+ {
+  "slug": "cosmic-fishing-rod-prototype-v0-5",
+  "en": "Cosmic Fishing Rod Prototype v0.5",
+  "profession": "fisher",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Fishing Rod Prototype v0.5",
+   "zh-CN": "原型宇宙钓竿v0.5",
+   "zh-TW": "原型宇宙釣竿v0.5",
+   "ja": "プロトコスモ・フィッシングロッド v0.5"
+  },
+  "desc": {
+   "en": "Phase 5 cosmic tool.",
+   "zh-CN": "宇宙工具第5阶段",
+   "zh-TW": "宇宙工具第5階段",
+   "ja": "[コスモツール第5段階]"
+  }
+ },
+ {
+  "slug": "cosmic-saw-prototype-v0-6",
+  "en": "Cosmic Saw Prototype v0.6",
+  "profession": "carpenter",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Saw Prototype v0.6",
+   "zh-CN": "原型宇宙手锯v0.6",
+   "zh-TW": "原型宇宙手鋸v0.6",
+   "ja": "プロトコスモ・ソー v0.6"
+  },
+  "desc": {
+   "en": "Phase 6 cosmic tool.",
+   "zh-CN": "宇宙工具第6阶段",
+   "zh-TW": "宇宙工具第6階段",
+   "ja": "[コスモツール第6段階]"
+  }
+ },
+ {
+  "slug": "cosmic-cross-pein-hammer-prototype-v0-6",
+  "en": "Cosmic Cross-pein Hammer Prototype v0.6",
+  "profession": "blacksmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Cross-pein Hammer Prototype v0.6",
+   "zh-CN": "原型宇宙横头锤v0.6",
+   "zh-TW": "原型宇宙橫頭錘v0.6",
+   "ja": "プロトコスモ・クロスペインハンマー v0.6"
+  },
+  "desc": {
+   "en": "Phase 6 cosmic tool.",
+   "zh-CN": "宇宙工具第6阶段",
+   "zh-TW": "宇宙工具第6階段",
+   "ja": "[コスモツール第6段階]"
+  }
+ },
+ {
+  "slug": "cosmic-raising-hammer-prototype-v0-6",
+  "en": "Cosmic Raising Hammer Prototype v0.6",
+  "profession": "armorer",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Raising Hammer Prototype v0.6",
+   "zh-CN": "原型宇宙圆头锤v0.6",
+   "zh-TW": "原型宇宙圓頭錘v0.6",
+   "ja": "プロトコスモ・レイジングハンマー v0.6"
+  },
+  "desc": {
+   "en": "Phase 6 cosmic tool.",
+   "zh-CN": "宇宙工具第6阶段",
+   "zh-TW": "宇宙工具第6階段",
+   "ja": "[コスモツール第6段階]"
+  }
+ },
+ {
+  "slug": "cosmic-mallet-prototype-v0-6",
+  "en": "Cosmic Mallet Prototype v0.6",
+  "profession": "goldsmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Mallet Prototype v0.6",
+   "zh-CN": "原型宇宙工艺锤v0.6",
+   "zh-TW": "原型宇宙工藝錘v0.6",
+   "ja": "プロトコスモ・マレット v0.6"
+  },
+  "desc": {
+   "en": "Phase 6 cosmic tool.",
+   "zh-CN": "宇宙工具第6阶段",
+   "zh-TW": "宇宙工具第6階段",
+   "ja": "[コスモツール第6段階]"
+  }
+ },
+ {
+  "slug": "cosmic-round-knife-v0-6",
+  "en": "Cosmic Round Knife v0.6",
+  "profession": "leatherworker",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Round Knife v0.6",
+   "zh-CN": "原型宇宙圆革刀v0.6",
+   "zh-TW": "原型宇宙圓革刀v0.6",
+   "ja": "プロトコスモ・ラウンドナイフ v0.6"
+  },
+  "desc": {
+   "en": "Phase 6 cosmic tool.",
+   "zh-CN": "宇宙工具第6阶段",
+   "zh-TW": "宇宙工具第6階段",
+   "ja": "[コスモツール第6段階]"
+  }
+ },
+ {
+  "slug": "cosmic-needle-v0-6",
+  "en": "Cosmic Needle v0.6",
+  "profession": "weaver",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Needle v0.6",
+   "zh-CN": "原型宇宙缝针v0.6",
+   "zh-TW": "原型宇宙縫針v0.6",
+   "ja": "プロトコスモ・ニードル v0.6"
+  },
+  "desc": {
+   "en": "Phase 6 cosmic tool.",
+   "zh-CN": "宇宙工具第6阶段",
+   "zh-TW": "宇宙工具第6階段",
+   "ja": "[コスモツール第6段階]"
+  }
+ },
+ {
+  "slug": "cosmic-alembic-prototype-v0-6",
+  "en": "Cosmic Alembic Prototype v0.6",
+  "profession": "alchemist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Alembic Prototype v0.6",
+   "zh-CN": "原型宇宙蒸馏器v0.6",
+   "zh-TW": "原型宇宙蒸餾器v0.6",
+   "ja": "プロトコスモ・アレンビック v0.6"
+  },
+  "desc": {
+   "en": "Phase 6 cosmic tool.",
+   "zh-CN": "宇宙工具第6阶段",
+   "zh-TW": "宇宙工具第6階段",
+   "ja": "[コスモツール第6段階]"
+  }
+ },
+ {
+  "slug": "cosmic-frypan-prototype-v0-6",
+  "en": "Cosmic Frypan Prototype v0.6",
+  "profession": "culinarian",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Frypan Prototype v0.6",
+   "zh-CN": "原型宇宙煎锅v0.6",
+   "zh-TW": "原型宇宙煎鍋v0.6",
+   "ja": "プロトコスモ・フライパン v0.6"
+  },
+  "desc": {
+   "en": "Phase 6 cosmic tool.",
+   "zh-CN": "宇宙工具第6阶段",
+   "zh-TW": "宇宙工具第6階段",
+   "ja": "[コスモツール第6段階]"
+  }
+ },
+ {
+  "slug": "cosmic-pickaxe-prototype-v0-6",
+  "en": "Cosmic Pickaxe Prototype v0.6",
+  "profession": "miner",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Pickaxe Prototype v0.6",
+   "zh-CN": "原型宇宙鹤嘴锄v0.6",
+   "zh-TW": "原型宇宙鶴嘴鋤v0.6",
+   "ja": "プロトコスモ・ピック v0.6"
+  },
+  "desc": {
+   "en": "Phase 6 cosmic tool.",
+   "zh-CN": "宇宙工具第6阶段",
+   "zh-TW": "宇宙工具第6階段",
+   "ja": "[コスモツール第6段階]"
+  }
+ },
+ {
+  "slug": "cosmic-hatchet-prototype-v0-6",
+  "en": "Cosmic Hatchet Prototype v0.6",
+  "profession": "botanist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Hatchet Prototype v0.6",
+   "zh-CN": "原型宇宙手斧v0.6",
+   "zh-TW": "原型宇宙手斧v0.6",
+   "ja": "プロトコスモ・ハチェット v0.6"
+  },
+  "desc": {
+   "en": "Phase 6 cosmic tool.",
+   "zh-CN": "宇宙工具第6阶段",
+   "zh-TW": "宇宙工具第6階段",
+   "ja": "[コスモツール第6段階]"
+  }
+ },
+ {
+  "slug": "cosmic-fishing-rod-prototype-v0-6",
+  "en": "Cosmic Fishing Rod Prototype v0.6",
+  "profession": "fisher",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Fishing Rod Prototype v0.6",
+   "zh-CN": "原型宇宙钓竿v0.6",
+   "zh-TW": "原型宇宙釣竿v0.6",
+   "ja": "プロトコスモ・フィッシングロッド v0.6"
+  },
+  "desc": {
+   "en": "Phase 6 cosmic tool.",
+   "zh-CN": "宇宙工具第6阶段",
+   "zh-TW": "宇宙工具第6階段",
+   "ja": "[コスモツール第6段階]"
+  }
+ },
+ {
+  "slug": "cosmic-saw-prototype-v0-7",
+  "en": "Cosmic Saw Prototype v0.7",
+  "profession": "carpenter",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Saw Prototype v0.7",
+   "zh-CN": "原型宇宙手锯v0.7",
+   "zh-TW": "原型宇宙手鋸v0.7",
+   "ja": "プロトコスモ・ソー v0.7"
+  },
+  "desc": {
+   "en": "Phase 7 cosmic tool.",
+   "zh-CN": "宇宙工具第7阶段",
+   "zh-TW": "宇宙工具第7階段",
+   "ja": "[コスモツール第7段階]"
+  }
+ },
+ {
+  "slug": "cosmic-cross-pein-hammer-prototype-v0-7",
+  "en": "Cosmic Cross-pein Hammer Prototype v0.7",
+  "profession": "blacksmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Cross-pein Hammer Prototype v0.7",
+   "zh-CN": "原型宇宙横头锤v0.7",
+   "zh-TW": "原型宇宙橫頭錘v0.7",
+   "ja": "プロトコスモ・クロスペインハンマー v0.7"
+  },
+  "desc": {
+   "en": "Phase 7 cosmic tool.",
+   "zh-CN": "宇宙工具第7阶段",
+   "zh-TW": "宇宙工具第7階段",
+   "ja": "[コスモツール第7段階]"
+  }
+ },
+ {
+  "slug": "cosmic-raising-hammer-prototype-v0-7",
+  "en": "Cosmic Raising Hammer Prototype v0.7",
+  "profession": "armorer",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Raising Hammer Prototype v0.7",
+   "zh-CN": "原型宇宙圆头锤v0.7",
+   "zh-TW": "原型宇宙圓頭錘v0.7",
+   "ja": "プロトコスモ・レイジングハンマー v0.7"
+  },
+  "desc": {
+   "en": "Phase 7 cosmic tool.",
+   "zh-CN": "宇宙工具第7阶段",
+   "zh-TW": "宇宙工具第7階段",
+   "ja": "[コスモツール第7段階]"
+  }
+ },
+ {
+  "slug": "cosmic-mallet-prototype-v0-7",
+  "en": "Cosmic Mallet Prototype v0.7",
+  "profession": "goldsmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Mallet Prototype v0.7",
+   "zh-CN": "原型宇宙工艺锤v0.7",
+   "zh-TW": "原型宇宙工藝錘v0.7",
+   "ja": "プロトコスモ・マレット v0.7"
+  },
+  "desc": {
+   "en": "Phase 7 cosmic tool.",
+   "zh-CN": "宇宙工具第7阶段",
+   "zh-TW": "宇宙工具第7階段",
+   "ja": "[コスモツール第7段階]"
+  }
+ },
+ {
+  "slug": "cosmic-round-knife-v0-7",
+  "en": "Cosmic Round Knife v0.7",
+  "profession": "leatherworker",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Round Knife v0.7",
+   "zh-CN": "原型宇宙圆革刀v0.7",
+   "zh-TW": "原型宇宙圓革刀v0.7",
+   "ja": "プロトコスモ・ラウンドナイフ v0.7"
+  },
+  "desc": {
+   "en": "Phase 7 cosmic tool.",
+   "zh-CN": "宇宙工具第7阶段",
+   "zh-TW": "宇宙工具第7階段",
+   "ja": "[コスモツール第7段階]"
+  }
+ },
+ {
+  "slug": "cosmic-needle-v0-7",
+  "en": "Cosmic Needle v0.7",
+  "profession": "weaver",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Needle v0.7",
+   "zh-CN": "原型宇宙缝针v0.7",
+   "zh-TW": "原型宇宙縫針v0.7",
+   "ja": "プロトコスモ・ニードル v0.7"
+  },
+  "desc": {
+   "en": "Phase 7 cosmic tool.",
+   "zh-CN": "宇宙工具第7阶段",
+   "zh-TW": "宇宙工具第7階段",
+   "ja": "[コスモツール第7段階]"
+  }
+ },
+ {
+  "slug": "cosmic-alembic-prototype-v0-7",
+  "en": "Cosmic Alembic Prototype v0.7",
+  "profession": "alchemist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Alembic Prototype v0.7",
+   "zh-CN": "原型宇宙蒸馏器v0.7",
+   "zh-TW": "原型宇宙蒸餾器v0.7",
+   "ja": "プロトコスモ・アレンビック v0.7"
+  },
+  "desc": {
+   "en": "Phase 7 cosmic tool.",
+   "zh-CN": "宇宙工具第7阶段",
+   "zh-TW": "宇宙工具第7階段",
+   "ja": "[コスモツール第7段階]"
+  }
+ },
+ {
+  "slug": "cosmic-frypan-prototype-v0-7",
+  "en": "Cosmic Frypan Prototype v0.7",
+  "profession": "culinarian",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Frypan Prototype v0.7",
+   "zh-CN": "原型宇宙煎锅v0.7",
+   "zh-TW": "原型宇宙煎鍋v0.7",
+   "ja": "プロトコスモ・フライパン v0.7"
+  },
+  "desc": {
+   "en": "Phase 7 cosmic tool.",
+   "zh-CN": "宇宙工具第7阶段",
+   "zh-TW": "宇宙工具第7階段",
+   "ja": "[コスモツール第7段階]"
+  }
+ },
+ {
+  "slug": "cosmic-pickaxe-prototype-v0-7",
+  "en": "Cosmic Pickaxe Prototype v0.7",
+  "profession": "miner",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Pickaxe Prototype v0.7",
+   "zh-CN": "原型宇宙鹤嘴锄v0.7",
+   "zh-TW": "原型宇宙鶴嘴鋤v0.7",
+   "ja": "プロトコスモ・ピック v0.7"
+  },
+  "desc": {
+   "en": "Phase 7 cosmic tool.",
+   "zh-CN": "宇宙工具第7阶段",
+   "zh-TW": "宇宙工具第7階段",
+   "ja": "[コスモツール第7段階]"
+  }
+ },
+ {
+  "slug": "cosmic-hatchet-prototype-v0-7",
+  "en": "Cosmic Hatchet Prototype v0.7",
+  "profession": "botanist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Hatchet Prototype v0.7",
+   "zh-CN": "原型宇宙手斧v0.7",
+   "zh-TW": "原型宇宙手斧v0.7",
+   "ja": "プロトコスモ・ハチェット v0.7"
+  },
+  "desc": {
+   "en": "Phase 7 cosmic tool.",
+   "zh-CN": "宇宙工具第7阶段",
+   "zh-TW": "宇宙工具第7階段",
+   "ja": "[コスモツール第7段階]"
+  }
+ },
+ {
+  "slug": "cosmic-fishing-rod-prototype-v0-7",
+  "en": "Cosmic Fishing Rod Prototype v0.7",
+  "profession": "fisher",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Fishing Rod Prototype v0.7",
+   "zh-CN": "原型宇宙钓竿v0.7",
+   "zh-TW": "原型宇宙釣竿v0.7",
+   "ja": "プロトコスモ・フィッシングロッド v0.7"
+  },
+  "desc": {
+   "en": "Phase 7 cosmic tool.",
+   "zh-CN": "宇宙工具第7阶段",
+   "zh-TW": "宇宙工具第7階段",
+   "ja": "[コスモツール第7段階]"
+  }
+ },
+ {
+  "slug": "cosmic-saw-prototype-v0-8",
+  "en": "Cosmic Saw Prototype v0.8",
+  "profession": "carpenter",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Saw Prototype v0.8",
+   "zh-CN": "原型宇宙手锯v0.8",
+   "zh-TW": "原型宇宙手鋸v0.8",
+   "ja": "プロトコスモ・ソー v0.8"
+  },
+  "desc": {
+   "en": "Phase 8 cosmic tool.",
+   "zh-CN": "宇宙工具第8阶段",
+   "zh-TW": "宇宙工具第8階段",
+   "ja": "[コスモツール第8段階]"
+  }
+ },
+ {
+  "slug": "cosmic-cross-pein-hammer-prototype-v0-8",
+  "en": "Cosmic Cross-pein Hammer Prototype v0.8",
+  "profession": "blacksmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Cross-pein Hammer Prototype v0.8",
+   "zh-CN": "原型宇宙横头锤v0.8",
+   "zh-TW": "原型宇宙橫頭錘v0.8",
+   "ja": "プロトコスモ・クロスペインハンマー v0.8"
+  },
+  "desc": {
+   "en": "Phase 8 cosmic tool.",
+   "zh-CN": "宇宙工具第8阶段",
+   "zh-TW": "宇宙工具第8階段",
+   "ja": "[コスモツール第8段階]"
+  }
+ },
+ {
+  "slug": "cosmic-raising-hammer-prototype-v0-8",
+  "en": "Cosmic Raising Hammer Prototype v0.8",
+  "profession": "armorer",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Raising Hammer Prototype v0.8",
+   "zh-CN": "原型宇宙圆头锤v0.8",
+   "zh-TW": "原型宇宙圓頭錘v0.8",
+   "ja": "プロトコスモ・レイジングハンマー v0.8"
+  },
+  "desc": {
+   "en": "Phase 8 cosmic tool.",
+   "zh-CN": "宇宙工具第8阶段",
+   "zh-TW": "宇宙工具第8階段",
+   "ja": "[コスモツール第8段階]"
+  }
+ },
+ {
+  "slug": "cosmic-mallet-prototype-v0-8",
+  "en": "Cosmic Mallet Prototype v0.8",
+  "profession": "goldsmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Mallet Prototype v0.8",
+   "zh-CN": "原型宇宙工艺锤v0.8",
+   "zh-TW": "原型宇宙工藝錘v0.8",
+   "ja": "プロトコスモ・マレット v0.8"
+  },
+  "desc": {
+   "en": "Phase 8 cosmic tool.",
+   "zh-CN": "宇宙工具第8阶段",
+   "zh-TW": "宇宙工具第8階段",
+   "ja": "[コスモツール第8段階]"
+  }
+ },
+ {
+  "slug": "cosmic-round-knife-v0-8",
+  "en": "Cosmic Round Knife v0.8",
+  "profession": "leatherworker",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Round Knife v0.8",
+   "zh-CN": "原型宇宙圆革刀v0.8",
+   "zh-TW": "原型宇宙圓革刀v0.8",
+   "ja": "プロトコスモ・ラウンドナイフ v0.8"
+  },
+  "desc": {
+   "en": "Phase 8 cosmic tool.",
+   "zh-CN": "宇宙工具第8阶段",
+   "zh-TW": "宇宙工具第8階段",
+   "ja": "[コスモツール第8段階]"
+  }
+ },
+ {
+  "slug": "cosmic-needle-v0-8",
+  "en": "Cosmic Needle v0.8",
+  "profession": "weaver",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Needle v0.8",
+   "zh-CN": "原型宇宙缝针v0.8",
+   "zh-TW": "原型宇宙縫針v0.8",
+   "ja": "プロトコスモ・ニードル v0.8"
+  },
+  "desc": {
+   "en": "Phase 8 cosmic tool.",
+   "zh-CN": "宇宙工具第8阶段",
+   "zh-TW": "宇宙工具第8階段",
+   "ja": "[コスモツール第8段階]"
+  }
+ },
+ {
+  "slug": "cosmic-alembic-prototype-v0-8",
+  "en": "Cosmic Alembic Prototype v0.8",
+  "profession": "alchemist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Alembic Prototype v0.8",
+   "zh-CN": "原型宇宙蒸馏器v0.8",
+   "zh-TW": "原型宇宙蒸餾器v0.8",
+   "ja": "プロトコスモ・アレンビック v0.8"
+  },
+  "desc": {
+   "en": "Phase 8 cosmic tool.",
+   "zh-CN": "宇宙工具第8阶段",
+   "zh-TW": "宇宙工具第8階段",
+   "ja": "[コスモツール第8段階]"
+  }
+ },
+ {
+  "slug": "cosmic-frypan-prototype-v0-8",
+  "en": "Cosmic Frypan Prototype v0.8",
+  "profession": "culinarian",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Frypan Prototype v0.8",
+   "zh-CN": "原型宇宙煎锅v0.8",
+   "zh-TW": "原型宇宙煎鍋v0.8",
+   "ja": "プロトコスモ・フライパン v0.8"
+  },
+  "desc": {
+   "en": "Phase 8 cosmic tool.",
+   "zh-CN": "宇宙工具第8阶段",
+   "zh-TW": "宇宙工具第8階段",
+   "ja": "[コスモツール第8段階]"
+  }
+ },
+ {
+  "slug": "cosmic-pickaxe-prototype-v0-8",
+  "en": "Cosmic Pickaxe Prototype v0.8",
+  "profession": "miner",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Pickaxe Prototype v0.8",
+   "zh-CN": "原型宇宙鹤嘴锄v0.8",
+   "zh-TW": "原型宇宙鶴嘴鋤v0.8",
+   "ja": "プロトコスモ・ピック v0.8"
+  },
+  "desc": {
+   "en": "Phase 8 cosmic tool.",
+   "zh-CN": "宇宙工具第8阶段",
+   "zh-TW": "宇宙工具第8階段",
+   "ja": "[コスモツール第8段階]"
+  }
+ },
+ {
+  "slug": "cosmic-hatchet-prototype-v0-8",
+  "en": "Cosmic Hatchet Prototype v0.8",
+  "profession": "botanist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Hatchet Prototype v0.8",
+   "zh-CN": "原型宇宙手斧v0.8",
+   "zh-TW": "原型宇宙手斧v0.8",
+   "ja": "プロトコスモ・ハチェット v0.8"
+  },
+  "desc": {
+   "en": "Phase 8 cosmic tool.",
+   "zh-CN": "宇宙工具第8阶段",
+   "zh-TW": "宇宙工具第8階段",
+   "ja": "[コスモツール第8段階]"
+  }
+ },
+ {
+  "slug": "cosmic-fishing-rod-prototype-v0-8",
+  "en": "Cosmic Fishing Rod Prototype v0.8",
+  "profession": "fisher",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Fishing Rod Prototype v0.8",
+   "zh-CN": "原型宇宙钓竿v0.8",
+   "zh-TW": "原型宇宙釣竿v0.8",
+   "ja": "プロトコスモ・フィッシングロッド v0.8"
+  },
+  "desc": {
+   "en": "Phase 8 cosmic tool.",
+   "zh-CN": "宇宙工具第8阶段",
+   "zh-TW": "宇宙工具第8階段",
+   "ja": "[コスモツール第8段階]"
+  }
+ },
+ {
+  "slug": "cosmic-saw",
+  "en": "Cosmic Saw",
+  "profession": "carpenter",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Saw",
+   "zh-CN": "宇宙手锯",
+   "zh-TW": "宇宙手鋸",
+   "ja": "コスモ・ソー"
+  },
+  "desc": {
+   "en": "Phase 9 cosmic tool.",
+   "zh-CN": "宇宙工具第9阶段",
+   "zh-TW": "宇宙工具第9階段",
+   "ja": "[コスモツール第9段階]"
+  }
+ },
+ {
+  "slug": "cosmic-cross-pein-hammer",
+  "en": "Cosmic Cross-pein Hammer",
+  "profession": "blacksmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Cross-pein Hammer",
+   "zh-CN": "宇宙横头锤",
+   "zh-TW": "宇宙橫頭錘",
+   "ja": "コスモ・クロスペインハンマー"
+  },
+  "desc": {
+   "en": "Phase 9 cosmic tool.",
+   "zh-CN": "宇宙工具第9阶段",
+   "zh-TW": "宇宙工具第9階段",
+   "ja": "[コスモツール第9段階]"
+  }
+ },
+ {
+  "slug": "cosmic-raising-hammer",
+  "en": "Cosmic Raising Hammer",
+  "profession": "armorer",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Raising Hammer",
+   "zh-CN": "宇宙圆头锤",
+   "zh-TW": "宇宙圓頭錘",
+   "ja": "コスモ・レイジングハンマー"
+  },
+  "desc": {
+   "en": "Phase 9 cosmic tool.",
+   "zh-CN": "宇宙工具第9阶段",
+   "zh-TW": "宇宙工具第9階段",
+   "ja": "[コスモツール第9段階]"
+  }
+ },
+ {
+  "slug": "cosmic-mallet",
+  "en": "Cosmic Mallet",
+  "profession": "goldsmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Mallet",
+   "zh-CN": "宇宙工艺锤",
+   "zh-TW": "宇宙工藝錘",
+   "ja": "コスモ・マレット"
+  },
+  "desc": {
+   "en": "Phase 9 cosmic tool.",
+   "zh-CN": "宇宙工具第9阶段",
+   "zh-TW": "宇宙工具第9階段",
+   "ja": "[コスモツール第9段階]"
+  }
+ },
+ {
+  "slug": "cosmic-round-knife",
+  "en": "Cosmic Round Knife",
+  "profession": "leatherworker",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Round Knife",
+   "zh-CN": "宇宙圆革刀",
+   "zh-TW": "宇宙圓革刀",
+   "ja": "コスモ・ラウンドナイフ"
+  },
+  "desc": {
+   "en": "Phase 9 cosmic tool.",
+   "zh-CN": "宇宙工具第9阶段",
+   "zh-TW": "宇宙工具第9階段",
+   "ja": "[コスモツール第9段階]"
+  }
+ },
+ {
+  "slug": "cosmic-needle",
+  "en": "Cosmic Needle",
+  "profession": "weaver",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Needle",
+   "zh-CN": "宇宙缝针",
+   "zh-TW": "宇宙縫針",
+   "ja": "コスモ・ニードル"
+  },
+  "desc": {
+   "en": "Phase 9 cosmic tool.",
+   "zh-CN": "宇宙工具第9阶段",
+   "zh-TW": "宇宙工具第9階段",
+   "ja": "[コスモツール第9段階]"
+  }
+ },
+ {
+  "slug": "cosmic-alembic",
+  "en": "Cosmic Alembic",
+  "profession": "alchemist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Alembic",
+   "zh-CN": "宇宙蒸馏器",
+   "zh-TW": "宇宙蒸餾器",
+   "ja": "コスモ・アレンビック"
+  },
+  "desc": {
+   "en": "Phase 9 cosmic tool.",
+   "zh-CN": "宇宙工具第9阶段",
+   "zh-TW": "宇宙工具第9階段",
+   "ja": "[コスモツール第9段階]"
+  }
+ },
+ {
+  "slug": "cosmic-frypan",
+  "en": "Cosmic Frypan",
+  "profession": "culinarian",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Frypan",
+   "zh-CN": "宇宙煎锅",
+   "zh-TW": "宇宙煎鍋",
+   "ja": "コスモ・フライパン"
+  },
+  "desc": {
+   "en": "Phase 9 cosmic tool.",
+   "zh-CN": "宇宙工具第9阶段",
+   "zh-TW": "宇宙工具第9階段",
+   "ja": "[コスモツール第9段階]"
+  }
+ },
+ {
+  "slug": "cosmic-pickaxe",
+  "en": "Cosmic Pickaxe",
+  "profession": "miner",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Pickaxe",
+   "zh-CN": "宇宙鹤嘴锄",
+   "zh-TW": "宇宙鶴嘴鋤",
+   "ja": "コスモ・ピック"
+  },
+  "desc": {
+   "en": "Phase 9 cosmic tool.",
+   "zh-CN": "宇宙工具第9阶段",
+   "zh-TW": "宇宙工具第9階段",
+   "ja": "[コスモツール第9段階]"
+  }
+ },
+ {
+  "slug": "cosmic-hatchet",
+  "en": "Cosmic Hatchet",
+  "profession": "botanist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Hatchet",
+   "zh-CN": "宇宙手斧",
+   "zh-TW": "宇宙手斧",
+   "ja": "コスモ・ハチェット"
+  },
+  "desc": {
+   "en": "Phase 9 cosmic tool.",
+   "zh-CN": "宇宙工具第9阶段",
+   "zh-TW": "宇宙工具第9階段",
+   "ja": "[コスモツール第9段階]"
+  }
+ },
+ {
+  "slug": "cosmic-fishing-rod",
+  "en": "Cosmic Fishing Rod",
+  "profession": "fisher",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Fishing Rod",
+   "zh-CN": "宇宙钓竿",
+   "zh-TW": "宇宙釣竿",
+   "ja": "コスモ・フィッシングロッド"
+  },
+  "desc": {
+   "en": "Phase 9 cosmic tool.",
+   "zh-CN": "宇宙工具第9阶段",
+   "zh-TW": "宇宙工具第9階段",
+   "ja": "[コスモツール第9段階]"
+  }
+ },
+ {
+  "slug": "cosmic-saw-v1-1",
+  "en": "Cosmic Saw v1.1",
+  "profession": "carpenter",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Saw v1.1",
+   "zh-CN": "宇宙手锯v1.1",
+   "zh-TW": "宇宙手鋸v1.1",
+   "ja": "コスモ・ソー v1.1"
+  },
+  "desc": {
+   "en": "Phase 10 cosmic tool.",
+   "zh-CN": "宇宙工具第10阶段",
+   "zh-TW": "宇宙工具第10階段",
+   "ja": "[コスモツール第10段階]"
+  }
+ },
+ {
+  "slug": "cosmic-cross-pein-hammer-v1-1",
+  "en": "Cosmic Cross-pein Hammer v1.1",
+  "profession": "blacksmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Cross-pein Hammer v1.1",
+   "zh-CN": "宇宙横头锤v1.1",
+   "zh-TW": "宇宙橫頭錘v1.1",
+   "ja": "コスモ・クロスペインハンマー v1.1"
+  },
+  "desc": {
+   "en": "Phase 10 cosmic tool.",
+   "zh-CN": "宇宙工具第10阶段",
+   "zh-TW": "宇宙工具第10階段",
+   "ja": "[コスモツール第10段階]"
+  }
+ },
+ {
+  "slug": "cosmic-raising-hammer-v1-1",
+  "en": "Cosmic Raising Hammer v1.1",
+  "profession": "armorer",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Raising Hammer v1.1",
+   "zh-CN": "宇宙圆头锤v1.1",
+   "zh-TW": "宇宙圓頭錘v1.1",
+   "ja": "コスモ・レイジングハンマー v1.1"
+  },
+  "desc": {
+   "en": "Phase 10 cosmic tool.",
+   "zh-CN": "宇宙工具第10阶段",
+   "zh-TW": "宇宙工具第10階段",
+   "ja": "[コスモツール第10段階]"
+  }
+ },
+ {
+  "slug": "cosmic-mallet-v1-1",
+  "en": "Cosmic Mallet v1.1",
+  "profession": "goldsmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Mallet v1.1",
+   "zh-CN": "宇宙工艺锤v1.1",
+   "zh-TW": "宇宙工藝錘v1.1",
+   "ja": "コスモ・マレット v1.1"
+  },
+  "desc": {
+   "en": "Phase 10 cosmic tool.",
+   "zh-CN": "宇宙工具第10阶段",
+   "zh-TW": "宇宙工具第10階段",
+   "ja": "[コスモツール第10段階]"
+  }
+ },
+ {
+  "slug": "cosmic-round-knife-v1-1",
+  "en": "Cosmic Round Knife v1.1",
+  "profession": "leatherworker",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Round Knife v1.1",
+   "zh-CN": "宇宙圆革刀v1.1",
+   "zh-TW": "宇宙圓革刀v1.1",
+   "ja": "コスモ・ラウンドナイフ v1.1"
+  },
+  "desc": {
+   "en": "Phase 10 cosmic tool.",
+   "zh-CN": "宇宙工具第10阶段",
+   "zh-TW": "宇宙工具第10階段",
+   "ja": "[コスモツール第10段階]"
+  }
+ },
+ {
+  "slug": "cosmic-needle-v1-1",
+  "en": "Cosmic Needle v1.1",
+  "profession": "weaver",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Needle v1.1",
+   "zh-CN": "宇宙缝针v1.1",
+   "zh-TW": "宇宙縫針v1.1",
+   "ja": "コスモ・ニードル v1.1"
+  },
+  "desc": {
+   "en": "Phase 10 cosmic tool.",
+   "zh-CN": "宇宙工具第10阶段",
+   "zh-TW": "宇宙工具第10階段",
+   "ja": "[コスモツール第10段階]"
+  }
+ },
+ {
+  "slug": "cosmic-alembic-v1-1",
+  "en": "Cosmic Alembic v1.1",
+  "profession": "alchemist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Alembic v1.1",
+   "zh-CN": "宇宙蒸馏器v1.1",
+   "zh-TW": "宇宙蒸餾器v1.1",
+   "ja": "コスモ・アレンビック v1.1"
+  },
+  "desc": {
+   "en": "Phase 10 cosmic tool.",
+   "zh-CN": "宇宙工具第10阶段",
+   "zh-TW": "宇宙工具第10階段",
+   "ja": "[コスモツール第10段階]"
+  }
+ },
+ {
+  "slug": "cosmic-frypan-v1-1",
+  "en": "Cosmic Frypan v1.1",
+  "profession": "culinarian",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Frypan v1.1",
+   "zh-CN": "宇宙煎锅v1.1",
+   "zh-TW": "宇宙煎鍋v1.1",
+   "ja": "コスモ・フライパン v1.1"
+  },
+  "desc": {
+   "en": "Phase 10 cosmic tool.",
+   "zh-CN": "宇宙工具第10阶段",
+   "zh-TW": "宇宙工具第10階段",
+   "ja": "[コスモツール第10段階]"
+  }
+ },
+ {
+  "slug": "cosmic-pickaxe-v1-1",
+  "en": "Cosmic Pickaxe v1.1",
+  "profession": "miner",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Pickaxe v1.1",
+   "zh-CN": "宇宙鹤嘴锄v1.1",
+   "zh-TW": "宇宙鶴嘴鋤v1.1",
+   "ja": "コスモ・ピック v1.1"
+  },
+  "desc": {
+   "en": "Phase 10 cosmic tool.",
+   "zh-CN": "宇宙工具第10阶段",
+   "zh-TW": "宇宙工具第10階段",
+   "ja": "[コスモツール第10段階]"
+  }
+ },
+ {
+  "slug": "cosmic-hatchet-v1-1",
+  "en": "Cosmic Hatchet v1.1",
+  "profession": "botanist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Hatchet v1.1",
+   "zh-CN": "宇宙手斧v1.1",
+   "zh-TW": "宇宙手斧v1.1",
+   "ja": "コスモ・ハチェット v1.1"
+  },
+  "desc": {
+   "en": "Phase 10 cosmic tool.",
+   "zh-CN": "宇宙工具第10阶段",
+   "zh-TW": "宇宙工具第10階段",
+   "ja": "[コスモツール第10段階]"
+  }
+ },
+ {
+  "slug": "cosmic-fishing-rod-v1-1",
+  "en": "Cosmic Fishing Rod v1.1",
+  "profession": "fisher",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Fishing Rod v1.1",
+   "zh-CN": "宇宙钓竿v1.1",
+   "zh-TW": "宇宙釣竿v1.1",
+   "ja": "コスモ・フィッシングロッド v1.1"
+  },
+  "desc": {
+   "en": "Phase 10 cosmic tool.",
+   "zh-CN": "宇宙工具第10阶段",
+   "zh-TW": "宇宙工具第10階段",
+   "ja": "[コスモツール第10段階]"
+  }
+ },
+ {
+  "slug": "cosmic-saw-v1-2",
+  "en": "Cosmic Saw v1.2",
+  "profession": "carpenter",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Saw v1.2",
+   "zh-CN": "宇宙手锯v1.2",
+   "zh-TW": "宇宙手鋸v1.2",
+   "ja": "コスモ・ソー v1.2"
+  },
+  "desc": {
+   "en": "Phase 11 cosmic tool.",
+   "zh-CN": "宇宙工具第11阶段",
+   "zh-TW": "宇宙工具第11階段",
+   "ja": "[コスモツール第11段階]"
+  }
+ },
+ {
+  "slug": "cosmic-cross-pein-hammer-v1-2",
+  "en": "Cosmic Cross-pein Hammer v1.2",
+  "profession": "blacksmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Cross-pein Hammer v1.2",
+   "zh-CN": "宇宙横头锤v1.2",
+   "zh-TW": "宇宙橫頭錘v1.2",
+   "ja": "コスモ・クロスペインハンマー v1.2"
+  },
+  "desc": {
+   "en": "Phase 11 cosmic tool.",
+   "zh-CN": "宇宙工具第11阶段",
+   "zh-TW": "宇宙工具第11階段",
+   "ja": "[コスモツール第11段階]"
+  }
+ },
+ {
+  "slug": "cosmic-raising-hammer-v1-2",
+  "en": "Cosmic Raising Hammer v1.2",
+  "profession": "armorer",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Raising Hammer v1.2",
+   "zh-CN": "宇宙圆头锤v1.2",
+   "zh-TW": "宇宙圓頭錘v1.2",
+   "ja": "コスモ・レイジングハンマー v1.2"
+  },
+  "desc": {
+   "en": "Phase 11 cosmic tool.",
+   "zh-CN": "宇宙工具第11阶段",
+   "zh-TW": "宇宙工具第11階段",
+   "ja": "[コスモツール第11段階]"
+  }
+ },
+ {
+  "slug": "cosmic-mallet-v1-2",
+  "en": "Cosmic Mallet v1.2",
+  "profession": "goldsmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Mallet v1.2",
+   "zh-CN": "宇宙工艺锤v1.2",
+   "zh-TW": "宇宙工藝錘v1.2",
+   "ja": "コスモ・マレット v1.2"
+  },
+  "desc": {
+   "en": "Phase 11 cosmic tool.",
+   "zh-CN": "宇宙工具第11阶段",
+   "zh-TW": "宇宙工具第11階段",
+   "ja": "[コスモツール第11段階]"
+  }
+ },
+ {
+  "slug": "cosmic-round-knife-v1-2",
+  "en": "Cosmic Round Knife v1.2",
+  "profession": "leatherworker",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Round Knife v1.2",
+   "zh-CN": "宇宙圆革刀v1.2",
+   "zh-TW": "宇宙圓革刀v1.2",
+   "ja": "コスモ・ラウンドナイフ v1.2"
+  },
+  "desc": {
+   "en": "Phase 11 cosmic tool.",
+   "zh-CN": "宇宙工具第11阶段",
+   "zh-TW": "宇宙工具第11階段",
+   "ja": "[コスモツール第11段階]"
+  }
+ },
+ {
+  "slug": "cosmic-needle-v1-2",
+  "en": "Cosmic Needle v1.2",
+  "profession": "weaver",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Needle v1.2",
+   "zh-CN": "宇宙缝针v1.2",
+   "zh-TW": "宇宙縫針v1.2",
+   "ja": "コスモ・ニードル v1.2"
+  },
+  "desc": {
+   "en": "Phase 11 cosmic tool.",
+   "zh-CN": "宇宙工具第11阶段",
+   "zh-TW": "宇宙工具第11階段",
+   "ja": "[コスモツール第11段階]"
+  }
+ },
+ {
+  "slug": "cosmic-alembic-v1-2",
+  "en": "Cosmic Alembic v1.2",
+  "profession": "alchemist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Alembic v1.2",
+   "zh-CN": "宇宙蒸馏器v1.2",
+   "zh-TW": "宇宙蒸餾器v1.2",
+   "ja": "コスモ・アレンビック v1.2"
+  },
+  "desc": {
+   "en": "Phase 11 cosmic tool.",
+   "zh-CN": "宇宙工具第11阶段",
+   "zh-TW": "宇宙工具第11階段",
+   "ja": "[コスモツール第11段階]"
+  }
+ },
+ {
+  "slug": "cosmic-frypan-v1-2",
+  "en": "Cosmic Frypan v1.2",
+  "profession": "culinarian",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Frypan v1.2",
+   "zh-CN": "宇宙煎锅v1.2",
+   "zh-TW": "宇宙煎鍋v1.2",
+   "ja": "コスモ・フライパン v1.2"
+  },
+  "desc": {
+   "en": "Phase 11 cosmic tool.",
+   "zh-CN": "宇宙工具第11阶段",
+   "zh-TW": "宇宙工具第11階段",
+   "ja": "[コスモツール第11段階]"
+  }
+ },
+ {
+  "slug": "cosmic-pickaxe-v1-2",
+  "en": "Cosmic Pickaxe v1.2",
+  "profession": "miner",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Pickaxe v1.2",
+   "zh-CN": "宇宙鹤嘴锄v1.2",
+   "zh-TW": "宇宙鶴嘴鋤v1.2",
+   "ja": "コスモ・ピック v1.2"
+  },
+  "desc": {
+   "en": "Phase 11 cosmic tool.",
+   "zh-CN": "宇宙工具第11阶段",
+   "zh-TW": "宇宙工具第11階段",
+   "ja": "[コスモツール第11段階]"
+  }
+ },
+ {
+  "slug": "cosmic-hatchet-v1-2",
+  "en": "Cosmic Hatchet v1.2",
+  "profession": "botanist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Hatchet v1.2",
+   "zh-CN": "宇宙手斧v1.2",
+   "zh-TW": "宇宙手斧v1.2",
+   "ja": "コスモ・ハチェット v1.2"
+  },
+  "desc": {
+   "en": "Phase 11 cosmic tool.",
+   "zh-CN": "宇宙工具第11阶段",
+   "zh-TW": "宇宙工具第11階段",
+   "ja": "[コスモツール第11段階]"
+  }
+ },
+ {
+  "slug": "cosmic-fishing-rod-v1-2",
+  "en": "Cosmic Fishing Rod v1.2",
+  "profession": "fisher",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Fishing Rod v1.2",
+   "zh-CN": "宇宙钓竿v1.2",
+   "zh-TW": "宇宙釣竿v1.2",
+   "ja": "コスモ・フィッシングロッド v1.2"
+  },
+  "desc": {
+   "en": "Phase 11 cosmic tool.",
+   "zh-CN": "宇宙工具第11阶段",
+   "zh-TW": "宇宙工具第11階段",
+   "ja": "[コスモツール第11段階]"
+  }
+ },
+ {
+  "slug": "cosmic-saw-v1-3",
+  "en": "Cosmic Saw v1.3",
+  "profession": "carpenter",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Saw v1.3",
+   "zh-CN": "宇宙手锯v1.3",
+   "zh-TW": "宇宙手鋸v1.3",
+   "ja": "コスモ・ソー v1.3"
+  },
+  "desc": {
+   "en": "Phase 12 cosmic tool.",
+   "zh-CN": "宇宙工具第12阶段",
+   "zh-TW": "宇宙工具第12階段",
+   "ja": "[コスモツール第12段階]"
+  }
+ },
+ {
+  "slug": "cosmic-cross-pein-hammer-v1-3",
+  "en": "Cosmic Cross-pein Hammer v1.3",
+  "profession": "blacksmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Cross-pein Hammer v1.3",
+   "zh-CN": "宇宙横头锤v1.3",
+   "zh-TW": "宇宙橫頭錘v1.3",
+   "ja": "コスモ・クロスペインハンマー v1.3"
+  },
+  "desc": {
+   "en": "Phase 12 cosmic tool.",
+   "zh-CN": "宇宙工具第12阶段",
+   "zh-TW": "宇宙工具第12階段",
+   "ja": "[コスモツール第12段階]"
+  }
+ },
+ {
+  "slug": "cosmic-raising-hammer-v1-3",
+  "en": "Cosmic Raising Hammer v1.3",
+  "profession": "armorer",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Raising Hammer v1.3",
+   "zh-CN": "宇宙圆头锤v1.3",
+   "zh-TW": "宇宙圓頭錘v1.3",
+   "ja": "コスモ・レイジングハンマー v1.3"
+  },
+  "desc": {
+   "en": "Phase 12 cosmic tool.",
+   "zh-CN": "宇宙工具第12阶段",
+   "zh-TW": "宇宙工具第12階段",
+   "ja": "[コスモツール第12段階]"
+  }
+ },
+ {
+  "slug": "cosmic-mallet-v1-3",
+  "en": "Cosmic Mallet v1.3",
+  "profession": "goldsmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Mallet v1.3",
+   "zh-CN": "宇宙工艺锤v1.3",
+   "zh-TW": "宇宙工藝錘v1.3",
+   "ja": "コスモ・マレット v1.3"
+  },
+  "desc": {
+   "en": "Phase 12 cosmic tool.",
+   "zh-CN": "宇宙工具第12阶段",
+   "zh-TW": "宇宙工具第12階段",
+   "ja": "[コスモツール第12段階]"
+  }
+ },
+ {
+  "slug": "cosmic-round-knife-v1-3",
+  "en": "Cosmic Round Knife v1.3",
+  "profession": "leatherworker",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Round Knife v1.3",
+   "zh-CN": "宇宙圆革刀v1.3",
+   "zh-TW": "宇宙圓革刀v1.3",
+   "ja": "コスモ・ラウンドナイフ v1.3"
+  },
+  "desc": {
+   "en": "Phase 12 cosmic tool.",
+   "zh-CN": "宇宙工具第12阶段",
+   "zh-TW": "宇宙工具第12階段",
+   "ja": "[コスモツール第12段階]"
+  }
+ },
+ {
+  "slug": "cosmic-needle-v1-3",
+  "en": "Cosmic Needle v1.3",
+  "profession": "weaver",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Needle v1.3",
+   "zh-CN": "宇宙缝针v1.3",
+   "zh-TW": "宇宙縫針v1.3",
+   "ja": "コスモ・ニードル v1.3"
+  },
+  "desc": {
+   "en": "Phase 12 cosmic tool.",
+   "zh-CN": "宇宙工具第12阶段",
+   "zh-TW": "宇宙工具第12階段",
+   "ja": "[コスモツール第12段階]"
+  }
+ },
+ {
+  "slug": "cosmic-alembic-v1-3",
+  "en": "Cosmic Alembic v1.3",
+  "profession": "alchemist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Alembic v1.3",
+   "zh-CN": "宇宙蒸馏器v1.3",
+   "zh-TW": "宇宙蒸餾器v1.3",
+   "ja": "コスモ・アレンビック v1.3"
+  },
+  "desc": {
+   "en": "Phase 12 cosmic tool.",
+   "zh-CN": "宇宙工具第12阶段",
+   "zh-TW": "宇宙工具第12階段",
+   "ja": "[コスモツール第12段階]"
+  }
+ },
+ {
+  "slug": "cosmic-frypan-v1-3",
+  "en": "Cosmic Frypan v1.3",
+  "profession": "culinarian",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Frypan v1.3",
+   "zh-CN": "宇宙煎锅v1.3",
+   "zh-TW": "宇宙煎鍋v1.3",
+   "ja": "コスモ・フライパン v1.3"
+  },
+  "desc": {
+   "en": "Phase 12 cosmic tool.",
+   "zh-CN": "宇宙工具第12阶段",
+   "zh-TW": "宇宙工具第12階段",
+   "ja": "[コスモツール第12段階]"
+  }
+ },
+ {
+  "slug": "cosmic-pickaxe-v1-3",
+  "en": "Cosmic Pickaxe v1.3",
+  "profession": "miner",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Pickaxe v1.3",
+   "zh-CN": "宇宙鹤嘴锄v1.3",
+   "zh-TW": "宇宙鶴嘴鋤v1.3",
+   "ja": "コスモ・ピック v1.3"
+  },
+  "desc": {
+   "en": "Phase 12 cosmic tool.",
+   "zh-CN": "宇宙工具第12阶段",
+   "zh-TW": "宇宙工具第12階段",
+   "ja": "[コスモツール第12段階]"
+  }
+ },
+ {
+  "slug": "cosmic-hatchet-v1-3",
+  "en": "Cosmic Hatchet v1.3",
+  "profession": "botanist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Hatchet v1.3",
+   "zh-CN": "宇宙手斧v1.3",
+   "zh-TW": "宇宙手斧v1.3",
+   "ja": "コスモ・ハチェット v1.3"
+  },
+  "desc": {
+   "en": "Phase 12 cosmic tool.",
+   "zh-CN": "宇宙工具第12阶段",
+   "zh-TW": "宇宙工具第12階段",
+   "ja": "[コスモツール第12段階]"
+  }
+ },
+ {
+  "slug": "cosmic-fishing-rod-v1-3",
+  "en": "Cosmic Fishing Rod v1.3",
+  "profession": "fisher",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Fishing Rod v1.3",
+   "zh-CN": "宇宙钓竿v1.3",
+   "zh-TW": "宇宙釣竿v1.3",
+   "ja": "コスモ・フィッシングロッド v1.3"
+  },
+  "desc": {
+   "en": "Phase 12 cosmic tool.",
+   "zh-CN": "宇宙工具第12阶段",
+   "zh-TW": "宇宙工具第12階段",
+   "ja": "[コスモツール第12段階]"
+  }
+ },
+ {
+  "slug": "cosmic-saw-v1-4",
+  "en": "Cosmic Saw v1.4",
+  "profession": "carpenter",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Saw v1.4",
+   "zh-CN": "宇宙手锯v1.4",
+   "zh-TW": "宇宙手鋸v1.4",
+   "ja": "コスモ・ソー v1.4"
+  },
+  "desc": {
+   "en": "Phase 13 cosmic tool.",
+   "zh-CN": "宇宙工具第13阶段",
+   "zh-TW": "宇宙工具第13階段",
+   "ja": "[コスモツール第13段階]"
+  }
+ },
+ {
+  "slug": "cosmic-cross-pein-hammer-v1-4",
+  "en": "Cosmic Cross-pein Hammer v1.4",
+  "profession": "blacksmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Cross-pein Hammer v1.4",
+   "zh-CN": "宇宙横头锤v1.4",
+   "zh-TW": "宇宙橫頭錘v1.4",
+   "ja": "コスモ・クロスペインハンマー v1.4"
+  },
+  "desc": {
+   "en": "Phase 13 cosmic tool.",
+   "zh-CN": "宇宙工具第13阶段",
+   "zh-TW": "宇宙工具第13階段",
+   "ja": "[コスモツール第13段階]"
+  }
+ },
+ {
+  "slug": "cosmic-raising-hammer-v1-4",
+  "en": "Cosmic Raising Hammer v1.4",
+  "profession": "armorer",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Raising Hammer v1.4",
+   "zh-CN": "宇宙圆头锤v1.4",
+   "zh-TW": "宇宙圓頭錘v1.4",
+   "ja": "コスモ・レイジングハンマー v1.4"
+  },
+  "desc": {
+   "en": "Phase 13 cosmic tool.",
+   "zh-CN": "宇宙工具第13阶段",
+   "zh-TW": "宇宙工具第13階段",
+   "ja": "[コスモツール第13段階]"
+  }
+ },
+ {
+  "slug": "cosmic-mallet-v1-4",
+  "en": "Cosmic Mallet v1.4",
+  "profession": "goldsmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Mallet v1.4",
+   "zh-CN": "宇宙工艺锤v1.4",
+   "zh-TW": "宇宙工藝錘v1.4",
+   "ja": "コスモ・マレット v1.4"
+  },
+  "desc": {
+   "en": "Phase 13 cosmic tool.",
+   "zh-CN": "宇宙工具第13阶段",
+   "zh-TW": "宇宙工具第13階段",
+   "ja": "[コスモツール第13段階]"
+  }
+ },
+ {
+  "slug": "cosmic-round-knife-v1-4",
+  "en": "Cosmic Round Knife v1.4",
+  "profession": "leatherworker",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Round Knife v1.4",
+   "zh-CN": "宇宙圆革刀v1.4",
+   "zh-TW": "宇宙圓革刀v1.4",
+   "ja": "コスモ・ラウンドナイフ v1.4"
+  },
+  "desc": {
+   "en": "Phase 13 cosmic tool.",
+   "zh-CN": "宇宙工具第13阶段",
+   "zh-TW": "宇宙工具第13階段",
+   "ja": "[コスモツール第13段階]"
+  }
+ },
+ {
+  "slug": "cosmic-needle-v1-4",
+  "en": "Cosmic Needle v1.4",
+  "profession": "weaver",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Needle v1.4",
+   "zh-CN": "宇宙缝针v1.4",
+   "zh-TW": "宇宙縫針v1.4",
+   "ja": "コスモ・ニードル v1.4"
+  },
+  "desc": {
+   "en": "Phase 13 cosmic tool.",
+   "zh-CN": "宇宙工具第13阶段",
+   "zh-TW": "宇宙工具第13階段",
+   "ja": "[コスモツール第13段階]"
+  }
+ },
+ {
+  "slug": "cosmic-alembic-v1-4",
+  "en": "Cosmic Alembic v1.4",
+  "profession": "alchemist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Alembic v1.4",
+   "zh-CN": "宇宙蒸馏器v1.4",
+   "zh-TW": "宇宙蒸餾器v1.4",
+   "ja": "コスモ・アレンビック v1.4"
+  },
+  "desc": {
+   "en": "Phase 13 cosmic tool.",
+   "zh-CN": "宇宙工具第13阶段",
+   "zh-TW": "宇宙工具第13階段",
+   "ja": "[コスモツール第13段階]"
+  }
+ },
+ {
+  "slug": "cosmic-frypan-v1-4",
+  "en": "Cosmic Frypan v1.4",
+  "profession": "culinarian",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Frypan v1.4",
+   "zh-CN": "宇宙煎锅v1.4",
+   "zh-TW": "宇宙煎鍋v1.4",
+   "ja": "コスモ・フライパン v1.4"
+  },
+  "desc": {
+   "en": "Phase 13 cosmic tool.",
+   "zh-CN": "宇宙工具第13阶段",
+   "zh-TW": "宇宙工具第13階段",
+   "ja": "[コスモツール第13段階]"
+  }
+ },
+ {
+  "slug": "cosmic-pickaxe-v1-4",
+  "en": "Cosmic Pickaxe v1.4",
+  "profession": "miner",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Pickaxe v1.4",
+   "zh-CN": "宇宙鹤嘴锄v1.4",
+   "zh-TW": "宇宙鶴嘴鋤v1.4",
+   "ja": "コスモ・ピック v1.4"
+  },
+  "desc": {
+   "en": "Phase 13 cosmic tool.",
+   "zh-CN": "宇宙工具第13阶段",
+   "zh-TW": "宇宙工具第13階段",
+   "ja": "[コスモツール第13段階]"
+  }
+ },
+ {
+  "slug": "cosmic-hatchet-v1-4",
+  "en": "Cosmic Hatchet v1.4",
+  "profession": "botanist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Hatchet v1.4",
+   "zh-CN": "宇宙手斧v1.4",
+   "zh-TW": "宇宙手斧v1.4",
+   "ja": "コスモ・ハチェット v1.4"
+  },
+  "desc": {
+   "en": "Phase 13 cosmic tool.",
+   "zh-CN": "宇宙工具第13阶段",
+   "zh-TW": "宇宙工具第13階段",
+   "ja": "[コスモツール第13段階]"
+  }
+ },
+ {
+  "slug": "cosmic-fishing-rod-v1-4",
+  "en": "Cosmic Fishing Rod v1.4",
+  "profession": "fisher",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cosmic Fishing Rod v1.4",
+   "zh-CN": "宇宙钓竿v1.4",
+   "zh-TW": "宇宙釣竿v1.4",
+   "ja": "コスモ・フィッシングロッド v1.4"
+  },
+  "desc": {
+   "en": "Phase 13 cosmic tool.",
+   "zh-CN": "宇宙工具第13阶段",
+   "zh-TW": "宇宙工具第13階段",
+   "ja": "[コスモツール第13段階]"
+  }
+ },
+ {
+  "slug": "stellar-saw",
+  "en": "Stellar Saw",
+  "profession": "carpenter",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Stellar Saw",
+   "zh-CN": "太空手锯",
+   "zh-TW": "太空手鋸",
+   "ja": "スペース・ソー"
+  },
+  "desc": {
+   "en": "Phase 14 cosmic tool.",
+   "zh-CN": "宇宙工具第14阶段",
+   "zh-TW": "宇宙工具第14階段",
+   "ja": "[コスモツール第14段階]"
+  }
+ },
+ {
+  "slug": "stellar-cross-pein-hammer",
+  "en": "Stellar Cross-pein Hammer",
+  "profession": "blacksmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Stellar Cross-pein Hammer",
+   "zh-CN": "太空横头锤",
+   "zh-TW": "太空橫頭錘",
+   "ja": "スペース・クロスペインハンマー"
+  },
+  "desc": {
+   "en": "Phase 14 cosmic tool.",
+   "zh-CN": "宇宙工具第14阶段",
+   "zh-TW": "宇宙工具第14階段",
+   "ja": "[コスモツール第14段階]"
+  }
+ },
+ {
+  "slug": "stellar-raising-hammer",
+  "en": "Stellar Raising Hammer",
+  "profession": "armorer",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Stellar Raising Hammer",
+   "zh-CN": "太空圆头锤",
+   "zh-TW": "太空圓頭錘",
+   "ja": "スペース・レイジングハンマー"
+  },
+  "desc": {
+   "en": "Phase 14 cosmic tool.",
+   "zh-CN": "宇宙工具第14阶段",
+   "zh-TW": "宇宙工具第14階段",
+   "ja": "[コスモツール第14段階]"
+  }
+ },
+ {
+  "slug": "stellar-mallet",
+  "en": "Stellar Mallet",
+  "profession": "goldsmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Stellar Mallet",
+   "zh-CN": "太空工艺锤",
+   "zh-TW": "太空工藝錘",
+   "ja": "スペース・マレット"
+  },
+  "desc": {
+   "en": "Phase 14 cosmic tool.",
+   "zh-CN": "宇宙工具第14阶段",
+   "zh-TW": "宇宙工具第14階段",
+   "ja": "[コスモツール第14段階]"
+  }
+ },
+ {
+  "slug": "stellar-round-knife",
+  "en": "Stellar Round Knife",
+  "profession": "leatherworker",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Stellar Round Knife",
+   "zh-CN": "太空圆革刀",
+   "zh-TW": "太空圓革刀",
+   "ja": "スペース・ラウンドナイフ"
+  },
+  "desc": {
+   "en": "Phase 14 cosmic tool.",
+   "zh-CN": "宇宙工具第14阶段",
+   "zh-TW": "宇宙工具第14階段",
+   "ja": "[コスモツール第14段階]"
+  }
+ },
+ {
+  "slug": "stellar-needle",
+  "en": "Stellar Needle",
+  "profession": "weaver",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Stellar Needle",
+   "zh-CN": "太空缝针",
+   "zh-TW": "太空縫針",
+   "ja": "スペース・ニードル"
+  },
+  "desc": {
+   "en": "Phase 14 cosmic tool.",
+   "zh-CN": "宇宙工具第14阶段",
+   "zh-TW": "宇宙工具第14階段",
+   "ja": "[コスモツール第14段階]"
+  }
+ },
+ {
+  "slug": "stellar-alembic",
+  "en": "Stellar Alembic",
+  "profession": "alchemist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Stellar Alembic",
+   "zh-CN": "太空蒸馏器",
+   "zh-TW": "太空蒸餾器",
+   "ja": "スペース・アレンビック"
+  },
+  "desc": {
+   "en": "Phase 14 cosmic tool.",
+   "zh-CN": "宇宙工具第14阶段",
+   "zh-TW": "宇宙工具第14階段",
+   "ja": "[コスモツール第14段階]"
+  }
+ },
+ {
+  "slug": "stellar-frypan",
+  "en": "Stellar Frypan",
+  "profession": "culinarian",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Stellar Frypan",
+   "zh-CN": "太空煎锅",
+   "zh-TW": "太空煎鍋",
+   "ja": "スペース・フライパン"
+  },
+  "desc": {
+   "en": "Phase 14 cosmic tool.",
+   "zh-CN": "宇宙工具第14阶段",
+   "zh-TW": "宇宙工具第14階段",
+   "ja": "[コスモツール第14段階]"
+  }
+ },
+ {
+  "slug": "stellar-pickaxe",
+  "en": "Stellar Pickaxe",
+  "profession": "miner",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Stellar Pickaxe",
+   "zh-CN": "太空鹤嘴锄",
+   "zh-TW": "太空鶴嘴鋤",
+   "ja": "スペース・ピック"
+  },
+  "desc": {
+   "en": "Phase 14 cosmic tool.",
+   "zh-CN": "宇宙工具第14阶段",
+   "zh-TW": "宇宙工具第14階段",
+   "ja": "[コスモツール第14段階]"
+  }
+ },
+ {
+  "slug": "stellar-hatchet",
+  "en": "Stellar Hatchet",
+  "profession": "botanist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Stellar Hatchet",
+   "zh-CN": "太空手斧",
+   "zh-TW": "太空手斧",
+   "ja": "スペース・ハチェット"
+  },
+  "desc": {
+   "en": "Phase 14 cosmic tool.",
+   "zh-CN": "宇宙工具第14阶段",
+   "zh-TW": "宇宙工具第14階段",
+   "ja": "[コスモツール第14段階]"
+  }
+ },
+ {
+  "slug": "stellar-fishing-rod",
+  "en": "Stellar Fishing Rod",
+  "profession": "fisher",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Stellar Fishing Rod",
+   "zh-CN": "太空钓竿",
+   "zh-TW": "太空釣竿",
+   "ja": "スペース・フィッシングロッド"
+  },
+  "desc": {
+   "en": "Phase 14 cosmic tool.",
+   "zh-CN": "宇宙工具第14阶段",
+   "zh-TW": "宇宙工具第14階段",
+   "ja": "[コスモツール第14段階]"
+  }
+ },
+ {
+  "slug": "stellar-saw-v1-1",
+  "en": "Stellar Saw v1.1",
+  "profession": "carpenter",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Stellar Saw v1.1",
+   "zh-CN": "太空手锯v1.1",
+   "zh-TW": "太空手鋸v1.1",
+   "ja": "スペース・ソー v1.1"
+  },
+  "desc": {
+   "en": "Phase 15 cosmic tool.",
+   "zh-CN": "宇宙工具第15阶段",
+   "zh-TW": "宇宙工具第15階段",
+   "ja": "[コスモツール第15段階]"
+  }
+ },
+ {
+  "slug": "stellar-cross-pein-hammer-v1-1",
+  "en": "Stellar Cross-pein Hammer v1.1",
+  "profession": "blacksmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Stellar Cross-pein Hammer v1.1",
+   "zh-CN": "太空横头锤v1.1",
+   "zh-TW": "太空橫頭錘v1.1",
+   "ja": "スペース・クロスペインハンマー v1.1"
+  },
+  "desc": {
+   "en": "Phase 15 cosmic tool.",
+   "zh-CN": "宇宙工具第15阶段",
+   "zh-TW": "宇宙工具第15階段",
+   "ja": "[コスモツール第15段階]"
+  }
+ },
+ {
+  "slug": "stellar-raising-hammer-v1-1",
+  "en": "Stellar Raising Hammer v1.1",
+  "profession": "armorer",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Stellar Raising Hammer v1.1",
+   "zh-CN": "太空圆头锤v1.1",
+   "zh-TW": "太空圓頭錘v1.1",
+   "ja": "スペース・レイジングハンマー v1.1"
+  },
+  "desc": {
+   "en": "Phase 15 cosmic tool.",
+   "zh-CN": "宇宙工具第15阶段",
+   "zh-TW": "宇宙工具第15階段",
+   "ja": "[コスモツール第15段階]"
+  }
+ },
+ {
+  "slug": "stellar-mallet-v1-1",
+  "en": "Stellar Mallet v1.1",
+  "profession": "goldsmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Stellar Mallet v1.1",
+   "zh-CN": "太空工艺锤v1.1",
+   "zh-TW": "太空工藝錘v1.1",
+   "ja": "スペース・マレット v1.1"
+  },
+  "desc": {
+   "en": "Phase 15 cosmic tool.",
+   "zh-CN": "宇宙工具第15阶段",
+   "zh-TW": "宇宙工具第15階段",
+   "ja": "[コスモツール第15段階]"
+  }
+ },
+ {
+  "slug": "stellar-round-knife-v1-1",
+  "en": "Stellar Round Knife v1.1",
+  "profession": "leatherworker",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Stellar Round Knife v1.1",
+   "zh-CN": "太空圆革刀v1.1",
+   "zh-TW": "太空圓革刀v1.1",
+   "ja": "スペース・ラウンドナイフ v1.1"
+  },
+  "desc": {
+   "en": "Phase 15 cosmic tool.",
+   "zh-CN": "宇宙工具第15阶段",
+   "zh-TW": "宇宙工具第15階段",
+   "ja": "[コスモツール第15段階]"
+  }
+ },
+ {
+  "slug": "stellar-needle-v1-1",
+  "en": "Stellar Needle v1.1",
+  "profession": "weaver",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Stellar Needle v1.1",
+   "zh-CN": "太空缝针v1.1",
+   "zh-TW": "太空縫針v1.1",
+   "ja": "スペース・ニードル v1.1"
+  },
+  "desc": {
+   "en": "Phase 15 cosmic tool.",
+   "zh-CN": "宇宙工具第15阶段",
+   "zh-TW": "宇宙工具第15階段",
+   "ja": "[コスモツール第15段階]"
+  }
+ },
+ {
+  "slug": "stellar-alembic-v1-1",
+  "en": "Stellar Alembic v1.1",
+  "profession": "alchemist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Stellar Alembic v1.1",
+   "zh-CN": "太空蒸馏器v1.1",
+   "zh-TW": "太空蒸餾器v1.1",
+   "ja": "スペース・アレンビック v1.1"
+  },
+  "desc": {
+   "en": "Phase 15 cosmic tool.",
+   "zh-CN": "宇宙工具第15阶段",
+   "zh-TW": "宇宙工具第15階段",
+   "ja": "[コスモツール第15段階]"
+  }
+ },
+ {
+  "slug": "stellar-frypan-v1-1",
+  "en": "Stellar Frypan v1.1",
+  "profession": "culinarian",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Stellar Frypan v1.1",
+   "zh-CN": "太空煎锅v1.1",
+   "zh-TW": "太空煎鍋v1.1",
+   "ja": "スペース・フライパン v1.1"
+  },
+  "desc": {
+   "en": "Phase 15 cosmic tool.",
+   "zh-CN": "宇宙工具第15阶段",
+   "zh-TW": "宇宙工具第15階段",
+   "ja": "[コスモツール第15段階]"
+  }
+ },
+ {
+  "slug": "stellar-pickaxe-v1-1",
+  "en": "Stellar Pickaxe v1.1",
+  "profession": "miner",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Stellar Pickaxe v1.1",
+   "zh-CN": "太空鹤嘴锄v1.1",
+   "zh-TW": "太空鶴嘴鋤v1.1",
+   "ja": "スペース・ピック v1.1"
+  },
+  "desc": {
+   "en": "Phase 15 cosmic tool.",
+   "zh-CN": "宇宙工具第15阶段",
+   "zh-TW": "宇宙工具第15階段",
+   "ja": "[コスモツール第15段階]"
+  }
+ },
+ {
+  "slug": "stellar-hatchet-v1-1",
+  "en": "Stellar Hatchet v1.1",
+  "profession": "botanist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Stellar Hatchet v1.1",
+   "zh-CN": "太空手斧v1.1",
+   "zh-TW": "太空手斧v1.1",
+   "ja": "スペース・ハチェット v1.1"
+  },
+  "desc": {
+   "en": "Phase 15 cosmic tool.",
+   "zh-CN": "宇宙工具第15阶段",
+   "zh-TW": "宇宙工具第15階段",
+   "ja": "[コスモツール第15段階]"
+  }
+ },
+ {
+  "slug": "stellar-fishing-rod-v1-1",
+  "en": "Stellar Fishing Rod v1.1",
+  "profession": "fisher",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Stellar Fishing Rod v1.1",
+   "zh-CN": "太空钓竿v1.1",
+   "zh-TW": "太空釣竿v1.1",
+   "ja": "スペース・フィッシングロッド v1.1"
+  },
+  "desc": {
+   "en": "Phase 15 cosmic tool.",
+   "zh-CN": "宇宙工具第15阶段",
+   "zh-TW": "宇宙工具第15階段",
+   "ja": "[コスモツール第15段階]"
+  }
+ },
+ {
+  "slug": "stellar-saw-v1-2",
+  "en": "Stellar Saw v1.2",
+  "profession": "carpenter",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Stellar Saw v1.2",
+   "zh-CN": "太空手锯v1.2",
+   "zh-TW": "太空手鋸v1.2",
+   "ja": "スペース・ソー v1.2"
+  },
+  "desc": {
+   "en": "Phase 16 cosmic tool.",
+   "zh-CN": "宇宙工具第16阶段",
+   "zh-TW": "宇宙工具第16階段",
+   "ja": "[コスモツール第16段階]"
+  }
+ },
+ {
+  "slug": "stellar-cross-pein-hammer-v1-2",
+  "en": "Stellar Cross-pein Hammer v1.2",
+  "profession": "blacksmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Stellar Cross-pein Hammer v1.2",
+   "zh-CN": "太空横头锤v1.2",
+   "zh-TW": "太空橫頭錘v1.2",
+   "ja": "スペース・クロスペインハンマー v1.2"
+  },
+  "desc": {
+   "en": "Phase 16 cosmic tool.",
+   "zh-CN": "宇宙工具第16阶段",
+   "zh-TW": "宇宙工具第16階段",
+   "ja": "[コスモツール第16段階]"
+  }
+ },
+ {
+  "slug": "stellar-raising-hammer-v1-2",
+  "en": "Stellar Raising Hammer v1.2",
+  "profession": "armorer",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Stellar Raising Hammer v1.2",
+   "zh-CN": "太空圆头锤v1.2",
+   "zh-TW": "太空圓頭錘v1.2",
+   "ja": "スペース・レイジングハンマー v1.2"
+  },
+  "desc": {
+   "en": "Phase 16 cosmic tool.",
+   "zh-CN": "宇宙工具第16阶段",
+   "zh-TW": "宇宙工具第16階段",
+   "ja": "[コスモツール第16段階]"
+  }
+ },
+ {
+  "slug": "stellar-mallet-v1-2",
+  "en": "Stellar Mallet v1.2",
+  "profession": "goldsmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Stellar Mallet v1.2",
+   "zh-CN": "太空工艺锤v1.2",
+   "zh-TW": "太空工藝錘v1.2",
+   "ja": "スペース・マレット v1.2"
+  },
+  "desc": {
+   "en": "Phase 16 cosmic tool.",
+   "zh-CN": "宇宙工具第16阶段",
+   "zh-TW": "宇宙工具第16階段",
+   "ja": "[コスモツール第16段階]"
+  }
+ },
+ {
+  "slug": "stellar-round-knife-v1-2",
+  "en": "Stellar Round Knife v1.2",
+  "profession": "leatherworker",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Stellar Round Knife v1.2",
+   "zh-CN": "太空圆革刀v1.2",
+   "zh-TW": "太空圓革刀v1.2",
+   "ja": "スペース・ラウンドナイフ v1.2"
+  },
+  "desc": {
+   "en": "Phase 16 cosmic tool.",
+   "zh-CN": "宇宙工具第16阶段",
+   "zh-TW": "宇宙工具第16階段",
+   "ja": "[コスモツール第16段階]"
+  }
+ },
+ {
+  "slug": "stellar-needle-v1-2",
+  "en": "Stellar Needle v1.2",
+  "profession": "weaver",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Stellar Needle v1.2",
+   "zh-CN": "太空缝针v1.2",
+   "zh-TW": "太空縫針v1.2",
+   "ja": "スペース・ニードル v1.2"
+  },
+  "desc": {
+   "en": "Phase 16 cosmic tool.",
+   "zh-CN": "宇宙工具第16阶段",
+   "zh-TW": "宇宙工具第16階段",
+   "ja": "[コスモツール第16段階]"
+  }
+ },
+ {
+  "slug": "stellar-alembic-v1-2",
+  "en": "Stellar Alembic v1.2",
+  "profession": "alchemist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Stellar Alembic v1.2",
+   "zh-CN": "太空蒸馏器v1.2",
+   "zh-TW": "太空蒸餾器v1.2",
+   "ja": "スペース・アレンビック v1.2"
+  },
+  "desc": {
+   "en": "Phase 16 cosmic tool.",
+   "zh-CN": "宇宙工具第16阶段",
+   "zh-TW": "宇宙工具第16階段",
+   "ja": "[コスモツール第16段階]"
+  }
+ },
+ {
+  "slug": "stellar-frypan-v1-2",
+  "en": "Stellar Frypan v1.2",
+  "profession": "culinarian",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Stellar Frypan v1.2",
+   "zh-CN": "太空煎锅v1.2",
+   "zh-TW": "太空煎鍋v1.2",
+   "ja": "スペース・フライパン v1.2"
+  },
+  "desc": {
+   "en": "Phase 16 cosmic tool.",
+   "zh-CN": "宇宙工具第16阶段",
+   "zh-TW": "宇宙工具第16階段",
+   "ja": "[コスモツール第16段階]"
+  }
+ },
+ {
+  "slug": "stellar-pickaxe-v1-2",
+  "en": "Stellar Pickaxe v1.2",
+  "profession": "miner",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Stellar Pickaxe v1.2",
+   "zh-CN": "太空鹤嘴锄v1.2",
+   "zh-TW": "太空鶴嘴鋤v1.2",
+   "ja": "スペース・ピック v1.2"
+  },
+  "desc": {
+   "en": "Phase 16 cosmic tool.",
+   "zh-CN": "宇宙工具第16阶段",
+   "zh-TW": "宇宙工具第16階段",
+   "ja": "[コスモツール第16段階]"
+  }
+ },
+ {
+  "slug": "stellar-hatchet-v1-2",
+  "en": "Stellar Hatchet v1.2",
+  "profession": "botanist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Stellar Hatchet v1.2",
+   "zh-CN": "太空手斧v1.2",
+   "zh-TW": "太空手斧v1.2",
+   "ja": "スペース・ハチェット v1.2"
+  },
+  "desc": {
+   "en": "Phase 16 cosmic tool.",
+   "zh-CN": "宇宙工具第16阶段",
+   "zh-TW": "宇宙工具第16階段",
+   "ja": "[コスモツール第16段階]"
+  }
+ },
+ {
+  "slug": "stellar-fishing-rod-v1-2",
+  "en": "Stellar Fishing Rod v1.2",
+  "profession": "fisher",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Stellar Fishing Rod v1.2",
+   "zh-CN": "太空钓竿v1.2",
+   "zh-TW": "太空釣竿v1.2",
+   "ja": "スペース・フィッシングロッド v1.2"
+  },
+  "desc": {
+   "en": "Phase 16 cosmic tool.",
+   "zh-CN": "宇宙工具第16阶段",
+   "zh-TW": "宇宙工具第16階段",
+   "ja": "[コスモツール第16段階]"
+  }
+ },
+ {
+  "slug": "hypersaw",
+  "en": "Hypersaw",
+  "profession": "carpenter",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Hypersaw",
+   "zh-CN": "超空间手锯",
+   "zh-TW": "超空間手鋸",
+   "ja": "ハイパースペース・ソー"
+  },
+  "desc": {
+   "en": "Phase 17 cosmic tool.",
+   "zh-CN": "宇宙工具第17阶段",
+   "zh-TW": "宇宙工具第17階段",
+   "ja": "[コスモツール第17段階]"
+  }
+ },
+ {
+  "slug": "cross-pein-hyperhammer",
+  "en": "Cross-pein Hyperhammer",
+  "profession": "blacksmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cross-pein Hyperhammer",
+   "zh-CN": "超空间横头锤",
+   "zh-TW": "超空間橫頭錘",
+   "ja": "ハイパースペース・クロスペインハンマー"
+  },
+  "desc": {
+   "en": "Phase 17 cosmic tool.",
+   "zh-CN": "宇宙工具第17阶段",
+   "zh-TW": "宇宙工具第17階段",
+   "ja": "[コスモツール第17段階]"
+  }
+ },
+ {
+  "slug": "raising-hyperhammer",
+  "en": "Raising Hyperhammer",
+  "profession": "armorer",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Raising Hyperhammer",
+   "zh-CN": "超空间圆头锤",
+   "zh-TW": "超空間圓頭錘",
+   "ja": "ハイパースペース・レイジングハンマー"
+  },
+  "desc": {
+   "en": "Phase 17 cosmic tool.",
+   "zh-CN": "宇宙工具第17阶段",
+   "zh-TW": "宇宙工具第17階段",
+   "ja": "[コスモツール第17段階]"
+  }
+ },
+ {
+  "slug": "hypermallet",
+  "en": "Hypermallet",
+  "profession": "goldsmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Hypermallet",
+   "zh-CN": "超空间工艺锤",
+   "zh-TW": "超空間工藝錘",
+   "ja": "ハイパースペース・マレット"
+  },
+  "desc": {
+   "en": "Phase 17 cosmic tool.",
+   "zh-CN": "宇宙工具第17阶段",
+   "zh-TW": "宇宙工具第17階段",
+   "ja": "[コスモツール第17段階]"
+  }
+ },
+ {
+  "slug": "round-hyperknife",
+  "en": "Round Hyperknife",
+  "profession": "leatherworker",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Round Hyperknife",
+   "zh-CN": "超空间圆革刀",
+   "zh-TW": "超空間圓革刀",
+   "ja": "ハイパースペース・ラウンドナイフ"
+  },
+  "desc": {
+   "en": "Phase 17 cosmic tool.",
+   "zh-CN": "宇宙工具第17阶段",
+   "zh-TW": "宇宙工具第17階段",
+   "ja": "[コスモツール第17段階]"
+  }
+ },
+ {
+  "slug": "hyperneedle",
+  "en": "Hyperneedle",
+  "profession": "weaver",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Hyperneedle",
+   "zh-CN": "超空间缝针",
+   "zh-TW": "超空間縫針",
+   "ja": "ハイパースペース・ニードル"
+  },
+  "desc": {
+   "en": "Phase 17 cosmic tool.",
+   "zh-CN": "宇宙工具第17阶段",
+   "zh-TW": "宇宙工具第17階段",
+   "ja": "[コスモツール第17段階]"
+  }
+ },
+ {
+  "slug": "hyperalembic",
+  "en": "Hyperalembic",
+  "profession": "alchemist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Hyperalembic",
+   "zh-CN": "超空间蒸馏器",
+   "zh-TW": "超空間蒸餾器",
+   "ja": "ハイパースペース・アレンビック"
+  },
+  "desc": {
+   "en": "Phase 17 cosmic tool.",
+   "zh-CN": "宇宙工具第17阶段",
+   "zh-TW": "宇宙工具第17階段",
+   "ja": "[コスモツール第17段階]"
+  }
+ },
+ {
+  "slug": "hyperfrypan",
+  "en": "Hyperfrypan",
+  "profession": "culinarian",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Hyperfrypan",
+   "zh-CN": "超空间煎锅",
+   "zh-TW": "超空間煎鍋",
+   "ja": "ハイパースペース・フライパン"
+  },
+  "desc": {
+   "en": "Phase 17 cosmic tool.",
+   "zh-CN": "宇宙工具第17阶段",
+   "zh-TW": "宇宙工具第17階段",
+   "ja": "[コスモツール第17段階]"
+  }
+ },
+ {
+  "slug": "hyperpickaxe",
+  "en": "Hyperpickaxe",
+  "profession": "miner",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Hyperpickaxe",
+   "zh-CN": "超空间鹤嘴锄",
+   "zh-TW": "超空間鶴嘴鋤",
+   "ja": "ハイパースペース・ピック"
+  },
+  "desc": {
+   "en": "Phase 17 cosmic tool.",
+   "zh-CN": "宇宙工具第17阶段",
+   "zh-TW": "宇宙工具第17階段",
+   "ja": "[コスモツール第17段階]"
+  }
+ },
+ {
+  "slug": "hyperhatchet",
+  "en": "Hyperhatchet",
+  "profession": "botanist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Hyperhatchet",
+   "zh-CN": "超空间手斧",
+   "zh-TW": "超空間手斧",
+   "ja": "ハイパースペース・ハチェット"
+  },
+  "desc": {
+   "en": "Phase 17 cosmic tool.",
+   "zh-CN": "宇宙工具第17阶段",
+   "zh-TW": "宇宙工具第17階段",
+   "ja": "[コスモツール第17段階]"
+  }
+ },
+ {
+  "slug": "fishing-hyperrod",
+  "en": "Fishing Hyperrod",
+  "profession": "fisher",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Fishing Hyperrod",
+   "zh-CN": "超空间钓竿",
+   "zh-TW": "超空間釣竿",
+   "ja": "ハイパースペース・フィッシングロッド"
+  },
+  "desc": {
+   "en": "Phase 17 cosmic tool.",
+   "zh-CN": "宇宙工具第17阶段",
+   "zh-TW": "宇宙工具第17階段",
+   "ja": "[コスモツール第17段階]"
+  }
+ },
+ {
+  "slug": "hypersaw-v1-1",
+  "en": "Hypersaw v1.1",
+  "profession": "carpenter",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Hypersaw v1.1",
+   "zh-CN": "超空间手锯v1.1",
+   "zh-TW": "超空間手鋸v1.1",
+   "ja": "ハイパースペース・ソー v1.1"
+  },
+  "desc": {
+   "en": "Phase 18 cosmic tool.",
+   "zh-CN": "宇宙工具第18阶段",
+   "zh-TW": "宇宙工具第18階段",
+   "ja": "[コスモツール第18段階]"
+  }
+ },
+ {
+  "slug": "cross-pein-hyperhammer-v1-1",
+  "en": "Cross-pein Hyperhammer v1.1",
+  "profession": "blacksmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cross-pein Hyperhammer v1.1",
+   "zh-CN": "超空间横头锤v1.1",
+   "zh-TW": "超空間橫頭錘v1.1",
+   "ja": "ハイパースペース・クロスペインハンマー v1.1"
+  },
+  "desc": {
+   "en": "Phase 18 cosmic tool.",
+   "zh-CN": "宇宙工具第18阶段",
+   "zh-TW": "宇宙工具第18階段",
+   "ja": "[コスモツール第18段階]"
+  }
+ },
+ {
+  "slug": "raising-hyperhammer-v1-1",
+  "en": "Raising Hyperhammer v1.1",
+  "profession": "armorer",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Raising Hyperhammer v1.1",
+   "zh-CN": "超空间圆头锤v1.1",
+   "zh-TW": "超空間圓頭錘v1.1",
+   "ja": "ハイパースペース・レイジングハンマー v1.1"
+  },
+  "desc": {
+   "en": "Phase 18 cosmic tool.",
+   "zh-CN": "宇宙工具第18阶段",
+   "zh-TW": "宇宙工具第18階段",
+   "ja": "[コスモツール第18段階]"
+  }
+ },
+ {
+  "slug": "hypermallet-v1-1",
+  "en": "Hypermallet v1.1",
+  "profession": "goldsmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Hypermallet v1.1",
+   "zh-CN": "超空间工艺锤v1.1",
+   "zh-TW": "超空間工藝錘v1.1",
+   "ja": "ハイパースペース・マレット v1.1"
+  },
+  "desc": {
+   "en": "Phase 18 cosmic tool.",
+   "zh-CN": "宇宙工具第18阶段",
+   "zh-TW": "宇宙工具第18階段",
+   "ja": "[コスモツール第18段階]"
+  }
+ },
+ {
+  "slug": "round-hyperknife-v1-1",
+  "en": "Round Hyperknife v1.1",
+  "profession": "leatherworker",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Round Hyperknife v1.1",
+   "zh-CN": "超空间圆革刀v1.1",
+   "zh-TW": "超空間圓革刀v1.1",
+   "ja": "ハイパースペース・ラウンドナイフ v1.1"
+  },
+  "desc": {
+   "en": "Phase 18 cosmic tool.",
+   "zh-CN": "宇宙工具第18阶段",
+   "zh-TW": "宇宙工具第18階段",
+   "ja": "[コスモツール第18段階]"
+  }
+ },
+ {
+  "slug": "hyperneedle-v1-1",
+  "en": "Hyperneedle v1.1",
+  "profession": "weaver",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Hyperneedle v1.1",
+   "zh-CN": "超空间缝针v1.1",
+   "zh-TW": "超空間縫針v1.1",
+   "ja": "ハイパースペース・ニードル v1.1"
+  },
+  "desc": {
+   "en": "Phase 18 cosmic tool.",
+   "zh-CN": "宇宙工具第18阶段",
+   "zh-TW": "宇宙工具第18階段",
+   "ja": "[コスモツール第18段階]"
+  }
+ },
+ {
+  "slug": "hyperalembic-v1-1",
+  "en": "Hyperalembic v1.1",
+  "profession": "alchemist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Hyperalembic v1.1",
+   "zh-CN": "超空间蒸馏器v1.1",
+   "zh-TW": "超空間蒸餾器v1.1",
+   "ja": "ハイパースペース・アレンビック v1.1"
+  },
+  "desc": {
+   "en": "Phase 18 cosmic tool.",
+   "zh-CN": "宇宙工具第18阶段",
+   "zh-TW": "宇宙工具第18階段",
+   "ja": "[コスモツール第18段階]"
+  }
+ },
+ {
+  "slug": "hyperfrypan-v1-1",
+  "en": "Hyperfrypan v1.1",
+  "profession": "culinarian",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Hyperfrypan v1.1",
+   "zh-CN": "超空间煎锅v1.1",
+   "zh-TW": "超空間煎鍋v1.1",
+   "ja": "ハイパースペース・フライパン v1.1"
+  },
+  "desc": {
+   "en": "Phase 18 cosmic tool.",
+   "zh-CN": "宇宙工具第18阶段",
+   "zh-TW": "宇宙工具第18階段",
+   "ja": "[コスモツール第18段階]"
+  }
+ },
+ {
+  "slug": "hyperpickaxe-v1-1",
+  "en": "Hyperpickaxe v1.1",
+  "profession": "miner",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Hyperpickaxe v1.1",
+   "zh-CN": "超空间鹤嘴锄v1.1",
+   "zh-TW": "超空間鶴嘴鋤v1.1",
+   "ja": "ハイパースペース・ピック v1.1"
+  },
+  "desc": {
+   "en": "Phase 18 cosmic tool.",
+   "zh-CN": "宇宙工具第18阶段",
+   "zh-TW": "宇宙工具第18階段",
+   "ja": "[コスモツール第18段階]"
+  }
+ },
+ {
+  "slug": "hyperhatchet-v1-1",
+  "en": "Hyperhatchet v1.1",
+  "profession": "botanist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Hyperhatchet v1.1",
+   "zh-CN": "超空间手斧v1.1",
+   "zh-TW": "超空間手斧v1.1",
+   "ja": "ハイパースペース・ハチェット v1.1"
+  },
+  "desc": {
+   "en": "Phase 18 cosmic tool.",
+   "zh-CN": "宇宙工具第18阶段",
+   "zh-TW": "宇宙工具第18階段",
+   "ja": "[コスモツール第18段階]"
+  }
+ },
+ {
+  "slug": "fishing-hyperrod-v1-1",
+  "en": "Fishing Hyperrod v1.1",
+  "profession": "fisher",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Fishing Hyperrod v1.1",
+   "zh-CN": "超空间钓竿v1.1",
+   "zh-TW": "超空間釣竿v1.1",
+   "ja": "ハイパースペース・フィッシングロッド v1.1"
+  },
+  "desc": {
+   "en": "Phase 18 cosmic tool.",
+   "zh-CN": "宇宙工具第18阶段",
+   "zh-TW": "宇宙工具第18階段",
+   "ja": "[コスモツール第18段階]"
+  }
+ },
+ {
+  "slug": "hypersaw-v1-2",
+  "en": "Hypersaw v1.2",
+  "profession": "carpenter",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Hypersaw v1.2",
+   "zh-CN": "超空间手锯v1.2",
+   "zh-TW": "超空間手鋸v1.2",
+   "ja": "ハイパースペース・ソー v1.2"
+  },
+  "desc": {
+   "en": "Phase 19 cosmic tool.",
+   "zh-CN": "宇宙工具第19阶段",
+   "zh-TW": "宇宙工具第19階段",
+   "ja": "[コスモツール第19段階]"
+  }
+ },
+ {
+  "slug": "cross-pein-hyperhammer-v1-2",
+  "en": "Cross-pein Hyperhammer v1.2",
+  "profession": "blacksmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cross-pein Hyperhammer v1.2",
+   "zh-CN": "超空间横头锤v1.2",
+   "zh-TW": "超空間橫頭錘v1.2",
+   "ja": "ハイパースペース・クロスペインハンマー v1.2"
+  },
+  "desc": {
+   "en": "Phase 19 cosmic tool.",
+   "zh-CN": "宇宙工具第19阶段",
+   "zh-TW": "宇宙工具第19階段",
+   "ja": "[コスモツール第19段階]"
+  }
+ },
+ {
+  "slug": "raising-hyperhammer-v1-2",
+  "en": "Raising Hyperhammer v1.2",
+  "profession": "armorer",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Raising Hyperhammer v1.2",
+   "zh-CN": "超空间圆头锤v1.2",
+   "zh-TW": "超空間圓頭錘v1.2",
+   "ja": "ハイパースペース・レイジングハンマー v1.2"
+  },
+  "desc": {
+   "en": "Phase 19 cosmic tool.",
+   "zh-CN": "宇宙工具第19阶段",
+   "zh-TW": "宇宙工具第19階段",
+   "ja": "[コスモツール第19段階]"
+  }
+ },
+ {
+  "slug": "hypermallet-v1-2",
+  "en": "Hypermallet v1.2",
+  "profession": "goldsmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Hypermallet v1.2",
+   "zh-CN": "超空间工艺锤v1.2",
+   "zh-TW": "超空間工藝錘v1.2",
+   "ja": "ハイパースペース・マレット v1.2"
+  },
+  "desc": {
+   "en": "Phase 19 cosmic tool.",
+   "zh-CN": "宇宙工具第19阶段",
+   "zh-TW": "宇宙工具第19階段",
+   "ja": "[コスモツール第19段階]"
+  }
+ },
+ {
+  "slug": "round-hyperknife-v1-2",
+  "en": "Round Hyperknife v1.2",
+  "profession": "leatherworker",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Round Hyperknife v1.2",
+   "zh-CN": "超空间圆革刀v1.2",
+   "zh-TW": "超空間圓革刀v1.2",
+   "ja": "ハイパースペース・ラウンドナイフ v1.2"
+  },
+  "desc": {
+   "en": "Phase 19 cosmic tool.",
+   "zh-CN": "宇宙工具第19阶段",
+   "zh-TW": "宇宙工具第19階段",
+   "ja": "[コスモツール第19段階]"
+  }
+ },
+ {
+  "slug": "hyperneedle-v1-2",
+  "en": "Hyperneedle v1.2",
+  "profession": "weaver",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Hyperneedle v1.2",
+   "zh-CN": "超空间缝针v1.2",
+   "zh-TW": "超空間縫針v1.2",
+   "ja": "ハイパースペース・ニードル v1.2"
+  },
+  "desc": {
+   "en": "Phase 19 cosmic tool.",
+   "zh-CN": "宇宙工具第19阶段",
+   "zh-TW": "宇宙工具第19階段",
+   "ja": "[コスモツール第19段階]"
+  }
+ },
+ {
+  "slug": "hyperalembic-v1-2",
+  "en": "Hyperalembic v1.2",
+  "profession": "alchemist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Hyperalembic v1.2",
+   "zh-CN": "超空间蒸馏器v1.2",
+   "zh-TW": "超空間蒸餾器v1.2",
+   "ja": "ハイパースペース・アレンビック v1.2"
+  },
+  "desc": {
+   "en": "Phase 19 cosmic tool.",
+   "zh-CN": "宇宙工具第19阶段",
+   "zh-TW": "宇宙工具第19階段",
+   "ja": "[コスモツール第19段階]"
+  }
+ },
+ {
+  "slug": "hyperfrypan-v1-2",
+  "en": "Hyperfrypan v1.2",
+  "profession": "culinarian",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Hyperfrypan v1.2",
+   "zh-CN": "超空间煎锅v1.2",
+   "zh-TW": "超空間煎鍋v1.2",
+   "ja": "ハイパースペース・フライパン v1.2"
+  },
+  "desc": {
+   "en": "Phase 19 cosmic tool.",
+   "zh-CN": "宇宙工具第19阶段",
+   "zh-TW": "宇宙工具第19階段",
+   "ja": "[コスモツール第19段階]"
+  }
+ },
+ {
+  "slug": "hyperpickaxe-v1-2",
+  "en": "Hyperpickaxe v1.2",
+  "profession": "miner",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Hyperpickaxe v1.2",
+   "zh-CN": "超空间鹤嘴锄v1.2",
+   "zh-TW": "超空間鶴嘴鋤v1.2",
+   "ja": "ハイパースペース・ピック v1.2"
+  },
+  "desc": {
+   "en": "Phase 19 cosmic tool.",
+   "zh-CN": "宇宙工具第19阶段",
+   "zh-TW": "宇宙工具第19階段",
+   "ja": "[コスモツール第19段階]"
+  }
+ },
+ {
+  "slug": "hyperhatchet-v1-2",
+  "en": "Hyperhatchet v1.2",
+  "profession": "botanist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Hyperhatchet v1.2",
+   "zh-CN": "超空间手斧v1.2",
+   "zh-TW": "超空間手斧v1.2",
+   "ja": "ハイパースペース・ハチェット v1.2"
+  },
+  "desc": {
+   "en": "Phase 19 cosmic tool.",
+   "zh-CN": "宇宙工具第19阶段",
+   "zh-TW": "宇宙工具第19階段",
+   "ja": "[コスモツール第19段階]"
+  }
+ },
+ {
+  "slug": "fishing-hyperrod-v1-2",
+  "en": "Fishing Hyperrod v1.2",
+  "profession": "fisher",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Fishing Hyperrod v1.2",
+   "zh-CN": "超空间钓竿v1.2",
+   "zh-TW": "超空間釣竿v1.2",
+   "ja": "ハイパースペース・フィッシングロッド v1.2"
+  },
+  "desc": {
+   "en": "Phase 19 cosmic tool.",
+   "zh-CN": "宇宙工具第19阶段",
+   "zh-TW": "宇宙工具第19階段",
+   "ja": "[コスモツール第19段階]"
+  }
+ },
+ {
+  "slug": "saw-of-stars",
+  "en": "Saw of Stars",
+  "profession": "carpenter",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Saw of Stars",
+   "zh-CN": "群星手锯",
+   "zh-TW": "羣星手鋸",
+   "ja": "ソー・オブ・スターズ"
+  },
+  "desc": {
+   "en": "Perfected cosmic tool.",
+   "zh-CN": "宇宙工具最终阶段",
+   "zh-TW": "宇宙工具最終階段",
+   "ja": "[コスモツール最終段階]"
+  }
+ },
+ {
+  "slug": "cross-pein-hammer-of-stars",
+  "en": "Cross-pein Hammer of Stars",
+  "profession": "blacksmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Cross-pein Hammer of Stars",
+   "zh-CN": "群星横头锤",
+   "zh-TW": "羣星橫頭錘",
+   "ja": "クロスペインハンマー・オブ・スターズ"
+  },
+  "desc": {
+   "en": "Perfected cosmic tool.",
+   "zh-CN": "宇宙工具最终阶段",
+   "zh-TW": "宇宙工具最終階段",
+   "ja": "[コスモツール最終段階]"
+  }
+ },
+ {
+  "slug": "raising-hammer-of-stars",
+  "en": "Raising Hammer of Stars",
+  "profession": "armorer",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Raising Hammer of Stars",
+   "zh-CN": "群星圆头锤",
+   "zh-TW": "羣星圓頭錘",
+   "ja": "レイジングハンマー・オブ・スターズ"
+  },
+  "desc": {
+   "en": "Perfected cosmic tool.",
+   "zh-CN": "宇宙工具最终阶段",
+   "zh-TW": "宇宙工具最終階段",
+   "ja": "[コスモツール最終段階]"
+  }
+ },
+ {
+  "slug": "mallet-of-stars",
+  "en": "Mallet of Stars",
+  "profession": "goldsmith",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Mallet of Stars",
+   "zh-CN": "群星工艺锤",
+   "zh-TW": "羣星工藝錘",
+   "ja": "マレット・オブ・スターズ"
+  },
+  "desc": {
+   "en": "Perfected cosmic tool.",
+   "zh-CN": "宇宙工具最终阶段",
+   "zh-TW": "宇宙工具最終階段",
+   "ja": "[コスモツール最終段階]"
+  }
+ },
+ {
+  "slug": "round-knife-of-stars",
+  "en": "Round Knife of Stars",
+  "profession": "leatherworker",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Round Knife of Stars",
+   "zh-CN": "群星圆革刀",
+   "zh-TW": "羣星圓革刀",
+   "ja": "ラウンドナイフ・オブ・スターズ"
+  },
+  "desc": {
+   "en": "Perfected cosmic tool.",
+   "zh-CN": "宇宙工具最终阶段",
+   "zh-TW": "宇宙工具最終階段",
+   "ja": "[コスモツール最終段階]"
+  }
+ },
+ {
+  "slug": "needle-of-stars",
+  "en": "Needle of Stars",
+  "profession": "weaver",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Needle of Stars",
+   "zh-CN": "群星缝针",
+   "zh-TW": "羣星縫針",
+   "ja": "ニードル・オブ・スターズ"
+  },
+  "desc": {
+   "en": "Perfected cosmic tool.",
+   "zh-CN": "宇宙工具最终阶段",
+   "zh-TW": "宇宙工具最終階段",
+   "ja": "[コスモツール最終段階]"
+  }
+ },
+ {
+  "slug": "alembic-of-stars",
+  "en": "Alembic of Stars",
+  "profession": "alchemist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Alembic of Stars",
+   "zh-CN": "群星蒸馏器",
+   "zh-TW": "羣星蒸餾器",
+   "ja": "アレンビック・オブ・スターズ"
+  },
+  "desc": {
+   "en": "Perfected cosmic tool.",
+   "zh-CN": "宇宙工具最终阶段",
+   "zh-TW": "宇宙工具最終階段",
+   "ja": "[コスモツール最終段階]"
+  }
+ },
+ {
+  "slug": "frypan-of-stars",
+  "en": "Frypan of Stars",
+  "profession": "culinarian",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Frypan of Stars",
+   "zh-CN": "群星煎锅",
+   "zh-TW": "羣星煎鍋",
+   "ja": "フライパン・オブ・スターズ"
+  },
+  "desc": {
+   "en": "Perfected cosmic tool.",
+   "zh-CN": "宇宙工具最终阶段",
+   "zh-TW": "宇宙工具最終階段",
+   "ja": "[コスモツール最終段階]"
+  }
+ },
+ {
+  "slug": "pickaxe-of-stars",
+  "en": "Pickaxe of Stars",
+  "profession": "miner",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Pickaxe of Stars",
+   "zh-CN": "群星鹤嘴锄",
+   "zh-TW": "羣星鶴嘴鋤",
+   "ja": "ピック・オブ・スターズ"
+  },
+  "desc": {
+   "en": "Perfected cosmic tool.",
+   "zh-CN": "宇宙工具最终阶段",
+   "zh-TW": "宇宙工具最終階段",
+   "ja": "[コスモツール最終段階]"
+  }
+ },
+ {
+  "slug": "hatchet-of-stars",
+  "en": "Hatchet of Stars",
+  "profession": "botanist",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Hatchet of Stars",
+   "zh-CN": "群星手斧",
+   "zh-TW": "羣星手斧",
+   "ja": "ハチェット・オブ・スターズ"
+  },
+  "desc": {
+   "en": "Perfected cosmic tool.",
+   "zh-CN": "宇宙工具最终阶段",
+   "zh-TW": "宇宙工具最終階段",
+   "ja": "[コスモツール最終段階]"
+  }
+ },
+ {
+  "slug": "fishing-rod-of-stars",
+  "en": "Fishing Rod of Stars",
+  "profession": "fisher",
+  "slot": "primary",
+  "profLinked": true,
+  "n": {
+   "en": "Fishing Rod of Stars",
+   "zh-CN": "群星钓竿",
+   "zh-TW": "羣星釣竿",
+   "ja": "フィッシングロッド・オブ・スターズ"
+  },
+  "desc": {
+   "en": "Perfected cosmic tool.",
+   "zh-CN": "宇宙工具最终阶段",
+   "zh-TW": "宇宙工具最終階段",
+   "ja": "[コスモツール最終段階]"
+  }
+ }
+]

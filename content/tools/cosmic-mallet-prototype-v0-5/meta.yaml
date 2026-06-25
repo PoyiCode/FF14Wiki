@@ -1,0 +1,9 @@
+id: cosmic-mallet-prototype-v0-5
+category: tools
+type: tool
+tool: "Cosmic Mallet Prototype v0.5"
+profession: goldsmith
+slot: primary
+related: [goldsmith]
+tags: [tool, goldsmith, main-tool]
+status: stable

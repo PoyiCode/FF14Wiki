@@ -1,0 +1,9 @@
+id: stellar-alembic-v1-2
+category: tools
+type: tool
+tool: "Stellar Alembic v1.2"
+profession: alchemist
+slot: primary
+related: [alchemist]
+tags: [tool, alchemist, main-tool]
+status: stable

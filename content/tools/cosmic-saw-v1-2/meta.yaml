@@ -1,0 +1,9 @@
+id: cosmic-saw-v1-2
+category: tools
+type: tool
+tool: "Cosmic Saw v1.2"
+profession: carpenter
+slot: primary
+related: [carpenter]
+tags: [tool, carpenter, main-tool]
+status: stable

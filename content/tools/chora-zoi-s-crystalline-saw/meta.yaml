@@ -1,0 +1,9 @@
+id: chora-zoi-s-crystalline-saw
+category: tools
+type: tool
+tool: "Chora-Zoi's Crystalline Saw"
+profession: carpenter
+slot: primary
+related: [carpenter]
+tags: [tool, carpenter, main-tool]
+status: stable

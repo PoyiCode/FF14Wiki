@@ -1,0 +1,9 @@
+id: cosmic-raising-hammer-v1-3
+category: tools
+type: tool
+tool: "Cosmic Raising Hammer v1.3"
+profession: armorer
+slot: primary
+related: [armorer]
+tags: [tool, armorer, main-tool]
+status: stable

@@ -1,0 +1,9 @@
+id: augmented-splendorous-alembic
+category: tools
+type: tool
+tool: "Augmented Splendorous Alembic"
+profession: alchemist
+slot: primary
+related: [alchemist]
+tags: [tool, alchemist, main-tool]
+status: stable

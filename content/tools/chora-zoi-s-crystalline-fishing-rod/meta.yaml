@@ -1,0 +1,9 @@
+id: chora-zoi-s-crystalline-fishing-rod
+category: tools
+type: tool
+tool: "Chora-Zoi's Crystalline Fishing Rod"
+profession: fisher
+slot: primary
+related: [fisher]
+tags: [tool, fisher, main-tool]
+status: stable
