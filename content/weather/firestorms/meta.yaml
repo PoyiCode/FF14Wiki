@@ -1,0 +1,6 @@
+id: firestorms
+category: weather
+type: weather
+weather: "Firestorms"
+tags: [weather, environment]
+status: stable

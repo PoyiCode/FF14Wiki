@@ -1,0 +1,6 @@
+id: showers
+category: weather
+type: weather
+weather: "Showers"
+tags: [weather, environment]
+status: stable

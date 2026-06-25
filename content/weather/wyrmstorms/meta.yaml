@@ -1,0 +1,6 @@
+id: wyrmstorms
+category: weather
+type: weather
+weather: "Wyrmstorms"
+tags: [weather, environment]
+status: stable

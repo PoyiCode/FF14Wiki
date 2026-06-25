@@ -1,0 +1,6 @@
+id: annealing-winds
+category: weather
+type: weather
+weather: "Annealing Winds"
+tags: [weather, environment]
+status: stable

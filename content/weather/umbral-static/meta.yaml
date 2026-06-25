@@ -1,0 +1,6 @@
+id: umbral-static
+category: weather
+type: weather
+weather: "Umbral Static"
+tags: [weather, environment]
+status: stable

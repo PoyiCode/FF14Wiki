@@ -1,0 +1,6 @@
+id: eruptions
+category: weather
+type: weather
+weather: "Eruptions"
+tags: [weather, environment]
+status: stable

@@ -1,0 +1,6 @@
+id: transcendence
+category: weather
+type: weather
+weather: "Transcendence"
+tags: [weather, environment]
+status: stable

@@ -1,0 +1,6 @@
+id: fair-skies
+category: weather
+type: weather
+weather: "Fair Skies"
+tags: [weather, environment]
+status: stable

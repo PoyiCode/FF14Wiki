@@ -1,0 +1,6 @@
+id: thunder
+category: weather
+type: weather
+weather: "Thunder"
+tags: [weather, environment]
+status: stable

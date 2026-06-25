@@ -1,0 +1,6 @@
+id: fog
+category: weather
+type: weather
+weather: "Fog"
+tags: [weather, environment]
+status: stable

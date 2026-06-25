@@ -1,0 +1,6 @@
+id: rough-seas
+category: weather
+type: weather
+weather: "Rough Seas"
+tags: [weather, environment]
+status: stable

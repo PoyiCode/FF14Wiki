@@ -1,0 +1,6 @@
+id: illusory-disturbances
+category: weather
+type: weather
+weather: "Illusory Disturbances"
+tags: [weather, environment]
+status: stable

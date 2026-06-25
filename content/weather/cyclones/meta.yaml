@@ -1,0 +1,6 @@
+id: cyclones
+category: weather
+type: weather
+weather: "Cyclones"
+tags: [weather, environment]
+status: stable

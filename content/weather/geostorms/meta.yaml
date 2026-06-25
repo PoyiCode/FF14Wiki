@@ -1,0 +1,6 @@
+id: geostorms
+category: weather
+type: weather
+weather: "Geostorms"
+tags: [weather, environment]
+status: stable

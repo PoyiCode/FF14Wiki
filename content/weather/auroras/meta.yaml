@@ -1,0 +1,6 @@
+id: auroras
+category: weather
+type: weather
+weather: "Auroras"
+tags: [weather, environment]
+status: stable

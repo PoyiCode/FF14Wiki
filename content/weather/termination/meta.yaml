@@ -1,0 +1,6 @@
+id: termination
+category: weather
+type: weather
+weather: "Termination"
+tags: [weather, environment]
+status: stable

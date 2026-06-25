@@ -1,0 +1,6 @@
+id: gravitational-flux
+category: weather
+type: weather
+weather: "Gravitational Flux"
+tags: [weather, environment]
+status: stable

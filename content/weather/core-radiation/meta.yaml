@@ -1,0 +1,6 @@
+id: core-radiation
+category: weather
+type: weather
+weather: "Core Radiation"
+tags: [weather, environment]
+status: stable

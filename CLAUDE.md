@@ -58,6 +58,8 @@ npm run lint       # next lint
 現有生成器：
 - `scripts/gen-all-emotes.mjs` ← `scripts/emote-data.json`（全部 emote 指令）
 - `scripts/gen-geo.mjs` ← `scripts/aetheryte-data.json`（地區與傳送點 aetheryte）
+- `scripts/gen-races.mjs` ← `scripts/race-data.json`（種族與部族）
+- `scripts/gen-weather.mjs` ← `scripts/weather-data.json`（天氣）
 
 ### 資料來源（皆取自 GitHub raw，本環境可直接 `curl`）
 

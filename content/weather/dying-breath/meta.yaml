@@ -1,0 +1,6 @@
+id: dying-breath
+category: weather
+type: weather
+weather: "Dying Breath"
+tags: [weather, environment]
+status: stable

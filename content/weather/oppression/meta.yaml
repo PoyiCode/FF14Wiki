@@ -1,0 +1,6 @@
+id: oppression
+category: weather
+type: weather
+weather: "Oppression"
+tags: [weather, environment]
+status: stable

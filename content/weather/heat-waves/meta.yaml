@@ -1,0 +1,6 @@
+id: heat-waves
+category: weather
+type: weather
+weather: "Heat Waves"
+tags: [weather, environment]
+status: stable

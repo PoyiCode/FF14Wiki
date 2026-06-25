@@ -1,0 +1,6 @@
+id: white-cyclones
+category: weather
+type: weather
+weather: "White Cyclones"
+tags: [weather, environment]
+status: stable

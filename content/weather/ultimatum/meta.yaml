@@ -1,0 +1,6 @@
+id: ultimatum
+category: weather
+type: weather
+weather: "Ultimatum"
+tags: [weather, environment]
+status: stable

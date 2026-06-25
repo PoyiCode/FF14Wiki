@@ -1,0 +1,6 @@
+id: wind
+category: weather
+type: weather
+weather: "Wind"
+tags: [weather, environment]
+status: stable

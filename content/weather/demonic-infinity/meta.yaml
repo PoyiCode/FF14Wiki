@@ -1,0 +1,6 @@
+id: demonic-infinity
+category: weather
+type: weather
+weather: "Demonic Infinity"
+tags: [weather, environment]
+status: stable

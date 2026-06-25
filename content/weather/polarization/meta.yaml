@@ -1,0 +1,6 @@
+id: polarization
+category: weather
+type: weather
+weather: "Polarization"
+tags: [weather, environment]
+status: stable

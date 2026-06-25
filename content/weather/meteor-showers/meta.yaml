@@ -1,0 +1,6 @@
+id: meteor-showers
+category: weather
+type: weather
+weather: "Meteor Showers"
+tags: [weather, environment]
+status: stable

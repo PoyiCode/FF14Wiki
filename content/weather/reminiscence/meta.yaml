@@ -1,0 +1,6 @@
+id: reminiscence
+category: weather
+type: weather
+weather: "Reminiscence"
+tags: [weather, environment]
+status: stable

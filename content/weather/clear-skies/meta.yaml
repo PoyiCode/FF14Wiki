@@ -1,0 +1,6 @@
+id: clear-skies
+category: weather
+type: weather
+weather: "Clear Skies"
+tags: [weather, environment]
+status: stable

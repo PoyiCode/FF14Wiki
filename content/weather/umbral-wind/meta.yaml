@@ -1,0 +1,6 @@
+id: umbral-wind
+category: weather
+type: weather
+weather: "Umbral Wind"
+tags: [weather, environment]
+status: stable

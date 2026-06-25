@@ -1,0 +1,6 @@
+id: dimensional-disruption
+category: weather
+type: weather
+weather: "Dimensional Disruption"
+tags: [weather, environment]
+status: stable

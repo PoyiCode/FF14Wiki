@@ -1,0 +1,6 @@
+id: projection
+category: weather
+type: weather
+weather: "Projection"
+tags: [weather, environment]
+status: stable

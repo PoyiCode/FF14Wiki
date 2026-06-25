@@ -1,0 +1,6 @@
+id: smoke
+category: weather
+type: weather
+weather: "Smoke"
+tags: [weather, environment]
+status: stable

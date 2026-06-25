@@ -1,0 +1,6 @@
+id: louring
+category: weather
+type: weather
+weather: "Louring"
+tags: [weather, environment]
+status: stable

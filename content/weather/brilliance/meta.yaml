@@ -1,0 +1,6 @@
+id: brilliance
+category: weather
+type: weather
+weather: "Brilliance"
+tags: [weather, environment]
+status: stable

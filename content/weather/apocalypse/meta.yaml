@@ -1,0 +1,6 @@
+id: apocalypse
+category: weather
+type: weather
+weather: "Apocalypse"
+tags: [weather, environment]
+status: stable

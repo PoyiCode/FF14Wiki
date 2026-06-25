@@ -1,0 +1,6 @@
+id: gales
+category: weather
+type: weather
+weather: "Gales"
+tags: [weather, environment]
+status: stable

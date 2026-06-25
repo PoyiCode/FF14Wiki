@@ -1,0 +1,6 @@
+id: starshower
+category: weather
+type: weather
+weather: "Starshower"
+tags: [weather, environment]
+status: stable

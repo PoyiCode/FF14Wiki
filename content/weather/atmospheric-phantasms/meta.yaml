@@ -1,0 +1,6 @@
+id: atmospheric-phantasms
+category: weather
+type: weather
+weather: "Atmospheric Phantasms"
+tags: [weather, environment]
+status: stable

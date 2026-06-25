@@ -1,0 +1,6 @@
+id: moonlight
+category: weather
+type: weather
+weather: "Moonlight"
+tags: [weather, environment]
+status: stable

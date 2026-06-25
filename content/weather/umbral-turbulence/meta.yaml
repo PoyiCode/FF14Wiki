@@ -1,0 +1,6 @@
+id: umbral-turbulence
+category: weather
+type: weather
+weather: "Umbral Turbulence"
+tags: [weather, environment]
+status: stable

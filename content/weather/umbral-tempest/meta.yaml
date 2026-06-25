@@ -1,0 +1,6 @@
+id: umbral-tempest
+category: weather
+type: weather
+weather: "Umbral Tempest"
+tags: [weather, environment]
+status: stable

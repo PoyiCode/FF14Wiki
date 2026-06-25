@@ -1,0 +1,6 @@
+id: electrostatic-dust
+category: weather
+type: weather
+weather: "Electrostatic Dust"
+tags: [weather, environment]
+status: stable

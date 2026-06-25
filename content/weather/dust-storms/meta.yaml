@@ -1,0 +1,6 @@
+id: dust-storms
+category: weather
+type: weather
+weather: "Dust Storms"
+tags: [weather, environment]
+status: stable

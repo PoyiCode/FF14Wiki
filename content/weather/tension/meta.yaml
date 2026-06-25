@@ -1,0 +1,6 @@
+id: tension
+category: weather
+type: weather
+weather: "Tension"
+tags: [weather, environment]
+status: stable

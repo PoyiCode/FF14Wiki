@@ -1,0 +1,6 @@
+id: multiplicity
+category: weather
+type: weather
+weather: "Multiplicity"
+tags: [weather, environment]
+status: stable

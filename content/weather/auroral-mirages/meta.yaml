@@ -1,0 +1,6 @@
+id: auroral-mirages
+category: weather
+type: weather
+weather: "Auroral Mirages"
+tags: [weather, environment]
+status: stable

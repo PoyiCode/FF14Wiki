@@ -1,0 +1,6 @@
+id: red-moon
+category: weather
+type: weather
+weather: "Red Moon"
+tags: [weather, environment]
+status: stable

@@ -1,0 +1,6 @@
+id: eternal-bliss
+category: weather
+type: weather
+weather: "Eternal Bliss"
+tags: [weather, environment]
+status: stable

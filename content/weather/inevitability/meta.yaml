@@ -1,0 +1,6 @@
+id: inevitability
+category: weather
+type: weather
+weather: "Inevitability"
+tags: [weather, environment]
+status: stable

@@ -1,0 +1,6 @@
+id: glass-storms
+category: weather
+type: weather
+weather: "Glass Storms"
+tags: [weather, environment]
+status: stable

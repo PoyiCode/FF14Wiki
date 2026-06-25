@@ -1,0 +1,6 @@
+id: ominous-clouds
+category: weather
+type: weather
+weather: "Ominous Clouds"
+tags: [weather, environment]
+status: stable

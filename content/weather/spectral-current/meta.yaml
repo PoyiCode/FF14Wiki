@@ -1,0 +1,6 @@
+id: spectral-current
+category: weather
+type: weather
+weather: "Spectral Current"
+tags: [weather, environment]
+status: stable

@@ -1,0 +1,6 @@
+id: liminality
+category: weather
+type: weather
+weather: "Liminality"
+tags: [weather, environment]
+status: stable

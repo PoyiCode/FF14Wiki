@@ -1,0 +1,6 @@
+id: hot-spells
+category: weather
+type: weather
+weather: "Hot Spells"
+tags: [weather, environment]
+status: stable

@@ -1,0 +1,6 @@
+id: auroral-flares
+category: weather
+type: weather
+weather: "Auroral Flares"
+tags: [weather, environment]
+status: stable

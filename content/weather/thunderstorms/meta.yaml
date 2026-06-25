@@ -1,0 +1,6 @@
+id: thunderstorms
+category: weather
+type: weather
+weather: "Thunderstorms"
+tags: [weather, environment]
+status: stable

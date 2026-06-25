@@ -1,0 +1,6 @@
+id: umbral-flare
+category: weather
+type: weather
+weather: "Umbral Flare"
+tags: [weather, environment]
+status: stable

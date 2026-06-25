@@ -1,0 +1,6 @@
+id: dragonstorms
+category: weather
+type: weather
+weather: "Dragonstorms"
+tags: [weather, environment]
+status: stable

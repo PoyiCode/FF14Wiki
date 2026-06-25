@@ -1,0 +1,6 @@
+id: flames
+category: weather
+type: weather
+weather: "Flames"
+tags: [weather, environment]
+status: stable

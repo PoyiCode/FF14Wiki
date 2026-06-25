@@ -1,0 +1,6 @@
+id: astromagnetic-storms
+category: weather
+type: weather
+weather: "Astromagnetic Storms"
+tags: [weather, environment]
+status: stable

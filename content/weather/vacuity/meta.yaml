@@ -1,0 +1,6 @@
+id: vacuity
+category: weather
+type: weather
+weather: "Vacuity"
+tags: [weather, environment]
+status: stable

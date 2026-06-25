@@ -1,0 +1,6 @@
+id: shelf-clouds
+category: weather
+type: weather
+weather: "Shelf Clouds"
+tags: [weather, environment]
+status: stable

@@ -1,0 +1,6 @@
+id: floracane
+category: weather
+type: weather
+weather: "Floracane"
+tags: [weather, environment]
+status: stable

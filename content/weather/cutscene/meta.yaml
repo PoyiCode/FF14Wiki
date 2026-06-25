@@ -1,0 +1,6 @@
+id: cutscene
+category: weather
+type: weather
+weather: "CutScene"
+tags: [weather, environment]
+status: stable

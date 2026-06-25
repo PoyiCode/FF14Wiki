@@ -1,0 +1,6 @@
+id: blizzards
+category: weather
+type: weather
+weather: "Blizzards"
+tags: [weather, environment]
+status: stable

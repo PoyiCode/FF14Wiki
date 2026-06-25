@@ -1,0 +1,6 @@
+id: gloom
+category: weather
+type: weather
+weather: "Gloom"
+tags: [weather, environment]
+status: stable

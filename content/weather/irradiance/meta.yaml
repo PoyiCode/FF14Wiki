@@ -1,0 +1,6 @@
+id: irradiance
+category: weather
+type: weather
+weather: "Irradiance"
+tags: [weather, environment]
+status: stable

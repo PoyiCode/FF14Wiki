@@ -1,0 +1,6 @@
+id: storm-clouds
+category: weather
+type: weather
+weather: "Storm Clouds"
+tags: [weather, environment]
+status: stable

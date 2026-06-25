@@ -1,0 +1,6 @@
+id: hyperelectricity
+category: weather
+type: weather
+weather: "Hyperelectricity"
+tags: [weather, environment]
+status: stable

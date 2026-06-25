@@ -1,0 +1,6 @@
+id: snow
+category: weather
+type: weather
+weather: "Snow"
+tags: [weather, environment]
+status: stable

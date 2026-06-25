@@ -100,6 +100,16 @@ export const CATEGORIES: CategoryDef[] = [
       en: 'Game terms and chat shorthand to help the bot read and answer players.',
     },
   },
+  {
+    key: 'weather',
+    label: { 'zh-TW': '天氣', 'zh-CN': '天气', ja: '天候', en: 'Weather' },
+    description: {
+      'zh-TW': '艾歐澤亞的各種天氣，讓 bot 能自然描述環境、與玩家閒聊天氣。',
+      'zh-CN': '艾欧泽亚的各种天气，让 bot 能自然描述环境、与玩家闲聊天气。',
+      ja: 'エオルゼアの天候。botが環境を自然に語り、天気の雑談ができるように。',
+      en: 'The weathers of Eorzea, so the bot can describe its surroundings and chat about the weather.',
+    },
+  },
 ];
 
 export const CATEGORY_KEYS = CATEGORIES.map((c) => c.key);

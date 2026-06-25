@@ -1,0 +1,6 @@
+id: tsunamis
+category: weather
+type: weather
+weather: "Tsunamis"
+tags: [weather, environment]
+status: stable

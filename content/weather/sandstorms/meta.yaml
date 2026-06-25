@@ -1,0 +1,6 @@
+id: sandstorms
+category: weather
+type: weather
+weather: "Sandstorms"
+tags: [weather, environment]
+status: stable

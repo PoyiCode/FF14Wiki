@@ -1,0 +1,6 @@
+id: clouds
+category: weather
+type: weather
+weather: "Clouds"
+tags: [weather, environment]
+status: stable

@@ -1,0 +1,6 @@
+id: dreams
+category: weather
+type: weather
+weather: "Dreams"
+tags: [weather, environment]
+status: stable

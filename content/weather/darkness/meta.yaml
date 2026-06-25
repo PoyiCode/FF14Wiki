@@ -1,0 +1,6 @@
+id: darkness
+category: weather
+type: weather
+weather: "Darkness"
+tags: [weather, environment]
+status: stable

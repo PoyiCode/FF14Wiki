@@ -1,0 +1,6 @@
+id: revelstorms
+category: weather
+type: weather
+weather: "Revelstorms"
+tags: [weather, environment]
+status: stable

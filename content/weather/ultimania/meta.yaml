@@ -1,0 +1,6 @@
+id: ultimania
+category: weather
+type: weather
+weather: "Ultimania"
+tags: [weather, environment]
+status: stable

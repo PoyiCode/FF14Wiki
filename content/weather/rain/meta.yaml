@@ -1,0 +1,6 @@
+id: rain
+category: weather
+type: weather
+weather: "Rain"
+tags: [weather, environment]
+status: stable

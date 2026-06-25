@@ -1,0 +1,1058 @@
+[
+ {
+  "slug": "annealing-winds",
+  "en": "Annealing Winds",
+  "desc": "annealing",
+  "n": {
+   "en": "Annealing Winds",
+   "zh-CN": "寒冷气流",
+   "ja": "寒冷気流",
+   "zh-TW": "寒冷氣流"
+  }
+ },
+ {
+  "slug": "apocalypse",
+  "en": "Apocalypse",
+  "desc": "apocalyptic",
+  "n": {
+   "en": "Apocalypse",
+   "zh-CN": "末日",
+   "ja": "終末",
+   "zh-TW": "末日"
+  }
+ },
+ {
+  "slug": "astromagnetic-storms",
+  "en": "Astromagnetic Storms",
+  "desc": "astromagnetic",
+  "n": {
+   "en": "Astromagnetic Storms",
+   "zh-CN": "磁暴",
+   "ja": "磁気嵐",
+   "zh-TW": "磁暴"
+  }
+ },
+ {
+  "slug": "atmospheric-phantasms",
+  "en": "Atmospheric Phantasms",
+  "desc": "phantasmal",
+  "n": {
+   "en": "Atmospheric Phantasms",
+   "zh-CN": "幻怪",
+   "ja": "幻怪",
+   "zh-TW": "幻怪"
+  }
+ },
+ {
+  "slug": "auroral-flares",
+  "en": "Auroral Flares",
+  "desc": "experiencing auroral flares",
+  "n": {
+   "en": "Auroral Flares",
+   "zh-CN": "幻极光",
+   "ja": "幻極光",
+   "zh-TW": "幻極光"
+  }
+ },
+ {
+  "slug": "auroral-mirages",
+  "en": "Auroral Mirages",
+  "desc": "auroral",
+  "n": {
+   "en": "Auroral Mirages",
+   "zh-CN": "蜃景",
+   "ja": "蜃気楼",
+   "zh-TW": "蜃景"
+  }
+ },
+ {
+  "slug": "auroras",
+  "en": "Auroras",
+  "desc": "experiencing auroral activity",
+  "n": {
+   "en": "Auroras",
+   "zh-CN": "极光",
+   "ja": "オーロラ",
+   "zh-TW": "極光"
+  }
+ },
+ {
+  "slug": "beyond-time",
+  "en": "Beyond Time",
+  "desc": "temporal",
+  "n": {
+   "en": "Beyond Time",
+   "zh-CN": "时光",
+   "ja": "時流",
+   "zh-TW": "時光"
+  }
+ },
+ {
+  "slug": "blizzards",
+  "en": "Blizzards",
+  "desc": "blizzardy",
+  "n": {
+   "en": "Blizzards",
+   "zh-CN": "暴雪",
+   "ja": "吹雪",
+   "zh-TW": "暴雪"
+  }
+ },
+ {
+  "slug": "brilliance",
+  "en": "Brilliance",
+  "desc": "brilliant",
+  "n": {
+   "en": "Brilliance",
+   "zh-CN": "光天",
+   "ja": "光天",
+   "zh-TW": "光天"
+  }
+ },
+ {
+  "slug": "bubble-bloom",
+  "en": "Bubble Bloom",
+  "desc": "bubbly",
+  "n": {
+   "en": "Bubble Bloom",
+   "zh-CN": "水泡风暴",
+   "ja": "水泡嵐",
+   "zh-TW": "水泡風暴"
+  }
+ },
+ {
+  "slug": "clear-skies",
+  "en": "Clear Skies",
+  "desc": "clear",
+  "n": {
+   "en": "Clear Skies",
+   "zh-CN": "碧空",
+   "ja": "快晴",
+   "zh-TW": "碧空"
+  }
+ },
+ {
+  "slug": "climactic",
+  "en": "Climactic",
+  "desc": "climactic",
+  "n": {
+   "en": "Climactic",
+   "zh-CN": "决战",
+   "ja": "決戦",
+   "zh-TW": "決戰"
+  }
+ },
+ {
+  "slug": "clouds",
+  "en": "Clouds",
+  "desc": "overcast",
+  "n": {
+   "en": "Clouds",
+   "zh-CN": "阴云",
+   "ja": "曇り",
+   "zh-TW": "陰雲"
+  }
+ },
+ {
+  "slug": "concordance",
+  "en": "Concordance",
+  "desc": "concordant",
+  "n": {
+   "en": "Concordance",
+   "zh-CN": "平衡",
+   "ja": "調和",
+   "zh-TW": "平衡"
+  }
+ },
+ {
+  "slug": "core-radiation",
+  "en": "Core Radiation",
+  "desc": "radioactive",
+  "n": {
+   "en": "Core Radiation",
+   "zh-CN": "辉核",
+   "ja": "龍核",
+   "zh-TW": "輝核"
+  }
+ },
+ {
+  "slug": "cutscene",
+  "en": "CutScene",
+  "desc": "CutScenery",
+  "n": {
+   "en": "CutScene",
+   "zh-CN": "CutScene",
+   "ja": "CutScene",
+   "zh-TW": "CutScene"
+  }
+ },
+ {
+  "slug": "cyclones",
+  "en": "Cyclones",
+  "desc": "cyclonic",
+  "n": {
+   "en": "Cyclones",
+   "zh-CN": "龙卷风",
+   "ja": "竜巻",
+   "zh-TW": "龍捲風"
+  }
+ },
+ {
+  "slug": "darkness",
+  "en": "Darkness",
+  "desc": "dark",
+  "n": {
+   "en": "Darkness",
+   "zh-CN": "黑暗",
+   "ja": "闇",
+   "zh-TW": "黑暗"
+  }
+ },
+ {
+  "slug": "delirium",
+  "en": "Delirium",
+  "desc": "delirium",
+  "n": {
+   "en": "Delirium",
+   "zh-CN": "记忆乱流",
+   "ja": "記憶乱流",
+   "zh-TW": "記憶亂流"
+  }
+ },
+ {
+  "slug": "demonic-infinity",
+  "en": "Demonic Infinity",
+  "desc": "demonically infinite",
+  "n": {
+   "en": "Demonic Infinity",
+   "zh-CN": "鬼气",
+   "ja": "鬼気",
+   "zh-TW": "鬼氣"
+  }
+ },
+ {
+  "slug": "dimensional-disruption",
+  "en": "Dimensional Disruption",
+  "desc": "extradimensional",
+  "n": {
+   "en": "Dimensional Disruption",
+   "zh-CN": "次元",
+   "ja": "次元",
+   "zh-TW": "次元"
+  }
+ },
+ {
+  "slug": "dragonstorms",
+  "en": "Dragonstorms",
+  "desc": "unnaturally stormy",
+  "n": {
+   "en": "Dragonstorms",
+   "zh-CN": "邪天",
+   "ja": "邪天",
+   "zh-TW": "邪天"
+  }
+ },
+ {
+  "slug": "dreams",
+  "en": "Dreams",
+  "desc": "dreamy",
+  "n": {
+   "en": "Dreams",
+   "zh-CN": "妖梦",
+   "ja": "妖夢",
+   "zh-TW": "妖夢"
+  }
+ },
+ {
+  "slug": "dust-storms",
+  "en": "Dust Storms",
+  "desc": "dusty",
+  "n": {
+   "en": "Dust Storms",
+   "zh-CN": "扬沙",
+   "ja": "砂塵",
+   "zh-TW": "揚沙"
+  }
+ },
+ {
+  "slug": "dying-breath",
+  "en": "Dying Breath",
+  "desc": "deadly",
+  "n": {
+   "en": "Dying Breath",
+   "zh-CN": "死气",
+   "ja": "死気",
+   "zh-TW": "死氣"
+  }
+ },
+ {
+  "slug": "electrostatic-dust",
+  "en": "Electrostatic Dust",
+  "desc": "electrostatic",
+  "n": {
+   "en": "Electrostatic Dust",
+   "zh-CN": "魔尘",
+   "ja": "魔塵",
+   "zh-TW": "魔塵"
+  }
+ },
+ {
+  "slug": "eruptions",
+  "en": "Eruptions",
+  "desc": "erupting",
+  "n": {
+   "en": "Eruptions",
+   "zh-CN": "烟雾",
+   "ja": "噴煙",
+   "zh-TW": "煙霧"
+  }
+ },
+ {
+  "slug": "eternal-bliss",
+  "en": "Eternal Bliss",
+  "desc": "blissful",
+  "n": {
+   "en": "Eternal Bliss",
+   "zh-CN": "极乐",
+   "ja": "美天",
+   "zh-TW": "極樂"
+  }
+ },
+ {
+  "slug": "everlasting-light",
+  "en": "Everlasting Light",
+  "desc": "bright",
+  "n": {
+   "en": "Everlasting Light",
+   "zh-CN": "无尽光",
+   "ja": "無尽光",
+   "zh-TW": "無盡光"
+  }
+ },
+ {
+  "slug": "fair-skies",
+  "en": "Fair Skies",
+  "desc": "fair",
+  "n": {
+   "en": "Fair Skies",
+   "zh-CN": "晴朗",
+   "ja": "晴れ",
+   "zh-TW": "晴朗"
+  }
+ },
+ {
+  "slug": "firestorms",
+  "en": "Firestorms",
+  "desc": "hellacious",
+  "n": {
+   "en": "Firestorms",
+   "zh-CN": "火风暴",
+   "ja": "焔嵐 ",
+   "zh-TW": "火風暴"
+  }
+ },
+ {
+  "slug": "flames",
+  "en": "Flames",
+  "desc": "fiery",
+  "n": {
+   "en": "Flames",
+   "zh-CN": "烈焰",
+   "ja": "火炎",
+   "zh-TW": "烈焰"
+  }
+ },
+ {
+  "slug": "floracane",
+  "en": "Floracane",
+  "desc": "aggressively floral",
+  "n": {
+   "en": "Floracane",
+   "zh-CN": "幻花风",
+   "ja": "幻花風",
+   "zh-TW": "幻花風"
+  }
+ },
+ {
+  "slug": "fog",
+  "en": "Fog",
+  "desc": "foggy",
+  "n": {
+   "en": "Fog",
+   "zh-CN": "薄雾",
+   "ja": "霧",
+   "zh-TW": "薄霧"
+  }
+ },
+ {
+  "slug": "gales",
+  "en": "Gales",
+  "desc": "gusty",
+  "n": {
+   "en": "Gales",
+   "zh-CN": "强风",
+   "ja": "暴風",
+   "zh-TW": "強風"
+  }
+ },
+ {
+  "slug": "geostorms",
+  "en": "Geostorms",
+  "desc": "shakey",
+  "n": {
+   "en": "Geostorms",
+   "zh-CN": "地震",
+   "ja": "地震",
+   "zh-TW": "地震"
+  }
+ },
+ {
+  "slug": "glass-storms",
+  "en": "Glass Storms",
+  "desc": "vitrescent",
+  "n": {
+   "en": "Glass Storms",
+   "zh-CN": "玻璃雨",
+   "ja": "グラスレイン",
+   "zh-TW": "玻璃雨"
+  }
+ },
+ {
+  "slug": "gloom",
+  "en": "Gloom",
+  "desc": "gloomy",
+  "n": {
+   "en": "Gloom",
+   "zh-CN": "妖雾",
+   "ja": "妖霧",
+   "zh-TW": "妖霧"
+  }
+ },
+ {
+  "slug": "gravitational-flux",
+  "en": "Gravitational Flux",
+  "desc": "anomalous",
+  "n": {
+   "en": "Gravitational Flux",
+   "zh-CN": "重力紊乱",
+   "ja": "乱重力",
+   "zh-TW": "重力紊亂"
+  }
+ },
+ {
+  "slug": "heat-waves",
+  "en": "Heat Waves",
+  "desc": "blistering",
+  "n": {
+   "en": "Heat Waves",
+   "zh-CN": "热浪",
+   "ja": "灼熱波",
+   "zh-TW": "熱浪"
+  }
+ },
+ {
+  "slug": "hot-spells",
+  "en": "Hot Spells",
+  "desc": "hot",
+  "n": {
+   "en": "Hot Spells",
+   "zh-CN": "高温",
+   "ja": "熱波",
+   "zh-TW": "高溫"
+  }
+ },
+ {
+  "slug": "hyperelectricity",
+  "en": "Hyperelectricity",
+  "desc": "hyperelectric",
+  "n": {
+   "en": "Hyperelectricity",
+   "zh-CN": "雷波",
+   "ja": "雷波",
+   "zh-TW": "雷波"
+  }
+ },
+ {
+  "slug": "illusory-disturbances",
+  "en": "Illusory Disturbances",
+  "desc": "illusory",
+  "n": {
+   "en": "Illusory Disturbances",
+   "zh-CN": "幻妖",
+   "ja": "幻妖",
+   "zh-TW": "幻妖"
+  }
+ },
+ {
+  "slug": "inevitability",
+  "en": "Inevitability",
+  "desc": "inevitable",
+  "n": {
+   "en": "Inevitability",
+   "zh-CN": "绝望",
+   "ja": "絶望",
+   "zh-TW": "絕望"
+  }
+ },
+ {
+  "slug": "irradiance",
+  "en": "Irradiance",
+  "desc": "irradiant",
+  "n": {
+   "en": "Irradiance",
+   "zh-CN": "极光",
+   "ja": "極光",
+   "zh-TW": "極光"
+  }
+ },
+ {
+  "slug": "liminality",
+  "en": "Liminality",
+  "desc": "liminal",
+  "n": {
+   "en": "Liminality",
+   "zh-CN": "阈限",
+   "ja": "暗天",
+   "zh-TW": "閾限"
+  }
+ },
+ {
+  "slug": "louring",
+  "en": "Louring",
+  "desc": "loury",
+  "n": {
+   "en": "Louring",
+   "zh-CN": "阴沉",
+   "ja": "曇天",
+   "zh-TW": "陰沉"
+  }
+ },
+ {
+  "slug": "lyrical-catharsis",
+  "en": "Lyrical Catharsis",
+  "desc": "lyrical",
+  "n": {
+   "en": "Lyrical Catharsis",
+   "zh-CN": "诗想",
+   "ja": "詩想",
+   "zh-TW": "詩想"
+  }
+ },
+ {
+  "slug": "meteor-showers",
+  "en": "Meteor Showers",
+  "desc": "meteoric",
+  "n": {
+   "en": "Meteor Showers",
+   "zh-CN": "流星雨",
+   "ja": "流星",
+   "zh-TW": "流星雨"
+  }
+ },
+ {
+  "slug": "moon-dust",
+  "en": "Moon Dust",
+  "desc": "regolithic",
+  "n": {
+   "en": "Moon Dust",
+   "zh-CN": "月尘",
+   "ja": "月砂塵",
+   "zh-TW": "月塵"
+  }
+ },
+ {
+  "slug": "moonlight",
+  "en": "Moonlight",
+  "desc": "moonlit",
+  "n": {
+   "en": "Moonlight",
+   "zh-CN": "月夜",
+   "ja": "月夜",
+   "zh-TW": "月夜"
+  }
+ },
+ {
+  "slug": "multiplicity",
+  "en": "Multiplicity",
+  "desc": "experiencing multiplicity",
+  "n": {
+   "en": "Multiplicity",
+   "zh-CN": "神秘",
+   "ja": "神秘",
+   "zh-TW": "神祕"
+  }
+ },
+ {
+  "slug": "ominous-clouds",
+  "en": "Ominous Clouds",
+  "desc": "ominous",
+  "n": {
+   "en": "Ominous Clouds",
+   "zh-CN": "战云",
+   "ja": "暗雲",
+   "zh-TW": "戰雲"
+  }
+ },
+ {
+  "slug": "oppression",
+  "en": "Oppression",
+  "desc": "oppressive",
+  "n": {
+   "en": "Oppression",
+   "zh-CN": "神意",
+   "ja": "神意",
+   "zh-TW": "神意"
+  }
+ },
+ {
+  "slug": "pand-monium",
+  "en": "Pandæmonium",
+  "desc": "demonic",
+  "n": {
+   "en": "Pandæmonium",
+   "zh-CN": "万魔殿",
+   "ja": "万魔殿",
+   "zh-TW": "萬魔殿"
+  }
+ },
+ {
+  "slug": "polarization",
+  "en": "Polarization",
+  "desc": "polarized",
+  "n": {
+   "en": "Polarization",
+   "zh-CN": "星灵",
+   "ja": "星霊",
+   "zh-TW": "星靈"
+  }
+ },
+ {
+  "slug": "projection",
+  "en": "Projection",
+  "desc": "projected",
+  "n": {
+   "en": "Projection",
+   "zh-CN": "虚拟",
+   "ja": "仮想",
+   "zh-TW": "虛擬"
+  }
+ },
+ {
+  "slug": "quicklevin",
+  "en": "Quicklevin",
+  "desc": "hypervoltaic",
+  "n": {
+   "en": "Quicklevin",
+   "zh-CN": "迅雷",
+   "ja": "迅雷",
+   "zh-TW": "迅雷"
+  }
+ },
+ {
+  "slug": "rain",
+  "en": "Rain",
+  "desc": "rainy",
+  "n": {
+   "en": "Rain",
+   "zh-CN": "小雨",
+   "ja": "雨",
+   "zh-TW": "小雨"
+  }
+ },
+ {
+  "slug": "red-moon",
+  "en": "Red Moon",
+  "desc": "portentious",
+  "n": {
+   "en": "Red Moon",
+   "zh-CN": "红月下",
+   "ja": "紅月下",
+   "zh-TW": "紅月下"
+  }
+ },
+ {
+  "slug": "reminiscence",
+  "en": "Reminiscence",
+  "desc": "nostalgic",
+  "n": {
+   "en": "Reminiscence",
+   "zh-CN": "记忆",
+   "ja": "記憶",
+   "zh-TW": "記憶"
+  }
+ },
+ {
+  "slug": "revelstorms",
+  "en": "Revelstorms",
+  "desc": "revelry",
+  "n": {
+   "en": "Revelstorms",
+   "zh-CN": "豪雨",
+   "ja": "嵐天",
+   "zh-TW": "豪雨"
+  }
+ },
+ {
+  "slug": "rough-seas",
+  "en": "Rough Seas",
+  "desc": "experiencing rough seas",
+  "n": {
+   "en": "Rough Seas",
+   "zh-CN": "暴风雨",
+   "ja": "時化",
+   "zh-TW": "暴風雨"
+  }
+ },
+ {
+  "slug": "royal-levin",
+  "en": "Royal Levin",
+  "desc": "experiencing royal levin",
+  "n": {
+   "en": "Royal Levin",
+   "zh-CN": "兽雷",
+   "ja": "獣雷",
+   "zh-TW": "獸雷"
+  }
+ },
+ {
+  "slug": "sandstorms",
+  "en": "Sandstorms",
+  "desc": "sandy",
+  "n": {
+   "en": "Sandstorms",
+   "zh-CN": "沙尘暴",
+   "ja": "砂嵐",
+   "zh-TW": "沙塵暴"
+  }
+ },
+ {
+  "slug": "scarlet",
+  "en": "Scarlet",
+  "desc": "scarlet",
+  "n": {
+   "en": "Scarlet",
+   "zh-CN": "朱炎",
+   "ja": "朱炎",
+   "zh-TW": "朱炎"
+  }
+ },
+ {
+  "slug": "shelf-clouds",
+  "en": "Shelf Clouds",
+  "desc": "unnaturally cloudy",
+  "n": {
+   "en": "Shelf Clouds",
+   "zh-CN": "滩云",
+   "ja": "群雲",
+   "zh-TW": "灘雲"
+  }
+ },
+ {
+  "slug": "showers",
+  "en": "Showers",
+  "desc": "showery",
+  "n": {
+   "en": "Showers",
+   "zh-CN": "暴雨",
+   "ja": "暴雨",
+   "zh-TW": "暴雨"
+  }
+ },
+ {
+  "slug": "smoke",
+  "en": "Smoke",
+  "desc": "smoky",
+  "n": {
+   "en": "Smoke",
+   "zh-CN": "烟武",
+   "ja": "煙霧",
+   "zh-TW": "煙武"
+  }
+ },
+ {
+  "slug": "snow",
+  "en": "Snow",
+  "desc": "snowy",
+  "n": {
+   "en": "Snow",
+   "zh-CN": "小雪",
+   "ja": "雪",
+   "zh-TW": "小雪"
+  }
+ },
+ {
+  "slug": "spectral-current",
+  "en": "Spectral Current",
+  "desc": "spectral",
+  "n": {
+   "en": "Spectral Current",
+   "zh-CN": "幻海流",
+   "ja": "幻海流 ",
+   "zh-TW": "幻海流"
+  }
+ },
+ {
+  "slug": "sporing-mist",
+  "en": "Sporing Mist",
+  "desc": "unicellular",
+  "n": {
+   "en": "Sporing Mist",
+   "zh-CN": "孢子雾",
+   "ja": "胞子霧",
+   "zh-TW": "孢子霧"
+  }
+ },
+ {
+  "slug": "starshower",
+  "en": "Starshower",
+  "desc": "calamitous",
+  "n": {
+   "en": "Starshower",
+   "zh-CN": "流星雨",
+   "ja": "流星雨",
+   "zh-TW": "流星雨"
+  }
+ },
+ {
+  "slug": "storm-clouds",
+  "en": "Storm Clouds",
+  "desc": "threatened by rain",
+  "n": {
+   "en": "Storm Clouds",
+   "zh-CN": "雷云",
+   "ja": "雷雲",
+   "zh-TW": "雷雲"
+  }
+ },
+ {
+  "slug": "subterrain",
+  "en": "Subterrain",
+  "desc": "subterranean",
+  "n": {
+   "en": "Subterrain",
+   "zh-CN": "晴朗",
+   "ja": "晴れ",
+   "zh-TW": "晴朗"
+  }
+ },
+ {
+  "slug": "tension",
+  "en": "Tension",
+  "desc": "crackling with tension",
+  "n": {
+   "en": "Tension",
+   "zh-CN": "绝命",
+   "ja": "闘気",
+   "zh-TW": "絕命"
+  }
+ },
+ {
+  "slug": "termination",
+  "en": "Termination",
+  "desc": "terminal",
+  "n": {
+   "en": "Termination",
+   "zh-CN": "末日",
+   "ja": "終末",
+   "zh-TW": "末日"
+  }
+ },
+ {
+  "slug": "thunder",
+  "en": "Thunder",
+  "desc": "thundery",
+  "n": {
+   "en": "Thunder",
+   "zh-CN": "打雷",
+   "ja": "雷",
+   "zh-TW": "打雷"
+  }
+ },
+ {
+  "slug": "thunderstorms",
+  "en": "Thunderstorms",
+  "desc": "stormy",
+  "n": {
+   "en": "Thunderstorms",
+   "zh-CN": "雷雨",
+   "ja": "雷雨",
+   "zh-TW": "雷雨"
+  }
+ },
+ {
+  "slug": "transcendence",
+  "en": "Transcendence",
+  "desc": "transcendent",
+  "n": {
+   "en": "Transcendence",
+   "zh-CN": "神域",
+   "ja": "神域",
+   "zh-TW": "神域"
+  }
+ },
+ {
+  "slug": "true-blue",
+  "en": "True Blue",
+  "desc": "true blue",
+  "n": {
+   "en": "True Blue",
+   "zh-CN": "青空",
+   "ja": "青春",
+   "zh-TW": "青空"
+  }
+ },
+ {
+  "slug": "tsunamis",
+  "en": "Tsunamis",
+  "desc": "wet",
+  "n": {
+   "en": "Tsunamis",
+   "zh-CN": "海啸",
+   "ja": "津波",
+   "zh-TW": "海嘯"
+  }
+ },
+ {
+  "slug": "ultimania",
+  "en": "Ultimania",
+  "desc": "ultimaniacal",
+  "n": {
+   "en": "Ultimania",
+   "zh-CN": "幻想",
+   "ja": "幻想",
+   "zh-TW": "幻想"
+  }
+ },
+ {
+  "slug": "ultimatum",
+  "en": "Ultimatum",
+  "desc": "ultimate",
+  "n": {
+   "en": "Ultimatum",
+   "zh-CN": "终极",
+   "ja": "終極",
+   "zh-TW": "終極"
+  }
+ },
+ {
+  "slug": "umbral-duststorms",
+  "en": "Umbral Duststorms",
+  "desc": "darkly dusty",
+  "n": {
+   "en": "Umbral Duststorms",
+   "zh-CN": "灵飘尘",
+   "ja": "土霊風",
+   "zh-TW": "靈飄塵"
+  }
+ },
+ {
+  "slug": "umbral-flare",
+  "en": "Umbral Flare",
+  "desc": "darkly burning",
+  "n": {
+   "en": "Umbral Flare",
+   "zh-CN": "灵烈火",
+   "ja": "焔霊風",
+   "zh-TW": "靈烈火"
+  }
+ },
+ {
+  "slug": "umbral-levin",
+  "en": "Umbral Levin",
+  "desc": "darkly thunderous",
+  "n": {
+   "en": "Umbral Levin",
+   "zh-CN": "灵飞电",
+   "ja": "雷霊風",
+   "zh-TW": "靈飛電"
+  }
+ },
+ {
+  "slug": "umbral-static",
+  "en": "Umbral Static",
+  "desc": "experiencing umbral static",
+  "n": {
+   "en": "Umbral Static",
+   "zh-CN": "灵电",
+   "ja": "放電",
+   "zh-TW": "靈電"
+  }
+ },
+ {
+  "slug": "umbral-tempest",
+  "en": "Umbral Tempest",
+  "desc": "darkly tempestuous",
+  "n": {
+   "en": "Umbral Tempest",
+   "zh-CN": "灵罡风",
+   "ja": "嵐霊風",
+   "zh-TW": "靈罡風"
+  }
+ },
+ {
+  "slug": "umbral-turbulence",
+  "en": "Umbral Turbulence",
+  "desc": "umbrally turbulent",
+  "n": {
+   "en": "Umbral Turbulence",
+   "zh-CN": "乱灵流",
+   "ja": "乱霊流",
+   "zh-TW": "亂靈流"
+  }
+ },
+ {
+  "slug": "umbral-wind",
+  "en": "Umbral Wind",
+  "desc": "experiencing umbral wind",
+  "n": {
+   "en": "Umbral Wind",
+   "zh-CN": "灵风",
+   "ja": "霊風",
+   "zh-TW": "靈風"
+  }
+ },
+ {
+  "slug": "vacuity",
+  "en": "Vacuity",
+  "desc": "vacuous",
+  "n": {
+   "en": "Vacuity",
+   "zh-CN": "虚无",
+   "ja": "虚無",
+   "zh-TW": "虛無"
+  }
+ },
+ {
+  "slug": "white-cyclones",
+  "en": "White Cyclones",
+  "desc": "cyclonic",
+  "n": {
+   "en": "White Cyclones",
+   "zh-CN": "白旋风",
+   "ja": "白嵐",
+   "zh-TW": "白旋風"
+  }
+ },
+ {
+  "slug": "wind",
+  "en": "Wind",
+  "desc": "windy",
+  "n": {
+   "en": "Wind",
+   "zh-CN": "微风",
+   "ja": "風",
+   "zh-TW": "微風"
+  }
+ },
+ {
+  "slug": "wyrmstorms",
+  "en": "Wyrmstorms",
+  "desc": "unnaturally stormy",
+  "n": {
+   "en": "Wyrmstorms",
+   "zh-CN": "龙威",
+   "ja": "龍天",
+   "zh-TW": "龍威"
+  }
+ }
+]

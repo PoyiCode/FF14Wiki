@@ -1,0 +1,6 @@
+id: true-blue
+category: weather
+type: weather
+weather: "True Blue"
+tags: [weather, environment]
+status: stable

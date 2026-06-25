@@ -1,0 +1,6 @@
+id: lyrical-catharsis
+category: weather
+type: weather
+weather: "Lyrical Catharsis"
+tags: [weather, environment]
+status: stable

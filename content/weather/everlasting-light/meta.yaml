@@ -1,0 +1,6 @@
+id: everlasting-light
+category: weather
+type: weather
+weather: "Everlasting Light"
+tags: [weather, environment]
+status: stable

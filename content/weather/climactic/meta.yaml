@@ -1,0 +1,6 @@
+id: climactic
+category: weather
+type: weather
+weather: "Climactic"
+tags: [weather, environment]
+status: stable

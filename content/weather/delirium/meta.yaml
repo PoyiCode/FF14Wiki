@@ -1,0 +1,6 @@
+id: delirium
+category: weather
+type: weather
+weather: "Delirium"
+tags: [weather, environment]
+status: stable

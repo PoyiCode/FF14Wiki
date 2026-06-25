@@ -1,0 +1,6 @@
+id: sporing-mist
+category: weather
+type: weather
+weather: "Sporing Mist"
+tags: [weather, environment]
+status: stable

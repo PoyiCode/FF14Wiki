@@ -1,0 +1,6 @@
+id: quicklevin
+category: weather
+type: weather
+weather: "Quicklevin"
+tags: [weather, environment]
+status: stable

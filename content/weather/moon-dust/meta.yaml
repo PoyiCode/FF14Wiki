@@ -1,0 +1,6 @@
+id: moon-dust
+category: weather
+type: weather
+weather: "Moon Dust"
+tags: [weather, environment]
+status: stable

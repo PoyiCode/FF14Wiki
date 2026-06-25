@@ -1,0 +1,6 @@
+id: bubble-bloom
+category: weather
+type: weather
+weather: "Bubble Bloom"
+tags: [weather, environment]
+status: stable

@@ -1,0 +1,6 @@
+id: scarlet
+category: weather
+type: weather
+weather: "Scarlet"
+tags: [weather, environment]
+status: stable

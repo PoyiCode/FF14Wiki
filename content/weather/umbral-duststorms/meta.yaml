@@ -1,0 +1,6 @@
+id: umbral-duststorms
+category: weather
+type: weather
+weather: "Umbral Duststorms"
+tags: [weather, environment]
+status: stable

@@ -1,0 +1,6 @@
+id: royal-levin
+category: weather
+type: weather
+weather: "Royal Levin"
+tags: [weather, environment]
+status: stable
