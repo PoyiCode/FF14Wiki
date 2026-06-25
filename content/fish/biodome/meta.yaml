@@ -1,0 +1,6 @@
+id: biodome
+category: fish
+type: fish
+fish: "Biodome"
+tags: [fish, fishing, nature]
+status: stable

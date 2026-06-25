@@ -1,0 +1,6 @@
+id: sand-egg
+category: fish
+type: fish
+fish: "Sand Egg"
+tags: [fish, fishing, nature]
+status: stable

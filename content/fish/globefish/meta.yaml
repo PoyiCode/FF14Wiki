@@ -1,0 +1,6 @@
+id: globefish
+category: fish
+type: fish
+fish: "Globefish"
+tags: [fish, fishing, nature]
+status: stable

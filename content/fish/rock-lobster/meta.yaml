@@ -1,0 +1,6 @@
+id: rock-lobster
+category: fish
+type: fish
+fish: "Rock Lobster"
+tags: [fish, fishing, nature]
+status: stable

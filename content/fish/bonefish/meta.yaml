@@ -1,0 +1,6 @@
+id: bonefish
+category: fish
+type: fish
+fish: "Bonefish"
+tags: [fish, fishing, nature]
+status: stable

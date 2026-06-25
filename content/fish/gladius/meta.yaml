@@ -1,0 +1,6 @@
+id: gladius
+category: fish
+type: fish
+fish: "Gladius"
+tags: [fish, fishing, nature]
+status: stable

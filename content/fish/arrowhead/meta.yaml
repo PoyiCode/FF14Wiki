@@ -1,0 +1,6 @@
+id: arrowhead
+category: fish
+type: fish
+fish: "Arrowhead"
+tags: [fish, fishing, nature]
+status: stable

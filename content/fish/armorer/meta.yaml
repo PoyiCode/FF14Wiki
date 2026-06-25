@@ -1,0 +1,6 @@
+id: armorer
+category: fish
+type: fish
+fish: "Armorer"
+tags: [fish, fishing, nature]
+status: stable

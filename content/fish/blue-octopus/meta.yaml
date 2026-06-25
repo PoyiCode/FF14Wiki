@@ -1,0 +1,6 @@
+id: blue-octopus
+category: fish
+type: fish
+fish: "Blue Octopus"
+tags: [fish, fishing, nature]
+status: stable

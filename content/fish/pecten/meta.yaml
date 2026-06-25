@@ -1,0 +1,6 @@
+id: pecten
+category: fish
+type: fish
+fish: "Pecten"
+tags: [fish, fishing, nature]
+status: stable

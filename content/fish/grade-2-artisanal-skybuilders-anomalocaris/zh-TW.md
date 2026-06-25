@@ -1,0 +1,6 @@
+---
+title: "第二期重建用的特供奇蝦"
+summary: "艾歐澤亞的魚類。"
+---
+
+**第二期重建用的特供奇蝦** 是艾歐澤亞水域中的魚，居民釣魚時可能釣到、或在水邊閒聊提起。遊戲內名稱：Grade 2 Artisanal Skybuilders' Anomalocaris。

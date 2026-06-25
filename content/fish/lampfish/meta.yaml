@@ -1,0 +1,6 @@
+id: lampfish
+category: fish
+type: fish
+fish: "Lampfish"
+tags: [fish, fishing, nature]
+status: stable

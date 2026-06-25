@@ -1,0 +1,6 @@
+id: celestial
+category: fish
+type: fish
+fish: "Celestial"
+tags: [fish, fishing, nature]
+status: stable

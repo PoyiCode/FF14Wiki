@@ -1,0 +1,6 @@
+id: sandblaster
+category: fish
+type: fish
+fish: "Sandblaster"
+tags: [fish, fishing, nature]
+status: stable

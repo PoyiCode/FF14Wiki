@@ -1,0 +1,6 @@
+id: pseudosaurus
+category: fish
+type: fish
+fish: "Pseudosaurus"
+tags: [fish, fishing, nature]
+status: stable

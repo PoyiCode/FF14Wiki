@@ -1,0 +1,6 @@
+id: capelin
+category: fish
+type: fish
+fish: "Capelin"
+tags: [fish, fishing, nature]
+status: stable

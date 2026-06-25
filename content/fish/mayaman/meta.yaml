@@ -1,0 +1,6 @@
+id: mayaman
+category: fish
+type: fish
+fish: "Mayaman"
+tags: [fish, fishing, nature]
+status: stable

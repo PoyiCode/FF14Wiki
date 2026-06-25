@@ -1,0 +1,6 @@
+id: rockfish
+category: fish
+type: fish
+fish: "Rockfish"
+tags: [fish, fishing, nature]
+status: stable

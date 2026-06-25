@@ -1,0 +1,6 @@
+id: hopping-flounder
+category: fish
+type: fish
+fish: "Hopping Flounder"
+tags: [fish, fishing, nature]
+status: stable

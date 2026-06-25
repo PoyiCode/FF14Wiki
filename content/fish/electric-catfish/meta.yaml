@@ -1,0 +1,6 @@
+id: electric-catfish
+category: fish
+type: fish
+fish: "Electric Catfish"
+tags: [fish, fishing, nature]
+status: stable

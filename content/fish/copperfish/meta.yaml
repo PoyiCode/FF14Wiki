@@ -1,0 +1,6 @@
+id: copperfish
+category: fish
+type: fish
+fish: "Copperfish"
+tags: [fish, fishing, nature]
+status: stable

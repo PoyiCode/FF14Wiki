@@ -1,0 +1,6 @@
+id: goosefish
+category: fish
+type: fish
+fish: "Goosefish"
+tags: [fish, fishing, nature]
+status: stable

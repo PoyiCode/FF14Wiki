@@ -1,0 +1,6 @@
+id: pseudosnake
+category: fish
+type: fish
+fish: "Pseudosnake"
+tags: [fish, fishing, nature]
+status: stable

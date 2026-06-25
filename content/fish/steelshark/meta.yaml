@@ -1,0 +1,6 @@
+id: steelshark
+category: fish
+type: fish
+fish: "Steelshark"
+tags: [fish, fishing, nature]
+status: stable

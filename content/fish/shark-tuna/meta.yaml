@@ -1,0 +1,6 @@
+id: shark-tuna
+category: fish
+type: fish
+fish: "Shark Tuna"
+tags: [fish, fishing, nature]
+status: stable

@@ -1,0 +1,6 @@
+id: bubble-eater
+category: fish
+type: fish
+fish: "Bubble Eater"
+tags: [fish, fishing, nature]
+status: stable

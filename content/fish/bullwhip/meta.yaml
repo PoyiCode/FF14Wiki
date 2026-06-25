@@ -1,0 +1,6 @@
+id: bullwhip
+category: fish
+type: fish
+fish: "Bullwhip"
+tags: [fish, fishing, nature]
+status: stable

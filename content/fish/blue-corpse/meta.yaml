@@ -1,0 +1,6 @@
+id: blue-corpse
+category: fish
+type: fish
+fish: "Blue Corpse"
+tags: [fish, fishing, nature]
+status: stable

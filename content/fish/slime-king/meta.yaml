@@ -1,0 +1,6 @@
+id: slime-king
+category: fish
+type: fish
+fish: "Slime King"
+tags: [fish, fishing, nature]
+status: stable

@@ -1,0 +1,6 @@
+id: seatrap
+category: fish
+type: fish
+fish: "Seatrap"
+tags: [fish, fishing, nature]
+status: stable

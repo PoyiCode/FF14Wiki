@@ -1,0 +1,6 @@
+id: ghost-shark
+category: fish
+type: fish
+fish: "Ghost Shark"
+tags: [fish, fishing, nature]
+status: stable

@@ -1,0 +1,6 @@
+id: silver-sturgeon
+category: fish
+type: fish
+fish: "Silver Sturgeon"
+tags: [fish, fishing, nature]
+status: stable

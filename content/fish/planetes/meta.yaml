@@ -1,0 +1,6 @@
+id: planetes
+category: fish
+type: fish
+fish: "Planetes"
+tags: [fish, fishing, nature]
+status: stable

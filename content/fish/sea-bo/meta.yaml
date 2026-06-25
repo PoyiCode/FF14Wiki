@@ -1,0 +1,6 @@
+id: sea-bo
+category: fish
+type: fish
+fish: "Sea Bo"
+tags: [fish, fishing, nature]
+status: stable

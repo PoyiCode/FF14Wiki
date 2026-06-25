@@ -1,0 +1,6 @@
+id: dustfish
+category: fish
+type: fish
+fish: "Dustfish"
+tags: [fish, fishing, nature]
+status: stable

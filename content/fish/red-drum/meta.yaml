@@ -1,0 +1,6 @@
+id: red-drum
+category: fish
+type: fish
+fish: "Red Drum"
+tags: [fish, fishing, nature]
+status: stable

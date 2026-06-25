@@ -1,0 +1,6 @@
+id: halibut
+category: fish
+type: fish
+fish: "Halibut"
+tags: [fish, fishing, nature]
+status: stable

@@ -1,0 +1,6 @@
+id: giant-squid
+category: fish
+type: fish
+fish: "Giant Squid"
+tags: [fish, fishing, nature]
+status: stable

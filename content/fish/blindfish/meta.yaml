@@ -1,0 +1,6 @@
+id: blindfish
+category: fish
+type: fish
+fish: "Blindfish"
+tags: [fish, fishing, nature]
+status: stable

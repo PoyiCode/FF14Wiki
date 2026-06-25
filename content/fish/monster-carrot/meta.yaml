@@ -1,0 +1,6 @@
+id: monster-carrot
+category: fish
+type: fish
+fish: "Monster Carrot"
+tags: [fish, fishing, nature]
+status: stable

@@ -1,0 +1,6 @@
+id: red-coral
+category: fish
+type: fish
+fish: "Red Coral"
+tags: [fish, fishing, nature]
+status: stable

@@ -1,0 +1,6 @@
+id: lungfish
+category: fish
+type: fish
+fish: "Lungfish"
+tags: [fish, fishing, nature]
+status: stable

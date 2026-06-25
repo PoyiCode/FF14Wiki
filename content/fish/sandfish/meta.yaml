@@ -1,0 +1,6 @@
+id: sandfish
+category: fish
+type: fish
+fish: "Sandfish"
+tags: [fish, fishing, nature]
+status: stable

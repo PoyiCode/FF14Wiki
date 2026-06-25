@@ -1,0 +1,6 @@
+id: bloodtail-zombie
+category: fish
+type: fish
+fish: "Bloodtail Zombie"
+tags: [fish, fishing, nature]
+status: stable

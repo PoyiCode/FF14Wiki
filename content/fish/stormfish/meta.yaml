@@ -1,0 +1,6 @@
+id: stormfish
+category: fish
+type: fish
+fish: "Stormfish"
+tags: [fish, fishing, nature]
+status: stable

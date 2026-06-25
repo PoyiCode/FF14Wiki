@@ -1,0 +1,6 @@
+id: fish-offering
+category: fish
+type: fish
+fish: "Fish Offering"
+tags: [fish, fishing, nature]
+status: stable

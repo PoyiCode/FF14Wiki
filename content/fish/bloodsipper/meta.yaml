@@ -1,0 +1,6 @@
+id: bloodsipper
+category: fish
+type: fish
+fish: "Bloodsipper"
+tags: [fish, fishing, nature]
+status: stable

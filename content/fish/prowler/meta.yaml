@@ -1,0 +1,6 @@
+id: prowler
+category: fish
+type: fish
+fish: "Prowler"
+tags: [fish, fishing, nature]
+status: stable

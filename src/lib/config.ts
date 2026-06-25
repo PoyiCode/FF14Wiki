@@ -230,6 +230,16 @@ export const CATEGORIES: CategoryDef[] = [
       en: 'The hairstyles residents can wear, so the bot can describe its own look and chat about style and grooming.',
     },
   },
+  {
+    key: 'fish',
+    label: { 'zh-TW': '魚類', 'zh-CN': '鱼类', ja: '魚', en: 'Fish' },
+    description: {
+      'zh-TW': '艾歐澤亞水域的魚類與水生生物及其生態，讓 bot 能聊釣魚、描述漁獲與水邊風物。',
+      'zh-CN': '艾欧泽亚水域的鱼类与水生生物及其生态，让 bot 能聊钓鱼、描述渔获与水边风物。',
+      ja: 'エオルゼアの水域に棲む魚や水生生物とその生態。botが釣りを語り、釣果や水辺の風物を描けるように。',
+      en: 'The fish and aquatic life of Eorzea’s waters and their lore, so the bot can chat about fishing and describe a catch.',
+    },
+  },
 ];
 
 export const CATEGORY_KEYS = CATEGORIES.map((c) => c.key);

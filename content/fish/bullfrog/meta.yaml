@@ -1,0 +1,6 @@
+id: bullfrog
+category: fish
+type: fish
+fish: "Bullfrog"
+tags: [fish, fishing, nature]
+status: stable

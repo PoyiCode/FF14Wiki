@@ -1,0 +1,6 @@
+id: cloudfish
+category: fish
+type: fish
+fish: "Cloudfish"
+tags: [fish, fishing, nature]
+status: stable

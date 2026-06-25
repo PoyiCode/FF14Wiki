@@ -1,0 +1,6 @@
+id: wahoo
+category: fish
+type: fish
+fish: "Wahoo"
+tags: [fish, fishing, nature]
+status: stable

@@ -1,0 +1,6 @@
+id: icepick
+category: fish
+type: fish
+fish: "Icepick"
+tags: [fish, fishing, nature]
+status: stable

@@ -1,0 +1,6 @@
+id: magic-carpet
+category: fish
+type: fish
+fish: "Magic Carpet"
+tags: [fish, fishing, nature]
+status: stable

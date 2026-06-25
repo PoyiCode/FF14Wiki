@@ -1,0 +1,6 @@
+id: bluegill
+category: fish
+type: fish
+fish: "Bluegill"
+tags: [fish, fishing, nature]
+status: stable

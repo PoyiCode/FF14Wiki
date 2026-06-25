@@ -1,0 +1,6 @@
+id: cupfish
+category: fish
+type: fish
+fish: "Cupfish"
+tags: [fish, fishing, nature]
+status: stable

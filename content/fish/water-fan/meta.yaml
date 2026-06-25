@@ -1,0 +1,6 @@
+id: water-fan
+category: fish
+type: fish
+fish: "Water Fan"
+tags: [fish, fishing, nature]
+status: stable

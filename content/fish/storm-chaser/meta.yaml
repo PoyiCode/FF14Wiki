@@ -1,0 +1,6 @@
+id: storm-chaser
+category: fish
+type: fish
+fish: "Storm Chaser"
+tags: [fish, fishing, nature]
+status: stable

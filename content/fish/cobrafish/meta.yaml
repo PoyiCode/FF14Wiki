@@ -1,0 +1,6 @@
+id: cobrafish
+category: fish
+type: fish
+fish: "Cobrafish"
+tags: [fish, fishing, nature]
+status: stable

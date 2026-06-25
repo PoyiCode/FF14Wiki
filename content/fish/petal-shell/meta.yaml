@@ -1,0 +1,6 @@
+id: petal-shell
+category: fish
+type: fish
+fish: "Petal Shell"
+tags: [fish, fishing, nature]
+status: stable

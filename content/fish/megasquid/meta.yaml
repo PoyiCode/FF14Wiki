@@ -1,0 +1,6 @@
+id: megasquid
+category: fish
+type: fish
+fish: "Megasquid"
+tags: [fish, fishing, nature]
+status: stable

@@ -1,0 +1,6 @@
+id: rockclimber
+category: fish
+type: fish
+fish: "Rockclimber"
+tags: [fish, fishing, nature]
+status: stable

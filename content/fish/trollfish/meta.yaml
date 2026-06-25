@@ -1,0 +1,6 @@
+id: trollfish
+category: fish
+type: fish
+fish: "Trollfish"
+tags: [fish, fishing, nature]
+status: stable

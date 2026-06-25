@@ -1,0 +1,6 @@
+id: deep-plaice
+category: fish
+type: fish
+fish: "Deep Plaice"
+tags: [fish, fishing, nature]
+status: stable

@@ -1,0 +1,6 @@
+id: river-shrimp
+category: fish
+type: fish
+fish: "River Shrimp"
+tags: [fish, fishing, nature]
+status: stable

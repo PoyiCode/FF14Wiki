@@ -1,0 +1,6 @@
+id: swordfish
+category: fish
+type: fish
+fish: "Swordfish"
+tags: [fish, fishing, nature]
+status: stable

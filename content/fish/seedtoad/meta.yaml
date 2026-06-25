@@ -1,0 +1,6 @@
+id: seedtoad
+category: fish
+type: fish
+fish: "Seedtoad"
+tags: [fish, fishing, nature]
+status: stable

@@ -1,0 +1,6 @@
+id: wildlife-sample
+category: fish
+type: fish
+fish: "Wildlife Sample"
+tags: [fish, fishing, nature]
+status: stable

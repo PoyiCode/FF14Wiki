@@ -1,0 +1,6 @@
+id: dragonfish
+category: fish
+type: fish
+fish: "Dragonfish"
+tags: [fish, fishing, nature]
+status: stable

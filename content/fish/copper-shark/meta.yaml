@@ -1,0 +1,6 @@
+id: copper-shark
+category: fish
+type: fish
+fish: "Copper Shark"
+tags: [fish, fishing, nature]
+status: stable

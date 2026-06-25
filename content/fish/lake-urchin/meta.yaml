@@ -1,0 +1,6 @@
+id: lake-urchin
+category: fish
+type: fish
+fish: "Lake Urchin"
+tags: [fish, fishing, nature]
+status: stable

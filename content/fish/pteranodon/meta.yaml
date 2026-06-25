@@ -1,0 +1,6 @@
+id: pteranodon
+category: fish
+type: fish
+fish: "Pteranodon"
+tags: [fish, fishing, nature]
+status: stable

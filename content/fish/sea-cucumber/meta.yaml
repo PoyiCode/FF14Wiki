@@ -1,0 +1,6 @@
+id: sea-cucumber
+category: fish
+type: fish
+fish: "Sea Cucumber"
+tags: [fish, fishing, nature]
+status: stable

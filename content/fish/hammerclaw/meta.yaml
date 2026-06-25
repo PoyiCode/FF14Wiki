@@ -1,0 +1,6 @@
+id: hammerclaw
+category: fish
+type: fish
+fish: "Hammerclaw"
+tags: [fish, fishing, nature]
+status: stable

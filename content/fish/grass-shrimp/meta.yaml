@@ -1,0 +1,6 @@
+id: grass-shrimp
+category: fish
+type: fish
+fish: "Grass Shrimp"
+tags: [fish, fishing, nature]
+status: stable

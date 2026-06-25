@@ -1,0 +1,6 @@
+id: rainbow-trout
+category: fish
+type: fish
+fish: "Rainbow Trout"
+tags: [fish, fishing, nature]
+status: stable

@@ -1,0 +1,6 @@
+id: goldfish
+category: fish
+type: fish
+fish: "Goldfish"
+tags: [fish, fishing, nature]
+status: stable

@@ -1,0 +1,6 @@
+id: sweeper
+category: fish
+type: fish
+fish: "Sweeper"
+tags: [fish, fishing, nature]
+status: stable

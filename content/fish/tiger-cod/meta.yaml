@@ -1,0 +1,6 @@
+id: tiger-cod
+category: fish
+type: fish
+fish: "Tiger Cod"
+tags: [fish, fishing, nature]
+status: stable

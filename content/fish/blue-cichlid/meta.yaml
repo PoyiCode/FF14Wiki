@@ -1,0 +1,6 @@
+id: blue-cichlid
+category: fish
+type: fish
+fish: "Blue Cichlid"
+tags: [fish, fishing, nature]
+status: stable

@@ -1,0 +1,6 @@
+id: banderole
+category: fish
+type: fish
+fish: "Banderole"
+tags: [fish, fishing, nature]
+status: stable

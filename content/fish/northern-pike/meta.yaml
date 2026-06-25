@@ -1,0 +1,6 @@
+id: northern-pike
+category: fish
+type: fish
+fish: "Northern Pike"
+tags: [fish, fishing, nature]
+status: stable

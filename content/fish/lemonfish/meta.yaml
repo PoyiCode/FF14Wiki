@@ -1,0 +1,6 @@
+id: lemonfish
+category: fish
+type: fish
+fish: "Lemonfish"
+tags: [fish, fishing, nature]
+status: stable

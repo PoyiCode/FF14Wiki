@@ -1,0 +1,6 @@
+id: crayfish
+category: fish
+type: fish
+fish: "Crayfish"
+tags: [fish, fishing, nature]
+status: stable

@@ -1,0 +1,6 @@
+id: blowgun
+category: fish
+type: fish
+fish: "Blowgun"
+tags: [fish, fishing, nature]
+status: stable

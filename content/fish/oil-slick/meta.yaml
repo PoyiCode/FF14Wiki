@@ -1,0 +1,6 @@
+id: oil-slick
+category: fish
+type: fish
+fish: "Oil Slick"
+tags: [fish, fishing, nature]
+status: stable

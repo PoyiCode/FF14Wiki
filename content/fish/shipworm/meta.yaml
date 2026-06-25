@@ -1,0 +1,6 @@
+id: shipworm
+category: fish
+type: fish
+fish: "Shipworm"
+tags: [fish, fishing, nature]
+status: stable

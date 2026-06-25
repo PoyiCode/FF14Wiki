@@ -1,0 +1,6 @@
+id: wayeater
+category: fish
+type: fish
+fish: "Wayeater"
+tags: [fish, fishing, nature]
+status: stable

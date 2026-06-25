@@ -1,0 +1,6 @@
+id: monkfish
+category: fish
+type: fish
+fish: "Monkfish"
+tags: [fish, fishing, nature]
+status: stable

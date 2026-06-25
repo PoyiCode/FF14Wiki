@@ -1,0 +1,6 @@
+id: bowfish
+category: fish
+type: fish
+fish: "Bowfish"
+tags: [fish, fishing, nature]
+status: stable

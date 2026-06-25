@@ -1,0 +1,6 @@
+id: discus
+category: fish
+type: fish
+fish: "Discus"
+tags: [fish, fishing, nature]
+status: stable

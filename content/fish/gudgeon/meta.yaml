@@ -1,0 +1,6 @@
+id: gudgeon
+category: fish
+type: fish
+fish: "Gudgeon"
+tags: [fish, fishing, nature]
+status: stable

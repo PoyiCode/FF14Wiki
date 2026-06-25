@@ -1,0 +1,6 @@
+id: ponderer
+category: fish
+type: fish
+fish: "Ponderer"
+tags: [fish, fishing, nature]
+status: stable

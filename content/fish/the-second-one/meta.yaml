@@ -1,0 +1,6 @@
+id: the-second-one
+category: fish
+type: fish
+fish: "The Second One"
+tags: [fish, fishing, nature]
+status: stable

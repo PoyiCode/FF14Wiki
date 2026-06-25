@@ -1,0 +1,6 @@
+id: flying-squid
+category: fish
+type: fish
+fish: "Flying Squid"
+tags: [fish, fishing, nature]
+status: stable

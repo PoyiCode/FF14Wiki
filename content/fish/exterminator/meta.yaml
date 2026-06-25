@@ -1,0 +1,6 @@
+id: exterminator
+category: fish
+type: fish
+fish: "Exterminator"
+tags: [fish, fishing, nature]
+status: stable

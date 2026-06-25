@@ -1,0 +1,6 @@
+id: hellyfish
+category: fish
+type: fish
+fish: "Hellyfish"
+tags: [fish, fishing, nature]
+status: stable

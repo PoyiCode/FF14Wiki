@@ -1,0 +1,6 @@
+id: battle-galley
+category: fish
+type: fish
+fish: "Battle Galley"
+tags: [fish, fishing, nature]
+status: stable

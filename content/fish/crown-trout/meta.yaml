@@ -1,0 +1,6 @@
+id: crown-trout
+category: fish
+type: fish
+fish: "Crown Trout"
+tags: [fish, fishing, nature]
+status: stable

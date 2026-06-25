@@ -1,0 +1,6 @@
+id: yellowcheek
+category: fish
+type: fish
+fish: "Yellowcheek"
+tags: [fish, fishing, nature]
+status: stable

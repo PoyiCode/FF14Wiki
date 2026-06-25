@@ -1,0 +1,6 @@
+id: gold-hammer
+category: fish
+type: fish
+fish: "Gold Hammer"
+tags: [fish, fishing, nature]
+status: stable

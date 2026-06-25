@@ -1,0 +1,6 @@
+id: redtail
+category: fish
+type: fish
+fish: "Redtail"
+tags: [fish, fishing, nature]
+status: stable

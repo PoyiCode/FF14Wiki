@@ -1,0 +1,6 @@
+id: plaice
+category: fish
+type: fish
+fish: "Plaice"
+tags: [fish, fishing, nature]
+status: stable

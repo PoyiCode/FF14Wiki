@@ -1,0 +1,6 @@
+id: striped-fugu
+category: fish
+type: fish
+fish: "Striped Fugu"
+tags: [fish, fishing, nature]
+status: stable

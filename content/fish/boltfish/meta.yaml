@@ -1,0 +1,6 @@
+id: boltfish
+category: fish
+type: fish
+fish: "Boltfish"
+tags: [fish, fishing, nature]
+status: stable

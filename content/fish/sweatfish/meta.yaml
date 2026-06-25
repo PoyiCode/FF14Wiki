@@ -1,0 +1,6 @@
+id: sweatfish
+category: fish
+type: fish
+fish: "Sweatfish"
+tags: [fish, fishing, nature]
+status: stable

@@ -1,0 +1,6 @@
+id: soil-stirrer
+category: fish
+type: fish
+fish: "Soil Stirrer"
+tags: [fish, fishing, nature]
+status: stable

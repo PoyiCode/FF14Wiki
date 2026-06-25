@@ -1,0 +1,6 @@
+id: mudcrab
+category: fish
+type: fish
+fish: "Mudcrab"
+tags: [fish, fishing, nature]
+status: stable

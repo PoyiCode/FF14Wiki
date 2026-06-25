@@ -1,0 +1,6 @@
+id: broken-crab
+category: fish
+type: fish
+fish: "Broken Crab"
+tags: [fish, fishing, nature]
+status: stable

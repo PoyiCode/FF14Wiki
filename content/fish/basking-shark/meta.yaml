@@ -1,0 +1,6 @@
+id: basking-shark
+category: fish
+type: fish
+fish: "Basking Shark"
+tags: [fish, fishing, nature]
+status: stable

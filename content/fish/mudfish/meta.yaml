@@ -1,0 +1,6 @@
+id: mudfish
+category: fish
+type: fish
+fish: "Mudfish"
+tags: [fish, fishing, nature]
+status: stable

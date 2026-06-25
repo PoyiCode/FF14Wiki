@@ -1,0 +1,6 @@
+id: tessera
+category: fish
+type: fish
+fish: "Tessera"
+tags: [fish, fishing, nature]
+status: stable

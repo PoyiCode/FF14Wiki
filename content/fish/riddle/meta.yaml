@@ -1,0 +1,6 @@
+id: riddle
+category: fish
+type: fish
+fish: "Riddle"
+tags: [fish, fishing, nature]
+status: stable

@@ -1,0 +1,6 @@
+id: roosterfish
+category: fish
+type: fish
+fish: "Roosterfish"
+tags: [fish, fishing, nature]
+status: stable

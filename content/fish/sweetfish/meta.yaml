@@ -1,0 +1,6 @@
+id: sweetfish
+category: fish
+type: fish
+fish: "Sweetfish"
+tags: [fish, fishing, nature]
+status: stable

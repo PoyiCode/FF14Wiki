@@ -1,0 +1,6 @@
+id: river-crab
+category: fish
+type: fish
+fish: "River Crab"
+tags: [fish, fishing, nature]
+status: stable

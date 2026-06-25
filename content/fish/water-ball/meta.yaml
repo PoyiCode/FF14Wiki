@@ -1,0 +1,6 @@
+id: water-ball
+category: fish
+type: fish
+fish: "Water Ball"
+tags: [fish, fishing, nature]
+status: stable

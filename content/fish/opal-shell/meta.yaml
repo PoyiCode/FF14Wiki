@@ -1,0 +1,6 @@
+id: opal-shell
+category: fish
+type: fish
+fish: "Opal Shell"
+tags: [fish, fishing, nature]
+status: stable

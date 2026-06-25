@@ -1,0 +1,6 @@
+id: sea-alpaca
+category: fish
+type: fish
+fish: "Sea Alpaca"
+tags: [fish, fishing, nature]
+status: stable

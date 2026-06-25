@@ -1,0 +1,6 @@
+id: silver-shark
+category: fish
+type: fish
+fish: "Silver Shark"
+tags: [fish, fishing, nature]
+status: stable

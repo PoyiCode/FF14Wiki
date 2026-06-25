@@ -1,0 +1,6 @@
+id: balloon-frog
+category: fish
+type: fish
+fish: "Balloon Frog"
+tags: [fish, fishing, nature]
+status: stable

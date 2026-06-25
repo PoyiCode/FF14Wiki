@@ -1,0 +1,6 @@
+id: weird-fish
+category: fish
+type: fish
+fish: "Weird Fish"
+tags: [fish, fishing, nature]
+status: stable

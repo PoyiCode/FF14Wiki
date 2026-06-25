@@ -1,0 +1,6 @@
+id: pterodactyl
+category: fish
+type: fish
+fish: "Pterodactyl"
+tags: [fish, fishing, nature]
+status: stable

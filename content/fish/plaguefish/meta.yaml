@@ -1,0 +1,6 @@
+id: plaguefish
+category: fish
+type: fish
+fish: "Plaguefish"
+tags: [fish, fishing, nature]
+status: stable

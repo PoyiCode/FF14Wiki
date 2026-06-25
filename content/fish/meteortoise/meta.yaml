@@ -1,0 +1,6 @@
+id: meteortoise
+category: fish
+type: fish
+fish: "Meteortoise"
+tags: [fish, fishing, nature]
+status: stable

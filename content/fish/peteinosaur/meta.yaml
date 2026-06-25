@@ -1,0 +1,6 @@
+id: peteinosaur
+category: fish
+type: fish
+fish: "Peteinosaur"
+tags: [fish, fishing, nature]
+status: stable

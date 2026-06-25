@@ -1,0 +1,6 @@
+id: reef-squid
+category: fish
+type: fish
+fish: "Reef Squid"
+tags: [fish, fishing, nature]
+status: stable

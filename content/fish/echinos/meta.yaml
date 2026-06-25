@@ -1,0 +1,6 @@
+id: echinos
+category: fish
+type: fish
+fish: "Echinos"
+tags: [fish, fishing, nature]
+status: stable

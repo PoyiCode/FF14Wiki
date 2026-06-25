@@ -1,0 +1,6 @@
+id: yellow-iris
+category: fish
+type: fish
+fish: "Yellow Iris"
+tags: [fish, fishing, nature]
+status: stable

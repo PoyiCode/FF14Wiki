@@ -1,0 +1,6 @@
+id: marine-bomb
+category: fish
+type: fish
+fish: "Marine Bomb"
+tags: [fish, fishing, nature]
+status: stable

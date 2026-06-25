@@ -1,0 +1,6 @@
+id: angelfish
+category: fish
+type: fish
+fish: "Angelfish"
+tags: [fish, fishing, nature]
+status: stable

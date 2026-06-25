@@ -1,0 +1,6 @@
+id: moongripper
+category: fish
+type: fish
+fish: "Moongripper"
+tags: [fish, fishing, nature]
+status: stable

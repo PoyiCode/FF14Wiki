@@ -1,0 +1,6 @@
+id: pseudocrab
+category: fish
+type: fish
+fish: "Pseudocrab"
+tags: [fish, fishing, nature]
+status: stable

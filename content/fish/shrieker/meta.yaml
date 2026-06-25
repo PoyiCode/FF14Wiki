@@ -1,0 +1,6 @@
+id: shrieker
+category: fish
+type: fish
+fish: "Shrieker"
+tags: [fish, fishing, nature]
+status: stable

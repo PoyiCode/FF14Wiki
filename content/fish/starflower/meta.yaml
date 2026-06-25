@@ -1,0 +1,6 @@
+id: starflower
+category: fish
+type: fish
+fish: "Starflower"
+tags: [fish, fishing, nature]
+status: stable

@@ -1,0 +1,6 @@
+id: pinhead
+category: fish
+type: fish
+fish: "Pinhead"
+tags: [fish, fishing, nature]
+status: stable

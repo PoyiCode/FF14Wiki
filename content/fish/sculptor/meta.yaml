@@ -1,0 +1,6 @@
+id: sculptor
+category: fish
+type: fish
+fish: "Sculptor"
+tags: [fish, fishing, nature]
+status: stable

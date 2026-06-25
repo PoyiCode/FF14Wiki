@@ -1,0 +1,6 @@
+id: moss-sample
+category: fish
+type: fish
+fish: "Moss Sample"
+tags: [fish, fishing, nature]
+status: stable

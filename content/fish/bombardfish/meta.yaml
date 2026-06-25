@@ -1,0 +1,6 @@
+id: bombardfish
+category: fish
+type: fish
+fish: "Bombardfish"
+tags: [fish, fishing, nature]
+status: stable

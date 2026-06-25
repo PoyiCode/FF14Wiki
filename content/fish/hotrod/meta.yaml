@@ -1,0 +1,6 @@
+id: hotrod
+category: fish
+type: fish
+fish: "Hotrod"
+tags: [fish, fishing, nature]
+status: stable

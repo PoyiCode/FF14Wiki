@@ -1,0 +1,6 @@
+id: chirurgeon
+category: fish
+type: fish
+fish: "Chirurgeon"
+tags: [fish, fishing, nature]
+status: stable

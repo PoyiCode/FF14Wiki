@@ -1,0 +1,6 @@
+id: coral-horse
+category: fish
+type: fish
+fish: "Coral Horse"
+tags: [fish, fishing, nature]
+status: stable

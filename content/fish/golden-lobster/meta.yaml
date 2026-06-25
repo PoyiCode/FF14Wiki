@@ -1,0 +1,6 @@
+id: golden-lobster
+category: fish
+type: fish
+fish: "Golden Lobster"
+tags: [fish, fishing, nature]
+status: stable

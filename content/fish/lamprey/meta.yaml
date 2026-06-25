@@ -1,0 +1,6 @@
+id: lamprey
+category: fish
+type: fish
+fish: "Lamprey"
+tags: [fish, fishing, nature]
+status: stable

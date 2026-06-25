@@ -1,0 +1,6 @@
+id: brassfish
+category: fish
+type: fish
+fish: "Brassfish"
+tags: [fish, fishing, nature]
+status: stable

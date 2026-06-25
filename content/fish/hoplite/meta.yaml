@@ -1,0 +1,6 @@
+id: hoplite
+category: fish
+type: fish
+fish: "Hoplite"
+tags: [fish, fishing, nature]
+status: stable

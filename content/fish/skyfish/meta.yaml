@@ -1,0 +1,6 @@
+id: skyfish
+category: fish
+type: fish
+fish: "Skyfish"
+tags: [fish, fishing, nature]
+status: stable

@@ -1,0 +1,6 @@
+id: nautilus
+category: fish
+type: fish
+fish: "Nautilus"
+tags: [fish, fishing, nature]
+status: stable

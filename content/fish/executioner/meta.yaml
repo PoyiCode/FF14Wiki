@@ -1,0 +1,6 @@
+id: executioner
+category: fish
+type: fish
+fish: "Executioner"
+tags: [fish, fishing, nature]
+status: stable
