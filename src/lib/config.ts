@@ -310,6 +310,16 @@ export const CATEGORIES: CategoryDef[] = [
       en: 'The structural and decor fixtures of a house (roofs, walls, windows, doors, fences, flooring, lighting and more), so the bot can talk about its home’s look and remodelling.',
     },
   },
+  {
+    key: 'currency',
+    label: { 'zh-TW': '貨幣', 'zh-CN': '货币', ja: '通貨', en: 'Currency' },
+    description: {
+      'zh-TW': '艾歐澤亞流通的各種貨幣與代幣（金幣、金碟幣、徽章、票券等），讓 bot 能聊賺錢花錢、購物與金碟博弈。',
+      'zh-CN': '艾欧泽亚流通的各种货币与代币（金币、金碟币、徽章、票券等），让 bot 能聊赚钱花钱、购物与金碟博弈。',
+      ja: 'エオルゼアで流通する各種通貨やトークン（ギル、MGP、記章、スクリップなど）。botがお金の稼ぎ方・使い方や買い物、ゴールドソーサーの賭けを語れるように。',
+      en: 'The currencies and tokens used across Eorzea (gil, MGP, seals, scrips and more), so the bot can chat about earning, spending, shopping and gambling.',
+    },
+  },
 ];
 
 export const CATEGORY_KEYS = CATEGORIES.map((c) => c.key);

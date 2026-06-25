@@ -1,0 +1,512 @@
+[
+ {
+  "slug": "centurio-seal",
+  "en": "Centurio Seal",
+  "n": {
+   "en": "Centurio Seal",
+   "zh-CN": "兵团徽章",
+   "zh-TW": "兵團徽章",
+   "ja": "セントリオ記章"
+  },
+  "desc": {
+   "en": "Currency minted by Clan Centurio and distributed as requital for the successful completion of Clan Hunt bills.",
+   "zh-CN": "百家兵团颁发给拥有特别贡献的怪物猎人的徽章。",
+   "zh-TW": "百家兵團頒發給擁有特別貢獻的怪物獵人的徽章。",
+   "ja": "クランセントリオが、功績を挙げたモブハンターに与える記章。"
+  }
+ },
+ {
+  "slug": "blue-crafters-scrip",
+  "en": "Blue Crafters' Scrip",
+  "n": {
+   "en": "Blue Crafters' Scrip",
+   "zh-CN": "巧手蓝票",
+   "zh-TW": "巧手藍票",
+   "ja": "クラフタースクリップ:青貨"
+  },
+  "desc": {
+   "en": "Currency paid to Disciples of the Hand by Rowena's House of Splendors in exchange for services rendered. Can be used to purchase items from the aforementioned establishment. Not valid anywhere else on Hydaelyn.",
+   "zh-CN": "罗薇娜商会支付给有生意往来的能工巧匠的代币。",
+   "zh-TW": "羅薇娜商會支付給有生意往來的能工巧匠的代幣。",
+   "ja": "ロウェナ商会が取引先のクラフターに支払う代替貨幣。"
+  }
+ },
+ {
+  "slug": "red-crafters-scrip",
+  "en": "Red Crafters' Scrip",
+  "n": {
+   "en": "Red Crafters' Scrip",
+   "zh-CN": "巧手红票",
+   "zh-TW": "巧手紅票",
+   "ja": "クラフタースクリップ:赤貨"
+  },
+  "desc": {
+   "en": "Currency paid to Disciples of the Hand by Rowena's House of Splendors in exchange for services rendered. Can be used to purchase items from the aforementioned establishment. Not valid anywhere else on Hydaelyn.",
+   "zh-CN": "罗薇娜商会支付给有生意往来的能工巧匠的代币。",
+   "zh-TW": "羅薇娜商會支付給有生意往來的能工巧匠的代幣。",
+   "ja": "ロウェナ商会が取引先のクラフターに支払う代替貨幣。"
+  }
+ },
+ {
+  "slug": "blue-gatherers-scrip",
+  "en": "Blue Gatherers' Scrip",
+  "n": {
+   "en": "Blue Gatherers' Scrip",
+   "zh-CN": "大地蓝票",
+   "zh-TW": "大地藍票",
+   "ja": "ギャザラースクリップ:青貨"
+  },
+  "desc": {
+   "en": "Currency paid to Disciples of the Land by Rowena's House of Splendors in exchange for services rendered. Can be used to purchase items from the aforementioned establishment. Not valid anywhere else on Hydaelyn.",
+   "zh-CN": "罗薇娜商会支付给有生意往来的大地使者的代币。",
+   "zh-TW": "羅薇娜商會支付給有生意往來的大地使者的代幣。",
+   "ja": "ロウェナ商会が取引先のギャザラーに支払う代替貨幣。"
+  }
+ },
+ {
+  "slug": "red-gatherers-scrip",
+  "en": "Red Gatherers' Scrip",
+  "n": {
+   "en": "Red Gatherers' Scrip",
+   "zh-CN": "大地红票",
+   "zh-TW": "大地紅票",
+   "ja": "ギャザラースクリップ:赤貨"
+  },
+  "desc": {
+   "en": "Currency paid to Disciples of the Land by Rowena's House of Splendors in exchange for services rendered. Can be used to purchase items from the aforementioned establishment. Not valid anywhere else on Hydaelyn.",
+   "zh-CN": "罗薇娜商会支付给有生意往来的大地使者的代币。",
+   "zh-TW": "羅薇娜商會支付給有生意往來的大地使者的代幣。",
+   "ja": "ロウェナ商会が取引先のギャザラーに支払う代替貨幣。"
+  }
+ },
+ {
+  "slug": "yellow-crafters-scrip",
+  "en": "Yellow Crafters' Scrip",
+  "n": {
+   "en": "Yellow Crafters' Scrip",
+   "zh-CN": "巧手黄票",
+   "zh-TW": "巧手黃票",
+   "ja": "クラフタースクリップ:黄貨"
+  },
+  "desc": {
+   "en": "Currency paid to Disciples of the Hand by Rowena's House of Splendors in exchange for services rendered. Can be used to purchase items from the aforementioned establishment. Not valid anywhere else on Hydaelyn.",
+   "zh-CN": "罗薇娜商会支付给有生意往来的能工巧匠的代币。",
+   "zh-TW": "羅薇娜商會支付給有生意往來的能工巧匠的代幣。",
+   "ja": "ロウェナ商会が取引先のクラフターに支払う代替貨幣。"
+  }
+ },
+ {
+  "slug": "yellow-gatherers-scrip",
+  "en": "Yellow Gatherers' Scrip",
+  "n": {
+   "en": "Yellow Gatherers' Scrip",
+   "zh-CN": "大地黄票",
+   "zh-TW": "大地黃票",
+   "ja": "ギャザラースクリップ:黄貨"
+  },
+  "desc": {
+   "en": "Currency paid to Disciples of the Land by Rowena's House of Splendors in exchange for services rendered. Can be used to purchase items from the aforementioned establishment. Not valid anywhere else on Hydaelyn.",
+   "zh-CN": "罗薇娜商会支付给有生意往来的大地使者的代币。",
+   "zh-TW": "羅薇娜商會支付給有生意往來的大地使者的代幣。",
+   "ja": "ロウェナ商会が取引先のギャザラーに支払う代替貨幣。"
+  }
+ },
+ {
+  "slug": "venture",
+  "en": "Venture",
+  "n": {
+   "en": "Venture",
+   "zh-CN": "探险币",
+   "zh-TW": "探險幣",
+   "ja": "ベンチャースクリップ"
+  }
+ },
+ {
+  "slug": "ixali-oaknot",
+  "en": "Ixali Oaknot",
+  "n": {
+   "en": "Ixali Oaknot",
+   "zh-CN": "栎木币",
+   "zh-TW": "櫟木幣",
+   "ja": "イクサル樫木貨"
+  }
+ },
+ {
+  "slug": "vanu-whitebone",
+  "en": "Vanu Whitebone",
+  "n": {
+   "en": "Vanu Whitebone",
+   "zh-CN": "白骨币",
+   "zh-TW": "白骨幣",
+   "ja": "バヌバヌ白骨貨"
+  }
+ },
+ {
+  "slug": "sylphic-goldleaf",
+  "en": "Sylphic Goldleaf",
+  "n": {
+   "en": "Sylphic Goldleaf",
+   "zh-CN": "金叶币",
+   "zh-TW": "金葉幣",
+   "ja": "シルフ金葉貨"
+  }
+ },
+ {
+  "slug": "steel-amalj-ok",
+  "en": "Steel Amalj'ok",
+  "n": {
+   "en": "Steel Amalj'ok",
+   "zh-CN": "白钢刀币",
+   "zh-TW": "白鋼刀幣",
+   "ja": "アマルジャ鋼鉄刀貨"
+  }
+ },
+ {
+  "slug": "rainbowtide-psashp",
+  "en": "Rainbowtide Psashp",
+  "n": {
+   "en": "Rainbowtide Psashp",
+   "zh-CN": "虹贝壳币",
+   "zh-TW": "虹貝殼幣",
+   "ja": "サハギン虹貝貨"
+  }
+ },
+ {
+  "slug": "titan-cobaltpiece",
+  "en": "Titan Cobaltpiece",
+  "n": {
+   "en": "Titan Cobaltpiece",
+   "zh-CN": "钴铁锤币",
+   "zh-TW": "鈷鐵錘幣",
+   "ja": "コボルド鏡鉄錘貨"
+  }
+ },
+ {
+  "slug": "black-copper-gil",
+  "en": "Black Copper Gil",
+  "n": {
+   "en": "Black Copper Gil",
+   "zh-CN": "伪黑铜币",
+   "zh-TW": "僞黑銅幣",
+   "ja": "グナース偽黒銅貨"
+  }
+ },
+ {
+  "slug": "carved-kupo-nut",
+  "en": "Carved Kupo Nut",
+  "n": {
+   "en": "Carved Kupo Nut",
+   "zh-CN": "精雕库啵果币",
+   "zh-TW": "精雕庫啵果幣",
+   "ja": "飾りクポの実"
+  }
+ },
+ {
+  "slug": "kojin-sango",
+  "en": "Kojin Sango",
+  "n": {
+   "en": "Kojin Sango",
+   "zh-CN": "珊瑚币",
+   "zh-TW": "珊瑚幣",
+   "ja": "コウジン珊瑚貨"
+  }
+ },
+ {
+  "slug": "achievement-certificate",
+  "en": "Achievement Certificate",
+  "n": {
+   "en": "Achievement Certificate",
+   "zh-CN": "成就币",
+   "zh-TW": "成就幣",
+   "ja": "アチーブメントスクリップ"
+  }
+ },
+ {
+  "slug": "ananta-dreamstaff",
+  "en": "Ananta Dreamstaff",
+  "n": {
+   "en": "Ananta Dreamstaff",
+   "zh-CN": "魔金锡币",
+   "zh-TW": "魔金錫幣",
+   "ja": "アナンタ魔金錫貨"
+  },
+  "desc": {
+   "en": "These magicked metal rods are used as currency by the Ananta.",
+   "zh-CN": "阿难陀族利用魔法冶炼金属制成的锡制杖形通用货币。",
+   "zh-TW": "阿難陀族利用魔法冶煉金屬製成的錫制杖形通用貨幣。",
+   "ja": "アナンタ族が魔法で練り上げた金属製錫杖型通貨"
+  }
+ },
+ {
+  "slug": "namazu-koban",
+  "en": "Namazu Koban",
+  "n": {
+   "en": "Namazu Koban",
+   "zh-CN": "鲶鱼小判",
+   "zh-TW": "鯰魚小判",
+   "ja": "ナマズオ小判"
+  }
+ },
+ {
+  "slug": "white-crafters-scrip",
+  "en": "White Crafters' Scrip",
+  "n": {
+   "en": "White Crafters' Scrip",
+   "zh-CN": "巧手白票",
+   "zh-TW": "巧手白票",
+   "ja": "クラフタースクリップ:白貨"
+  }
+ },
+ {
+  "slug": "white-gatherers-scrip",
+  "en": "White Gatherers' Scrip",
+  "n": {
+   "en": "White Gatherers' Scrip",
+   "zh-CN": "大地白票",
+   "zh-TW": "大地白票",
+   "ja": "ギャザラースクリップ:白貨"
+  }
+ },
+ {
+  "slug": "sack-of-nuts",
+  "en": "Sack of Nuts",
+  "n": {
+   "en": "Sack of Nuts",
+   "zh-CN": "怪物狩猎的战利品",
+   "zh-TW": "怪物狩獵的戰利品",
+   "ja": "モブハントの戦利品"
+  }
+ },
+ {
+  "slug": "bicolor-gemstone",
+  "en": "Bicolor Gemstone",
+  "n": {
+   "en": "Bicolor Gemstone",
+   "zh-CN": "双色宝石",
+   "zh-TW": "雙色寶石",
+   "ja": "バイカラージェム"
+  },
+  "desc": {
+   "en": "A precious stone that shimmers with multiple hues.",
+   "zh-CN": "有着复数颜色的珍稀辉石。",
+   "zh-TW": "有着複數顏色的珍稀輝石。",
+   "ja": "複数の色味を持った珍しい輝石"
+  }
+ },
+ {
+  "slug": "skybuilders-scrip",
+  "en": "Skybuilders' Scrip",
+  "n": {
+   "en": "Skybuilders' Scrip",
+   "zh-CN": "天穹街振兴票",
+   "zh-TW": "天穹街振興票",
+   "ja": "蒼天街振興券"
+  }
+ },
+ {
+  "slug": "fae-fancy",
+  "en": "Fae Fancy",
+  "n": {
+   "en": "Fae Fancy",
+   "zh-CN": "幻晶币",
+   "zh-TW": "幻晶幣",
+   "ja": "ピクシー幻晶貨"
+  }
+ },
+ {
+  "slug": "qitari-compliment",
+  "en": "Qitari Compliment",
+  "n": {
+   "en": "Qitari Compliment",
+   "zh-CN": "橡果币",
+   "zh-TW": "橡果幣",
+   "ja": "キタリ団栗貨"
+  }
+ },
+ {
+  "slug": "hammered-frogment",
+  "en": "Hammered Frogment",
+  "n": {
+   "en": "Hammered Frogment",
+   "zh-CN": "绿蛙币",
+   "zh-TW": "綠蛙幣",
+   "ja": "ドワーフ緑硬貨"
+  }
+ },
+ {
+  "slug": "faux-leaf",
+  "en": "Faux Leaf",
+  "n": {
+   "en": "Faux Leaf",
+   "zh-CN": "幻巧叶",
+   "zh-TW": "幻巧葉",
+   "ja": "幻の葉"
+  }
+ },
+ {
+  "slug": "purple-crafters-scrip",
+  "en": "Purple Crafters' Scrip",
+  "n": {
+   "en": "Purple Crafters' Scrip",
+   "zh-CN": "巧手紫票",
+   "zh-TW": "巧手紫票",
+   "ja": "クラフタースクリップ:紫貨"
+  }
+ },
+ {
+  "slug": "purple-gatherers-scrip",
+  "en": "Purple Gatherers' Scrip",
+  "n": {
+   "en": "Purple Gatherers' Scrip",
+   "zh-CN": "大地紫票",
+   "zh-TW": "大地紫票",
+   "ja": "ギャザラースクリップ:紫貨"
+  }
+ },
+ {
+  "slug": "trophy-crystal",
+  "en": "Trophy Crystal",
+  "n": {
+   "en": "Trophy Crystal",
+   "zh-CN": "战利水晶",
+   "zh-TW": "戰利水晶",
+   "ja": "トロフィークリスタル"
+  },
+  "desc": {
+   "en": "Handsome—albeit impractically pointy—tokens issued by Eorzea's Grand Companies for use at the Wolves' Den.",
+   "zh-CN": "大国防联军之间通用的战绩票。",
+   "zh-TW": "大國防聯軍之間通用的戰績票。",
+   "ja": "グランドカンパニーが共通で発行する戦績票。"
+  }
+ },
+ {
+  "slug": "arkasodara-pana",
+  "en": "Arkasodara Pana",
+  "n": {
+   "en": "Arkasodara Pana",
+   "zh-CN": "星钴币",
+   "zh-TW": "星鈷幣",
+   "ja": "アルカソーダラ星鈷貨"
+  }
+ },
+ {
+  "slug": "omicron-omnitoken",
+  "en": "Omicron Omnitoken",
+  "n": {
+   "en": "Omicron Omnitoken",
+   "zh-CN": "密文币",
+   "zh-TW": "密文幣",
+   "ja": "オミクロン暗号貨"
+  }
+ },
+ {
+  "slug": "sil-dihn-silver",
+  "en": "Sil'dihn Silver",
+  "n": {
+   "en": "Sil'dihn Silver",
+   "zh-CN": "希拉狄哈银币",
+   "zh-TW": "希拉狄哈銀幣",
+   "ja": "シラディハ銀貨"
+  }
+ },
+ {
+  "slug": "loporrit-carat",
+  "en": "Loporrit Carat",
+  "n": {
+   "en": "Loporrit Carat",
+   "zh-CN": "胡萝卜币",
+   "zh-TW": "胡蘿蔔幣",
+   "ja": "レポリット人参貨"
+  }
+ },
+ {
+  "slug": "shishu-coin",
+  "en": "Shishu Coin",
+  "n": {
+   "en": "Shishu Coin",
+   "zh-CN": "紫州通宝",
+   "zh-TW": "紫州通寶",
+   "ja": "紫洲通宝"
+  }
+ },
+ {
+  "slug": "aloalo-coin",
+  "en": "Aloalo Coin",
+  "n": {
+   "en": "Aloalo Coin",
+   "zh-CN": "阿罗阿罗金币",
+   "zh-TW": "阿羅阿羅金幣",
+   "ja": "アロアロ金貨"
+  }
+ },
+ {
+  "slug": "mgf",
+  "en": "MGF",
+  "n": {
+   "en": "MGF",
+   "zh-CN": "金碟声誉",
+   "zh-TW": "金碟聲譽",
+   "ja": "マンダヴィル・ゴールドソーサーフェイム"
+  }
+ },
+ {
+  "slug": "orange-crafters-scrip",
+  "en": "Orange Crafters' Scrip",
+  "n": {
+   "en": "Orange Crafters' Scrip",
+   "zh-CN": "巧手橙票",
+   "zh-TW": "巧手橙票",
+   "ja": "クラフタースクリップ:橙貨"
+  }
+ },
+ {
+  "slug": "orange-gatherers-scrip",
+  "en": "Orange Gatherers' Scrip",
+  "n": {
+   "en": "Orange Gatherers' Scrip",
+   "zh-CN": "大地橙票",
+   "zh-TW": "大地橙票",
+   "ja": "ギャザラースクリップ:橙貨"
+  }
+ },
+ {
+  "slug": "pelu-pelplume",
+  "en": "Pelu Pelplume",
+  "n": {
+   "en": "Pelu Pelplume",
+   "zh-CN": "旅翼币",
+   "zh-TW": "旅翼幣",
+   "ja": "ペルペル旅翼貨"
+  }
+ },
+ {
+  "slug": "yok-huy-ward",
+  "en": "Yok Huy Ward",
+  "n": {
+   "en": "Yok Huy Ward",
+   "zh-CN": "铠甲币",
+   "zh-TW": "鎧甲幣",
+   "ja": "ヨカフイ鎧甲貨"
+  }
+ },
+ {
+  "slug": "mamool-ja-nanook",
+  "en": "Mamool Ja Nanook",
+  "n": {
+   "en": "Mamool Ja Nanook",
+   "zh-CN": "青蕉币",
+   "zh-TW": "青蕉幣",
+   "ja": "マムージャ青蕉貨"
+  }
+ },
+ {
+  "slug": "corvosi-manuscript",
+  "en": "Corvosi Manuscript",
+  "n": {
+   "en": "Corvosi Manuscript",
+   "zh-CN": "科尔沃书籍",
+   "zh-TW": "科爾沃書籍",
+   "ja": "コルヴォの書物"
+  }
+ }
+]

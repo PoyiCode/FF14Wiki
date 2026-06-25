@@ -1,0 +1,6 @@
+id: blue-crafters-scrip
+category: currency
+type: currency
+currency: "Blue Crafters' Scrip"
+tags: [currency, economy]
+status: stable

@@ -1,0 +1,6 @@
+id: hammered-frogment
+category: currency
+type: currency
+currency: "Hammered Frogment"
+tags: [currency, economy]
+status: stable

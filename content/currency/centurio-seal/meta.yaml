@@ -1,0 +1,6 @@
+id: centurio-seal
+category: currency
+type: currency
+currency: "Centurio Seal"
+tags: [currency, economy]
+status: stable

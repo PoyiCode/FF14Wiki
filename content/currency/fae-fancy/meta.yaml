@@ -1,0 +1,6 @@
+id: fae-fancy
+category: currency
+type: currency
+currency: "Fae Fancy"
+tags: [currency, economy]
+status: stable

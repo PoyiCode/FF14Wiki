@@ -1,0 +1,6 @@
+id: mgf
+category: currency
+type: currency
+currency: "MGF"
+tags: [currency, economy]
+status: stable

@@ -1,0 +1,6 @@
+id: sack-of-nuts
+category: currency
+type: currency
+currency: "Sack of Nuts"
+tags: [currency, economy]
+status: stable

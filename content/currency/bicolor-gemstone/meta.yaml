@@ -1,0 +1,6 @@
+id: bicolor-gemstone
+category: currency
+type: currency
+currency: "Bicolor Gemstone"
+tags: [currency, economy]
+status: stable

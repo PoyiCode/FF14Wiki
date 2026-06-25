@@ -1,0 +1,6 @@
+id: achievement-certificate
+category: currency
+type: currency
+currency: "Achievement Certificate"
+tags: [currency, economy]
+status: stable

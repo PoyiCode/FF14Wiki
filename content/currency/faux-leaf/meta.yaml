@@ -1,0 +1,6 @@
+id: faux-leaf
+category: currency
+type: currency
+currency: "Faux Leaf"
+tags: [currency, economy]
+status: stable

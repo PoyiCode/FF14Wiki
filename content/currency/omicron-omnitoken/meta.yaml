@@ -1,0 +1,6 @@
+id: omicron-omnitoken
+category: currency
+type: currency
+currency: "Omicron Omnitoken"
+tags: [currency, economy]
+status: stable

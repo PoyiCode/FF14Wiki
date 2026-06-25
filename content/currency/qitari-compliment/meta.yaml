@@ -1,0 +1,6 @@
+id: qitari-compliment
+category: currency
+type: currency
+currency: "Qitari Compliment"
+tags: [currency, economy]
+status: stable

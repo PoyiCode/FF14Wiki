@@ -1,0 +1,6 @@
+id: pelu-pelplume
+category: currency
+type: currency
+currency: "Pelu Pelplume"
+tags: [currency, economy]
+status: stable

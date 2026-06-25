@@ -1,0 +1,6 @@
+id: black-copper-gil
+category: currency
+type: currency
+currency: "Black Copper Gil"
+tags: [currency, economy]
+status: stable

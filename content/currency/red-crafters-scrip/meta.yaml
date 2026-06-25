@@ -1,0 +1,6 @@
+id: red-crafters-scrip
+category: currency
+type: currency
+currency: "Red Crafters' Scrip"
+tags: [currency, economy]
+status: stable

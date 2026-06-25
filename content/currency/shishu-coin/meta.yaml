@@ -1,0 +1,6 @@
+id: shishu-coin
+category: currency
+type: currency
+currency: "Shishu Coin"
+tags: [currency, economy]
+status: stable

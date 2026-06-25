@@ -1,0 +1,6 @@
+id: trophy-crystal
+category: currency
+type: currency
+currency: "Trophy Crystal"
+tags: [currency, economy]
+status: stable

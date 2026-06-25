@@ -1,0 +1,6 @@
+id: white-crafters-scrip
+category: currency
+type: currency
+currency: "White Crafters' Scrip"
+tags: [currency, economy]
+status: stable

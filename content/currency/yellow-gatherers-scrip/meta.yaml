@@ -1,0 +1,6 @@
+id: yellow-gatherers-scrip
+category: currency
+type: currency
+currency: "Yellow Gatherers' Scrip"
+tags: [currency, economy]
+status: stable

@@ -1,0 +1,6 @@
+id: loporrit-carat
+category: currency
+type: currency
+currency: "Loporrit Carat"
+tags: [currency, economy]
+status: stable

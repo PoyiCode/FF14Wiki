@@ -1,0 +1,6 @@
+id: skybuilders-scrip
+category: currency
+type: currency
+currency: "Skybuilders' Scrip"
+tags: [currency, economy]
+status: stable

@@ -1,0 +1,6 @@
+id: vanu-whitebone
+category: currency
+type: currency
+currency: "Vanu Whitebone"
+tags: [currency, economy]
+status: stable

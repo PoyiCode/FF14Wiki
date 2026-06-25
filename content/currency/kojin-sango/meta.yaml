@@ -1,0 +1,6 @@
+id: kojin-sango
+category: currency
+type: currency
+currency: "Kojin Sango"
+tags: [currency, economy]
+status: stable

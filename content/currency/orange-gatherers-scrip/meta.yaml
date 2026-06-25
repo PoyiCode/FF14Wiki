@@ -1,0 +1,6 @@
+id: orange-gatherers-scrip
+category: currency
+type: currency
+currency: "Orange Gatherers' Scrip"
+tags: [currency, economy]
+status: stable

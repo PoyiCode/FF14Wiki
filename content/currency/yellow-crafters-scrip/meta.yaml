@@ -1,0 +1,6 @@
+id: yellow-crafters-scrip
+category: currency
+type: currency
+currency: "Yellow Crafters' Scrip"
+tags: [currency, economy]
+status: stable

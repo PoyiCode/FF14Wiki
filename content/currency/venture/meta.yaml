@@ -1,0 +1,6 @@
+id: venture
+category: currency
+type: currency
+currency: "Venture"
+tags: [currency, economy]
+status: stable

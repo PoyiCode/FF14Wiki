@@ -1,0 +1,6 @@
+id: namazu-koban
+category: currency
+type: currency
+currency: "Namazu Koban"
+tags: [currency, economy]
+status: stable

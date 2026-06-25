@@ -1,0 +1,6 @@
+id: titan-cobaltpiece
+category: currency
+type: currency
+currency: "Titan Cobaltpiece"
+tags: [currency, economy]
+status: stable
