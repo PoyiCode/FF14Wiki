@@ -1,0 +1,6 @@
+id: cymbal
+category: instruments
+type: instrument
+instrument: "Cymbal"
+tags: [instrument, music, performance]
+status: stable

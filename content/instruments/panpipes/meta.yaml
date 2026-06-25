@@ -1,0 +1,6 @@
+id: panpipes
+category: instruments
+type: instrument
+instrument: "Panpipes"
+tags: [instrument, music, performance]
+status: stable

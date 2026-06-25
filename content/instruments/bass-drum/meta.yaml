@@ -1,0 +1,6 @@
+id: bass-drum
+category: instruments
+type: instrument
+instrument: "Bass Drum"
+tags: [instrument, music, performance]
+status: stable

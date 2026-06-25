@@ -1,0 +1,6 @@
+id: oboe
+category: instruments
+type: instrument
+instrument: "Oboe"
+tags: [instrument, music, performance]
+status: stable

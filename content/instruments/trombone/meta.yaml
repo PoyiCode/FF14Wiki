@@ -1,0 +1,6 @@
+id: trombone
+category: instruments
+type: instrument
+instrument: "Trombone"
+tags: [instrument, music, performance]
+status: stable

@@ -1,0 +1,6 @@
+id: fiddle
+category: instruments
+type: instrument
+instrument: "Fiddle"
+tags: [instrument, music, performance]
+status: stable

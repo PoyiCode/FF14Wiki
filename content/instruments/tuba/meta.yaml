@@ -1,0 +1,6 @@
+id: tuba
+category: instruments
+type: instrument
+instrument: "Tuba"
+tags: [instrument, music, performance]
+status: stable

@@ -1,0 +1,6 @@
+id: viola
+category: instruments
+type: instrument
+instrument: "Viola"
+tags: [instrument, music, performance]
+status: stable

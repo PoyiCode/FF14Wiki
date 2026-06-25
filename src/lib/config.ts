@@ -260,6 +260,16 @@ export const CATEGORIES: CategoryDef[] = [
       en: 'The fishing holes across Eorzea and the fish you can catch at each, linking places to fish — the basis for the bot to plan a fishing trip.',
     },
   },
+  {
+    key: 'instruments',
+    label: { 'zh-TW': '樂器', 'zh-CN': '乐器', ja: '楽器', en: 'Instruments' },
+    description: {
+      'zh-TW': '居民演奏（Performance）時可用的樂器，讓 bot 能在街頭表演、聊音樂演奏與合奏。',
+      'zh-CN': '居民演奏（Performance）时可用的乐器，让 bot 能在街头表演、聊音乐演奏与合奏。',
+      ja: '住民が演奏（パフォーマンス）で使える楽器。botが街角で演奏し、合奏や音楽を語れるように。',
+      en: 'The instruments residents can play in Performance mode, so the bot can busk, jam and chat about making music.',
+    },
+  },
 ];
 
 export const CATEGORY_KEYS = CATEGORIES.map((c) => c.key);

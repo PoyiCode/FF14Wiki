@@ -1,0 +1,6 @@
+id: saxophone
+category: instruments
+type: instrument
+instrument: "Saxophone"
+tags: [instrument, music, performance]
+status: stable

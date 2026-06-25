@@ -1,0 +1,6 @@
+id: trumpet
+category: instruments
+type: instrument
+instrument: "Trumpet"
+tags: [instrument, music, performance]
+status: stable

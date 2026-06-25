@@ -1,0 +1,6 @@
+id: snare-drum
+category: instruments
+type: instrument
+instrument: "Snare Drum"
+tags: [instrument, music, performance]
+status: stable

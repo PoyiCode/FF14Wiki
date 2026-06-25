@@ -1,0 +1,6 @@
+id: double-bass
+category: instruments
+type: instrument
+instrument: "Double Bass"
+tags: [instrument, music, performance]
+status: stable

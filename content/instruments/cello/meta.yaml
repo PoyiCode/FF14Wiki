@@ -1,0 +1,6 @@
+id: cello
+category: instruments
+type: instrument
+instrument: "Cello"
+tags: [instrument, music, performance]
+status: stable

@@ -1,0 +1,6 @@
+id: lute
+category: instruments
+type: instrument
+instrument: "Lute"
+tags: [instrument, music, performance]
+status: stable

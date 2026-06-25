@@ -1,0 +1,6 @@
+id: flute
+category: instruments
+type: instrument
+instrument: "Flute"
+tags: [instrument, music, performance]
+status: stable

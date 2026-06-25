@@ -1,0 +1,282 @@
+[
+ {
+  "slug": "harp",
+  "en": "Harp",
+  "n": {
+   "en": "Harp",
+   "zh-CN": "竖琴",
+   "zh-TW": "豎琴",
+   "ja": "ハープ"
+  }
+ },
+ {
+  "slug": "piano",
+  "en": "Piano",
+  "n": {
+   "en": "Piano",
+   "zh-CN": "钢琴",
+   "zh-TW": "鋼琴",
+   "ja": "グランドピアノ"
+  }
+ },
+ {
+  "slug": "lute",
+  "en": "Lute",
+  "n": {
+   "en": "Lute",
+   "zh-CN": "鲁特琴",
+   "zh-TW": "魯特琴",
+   "ja": "スチールギター"
+  }
+ },
+ {
+  "slug": "fiddle",
+  "en": "Fiddle",
+  "n": {
+   "en": "Fiddle",
+   "zh-CN": "提琴拨弦",
+   "zh-TW": "提琴撥絃",
+   "ja": "ピッチカート"
+  }
+ },
+ {
+  "slug": "flute",
+  "en": "Flute",
+  "n": {
+   "en": "Flute",
+   "zh-CN": "长笛",
+   "zh-TW": "長笛",
+   "ja": "フルート"
+  }
+ },
+ {
+  "slug": "oboe",
+  "en": "Oboe",
+  "n": {
+   "en": "Oboe",
+   "zh-CN": "双簧管",
+   "zh-TW": "雙簧管",
+   "ja": "オーボエ"
+  }
+ },
+ {
+  "slug": "clarinet",
+  "en": "Clarinet",
+  "n": {
+   "en": "Clarinet",
+   "zh-CN": "单簧管",
+   "zh-TW": "單簧管",
+   "ja": "クラリネット"
+  }
+ },
+ {
+  "slug": "fife",
+  "en": "Fife",
+  "n": {
+   "en": "Fife",
+   "zh-CN": "横笛",
+   "zh-TW": "橫笛",
+   "ja": "ピッコロ"
+  }
+ },
+ {
+  "slug": "panpipes",
+  "en": "Panpipes",
+  "n": {
+   "en": "Panpipes",
+   "zh-CN": "排箫",
+   "zh-TW": "排簫",
+   "ja": "パンパイプ"
+  }
+ },
+ {
+  "slug": "timpani",
+  "en": "Timpani",
+  "n": {
+   "en": "Timpani",
+   "zh-CN": "定音鼓",
+   "zh-TW": "定音鼓",
+   "ja": "ティンパニー"
+  }
+ },
+ {
+  "slug": "bongo",
+  "en": "Bongo",
+  "n": {
+   "en": "Bongo",
+   "zh-CN": "邦戈鼓",
+   "zh-TW": "邦戈鼓",
+   "ja": "ボンゴ"
+  }
+ },
+ {
+  "slug": "bass-drum",
+  "en": "Bass Drum",
+  "n": {
+   "en": "Bass Drum",
+   "zh-CN": "低音鼓",
+   "zh-TW": "低音鼓",
+   "ja": "バスドラム"
+  }
+ },
+ {
+  "slug": "snare-drum",
+  "en": "Snare Drum",
+  "n": {
+   "en": "Snare Drum",
+   "zh-CN": "小军鼓",
+   "zh-TW": "小軍鼓",
+   "ja": "スネアドラム"
+  }
+ },
+ {
+  "slug": "cymbal",
+  "en": "Cymbal",
+  "n": {
+   "en": "Cymbal",
+   "zh-CN": "镲",
+   "zh-TW": "鑔",
+   "ja": "シンバル"
+  }
+ },
+ {
+  "slug": "trumpet",
+  "en": "Trumpet",
+  "n": {
+   "en": "Trumpet",
+   "zh-CN": "小号",
+   "zh-TW": "小號",
+   "ja": "トランペット"
+  }
+ },
+ {
+  "slug": "trombone",
+  "en": "Trombone",
+  "n": {
+   "en": "Trombone",
+   "zh-CN": "长号",
+   "zh-TW": "長號",
+   "ja": "トロンボーン"
+  }
+ },
+ {
+  "slug": "tuba",
+  "en": "Tuba",
+  "n": {
+   "en": "Tuba",
+   "zh-CN": "大号",
+   "zh-TW": "大號",
+   "ja": "チューバ"
+  }
+ },
+ {
+  "slug": "horn",
+  "en": "Horn",
+  "n": {
+   "en": "Horn",
+   "zh-CN": "圆号",
+   "zh-TW": "圓號",
+   "ja": "ホルン"
+  }
+ },
+ {
+  "slug": "saxophone",
+  "en": "Saxophone",
+  "n": {
+   "en": "Saxophone",
+   "zh-CN": "萨克斯管",
+   "zh-TW": "薩克斯管",
+   "ja": "サックス"
+  }
+ },
+ {
+  "slug": "violin",
+  "en": "Violin",
+  "n": {
+   "en": "Violin",
+   "zh-CN": "小提琴",
+   "zh-TW": "小提琴",
+   "ja": "ヴァイオリン"
+  }
+ },
+ {
+  "slug": "viola",
+  "en": "Viola",
+  "n": {
+   "en": "Viola",
+   "zh-CN": "中提琴",
+   "zh-TW": "中提琴",
+   "ja": "ヴィオラ"
+  }
+ },
+ {
+  "slug": "cello",
+  "en": "Cello",
+  "n": {
+   "en": "Cello",
+   "zh-CN": "大提琴",
+   "zh-TW": "大提琴",
+   "ja": "チェロ"
+  }
+ },
+ {
+  "slug": "double-bass",
+  "en": "Double Bass",
+  "n": {
+   "en": "Double Bass",
+   "zh-CN": "低音提琴",
+   "zh-TW": "低音提琴",
+   "ja": "コントラバス"
+  }
+ },
+ {
+  "slug": "electric-guitar-overdriven",
+  "en": "Electric Guitar: Overdriven",
+  "n": {
+   "en": "Electric Guitar: Overdriven",
+   "zh-CN": "电吉他：过载",
+   "zh-TW": "電吉他：過載",
+   "ja": "エレキギター：ドライブ"
+  }
+ },
+ {
+  "slug": "electric-guitar-clean",
+  "en": "Electric Guitar: Clean",
+  "n": {
+   "en": "Electric Guitar: Clean",
+   "zh-CN": "电吉他：清音",
+   "zh-TW": "電吉他：清音",
+   "ja": "エレキギター：クリーン"
+  }
+ },
+ {
+  "slug": "electric-guitar-muted",
+  "en": "Electric Guitar: Muted",
+  "n": {
+   "en": "Electric Guitar: Muted",
+   "zh-CN": "电吉他：闷音",
+   "zh-TW": "電吉他：悶音",
+   "ja": "エレキギター：ミュート"
+  }
+ },
+ {
+  "slug": "electric-guitar-power-chords",
+  "en": "Electric Guitar: Power Chords",
+  "n": {
+   "en": "Electric Guitar: Power Chords",
+   "zh-CN": "电吉他：重力和弦",
+   "zh-TW": "電吉他：重力和絃",
+   "ja": "エレキギター：パワーコード"
+  }
+ },
+ {
+  "slug": "electric-guitar-special",
+  "en": "Electric Guitar: Special",
+  "n": {
+   "en": "Electric Guitar: Special",
+   "zh-CN": "电吉他：特殊奏法",
+   "zh-TW": "電吉他：特殊奏法",
+   "ja": "エレキギター：特殊奏法"
+  }
+ }
+]

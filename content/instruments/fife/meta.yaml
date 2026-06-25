@@ -1,0 +1,6 @@
+id: fife
+category: instruments
+type: instrument
+instrument: "Fife"
+tags: [instrument, music, performance]
+status: stable

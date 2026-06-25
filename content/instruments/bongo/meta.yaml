@@ -1,0 +1,6 @@
+id: bongo
+category: instruments
+type: instrument
+instrument: "Bongo"
+tags: [instrument, music, performance]
+status: stable

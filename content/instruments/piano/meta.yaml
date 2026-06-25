@@ -1,0 +1,6 @@
+id: piano
+category: instruments
+type: instrument
+instrument: "Piano"
+tags: [instrument, music, performance]
+status: stable

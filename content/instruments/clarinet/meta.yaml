@@ -1,0 +1,6 @@
+id: clarinet
+category: instruments
+type: instrument
+instrument: "Clarinet"
+tags: [instrument, music, performance]
+status: stable

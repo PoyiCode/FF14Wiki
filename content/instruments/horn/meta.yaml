@@ -1,0 +1,6 @@
+id: horn
+category: instruments
+type: instrument
+instrument: "Horn"
+tags: [instrument, music, performance]
+status: stable
