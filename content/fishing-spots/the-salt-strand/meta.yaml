@@ -3,6 +3,6 @@ category: fishing-spots
 type: fishing_spot
 fishing_spot: "The Salt Strand"
 fish_count: 9
-related: [sea-cucumber, pebble-crab, helmet-crab, razor-clam, blowfish, sea-bo, black-sole, tiny-tortoise, meteor-survivor]
+related: [sea-cucumber, pebble-crab, helmet-crab, razor-clam, blowfish, sea-bo, black-sole, fish/tiny-tortoise, meteor-survivor]
 tags: [fishing, spot, nature]
 status: stable

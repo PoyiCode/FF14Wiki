@@ -2,6 +2,6 @@ id: vampiric-tapestry
 category: fish
 type: fish
 fish: "Vampiric Tapestry"
-related: [mok-oogl-island, swirling-cloudtop]
+related: [fishing-spots/mok-oogl-island, swirling-cloudtop]
 tags: [fish, fishing, nature]
 status: stable

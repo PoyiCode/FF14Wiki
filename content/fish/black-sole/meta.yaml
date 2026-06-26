@@ -2,6 +2,6 @@ id: black-sole
 category: fish
 type: fish
 fish: "Black Sole"
-related: [the-salt-strand, north-bloodshore]
+related: [fishing-spots/the-salt-strand, north-bloodshore]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,6 +2,6 @@ id: takitaro
 category: fish
 type: fish
 fish: "Takitaro"
-related: [urth-s-gift]
+related: [fishing-spots/urth-s-gift]
 tags: [fish, fishing, nature]
 status: stable

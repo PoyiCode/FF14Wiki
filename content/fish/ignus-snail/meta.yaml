@@ -2,6 +2,6 @@ id: ignus-snail
 category: fish
 type: fish
 fish: "Ignus Snail"
-related: [north-silvertear, rathefrost, the-deep-tangle, the-burning-wall, zahar-ak, ceruleum-field, bluefog, the-north-shards, parata-s-peace, the-long-climb]
+related: [north-silvertear, fishing-spots/rathefrost, the-deep-tangle, fishing-spots/the-burning-wall, fishing-spots/zahar-ak, ceruleum-field, fishing-spots/bluefog, the-north-shards, parata-s-peace, the-long-climb]
 tags: [fish, fishing, nature]
 status: stable

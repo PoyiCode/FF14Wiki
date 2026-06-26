@@ -2,6 +2,6 @@ id: sea-cucumber
 category: fish
 type: fish
 fish: "Sea Cucumber"
-related: [zephyr-drift, moraby-bay, oschon-s-torch, the-salt-strand]
+related: [zephyr-drift, moraby-bay, oschon-s-torch, fishing-spots/the-salt-strand]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,6 +2,6 @@ id: gold-hammer
 category: fish
 type: fish
 fish: "Gold Hammer"
-related: [saint-fathric-s-temple]
+related: [fishing-spots/saint-fathric-s-temple]
 tags: [fish, fishing, nature]
 status: stable

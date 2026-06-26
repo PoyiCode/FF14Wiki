@@ -2,6 +2,6 @@ id: rothlyt-oyster
 category: fish
 type: fish
 fish: "Rothlyt Oyster"
-related: [moraby-drydocks, oschon-s-torch, candlekeep-quay, swiftperch, skull-valley, the-brewer-s-beacon, the-silver-bazaar, vesper-bay]
+related: [fishing-spots/moraby-drydocks, oschon-s-torch, candlekeep-quay, fishing-spots/swiftperch, skull-valley, fishing-spots/the-brewer-s-beacon, the-silver-bazaar, fishing-spots/vesper-bay]
 tags: [fish, fishing, nature]
 status: stable

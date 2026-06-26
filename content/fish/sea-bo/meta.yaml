@@ -2,6 +2,6 @@ id: sea-bo
 category: fish
 type: fish
 fish: "Sea Bo"
-related: [the-salt-strand, south-bloodshore]
+related: [fishing-spots/the-salt-strand, south-bloodshore]
 tags: [fish, fishing, nature]
 status: stable

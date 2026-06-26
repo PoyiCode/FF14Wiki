@@ -2,6 +2,6 @@ id: ruby-shrimp
 category: fish
 type: fish
 fish: "Ruby Shrimp"
-related: [kugane-piers, hells-lid, the-isle-of-bekko, onokoro, the-isle-of-zekki, shirogane]
+related: [kugane-piers, hells-lid, the-isle-of-bekko, fishing-spots/onokoro, fishing-spots/the-isle-of-zekki, fishing-spots/shirogane]
 tags: [fish, fishing, nature]
 status: stable

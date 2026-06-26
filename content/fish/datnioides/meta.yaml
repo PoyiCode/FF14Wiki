@@ -2,6 +2,6 @@ id: datnioides
 category: fish
 type: fish
 fish: "Datnioides"
-related: [leynode-aero]
+related: [fishing-spots/leynode-aero]
 tags: [fish, fishing, nature]
 status: stable

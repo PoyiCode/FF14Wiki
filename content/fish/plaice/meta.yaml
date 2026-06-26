@@ -2,6 +2,6 @@ id: plaice
 category: fish
 type: fish
 fish: "Plaice"
-related: [isles-of-umbra-southshore, the-ship-graveyard, cape-westwind]
+related: [isles-of-umbra-southshore, fishing-spots/the-ship-graveyard, cape-westwind]
 tags: [fish, fishing, nature]
 status: stable

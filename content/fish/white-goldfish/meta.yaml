@@ -2,6 +2,6 @@ id: white-goldfish
 category: fish
 type: fish
 fish: "White Goldfish"
-related: [prism-lake]
+related: [fishing-spots/prism-lake]
 tags: [fish, fishing, nature]
 status: stable

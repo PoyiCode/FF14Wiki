@@ -2,6 +2,6 @@ id: spotted-puffer
 category: fish
 type: fish
 fish: "Spotted Puffer"
-related: [hidden-falls, crescent-cove]
+related: [fishing-spots/hidden-falls, crescent-cove]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,6 +2,6 @@ id: boxing-pleco
 category: fish
 type: fish
 fish: "Boxing Pleco"
-related: [urth-s-gift, lake-tahtotl, the-deep-tangle]
+related: [fishing-spots/urth-s-gift, lake-tahtotl, the-deep-tangle]
 tags: [fish, fishing, nature]
 status: stable

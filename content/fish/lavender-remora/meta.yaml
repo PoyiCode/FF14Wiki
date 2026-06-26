@@ -2,6 +2,6 @@ id: lavender-remora
 category: fish
 type: fish
 fish: "Lavender Remora"
-related: [costa-del-sol, halfstone, isles-of-umbra-northshore]
+related: [fishing-spots/costa-del-sol, halfstone, isles-of-umbra-northshore]
 tags: [fish, fishing, nature]
 status: stable

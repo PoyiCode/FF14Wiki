@@ -2,6 +2,6 @@ id: halibut
 category: fish
 type: fish
 fish: "Halibut"
-related: [swiftperch]
+related: [fishing-spots/swiftperch]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,6 +2,6 @@ id: python-discus
 category: fish
 type: fish
 fish: "Python Discus"
-related: [sullen]
+related: [fishing-spots/sullen]
 tags: [fish, fishing, nature]
 status: stable

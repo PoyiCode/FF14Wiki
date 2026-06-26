@@ -2,6 +2,6 @@ id: armorer
 category: fish
 type: fish
 fish: "Armorer"
-related: [swiftperch]
+related: [fishing-spots/swiftperch]
 tags: [fish, fishing, nature]
 status: stable

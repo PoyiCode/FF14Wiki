@@ -2,6 +2,6 @@ id: discus
 category: fish
 type: fish
 fish: "Discus"
-related: [hidden-falls, east-agelyss-river, raincatcher-gully, red-mantis-falls, the-burning-wall, zahar-ak]
+related: [fishing-spots/hidden-falls, east-agelyss-river, raincatcher-gully, red-mantis-falls, fishing-spots/the-burning-wall, fishing-spots/zahar-ak]
 tags: [fish, fishing, nature]
 status: stable

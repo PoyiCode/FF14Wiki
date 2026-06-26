@@ -3,6 +3,6 @@ category: fishing-spots
 type: fishing_spot
 fishing_spot: "Forgotten Springs"
 fish_count: 8
-related: [forgotten-springs, copperfish, warmwater-trout, lamprey, plaguefish, ropefish, clown-loach, golden-loach, iron-noose]
+related: [world/forgotten-springs, copperfish, warmwater-trout, lamprey, plaguefish, ropefish, clown-loach, golden-loach, iron-noose]
 tags: [fishing, spot, nature]
 status: stable

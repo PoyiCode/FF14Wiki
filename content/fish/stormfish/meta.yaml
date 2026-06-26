@@ -2,6 +2,6 @@ id: stormfish
 category: fish
 type: fish
 fish: "Stormfish"
-related: [the-flounders-floor, where-the-dry-return, northwest-caliban-gorge, west-caliban-gap, east-caliban-gap, purpure, the-norvrandt-slope]
+related: [the-flounders-floor, fishing-spots/where-the-dry-return, northwest-caliban-gorge, west-caliban-gap, east-caliban-gap, fishing-spots/purpure, the-norvrandt-slope]
 tags: [fish, fishing, nature]
 status: stable

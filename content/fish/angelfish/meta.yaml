@@ -2,6 +2,6 @@ id: angelfish
 category: fish
 type: fish
 fish: "Angelfish"
-related: [zephyr-drift, costa-del-sol]
+related: [zephyr-drift, fishing-spots/costa-del-sol]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,6 +2,6 @@ id: granite-crab
 category: fish
 type: fish
 fish: "Granite Crab"
-related: [mourn, west-mourn, anyx-old, halo]
+related: [mourn, west-mourn, anyx-old, fishing-spots/halo]
 tags: [fish, fishing, nature]
 status: stable

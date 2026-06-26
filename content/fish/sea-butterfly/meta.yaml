@@ -2,6 +2,6 @@ id: sea-butterfly
 category: fish
 type: fish
 fish: "Sea Butterfly"
-related: [mok-oogl-island]
+related: [fishing-spots/mok-oogl-island]
 tags: [fish, fishing, nature]
 status: stable

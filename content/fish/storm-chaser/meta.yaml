@@ -2,6 +2,6 @@ id: storm-chaser
 category: fish
 type: fish
 fish: "Storm Chaser"
-related: [tharl-oom-khash]
+related: [fishing-spots/tharl-oom-khash]
 tags: [fish, fishing, nature]
 status: stable

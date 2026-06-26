@@ -2,6 +2,6 @@ id: mosaic-loach
 category: fish
 type: fish
 fish: "Mosaic Loach"
-related: [residential-sector]
+related: [fishing-spots/residential-sector]
 tags: [fish, fishing, nature]
 status: stable

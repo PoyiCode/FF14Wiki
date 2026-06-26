@@ -2,6 +2,6 @@ id: swordfish
 category: fish
 type: fish
 fish: "Swordfish"
-related: [onokoro]
+related: [fishing-spots/onokoro]
 tags: [fish, fishing, nature]
 status: stable

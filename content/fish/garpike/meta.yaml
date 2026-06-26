@@ -2,6 +2,6 @@ id: garpike
 category: fish
 type: fish
 fish: "Garpike"
-related: [bluefog, singing-shards, moondrip]
+related: [fishing-spots/bluefog, singing-shards, moondrip]
 tags: [fish, fishing, nature]
 status: stable

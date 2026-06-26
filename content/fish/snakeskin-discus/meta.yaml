@@ -2,6 +2,6 @@ id: snakeskin-discus
 category: fish
 type: fish
 fish: "Snakeskin Discus"
-related: [sullen]
+related: [fishing-spots/sullen]
 tags: [fish, fishing, nature]
 status: stable

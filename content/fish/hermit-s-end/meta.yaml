@@ -2,6 +2,6 @@ id: hermit-s-end
 category: fish
 type: fish
 fish: "Hermit's End"
-related: [namai]
+related: [fishing-spots/namai]
 tags: [fish, fishing, nature]
 status: stable

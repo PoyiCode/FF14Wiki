@@ -2,6 +2,6 @@ id: bokuden
 category: fish
 type: fish
 fish: "Bokuden"
-related: [doma-castle]
+related: [fishing-spots/doma-castle]
 tags: [fish, fishing, nature]
 status: stable

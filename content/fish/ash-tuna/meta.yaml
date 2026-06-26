@@ -2,6 +2,6 @@ id: ash-tuna
 category: fish
 type: fish
 fish: "Ash Tuna"
-related: [costa-del-sol, north-bloodshore, mist, rhotano-sea-privateer-forecastle]
+related: [fishing-spots/costa-del-sol, north-bloodshore, fishing-spots/mist, rhotano-sea-privateer-forecastle]
 tags: [fish, fishing, nature]
 status: stable

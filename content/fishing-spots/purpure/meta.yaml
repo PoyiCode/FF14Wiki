@@ -3,6 +3,6 @@ category: fishing-spots
 type: fishing_spot
 fishing_spot: "Purpure"
 fish_count: 7
-related: [stormfish, sycorax, maneater-clam, azure-sea-spider, stargazer, purpure-cod, starchaser]
+related: [stormfish, sycorax, maneater-clam, azure-sea-spider, fish/stargazer, purpure-cod, starchaser]
 tags: [fishing, spot, nature]
 status: stable

@@ -3,6 +3,6 @@ category: fishing-spots
 type: fishing_spot
 fishing_spot: "The Doman Enclave"
 fish_count: 2
-related: [the-doman-enclave, doman-trout, kotsu-zetsu]
+related: [world/the-doman-enclave, doman-trout, kotsu-zetsu]
 tags: [fishing, spot, nature]
 status: stable

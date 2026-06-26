@@ -2,6 +2,6 @@ id: glass-flounder
 category: fish
 type: fish
 fish: "Glass Flounder"
-related: [onokoro]
+related: [fishing-spots/onokoro]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,6 +2,6 @@ id: oil-slick
 category: fish
 type: fish
 fish: "Oil Slick"
-related: [white-oil-falls]
+related: [fishing-spots/white-oil-falls]
 tags: [fish, fishing, nature]
 status: stable

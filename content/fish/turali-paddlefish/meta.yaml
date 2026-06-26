@@ -2,6 +2,6 @@ id: turali-paddlefish
 category: fish
 type: fish
 fish: "Turali Paddlefish"
-related: [lake-toari]
+related: [fishing-spots/lake-toari]
 tags: [fish, fishing, nature]
 status: stable

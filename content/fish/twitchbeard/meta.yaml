@@ -2,6 +2,6 @@ id: twitchbeard
 category: fish
 type: fish
 fish: "Twitchbeard"
-related: [mist]
+related: [fishing-spots/mist]
 tags: [fish, fishing, nature]
 status: stable

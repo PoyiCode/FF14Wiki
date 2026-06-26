@@ -2,6 +2,6 @@ id: triplespine
 category: fish
 type: fish
 fish: "Triplespine"
-related: [isari]
+related: [fishing-spots/isari]
 tags: [fish, fishing, nature]
 status: stable

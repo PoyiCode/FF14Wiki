@@ -2,6 +2,6 @@ id: indigo-herring
 category: fish
 type: fish
 fish: "Indigo Herring"
-related: [costa-del-sol, the-silver-bazaar, mist]
+related: [fishing-spots/costa-del-sol, the-silver-bazaar, fishing-spots/mist]
 tags: [fish, fishing, nature]
 status: stable

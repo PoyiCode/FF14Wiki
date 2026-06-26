@@ -2,6 +2,6 @@ id: the-salter
 category: fish
 type: fish
 fish: "The Salter"
-related: [hidden-falls]
+related: [fishing-spots/hidden-falls]
 tags: [fish, fishing, nature]
 status: stable

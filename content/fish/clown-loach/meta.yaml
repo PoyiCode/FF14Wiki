@@ -2,6 +2,6 @@ id: clown-loach
 category: fish
 type: fish
 fish: "Clown Loach"
-related: [hopeseed-pond, red-mantis-falls, zahar-ak, forgotten-springs]
+related: [hopeseed-pond, red-mantis-falls, fishing-spots/zahar-ak, fishing-spots/forgotten-springs]
 tags: [fish, fishing, nature]
 status: stable

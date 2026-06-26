@@ -2,6 +2,6 @@ id: little-thalaos
 category: fish
 type: fish
 fish: "Little Thalaos"
-related: [costa-del-sol, rhotano-sea-privateer-sterncastle, north-isle-of-endless-summer]
+related: [fishing-spots/costa-del-sol, rhotano-sea-privateer-sterncastle, north-isle-of-endless-summer]
 tags: [fish, fishing, nature]
 status: stable

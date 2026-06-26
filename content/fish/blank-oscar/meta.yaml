@@ -2,6 +2,6 @@ id: blank-oscar
 category: fish
 type: fish
 fish: "Blank Oscar"
-related: [doma-castle]
+related: [fishing-spots/doma-castle]
 tags: [fish, fishing, nature]
 status: stable

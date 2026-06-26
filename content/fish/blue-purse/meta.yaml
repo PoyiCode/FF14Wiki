@@ -2,6 +2,6 @@ id: blue-purse
 category: fish
 type: fish
 fish: "Blue Purse"
-related: [high-tide-harbor]
+related: [fishing-spots/high-tide-harbor]
 tags: [fish, fishing, nature]
 status: stable

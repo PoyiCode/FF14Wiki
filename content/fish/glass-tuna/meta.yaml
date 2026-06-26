@@ -2,6 +2,6 @@ id: glass-tuna
 category: fish
 type: fish
 fish: "Glass Tuna"
-related: [kugane-piers, the-isle-of-bekko, shirogane]
+related: [kugane-piers, the-isle-of-bekko, fishing-spots/shirogane]
 tags: [fish, fishing, nature]
 status: stable

@@ -15,7 +15,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 資料與呈現分離，`content/` 是唯一真實來源；網站只是 viewer：
 
 - **`content/`** — 知識庫資料（給 AI agent 讀取的真正產物）。規範詳見 `content/README.md`。
-- **`src/lib/config.ts`** — 全站單一設定來源：四種語言 `LOCALES`（`zh-TW`/`zh-CN`/`ja`/`en`）與八種分類 `CATEGORIES`。**新增語言或分類時，這裡是改動的起點**，並要同步 `scripts/validate-content.mjs` 的常數。
+- **`src/lib/config.ts`** — 全站單一設定來源：四種語言 `LOCALES`（`zh-TW`/`zh-CN`/`ja`/`en`）與目前 33 種分類 `CATEGORIES`（隨資料擴充而增加）。**新增語言或分類時，這裡是改動的起點**，並要同步 `scripts/validate-content.mjs` 的常數。
 - **`src/lib/content.ts`** — 建置時的讀取層，把 `content/` 解析成型別化的 `Entry`。`pickLocale()` 會在缺某語言時自動退回其他語言。
 - **`src/app/`** — Next.js App Router 頁面，全部靜態輸出（`output: 'export'`）。動態路由靠 `generateStaticParams()` 列舉所有 語言×分類×條目 的組合。
 
@@ -31,6 +31,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 每個條目的 `meta.yaml` 只有一份（四語共用），結構化事實**不要**重複寫進各語言的 frontmatter，避免漂移。
 
 > **語言中立識別碼一律用遊戲內英文原名 / 英文 slug**（傳送點名、emote 指令、種族、`related` 目標、`slug`/`id`）。中文、日文名稱只放在各語言 `.md`。這是 agent 能跨語言正確比對的前提。
+
+> **`related` 參照可用兩種形式**：裸 `id`（須全庫唯一）或限定式 `category/id`（如 `fishing-spots/cedarwood`）。`id` 只保證**分類內**唯一，不同分類可能同名（魚與釣場、地點與觀光點…），裸 id 指向這類同名目標會有歧義。**跨分類連結請一律用 `category/id`**；`npm run validate` 會對「指向跨分類同名 id 的裸 related」發出警告並建議改寫。
 
 ## 常用指令
 

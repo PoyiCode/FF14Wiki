@@ -2,6 +2,6 @@ id: longear-sunfish
 category: fish
 type: fish
 fish: "Longear Sunfish"
-related: [meghaduta]
+related: [fishing-spots/meghaduta]
 tags: [fish, fishing, nature]
 status: stable

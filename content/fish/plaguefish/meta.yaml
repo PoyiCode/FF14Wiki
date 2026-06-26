@@ -2,6 +2,6 @@ id: plaguefish
 category: fish
 type: fish
 fish: "Plaguefish"
-related: [burnt-lizard-creek, zahar-ak, forgotten-springs]
+related: [burnt-lizard-creek, fishing-spots/zahar-ak, fishing-spots/forgotten-springs]
 tags: [fish, fishing, nature]
 status: stable

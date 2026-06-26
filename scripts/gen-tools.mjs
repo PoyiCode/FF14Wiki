@@ -31,7 +31,7 @@ for (const m of data) {
   const dir = path.join(DIR, m.slug);
   fs.mkdirSync(dir, { recursive: true });
   let meta = `id: ${m.slug}\ncategory: tools\ntype: tool\ntool: ${Q(m.en)}\nprofession: ${m.profession}\nslot: ${m.slot}\n`;
-  if (m.profLinked) meta += `related: [${m.profession}]\n`;
+  if (m.profLinked) meta += `related: [professions/${m.profession}]\n`;
   meta += `tags: [tool, ${m.profession}, ${m.slot === 'primary' ? 'main-tool' : 'sub-tool'}]\nstatus: stable\n`;
   fs.writeFileSync(path.join(dir, 'meta.yaml'), meta);
   for (const loc of LOCALES) {

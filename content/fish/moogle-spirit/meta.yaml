@@ -2,6 +2,6 @@ id: moogle-spirit
 category: fish
 type: fish
 fish: "Moogle Spirit"
-related: [mok-oogl-island, swirling-cloudtop]
+related: [fishing-spots/mok-oogl-island, swirling-cloudtop]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,6 +2,6 @@ id: white-coral
 category: fish
 type: fish
 fish: "White Coral"
-related: [summerford, swiftperch, the-brewer-s-beacon]
+related: [summerford, fishing-spots/swiftperch, fishing-spots/the-brewer-s-beacon]
 tags: [fish, fishing, nature]
 status: stable

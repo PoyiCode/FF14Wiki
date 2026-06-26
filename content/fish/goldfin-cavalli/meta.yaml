@@ -2,6 +2,6 @@ id: goldfin-cavalli
 category: fish
 type: fish
 fish: "Goldfin Cavalli"
-related: [high-tide-harbor]
+related: [fishing-spots/high-tide-harbor]
 tags: [fish, fishing, nature]
 status: stable

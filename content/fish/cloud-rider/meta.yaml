@@ -2,6 +2,6 @@ id: cloud-rider
 category: fish
 type: fish
 fish: "Cloud Rider"
-related: [landlord-colony, sohm-al-summit, tharl-oom-khash]
+related: [fishing-spots/landlord-colony, sohm-al-summit, fishing-spots/tharl-oom-khash]
 tags: [fish, fishing, nature]
 status: stable

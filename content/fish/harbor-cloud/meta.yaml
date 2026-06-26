@@ -2,6 +2,6 @@ id: harbor-cloud
 category: fish
 type: fish
 fish: "Harbor Cloud"
-related: [high-tide-harbor]
+related: [fishing-spots/high-tide-harbor]
 tags: [fish, fishing, nature]
 status: stable

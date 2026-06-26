@@ -2,6 +2,6 @@ id: giant-bass
 category: fish
 type: fish
 fish: "Giant Bass"
-related: [sylphlands, rathefrost, the-deep-tangle, coerthas-river, the-nail, the-weeping-saint, raincatcher-gully, northeast-bronze-lake, bluefog, singing-shards, the-north-shards, the-long-climb, northwest-bronze-lake]
+related: [sylphlands, fishing-spots/rathefrost, the-deep-tangle, coerthas-river, fishing-spots/the-nail, the-weeping-saint, raincatcher-gully, northeast-bronze-lake, fishing-spots/bluefog, singing-shards, the-north-shards, the-long-climb, northwest-bronze-lake]
 tags: [fish, fishing, nature]
 status: stable

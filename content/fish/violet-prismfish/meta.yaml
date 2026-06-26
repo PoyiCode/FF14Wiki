@@ -2,6 +2,6 @@ id: violet-prismfish
 category: fish
 type: fish
 fish: "Violet Prismfish"
-related: [prism-lake]
+related: [fishing-spots/prism-lake]
 tags: [fish, fishing, nature]
 status: stable

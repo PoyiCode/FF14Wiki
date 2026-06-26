@@ -2,6 +2,6 @@ id: bonefish
 category: fish
 type: fish
 fish: "Bonefish"
-related: [the-derelicts]
+related: [fishing-spots/the-derelicts]
 tags: [fish, fishing, nature]
 status: stable

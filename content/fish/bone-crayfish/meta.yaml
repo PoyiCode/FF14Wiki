@@ -2,6 +2,6 @@ id: bone-crayfish
 category: fish
 type: fish
 fish: "Bone Crayfish"
-related: [the-mirror, sweetbloom-pier, sanctum-of-the-twelve, rootslake, the-tangle, nophica-s-wells, upper-soot-creek, lower-soot-creek, the-unholy-heir, bluefog, the-clutch, blind-iron-mines]
+related: [fishing-spots/the-mirror, sweetbloom-pier, sanctum-of-the-twelve, rootslake, the-tangle, nophica-s-wells, upper-soot-creek, lower-soot-creek, the-unholy-heir, fishing-spots/bluefog, the-clutch, blind-iron-mines]
 tags: [fish, fishing, nature]
 status: stable

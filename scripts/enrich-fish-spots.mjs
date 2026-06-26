@@ -34,7 +34,7 @@ for (const [slug, list] of inv) {
   if (fs.existsSync(metaFile)) {
     let meta = fs.readFileSync(metaFile, 'utf8');
     if (!/^related:/m.test(meta)) {
-      const rel = `related: [${uniq.map((s) => s.slug).join(', ')}]\n`;
+      const rel = `related: [${uniq.map((s) => `fishing-spots/${s.slug}`).join(', ')}]\n`;
       if (/^tags:/m.test(meta)) meta = meta.replace(/^tags:/m, rel + 'tags:');
       else meta = meta.replace(/\n*$/, '') + '\n' + rel;
       fs.writeFileSync(metaFile, meta);

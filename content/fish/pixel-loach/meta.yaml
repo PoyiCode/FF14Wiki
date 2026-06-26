@@ -2,6 +2,6 @@ id: pixel-loach
 category: fish
 type: fish
 fish: "Pixel Loach"
-related: [residential-sector]
+related: [fishing-spots/residential-sector]
 tags: [fish, fishing, nature]
 status: stable

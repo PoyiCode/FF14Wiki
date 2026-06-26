@@ -2,6 +2,6 @@ id: green-prismfish
 category: fish
 type: fish
 fish: "Green Prismfish"
-related: [prism-lake]
+related: [fishing-spots/prism-lake]
 tags: [fish, fishing, nature]
 status: stable

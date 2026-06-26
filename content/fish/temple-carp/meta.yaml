@@ -2,6 +2,6 @@ id: temple-carp
 category: fish
 type: fish
 fish: "Temple Carp"
-related: [rhalgr-s-reach]
+related: [fishing-spots/rhalgr-s-reach]
 tags: [fish, fishing, nature]
 status: stable

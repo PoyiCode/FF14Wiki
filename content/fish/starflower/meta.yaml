@@ -2,6 +2,6 @@ id: starflower
 category: fish
 type: fish
 fish: "Starflower"
-related: [cloudtop, mok-oogl-island]
+related: [cloudtop, fishing-spots/mok-oogl-island]
 tags: [fish, fishing, nature]
 status: stable

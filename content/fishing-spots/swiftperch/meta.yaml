@@ -3,6 +3,6 @@ category: fishing-spots
 type: fishing_spot
 fishing_spot: "Swiftperch"
 fish_count: 10
-related: [swiftperch, lominsan-anchovy, white-coral, harbor-herring, moraby-flounder, pebble-crab, tiger-cod, rothlyt-oyster, blue-octopus, halibut, armorer]
+related: [world/swiftperch, lominsan-anchovy, white-coral, harbor-herring, moraby-flounder, pebble-crab, tiger-cod, rothlyt-oyster, blue-octopus, halibut, fish/armorer]
 tags: [fishing, spot, nature]
 status: stable

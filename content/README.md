@@ -42,11 +42,13 @@ region: la-noscea
 coords: { x: 9.5, y: 11.0 } # 遊戲內地圖座標（選填）
 aetheryte: Limsa Lominsa Lower Decks  # 傳送點用「遊戲內英文名」當語言中立識別碼
 tags: [city, port]
-related: [la-noscea, the-drowning-wench]  # 其他條目的 id
+related: [la-noscea, fishing-spots/cedarwood]  # 其他條目的 id 或 category/id
 status: stable             # stable | draft
 ```
 
 > 規則：所有**語言中立識別碼**（傳送點名、emote 指令、種族、`related` 目標）一律用遊戲內**英文原名 / 英文 slug**，這樣 agent 跨語言比對才不會出錯。中文/日文名稱放在各語言的 `.md` 裡。
+
+> **`related` 兩種形式**：裸 `id`（須全庫唯一）或限定式 `category/id`。`id` 只在**分類內**唯一，不同分類可能同名（如魚 `syldra` 與坐騎 `syldra`），裸 id 指向這類目標會歧義。**跨分類連結請用 `category/id`**（如 `fishing-spots/cedarwood`、`professions/armorer`）。`npm run validate` 會警告「指向跨分類同名 id 的裸 related」。
 
 ### `<locale>.md`（frontmatter 必填 `title`）
 

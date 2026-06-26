@@ -2,6 +2,6 @@ id: silver-characin
 category: fish
 type: fish
 fish: "Silver Characin"
-related: [meghaduta]
+related: [fishing-spots/meghaduta]
 tags: [fish, fishing, nature]
 status: stable

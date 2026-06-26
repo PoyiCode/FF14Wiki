@@ -2,6 +2,6 @@ id: crimson-crayfish
 category: fish
 type: fish
 fish: "Crimson Crayfish"
-related: [empty-heart, hidden-falls, fool-falls, bronze-lake-shallows]
+related: [empty-heart, fishing-spots/hidden-falls, fool-falls, bronze-lake-shallows]
 tags: [fish, fishing, nature]
 status: stable

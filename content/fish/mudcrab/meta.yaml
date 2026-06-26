@@ -2,6 +2,6 @@ id: mudcrab
 category: fish
 type: fish
 fish: "Mudcrab"
-related: [hopeseed-pond, lower-hathoeva-river, east-hathoeva-river, goblinblood, lake-tahtotl, the-juggernaut, the-footfalls, the-unholy-heir, north-drybone, south-drybone, zahar-ak, haukke-manor, singing-shards]
+related: [hopeseed-pond, lower-hathoeva-river, east-hathoeva-river, goblinblood, lake-tahtotl, the-juggernaut, the-footfalls, the-unholy-heir, north-drybone, south-drybone, fishing-spots/zahar-ak, fishing-spots/haukke-manor, singing-shards]
 tags: [fish, fishing, nature]
 status: stable

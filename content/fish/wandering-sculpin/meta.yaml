@@ -2,6 +2,6 @@ id: wandering-sculpin
 category: fish
 type: fish
 fish: "Wandering Sculpin"
-related: [snowcloak]
+related: [fishing-spots/snowcloak]
 tags: [fish, fishing, nature]
 status: stable

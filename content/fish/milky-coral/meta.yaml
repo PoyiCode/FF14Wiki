@@ -2,6 +2,6 @@ id: milky-coral
 category: fish
 type: fish
 fish: "Milky Coral"
-related: [the-derelicts]
+related: [fishing-spots/the-derelicts]
 tags: [fish, fishing, nature]
 status: stable

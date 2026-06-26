@@ -2,6 +2,6 @@ id: discobolus
 category: fish
 type: fish
 fish: "Discobolus"
-related: [zahar-ak]
+related: [fishing-spots/zahar-ak]
 tags: [fish, fishing, nature]
 status: stable

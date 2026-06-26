@@ -2,6 +2,6 @@ id: dragonspine
 category: fish
 type: fish
 fish: "Dragonspine"
-related: [dragonspit]
+related: [fishing-spots/dragonspit]
 tags: [fish, fishing, nature]
 status: stable

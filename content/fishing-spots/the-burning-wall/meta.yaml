@@ -3,6 +3,6 @@ category: fishing-spots
 type: fishing_spot
 fishing_spot: "The Burning Wall"
 fish_count: 10
-related: [yugr-am-salmon, bonytongue, discus, ignus-snail, loyal-pleco, knifefish, southern-pike, gigantpole, sundisc, the-thousand-year-itch]
+related: [yugr-am-salmon, bonytongue, discus, ignus-snail, loyal-pleco, knifefish, southern-pike, fish/gigantpole, sundisc, the-thousand-year-itch]
 tags: [fishing, spot, nature]
 status: stable

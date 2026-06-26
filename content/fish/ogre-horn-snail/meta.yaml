@@ -2,6 +2,6 @@ id: ogre-horn-snail
 category: fish
 type: fish
 fish: "Ogre Horn Snail"
-related: [dragonspit]
+related: [fishing-spots/dragonspit]
 tags: [fish, fishing, nature]
 status: stable

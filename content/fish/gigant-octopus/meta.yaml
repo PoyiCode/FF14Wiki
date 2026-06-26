@@ -2,6 +2,6 @@ id: gigant-octopus
 category: fish
 type: fish
 fish: "Gigant Octopus"
-related: [the-brewer-s-beacon, rhotano-sea-privateer-forecastle]
+related: [fishing-spots/the-brewer-s-beacon, rhotano-sea-privateer-forecastle]
 tags: [fish, fishing, nature]
 status: stable

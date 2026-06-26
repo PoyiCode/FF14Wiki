@@ -2,6 +2,6 @@ id: grinning-anchovy
 category: fish
 type: fish
 fish: "Grinning Anchovy"
-related: [kugane-piers, the-ruby-price, hells-lid, the-isle-of-bekko, shoal-rock, shirogane]
+related: [kugane-piers, the-ruby-price, hells-lid, the-isle-of-bekko, fishing-spots/shoal-rock, fishing-spots/shirogane]
 tags: [fish, fishing, nature]
 status: stable

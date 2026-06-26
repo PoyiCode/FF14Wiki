@@ -2,6 +2,6 @@ id: clean-saucer
 category: fish
 type: fish
 fish: "Clean Saucer"
-related: [the-source, the-isle-of-ken]
+related: [fishing-spots/the-source, the-isle-of-ken]
 tags: [fish, fishing, nature]
 status: stable

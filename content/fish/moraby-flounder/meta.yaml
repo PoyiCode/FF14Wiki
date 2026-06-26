@@ -2,6 +2,6 @@ id: moraby-flounder
 category: fish
 type: fish
 fish: "Moraby Flounder"
-related: [moraby-bay, cedarwood, moraby-drydocks, oschon-s-torch, candlekeep-quay, swiftperch]
+related: [moraby-bay, cedarwood, fishing-spots/moraby-drydocks, oschon-s-torch, candlekeep-quay, fishing-spots/swiftperch]
 tags: [fish, fishing, nature]
 status: stable

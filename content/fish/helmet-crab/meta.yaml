@@ -2,6 +2,6 @@ id: helmet-crab
 category: fish
 type: fish
 fish: "Helmet Crab"
-related: [the-salt-strand, the-brewer-s-beacon]
+related: [fishing-spots/the-salt-strand, fishing-spots/the-brewer-s-beacon]
 tags: [fish, fishing, nature]
 status: stable

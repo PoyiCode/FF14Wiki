@@ -2,6 +2,6 @@ id: smaragdos
 category: fish
 type: fish
 fish: "Smaragdos"
-related: [lethe]
+related: [fishing-spots/lethe]
 tags: [fish, fishing, nature]
 status: stable

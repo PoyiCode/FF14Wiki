@@ -2,6 +2,6 @@ id: antheia
 category: fish
 type: fish
 fish: "Antheia"
-related: [lethe]
+related: [fishing-spots/lethe]
 tags: [fish, fishing, nature]
 status: stable

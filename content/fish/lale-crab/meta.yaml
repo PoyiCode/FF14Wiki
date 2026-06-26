@@ -2,6 +2,6 @@ id: lale-crab
 category: fish
 type: fish
 fish: "Lale Crab"
-related: [yedlihmad]
+related: [fishing-spots/yedlihmad]
 tags: [fish, fishing, nature]
 status: stable

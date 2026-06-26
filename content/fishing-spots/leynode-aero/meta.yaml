@@ -3,6 +3,6 @@ category: fishing-spots
 type: fishing_spot
 fishing_spot: "Leynode Aero"
 fish_count: 5
-related: [leynode-aero, rosebud-frog, knight-goby, datnioides, neo-arowana, datnioides-aeroplanos]
+related: [world/leynode-aero, rosebud-frog, knight-goby, datnioides, neo-arowana, datnioides-aeroplanos]
 tags: [fishing, spot, nature]
 status: stable

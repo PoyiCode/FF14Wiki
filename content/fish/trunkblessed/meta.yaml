@@ -2,6 +2,6 @@ id: trunkblessed
 category: fish
 type: fish
 fish: "Trunkblessed"
-related: [meghaduta]
+related: [fishing-spots/meghaduta]
 tags: [fish, fishing, nature]
 status: stable

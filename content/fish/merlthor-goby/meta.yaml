@@ -2,6 +2,6 @@ id: merlthor-goby
 category: fish
 type: fish
 fish: "Merlthor Goby"
-related: [limsa-lominsa-lower-decks, limsa-lominsa-upper-decks, zephyr-drift, summerford, moraby-bay, cedarwood, south-bloodshore, skull-valley, isles-of-umbra-northshore, the-ship-graveyard, cape-westwind, reaver-hide, rhotano-sea-privateer-sterncastle, north-isle-of-endless-summer]
+related: [fishing-spots/limsa-lominsa-lower-decks, fishing-spots/limsa-lominsa-upper-decks, zephyr-drift, summerford, moraby-bay, cedarwood, south-bloodshore, skull-valley, isles-of-umbra-northshore, fishing-spots/the-ship-graveyard, cape-westwind, reaver-hide, rhotano-sea-privateer-sterncastle, north-isle-of-endless-summer]
 tags: [fish, fishing, nature]
 status: stable

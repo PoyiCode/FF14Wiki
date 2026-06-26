@@ -2,6 +2,6 @@ id: faerie-bass
 category: fish
 type: fish
 fish: "Faerie Bass"
-related: [upper-hathoeva-river, lower-hathoeva-river, east-hathoeva-river, fallgourd-float, empty-heart, oakwood, the-footfalls, north-drybone, south-drybone, bronze-lake-shallows, the-goblet]
+related: [upper-hathoeva-river, lower-hathoeva-river, east-hathoeva-river, fishing-spots/fallgourd-float, empty-heart, oakwood, the-footfalls, north-drybone, south-drybone, bronze-lake-shallows, fishing-spots/the-goblet]
 tags: [fish, fishing, nature]
 status: stable

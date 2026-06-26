@@ -3,6 +3,6 @@ category: fishing-spots
 type: fishing_spot
 fishing_spot: "Yedlihmad"
 fish_count: 5
-related: [yedlihmad, thavnairian-goby, qeyiq-sole, gwl-crab, pantherscale-grouper, lale-crab]
+related: [world/yedlihmad, thavnairian-goby, qeyiq-sole, gwl-crab, pantherscale-grouper, lale-crab]
 tags: [fishing, spot, nature]
 status: stable

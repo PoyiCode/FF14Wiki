@@ -2,6 +2,6 @@ id: tricolored-carp
 category: fish
 type: fish
 fish: "Tricolored Carp"
-related: [the-mirror, sanctum-of-the-twelve, murmur-rills, the-lavender-beds]
+related: [fishing-spots/the-mirror, sanctum-of-the-twelve, murmur-rills, fishing-spots/the-lavender-beds]
 tags: [fish, fishing, nature]
 status: stable

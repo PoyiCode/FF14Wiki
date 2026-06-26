@@ -2,6 +2,6 @@ id: frilled-shark
 category: fish
 type: fish
 fish: "Frilled Shark"
-related: [the-ship-graveyard]
+related: [fishing-spots/the-ship-graveyard]
 tags: [fish, fishing, nature]
 status: stable

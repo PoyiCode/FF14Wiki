@@ -2,6 +2,6 @@ id: rainbow-trout
 category: fish
 type: fish
 fish: "Rainbow Trout"
-related: [verdant-drop, springripple-brook, upper-hathoeva-river, middle-hathoeva-river, lower-hathoeva-river, east-hathoeva-river, murmur-rills, fallgourd-float, coerthas-river, dragonhead-latrines, snowcloak]
+related: [verdant-drop, springripple-brook, upper-hathoeva-river, middle-hathoeva-river, lower-hathoeva-river, east-hathoeva-river, murmur-rills, fishing-spots/fallgourd-float, coerthas-river, dragonhead-latrines, fishing-spots/snowcloak]
 tags: [fish, fishing, nature]
 status: stable

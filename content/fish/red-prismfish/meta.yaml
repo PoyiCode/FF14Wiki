@@ -2,6 +2,6 @@ id: red-prismfish
 category: fish
 type: fish
 fish: "Red Prismfish"
-related: [prism-lake]
+related: [fishing-spots/prism-lake]
 tags: [fish, fishing, nature]
 status: stable

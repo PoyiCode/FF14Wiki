@@ -2,6 +2,6 @@ id: hannibal
 category: fish
 type: fish
 fish: "Hannibal"
-related: [bluefog]
+related: [fishing-spots/bluefog]
 tags: [fish, fishing, nature]
 status: stable

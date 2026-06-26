@@ -2,6 +2,6 @@ id: red-coral
 category: fish
 type: fish
 fish: "Red Coral"
-related: [north-bloodshore, isles-of-umbra-northshore, isles-of-umbra-southshore, the-ship-graveyard, sapsa-spawning-grounds, reaver-hide, rhotano-sea-privateer-forecastle]
+related: [north-bloodshore, isles-of-umbra-northshore, isles-of-umbra-southshore, fishing-spots/the-ship-graveyard, sapsa-spawning-grounds, reaver-hide, rhotano-sea-privateer-forecastle]
 tags: [fish, fishing, nature]
 status: stable

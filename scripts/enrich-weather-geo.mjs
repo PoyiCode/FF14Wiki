@@ -13,13 +13,21 @@ const WLBL = { en: 'Common weather here: ', ja: 'ここでよく見られる天�
 const ZLBL = { en: 'Often seen in: ', ja: 'よく見られる地域：', 'zh-CN': '常见于：', 'zh-TW': '常見於：' };
 const SEP = { en: ', ', ja: '、', 'zh-CN': '、', 'zh-TW': '、' };
 
+// 以「尾端 id」（去掉 category/ 前綴後的部分）去重，並偏好限定式 category/id，
+// 避免重跑時裸式與限定式並存、或重新引入跨分類歧義。
 function addRelated(metaFile, slugs) {
   if (!fs.existsSync(metaFile) || !slugs.length) return;
   let meta = fs.readFileSync(metaFile, 'utf8');
   const m = meta.match(/^related:\s*\[([^\]]*)\]/m);
   const existing = m ? m[1].split(',').map((s) => s.trim()).filter(Boolean) : [];
-  const merged = [...new Set([...existing, ...slugs])];
-  if (merged.length === existing.length) return; // nothing new
+  const tail = (s) => (s.includes('/') ? s.slice(s.indexOf('/') + 1) : s);
+  const byTail = new Map();
+  for (const s of [...existing, ...slugs]) {
+    const t = tail(s), cur = byTail.get(t);
+    if (!cur || (s.includes('/') && !cur.includes('/'))) byTail.set(t, s);
+  }
+  const merged = [...byTail.values()];
+  if (merged.length === existing.length && merged.every((v, i) => v === existing[i])) return; // nothing new
   const line = `related: [${merged.join(', ')}]`;
   if (m) meta = meta.replace(/^related:\s*\[[^\]]*\]/m, line);
   else if (/^tags:/m.test(meta)) meta = meta.replace(/^tags:/m, line + '\ntags:');
@@ -51,7 +59,7 @@ const rev = new Map(); // weatherSlug -> [worldSlug]
 for (const [zslug, weathers] of Object.entries(zw)) {
   const dir = path.join(worldDir, zslug);
   if (!fs.existsSync(dir)) continue;
-  addRelated(path.join(dir, 'meta.yaml'), weathers.map((w) => w.slug)); fwdMeta++;
+  addRelated(path.join(dir, 'meta.yaml'), weathers.map((w) => `weather/${w.slug}`)); fwdMeta++;
   for (const loc of LOCALES) {
     const txt = weathers.map((w) => `${pick(w.n, loc)}（${w.rate}%）`).join(SEP[loc]);
     if (appendBody(path.join(dir, `${loc}.md`), WLBL[loc], txt)) fwdBody++;
@@ -67,7 +75,7 @@ for (const [wslug, zones] of rev) {
   const dir = path.join(weatherDir, wslug);
   if (!fs.existsSync(dir)) continue;
   const uniq = [...new Set(zones)];
-  addRelated(path.join(dir, 'meta.yaml'), uniq); revMeta++;
+  addRelated(path.join(dir, 'meta.yaml'), uniq.map((z) => `world/${z}`)); revMeta++;
   for (const loc of LOCALES) {
     const names = uniq.map((z) => title(path.join(worldDir, z), loc)).filter(Boolean);
     if (names.length && appendBody(path.join(dir, `${loc}.md`), ZLBL[loc], names.join(SEP[loc]))) revBody++;

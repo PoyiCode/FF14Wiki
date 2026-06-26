@@ -3,6 +3,6 @@ category: fishing-spots
 type: fishing_spot
 fishing_spot: "Moraby Drydocks"
 fish_count: 9
-related: [moraby-drydocks, ocean-cloud, harbor-herring, moraby-flounder, pebble-crab, tiger-cod, rothlyt-oyster, navigator-s-dagger, blue-octopus, jacques-the-snipper]
+related: [world/moraby-drydocks, ocean-cloud, harbor-herring, moraby-flounder, pebble-crab, tiger-cod, rothlyt-oyster, navigator-s-dagger, blue-octopus, jacques-the-snipper]
 tags: [fishing, spot, nature]
 status: stable

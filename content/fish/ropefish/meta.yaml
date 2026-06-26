@@ -2,6 +2,6 @@ id: ropefish
 category: fish
 type: fish
 fish: "Ropefish"
-related: [forgotten-springs]
+related: [fishing-spots/forgotten-springs]
 tags: [fish, fishing, nature]
 status: stable

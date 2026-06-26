@@ -2,6 +2,6 @@ id: antheian-dahlia
 category: fish
 type: fish
 fish: "Antheian Dahlia"
-related: [lethe]
+related: [fishing-spots/lethe]
 tags: [fish, fishing, nature]
 status: stable

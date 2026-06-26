@@ -4,6 +4,6 @@ type: tool
 tool: "Brilliant Raising Hammer"
 profession: armorer
 slot: primary
-related: [armorer]
+related: [professions/armorer]
 tags: [tool, armorer, main-tool]
 status: stable

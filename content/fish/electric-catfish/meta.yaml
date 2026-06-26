@@ -2,6 +2,6 @@ id: electric-catfish
 category: fish
 type: fish
 fish: "Electric Catfish"
-related: [rhalgr-s-reach]
+related: [fishing-spots/rhalgr-s-reach]
 tags: [fish, fishing, nature]
 status: stable

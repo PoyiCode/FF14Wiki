@@ -3,6 +3,6 @@ category: fishing-spots
 type: fishing_spot
 fishing_spot: "Thavnair Spectral Current"
 fish_count: 10
-related: [great-red-mantis, guzel-gwl, darpana, silverdart, satrapsaurus, tiger-mantis, mehi-mahi, junior-jinbei, pliosaurus, manasvin]
+related: [great-red-mantis, guzel-gwl, darpana, silverdart, satrapsaurus, tiger-mantis, mehi-mahi, fish/junior-jinbei, pliosaurus, manasvin]
 tags: [fishing, spot, nature]
 status: stable

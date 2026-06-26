@@ -2,6 +2,6 @@ id: azure-sea-spider
 category: fish
 type: fish
 fish: "Azure Sea Spider"
-related: [purpure, the-norvrandt-slope]
+related: [fishing-spots/purpure, the-norvrandt-slope]
 tags: [fish, fishing, nature]
 status: stable

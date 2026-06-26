@@ -2,6 +2,6 @@ id: custodian-carp
 category: fish
 type: fish
 fish: "Custodian Carp"
-related: [residential-sector]
+related: [fishing-spots/residential-sector]
 tags: [fish, fishing, nature]
 status: stable

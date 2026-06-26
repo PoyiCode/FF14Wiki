@@ -2,6 +2,6 @@ id: purse-of-riches
 category: fish
 type: fish
 fish: "Purse of Riches"
-related: [high-tide-harbor]
+related: [fishing-spots/high-tide-harbor]
 tags: [fish, fishing, nature]
 status: stable

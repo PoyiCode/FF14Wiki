@@ -2,6 +2,6 @@ id: pebble-crab
 category: fish
 type: fish
 fish: "Pebble Crab"
-related: [moraby-bay, cedarwood, moraby-drydocks, oschon-s-torch, the-salt-strand, candlekeep-quay, swiftperch, the-silver-bazaar, vesper-bay]
+related: [moraby-bay, cedarwood, fishing-spots/moraby-drydocks, oschon-s-torch, fishing-spots/the-salt-strand, candlekeep-quay, fishing-spots/swiftperch, the-silver-bazaar, fishing-spots/vesper-bay]
 tags: [fish, fishing, nature]
 status: stable

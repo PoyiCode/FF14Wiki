@@ -2,6 +2,6 @@ id: nhaama-s-treasure
 category: fish
 type: fish
 fish: "Nhaama's Treasure"
-related: [dotharl-khaa]
+related: [fishing-spots/dotharl-khaa]
 tags: [fish, fishing, nature]
 status: stable

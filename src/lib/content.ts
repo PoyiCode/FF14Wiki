@@ -44,7 +44,10 @@ function readEntry(category: string, slug: string): Entry | null {
   const metaPath = path.join(dir, 'meta.yaml');
   if (!fs.existsSync(metaPath)) return null;
 
-  const meta = yaml.load(fs.readFileSync(metaPath, 'utf8')) as EntryMeta;
+  // 空檔或非 mapping 的 meta.yaml 會讓 yaml.load 回傳 undefined/非物件；
+  // 用空物件兜底，避免 next build 在補資料過程中因單一壞檔整個崩潰。
+  const loaded = yaml.load(fs.readFileSync(metaPath, 'utf8'));
+  const meta = (loaded && typeof loaded === 'object' ? loaded : {}) as EntryMeta;
   meta.id ??= slug;
   meta.category ??= category;
 
@@ -78,12 +81,21 @@ export function getEntry(category: string, slug: string): Entry | null {
   return readEntry(category, slug);
 }
 
-// 取某語言的顯示欄位，缺漏時退回其他已有語言（避免網站出現空白）。
+// 各語言缺漏時的退回順序。中文兩變體互為首選；ja/en（官方原文）互為首選，
+// 避免英文讀者在缺 en.md 時直接退回中文這種最差結果。
+const FALLBACK_ORDER: Record<Locale, Locale[]> = {
+  'zh-TW': ['zh-TW', 'zh-CN', 'ja', 'en'],
+  'zh-CN': ['zh-CN', 'zh-TW', 'ja', 'en'],
+  ja: ['ja', 'en', 'zh-TW', 'zh-CN'],
+  en: ['en', 'ja', 'zh-TW', 'zh-CN'],
+};
+
+// 取某語言的顯示欄位，缺漏時依 FALLBACK_ORDER 退回其他已有語言（避免網站出現空白）。
 export function pickLocale(
   entry: Entry,
   locale: Locale,
 ): (LocaleFront & { body: string; resolvedLocale: Locale }) | null {
-  const order: Locale[] = [locale, ...LOCALES.filter((l) => l !== locale)];
+  const order = FALLBACK_ORDER[locale] ?? [locale, ...LOCALES.filter((l) => l !== locale)];
   for (const loc of order) {
     const data = entry.locales[loc];
     if (data) return { ...data, resolvedLocale: loc };

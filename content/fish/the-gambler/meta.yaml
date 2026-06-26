@@ -2,6 +2,6 @@ id: the-gambler
 category: fish
 type: fish
 fish: "The Gambler"
-related: [shirogane]
+related: [fishing-spots/shirogane]
 tags: [fish, fishing, nature]
 status: stable

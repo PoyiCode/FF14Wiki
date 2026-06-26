@@ -2,6 +2,6 @@ id: wraithfish
 category: fish
 type: fish
 fish: "Wraithfish"
-related: [dimwold]
+related: [fishing-spots/dimwold]
 tags: [fish, fishing, nature]
 status: stable

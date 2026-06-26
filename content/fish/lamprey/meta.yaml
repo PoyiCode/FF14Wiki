@@ -2,6 +2,6 @@ id: lamprey
 category: fish
 type: fish
 fish: "Lamprey"
-related: [east-agelyss-river, raincatcher-gully, the-juggernaut, burnt-lizard-creek, forgotten-springs, the-goblet]
+related: [east-agelyss-river, raincatcher-gully, the-juggernaut, burnt-lizard-creek, fishing-spots/forgotten-springs, fishing-spots/the-goblet]
 tags: [fish, fishing, nature]
 status: stable

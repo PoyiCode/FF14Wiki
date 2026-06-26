@@ -2,6 +2,6 @@ id: kobold-puffer
 category: fish
 type: fish
 fish: "Kobold Puffer"
-related: [hidden-falls]
+related: [fishing-spots/hidden-falls]
 tags: [fish, fishing, nature]
 status: stable

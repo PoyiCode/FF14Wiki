@@ -2,6 +2,6 @@ id: steel-fan
 category: fish
 type: fish
 fish: "Steel Fan"
-related: [white-oil-falls]
+related: [fishing-spots/white-oil-falls]
 tags: [fish, fishing, nature]
 status: stable

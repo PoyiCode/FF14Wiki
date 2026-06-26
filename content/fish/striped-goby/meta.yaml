@@ -2,6 +2,6 @@ id: striped-goby
 category: fish
 type: fish
 fish: "Striped Goby"
-related: [the-vein, sweetbloom-pier, fallgourd-float, coerthas-river, the-nail, dragonhead-latrines, daniffen-pass]
+related: [the-vein, sweetbloom-pier, fishing-spots/fallgourd-float, coerthas-river, fishing-spots/the-nail, dragonhead-latrines, daniffen-pass]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,6 +2,6 @@ id: ruby-coral
 category: fish
 type: fish
 fish: "Ruby Coral"
-related: [shoal-rock]
+related: [fishing-spots/shoal-rock]
 tags: [fish, fishing, nature]
 status: stable

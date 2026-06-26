@@ -2,6 +2,6 @@ id: brassfish
 category: fish
 type: fish
 fish: "Brassfish"
-related: [dotharl-khaa, the-silver-canal]
+related: [fishing-spots/dotharl-khaa, the-silver-canal]
 tags: [fish, fishing, nature]
 status: stable

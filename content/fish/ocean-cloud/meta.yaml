@@ -2,6 +2,6 @@ id: ocean-cloud
 category: fish
 type: fish
 fish: "Ocean Cloud"
-related: [limsa-lominsa-lower-decks, limsa-lominsa-upper-decks, zephyr-drift, summerford, moraby-bay, cedarwood, moraby-drydocks, isles-of-umbra-northshore]
+related: [fishing-spots/limsa-lominsa-lower-decks, fishing-spots/limsa-lominsa-upper-decks, zephyr-drift, summerford, moraby-bay, cedarwood, fishing-spots/moraby-drydocks, isles-of-umbra-northshore]
 tags: [fish, fishing, nature]
 status: stable

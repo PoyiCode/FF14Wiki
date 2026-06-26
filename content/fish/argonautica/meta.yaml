@@ -2,6 +2,6 @@ id: argonautica
 category: fish
 type: fish
 fish: "Argonautica"
-related: [onokoro]
+related: [fishing-spots/onokoro]
 tags: [fish, fishing, nature]
 status: stable

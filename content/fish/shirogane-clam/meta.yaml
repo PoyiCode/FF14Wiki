@@ -2,6 +2,6 @@ id: shirogane-clam
 category: fish
 type: fish
 fish: "Shirogane Clam"
-related: [isari]
+related: [fishing-spots/isari]
 tags: [fish, fishing, nature]
 status: stable

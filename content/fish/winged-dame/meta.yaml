@@ -2,6 +2,6 @@ id: winged-dame
 category: fish
 type: fish
 fish: "Winged Dame"
-related: [the-derelicts]
+related: [fishing-spots/the-derelicts]
 tags: [fish, fishing, nature]
 status: stable

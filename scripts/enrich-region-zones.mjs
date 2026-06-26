@@ -9,13 +9,21 @@ const LOCALES = ['zh-TW', 'zh-CN', 'ja', 'en'];
 const LBL = { en: 'Zones in this region: ', ja: 'この地方のエリア：', 'zh-CN': '本地方的地区：', 'zh-TW': '本地方的地區：' };
 const SEP = { en: ', ', ja: '、', 'zh-CN': '、', 'zh-TW': '、' };
 
+// 以「尾端 id」去重並偏好限定式 category/id（同 enrich-weather-geo），避免重跑時
+// 裸式與限定式並存。
 function addRelated(metaFile, slugs) {
   if (!fs.existsSync(metaFile) || !slugs.length) return;
   let meta = fs.readFileSync(metaFile, 'utf8');
   const m = meta.match(/^related:\s*\[([^\]]*)\]/m);
   const existing = m ? m[1].split(',').map((s) => s.trim()).filter(Boolean) : [];
-  const merged = [...new Set([...existing, ...slugs])];
-  if (merged.length === existing.length) return;
+  const tail = (s) => (s.includes('/') ? s.slice(s.indexOf('/') + 1) : s);
+  const byTail = new Map();
+  for (const s of [...existing, ...slugs]) {
+    const t = tail(s), cur = byTail.get(t);
+    if (!cur || (s.includes('/') && !cur.includes('/'))) byTail.set(t, s);
+  }
+  const merged = [...byTail.values()];
+  if (merged.length === existing.length && merged.every((v, i) => v === existing[i])) return;
   const line = `related: [${merged.join(', ')}]`;
   if (m) meta = meta.replace(/^related:\s*\[[^\]]*\]/m, line);
   else if (/^tags:/m.test(meta)) meta = meta.replace(/^tags:/m, line + '\ntags:');
@@ -49,7 +57,7 @@ for (const [region, zones] of rev) {
   const dir = path.join(worldDir, region);
   if (!fs.existsSync(dir)) continue;
   const uniq = [...new Set(zones)];
-  addRelated(path.join(dir, 'meta.yaml'), uniq); metaUpd++;
+  addRelated(path.join(dir, 'meta.yaml'), uniq.map((z) => `world/${z}`)); metaUpd++;
   for (const loc of LOCALES) {
     const names = uniq.map((z) => title(path.join(worldDir, z), loc)).filter(Boolean);
     const file = path.join(dir, `${loc}.md`);

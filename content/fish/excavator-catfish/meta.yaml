@@ -2,6 +2,6 @@ id: excavator-catfish
 category: fish
 type: fish
 fish: "Excavator Catfish"
-related: [marsh-ligaka]
+related: [fishing-spots/marsh-ligaka]
 tags: [fish, fishing, nature]
 status: stable

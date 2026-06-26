@@ -2,6 +2,6 @@ id: showers
 category: weather
 type: weather
 weather: "Showers"
-related: [eastern-la-noscea, eastern-thanalan, north-shroud, the-dravanian-hinterlands, idyllshire, yanxia, the-house-of-the-fierce, the-doman-enclave, thavnair, kozama-uka]
+related: [eastern-la-noscea, eastern-thanalan, north-shroud, the-dravanian-hinterlands, idyllshire, yanxia, the-house-of-the-fierce, world/the-doman-enclave, thavnair, kozama-uka]
 tags: [weather, environment]
 status: stable

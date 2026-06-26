@@ -2,6 +2,6 @@ id: ghost-carp
 category: fish
 type: fish
 fish: "Ghost Carp"
-related: [the-mirror]
+related: [fishing-spots/the-mirror]
 tags: [fish, fishing, nature]
 status: stable

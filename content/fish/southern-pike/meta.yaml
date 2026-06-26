@@ -2,6 +2,6 @@ id: southern-pike
 category: fish
 type: fish
 fish: "Southern Pike"
-related: [sylphlands, urth-s-gift, proud-creek, the-burning-wall]
+related: [sylphlands, fishing-spots/urth-s-gift, proud-creek, fishing-spots/the-burning-wall]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,6 +2,6 @@ id: kotsu-zetsu
 category: fish
 type: fish
 fish: "Kotsu Zetsu"
-related: [mercantile-docks, the-one-river-east, the-one-river-west, plum-spring, the-doman-enclave]
+related: [mercantile-docks, the-one-river-east, the-one-river-west, plum-spring, fishing-spots/the-doman-enclave]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,6 +2,6 @@ id: moat-carp
 category: fish
 type: fish
 fish: "Moat Carp"
-related: [the-mirror, sanctum-of-the-twelve, empty-heart, whispering-gorge, zahar-ak, jadeite-flood, lower-black-tea-brook, upper-black-tea-brook]
+related: [fishing-spots/the-mirror, sanctum-of-the-twelve, empty-heart, whispering-gorge, fishing-spots/zahar-ak, jadeite-flood, lower-black-tea-brook, upper-black-tea-brook]
 tags: [fish, fishing, nature]
 status: stable

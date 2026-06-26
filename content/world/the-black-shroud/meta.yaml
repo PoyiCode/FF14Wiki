@@ -4,5 +4,5 @@ type: region
 capital: gridania
 aetheryte: New Gridania
 tags: [region, forest, woods, elementals]
-related: [gridania, eorzea, central-shroud, east-shroud, south-shroud, north-shroud, the-lavender-beds, new-gridania, old-gridania]
+related: [gridania, eorzea, central-shroud, east-shroud, south-shroud, north-shroud, world/the-lavender-beds, new-gridania, old-gridania]
 status: stable

@@ -8,6 +8,9 @@ export function generateStaticParams() {
   return LOCALES.map((lang) => ({ lang }));
 }
 
+// 與其他路由一致：只輸出 generateStaticParams 列舉的語言，未知語言一律 404。
+export const dynamicParams = false;
+
 export default function LocaleHome({ params }: { params: { lang: string } }) {
   const lang = params.lang as Locale;
   if (!LOCALES.includes(lang)) notFound();

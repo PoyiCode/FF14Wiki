@@ -2,6 +2,6 @@ id: goldenfin
 category: fish
 type: fish
 fish: "Goldenfin"
-related: [limsa-lominsa-upper-decks]
+related: [fishing-spots/limsa-lominsa-upper-decks]
 tags: [fish, fishing, nature]
 status: stable

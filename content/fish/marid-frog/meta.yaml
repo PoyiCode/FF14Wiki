@@ -2,6 +2,6 @@ id: marid-frog
 category: fish
 type: fish
 fish: "Marid Frog"
-related: [giantsgall-grounds]
+related: [fishing-spots/giantsgall-grounds]
 tags: [fish, fishing, nature]
 status: stable

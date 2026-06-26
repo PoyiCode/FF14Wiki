@@ -2,6 +2,6 @@ id: striped-fugu
 category: fish
 type: fish
 fish: "Striped Fugu"
-related: [kugane-piers, shirogane]
+related: [kugane-piers, fishing-spots/shirogane]
 tags: [fish, fishing, nature]
 status: stable

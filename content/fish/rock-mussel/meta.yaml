@@ -2,6 +2,6 @@ id: rock-mussel
 category: fish
 type: fish
 fish: "Rock Mussel"
-related: [whilom-river, the-smoldering-wastes]
+related: [fishing-spots/whilom-river, the-smoldering-wastes]
 tags: [fish, fishing, nature]
 status: stable

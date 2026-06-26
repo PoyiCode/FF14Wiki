@@ -2,6 +2,6 @@ id: rabbit-skipper
 category: fish
 type: fish
 fish: "Rabbit Skipper"
-related: [the-source, sullen]
+related: [fishing-spots/the-source, fishing-spots/sullen]
 tags: [fish, fishing, nature]
 status: stable

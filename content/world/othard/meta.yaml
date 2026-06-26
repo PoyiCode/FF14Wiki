@@ -1,6 +1,6 @@
 id: othard
 category: world
 type: region
-related: [the-ruby-sea, yanxia, the-azim-steppe, the-doman-enclave]
+related: [the-ruby-sea, yanxia, the-azim-steppe, world/the-doman-enclave]
 tags: [region, geography]
 status: stable

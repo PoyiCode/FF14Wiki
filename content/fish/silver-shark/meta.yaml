@@ -2,6 +2,6 @@ id: silver-shark
 category: fish
 type: fish
 fish: "Silver Shark"
-related: [summerford, south-bloodshore, costa-del-sol, isles-of-umbra-northshore, cape-westwind]
+related: [summerford, south-bloodshore, fishing-spots/costa-del-sol, isles-of-umbra-northshore, cape-westwind]
 tags: [fish, fishing, nature]
 status: stable

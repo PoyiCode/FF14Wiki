@@ -2,6 +2,6 @@ id: megalodon
 category: fish
 type: fish
 fish: "Megalodon"
-related: [the-ship-graveyard, rhotano-sea-privateer-sterncastle, north-isle-of-endless-summer]
+related: [fishing-spots/the-ship-graveyard, rhotano-sea-privateer-sterncastle, north-isle-of-endless-summer]
 tags: [fish, fishing, nature]
 status: stable

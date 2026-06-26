@@ -2,6 +2,6 @@ id: sky-faerie
 category: fish
 type: fish
 fish: "Sky Faerie"
-related: [landlord-colony, sohm-al-summit, tharl-oom-khash, the-blue-window, mok-oogl-island, the-habisphere]
+related: [fishing-spots/landlord-colony, sohm-al-summit, fishing-spots/tharl-oom-khash, the-blue-window, fishing-spots/mok-oogl-island, the-habisphere]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,6 +2,6 @@ id: hook-fish
 category: fish
 type: fish
 fish: "Hook Fish"
-related: [onokoro]
+related: [fishing-spots/onokoro]
 tags: [fish, fishing, nature]
 status: stable

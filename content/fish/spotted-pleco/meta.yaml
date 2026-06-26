@@ -2,6 +2,6 @@ id: spotted-pleco
 category: fish
 type: fish
 fish: "Spotted Pleco"
-related: [everschade, verdant-drop, the-lavender-beds]
+related: [everschade, verdant-drop, fishing-spots/the-lavender-beds]
 tags: [fish, fishing, nature]
 status: stable

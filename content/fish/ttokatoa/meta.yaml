@@ -2,6 +2,6 @@ id: ttokatoa
 category: fish
 type: fish
 fish: "Ttokatoa"
-related: [lake-toari]
+related: [fishing-spots/lake-toari]
 tags: [fish, fishing, nature]
 status: stable

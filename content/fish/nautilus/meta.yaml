@@ -2,6 +2,6 @@ id: nautilus
 category: fish
 type: fish
 fish: "Nautilus"
-related: [isles-of-umbra-southshore, sapsa-spawning-grounds, mist]
+related: [isles-of-umbra-southshore, sapsa-spawning-grounds, fishing-spots/mist]
 tags: [fish, fishing, nature]
 status: stable

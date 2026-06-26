@@ -2,6 +2,6 @@ id: finger-shrimp
 category: fish
 type: fish
 fish: "Finger Shrimp"
-related: [limsa-lominsa-lower-decks, limsa-lominsa-upper-decks, zephyr-drift, summerford, rhotano-sea-privateer-forecastle]
+related: [fishing-spots/limsa-lominsa-lower-decks, fishing-spots/limsa-lominsa-upper-decks, zephyr-drift, summerford, rhotano-sea-privateer-forecastle]
 tags: [fish, fishing, nature]
 status: stable

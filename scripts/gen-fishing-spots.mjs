@@ -20,9 +20,10 @@ for (const m of data) {
   if (!m.slug || fs.existsSync(path.join(DIR, m.slug))) { skipped++; continue; }
   const dir = path.join(DIR, m.slug);
   fs.mkdirSync(dir, { recursive: true });
+  // 限定式 related：地點連回同名地區（world），魚連到 fish，避免跨分類同名歧義。
   const related = [];
-  if (m.placeLinked) related.push(m.slug);
-  for (const f of m.fish) if (f.linked && !related.includes(f.slug)) related.push(f.slug);
+  if (m.placeLinked) related.push(`world/${m.slug}`);
+  for (const f of m.fish) if (f.linked && !related.includes(`fish/${f.slug}`)) related.push(`fish/${f.slug}`);
   let meta = `id: ${m.slug}\ncategory: fishing-spots\ntype: fishing_spot\nfishing_spot: ${Q(m.en)}\nfish_count: ${m.fish.length}\n`;
   if (related.length) meta += `related: [${related.join(', ')}]\n`;
   meta += `tags: [fishing, spot, nature]\nstatus: stable\n`;

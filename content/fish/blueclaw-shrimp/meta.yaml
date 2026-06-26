@@ -2,6 +2,6 @@ id: blueclaw-shrimp
 category: fish
 type: fish
 fish: "Blueclaw Shrimp"
-related: [the-hundred-throes, whilom-river, the-smoldering-wastes, the-iron-feast, quickspill-delta]
+related: [fishing-spots/the-hundred-throes, fishing-spots/whilom-river, the-smoldering-wastes, the-iron-feast, quickspill-delta]
 tags: [fish, fishing, nature]
 status: stable

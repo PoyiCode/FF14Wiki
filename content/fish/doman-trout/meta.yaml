@@ -2,6 +2,6 @@ id: doman-trout
 category: fish
 type: fish
 fish: "Doman Trout"
-related: [the-heron-s-nest, the-heron-s-way, prism-canyon, doma-castle, mercantile-docks, the-one-river-east, the-one-river-west, plum-spring, the-silver-canal, the-doman-enclave]
+related: [the-heron-s-nest, the-heron-s-way, prism-canyon, fishing-spots/doma-castle, mercantile-docks, the-one-river-east, the-one-river-west, plum-spring, the-silver-canal, fishing-spots/the-doman-enclave]
 tags: [fish, fishing, nature]
 status: stable

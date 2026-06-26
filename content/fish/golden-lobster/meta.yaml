@@ -2,6 +2,6 @@ id: golden-lobster
 category: fish
 type: fish
 fish: "Golden Lobster"
-related: [saint-fathric-s-temple]
+related: [fishing-spots/saint-fathric-s-temple]
 tags: [fish, fishing, nature]
 status: stable

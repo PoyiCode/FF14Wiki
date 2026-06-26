@@ -3,6 +3,6 @@ category: fishing-spots
 type: fishing_spot
 fishing_spot: "Westbound Zorgor"
 fish_count: 8
-related: [zorgor-core, cloudribbon, zorgor-scorpion, vagrant-cascade, zorgor-condor, sunray-ray, yowekwa-inkhead, vagrant-keeper]
+related: [zorgor-core, cloudribbon, zorgor-scorpion, vagrant-cascade, zorgor-condor, fish/sunray-ray, yowekwa-inkhead, vagrant-keeper]
 tags: [fishing, spot, nature]
 status: stable

@@ -2,6 +2,6 @@ id: bone-melter
 category: fish
 type: fish
 fish: "Bone Melter"
-related: [dimwold, the-comet-s-tail]
+related: [fishing-spots/dimwold, the-comet-s-tail]
 tags: [fish, fishing, nature]
 status: stable

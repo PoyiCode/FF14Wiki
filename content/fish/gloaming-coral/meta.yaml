@@ -2,6 +2,6 @@ id: gloaming-coral
 category: fish
 type: fish
 fish: "Gloaming Coral"
-related: [landlord-colony, sohm-al-summit]
+related: [fishing-spots/landlord-colony, sohm-al-summit]
 tags: [fish, fishing, nature]
 status: stable

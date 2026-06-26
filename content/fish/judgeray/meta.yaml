@@ -2,6 +2,6 @@ id: judgeray
 category: fish
 type: fish
 fish: "Judgeray"
-related: [fallgourd-float]
+related: [fishing-spots/fallgourd-float]
 tags: [fish, fishing, nature]
 status: stable

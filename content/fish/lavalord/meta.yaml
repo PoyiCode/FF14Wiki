@@ -2,6 +2,6 @@ id: lavalord
 category: fish
 type: fish
 fish: "Lavalord"
-related: [halo]
+related: [fishing-spots/halo]
 tags: [fish, fishing, nature]
 status: stable

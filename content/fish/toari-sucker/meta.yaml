@@ -2,6 +2,6 @@ id: toari-sucker
 category: fish
 type: fish
 fish: "Toari Sucker"
-related: [lake-toari]
+related: [fishing-spots/lake-toari]
 tags: [fish, fishing, nature]
 status: stable

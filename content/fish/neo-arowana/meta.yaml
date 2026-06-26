@@ -2,6 +2,6 @@ id: neo-arowana
 category: fish
 type: fish
 fish: "Neo Arowana"
-related: [leynode-aero]
+related: [fishing-spots/leynode-aero]
 tags: [fish, fishing, nature]
 status: stable

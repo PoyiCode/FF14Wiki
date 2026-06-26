@@ -2,6 +2,6 @@ id: shadow-catfish
 category: fish
 type: fish
 fish: "Shadow Catfish"
-related: [fallgourd-float, the-lavender-beds]
+related: [fishing-spots/fallgourd-float, fishing-spots/the-lavender-beds]
 tags: [fish, fishing, nature]
 status: stable

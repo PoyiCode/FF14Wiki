@@ -2,6 +2,6 @@ id: alligator-garfish
 category: fish
 type: fish
 fish: "Alligator Garfish"
-related: [bluefog]
+related: [fishing-spots/bluefog]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,6 +2,6 @@ id: blacklip-oyster
 category: fish
 type: fish
 fish: "Blacklip Oyster"
-related: [isles-of-umbra-southshore, the-ship-graveyard, cape-westwind, sapsa-spawning-grounds, reaver-hide]
+related: [isles-of-umbra-southshore, fishing-spots/the-ship-graveyard, cape-westwind, sapsa-spawning-grounds, reaver-hide]
 tags: [fish, fishing, nature]
 status: stable

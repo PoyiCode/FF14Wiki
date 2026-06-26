@@ -2,6 +2,6 @@ id: bloodbath
 category: fish
 type: fish
 fish: "Bloodbath"
-related: [haukke-manor]
+related: [fishing-spots/haukke-manor]
 tags: [fish, fishing, nature]
 status: stable

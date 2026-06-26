@@ -3,6 +3,6 @@ category: fishing-spots
 type: fishing_spot
 fishing_spot: "Fallgourd Float"
 fish_count: 9
-related: [fallgourd-float, striped-goby, brass-loach, maiden-carp, rainbow-trout, ala-mhigan-fighting-fish, faerie-bass, dark-sleeper, shadow-catfish, judgeray]
+related: [world/fallgourd-float, striped-goby, brass-loach, maiden-carp, rainbow-trout, ala-mhigan-fighting-fish, faerie-bass, dark-sleeper, shadow-catfish, judgeray]
 tags: [fishing, spot, nature]
 status: stable

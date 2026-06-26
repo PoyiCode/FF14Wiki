@@ -2,6 +2,6 @@ id: leaf-tatsunoko
 category: fish
 type: fish
 fish: "Leaf Tatsunoko"
-related: [onokoro]
+related: [fishing-spots/onokoro]
 tags: [fish, fishing, nature]
 status: stable

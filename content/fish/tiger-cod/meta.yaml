@@ -2,6 +2,6 @@ id: tiger-cod
 category: fish
 type: fish
 fish: "Tiger Cod"
-related: [cedarwood, moraby-drydocks, oschon-s-torch, candlekeep-quay, swiftperch, skull-valley, the-silver-bazaar, vesper-bay]
+related: [cedarwood, fishing-spots/moraby-drydocks, oschon-s-torch, candlekeep-quay, fishing-spots/swiftperch, skull-valley, the-silver-bazaar, fishing-spots/vesper-bay]
 tags: [fish, fishing, nature]
 status: stable

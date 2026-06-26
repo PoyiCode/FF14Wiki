@@ -2,6 +2,6 @@ id: lominsan-anchovy
 category: fish
 type: fish
 fish: "Lominsan Anchovy"
-related: [limsa-lominsa-lower-decks, limsa-lominsa-upper-decks, zephyr-drift, candlekeep-quay, swiftperch, the-silver-bazaar, vesper-bay, crescent-cove, reaver-hide]
+related: [fishing-spots/limsa-lominsa-lower-decks, fishing-spots/limsa-lominsa-upper-decks, zephyr-drift, candlekeep-quay, fishing-spots/swiftperch, the-silver-bazaar, fishing-spots/vesper-bay, crescent-cove, reaver-hide]
 tags: [fish, fishing, nature]
 status: stable

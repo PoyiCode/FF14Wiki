@@ -3,6 +3,6 @@ category: fishing-spots
 type: fishing_spot
 fishing_spot: "Eil Tohm"
 fish_count: 5
-related: [cloudfish, lamp-marimo, kissing-fish, noontide-oscar, vidofnir]
+related: [cloudfish, lamp-marimo, kissing-fish, noontide-oscar, fish/vidofnir]
 tags: [fishing, spot, nature]
 status: stable

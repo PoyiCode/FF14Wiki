@@ -2,6 +2,6 @@ id: spearnose
 category: fish
 type: fish
 fish: "Spearnose"
-related: [the-goblet]
+related: [fishing-spots/the-goblet]
 tags: [fish, fishing, nature]
 status: stable

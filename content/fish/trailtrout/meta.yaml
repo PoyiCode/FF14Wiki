@@ -2,6 +2,6 @@ id: trailtrout
 category: fish
 type: fish
 fish: "Trailtrout"
-related: [lake-toari]
+related: [fishing-spots/lake-toari]
 tags: [fish, fishing, nature]
 status: stable

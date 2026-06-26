@@ -4,5 +4,5 @@ type: region
 capital: limsa-lominsa
 aetheryte: Limsa Lominsa Lower Decks
 tags: [region, coast, sea, grassland]
-related: [limsa-lominsa, eorzea, middle-la-noscea, lower-la-noscea, eastern-la-noscea, western-la-noscea, upper-la-noscea, outer-la-noscea, wolves-den-pier, mist, limsa-lominsa-upper-decks, limsa-lominsa-lower-decks]
+related: [limsa-lominsa, eorzea, middle-la-noscea, lower-la-noscea, eastern-la-noscea, western-la-noscea, upper-la-noscea, outer-la-noscea, wolves-den-pier, world/mist, world/limsa-lominsa-upper-decks, world/limsa-lominsa-lower-decks]
 status: stable

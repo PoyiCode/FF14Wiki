@@ -2,6 +2,6 @@ id: stargazer
 category: fish
 type: fish
 fish: "Stargazer"
-related: [purpure]
+related: [fishing-spots/purpure]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,6 +2,6 @@ id: king-puffer
 category: fish
 type: fish
 fish: "King Puffer"
-related: [high-tide-harbor]
+related: [fishing-spots/high-tide-harbor]
 tags: [fish, fishing, nature]
 status: stable

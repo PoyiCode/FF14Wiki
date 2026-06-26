@@ -2,6 +2,6 @@ id: furcacauda
 category: fish
 type: fish
 fish: "Furcacauda"
-related: [lethe]
+related: [fishing-spots/lethe]
 tags: [fish, fishing, nature]
 status: stable

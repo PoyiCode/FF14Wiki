@@ -2,6 +2,6 @@ id: nyctosaur
 category: fish
 type: fish
 fish: "Nyctosaur"
-related: [tharl-oom-khash]
+related: [fishing-spots/tharl-oom-khash]
 tags: [fish, fishing, nature]
 status: stable

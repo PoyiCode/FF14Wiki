@@ -2,6 +2,6 @@ id: everkeep-yabby
 category: fish
 type: fish
 fish: "Everkeep Yabby"
-related: [residential-sector]
+related: [fishing-spots/residential-sector]
 tags: [fish, fishing, nature]
 status: stable

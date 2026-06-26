@@ -2,6 +2,6 @@ id: razor-clam
 category: fish
 type: fish
 fish: "Razor Clam"
-related: [the-salt-strand, skull-valley, crescent-cove]
+related: [fishing-spots/the-salt-strand, skull-valley, crescent-cove]
 tags: [fish, fishing, nature]
 status: stable

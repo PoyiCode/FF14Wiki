@@ -2,6 +2,6 @@ id: poxpike
 category: fish
 type: fish
 fish: "Poxpike"
-related: [rathefrost]
+related: [fishing-spots/rathefrost]
 tags: [fish, fishing, nature]
 status: stable

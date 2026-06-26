@@ -2,6 +2,6 @@ id: blowfish
 category: fish
 type: fish
 fish: "Blowfish"
-related: [the-salt-strand, costa-del-sol, crescent-cove, mist, rhotano-sea-privateer-forecastle, rhotano-sea-privateer-sterncastle, north-isle-of-endless-summer]
+related: [fishing-spots/the-salt-strand, fishing-spots/costa-del-sol, crescent-cove, fishing-spots/mist, rhotano-sea-privateer-forecastle, rhotano-sea-privateer-sterncastle, north-isle-of-endless-summer]
 tags: [fish, fishing, nature]
 status: stable

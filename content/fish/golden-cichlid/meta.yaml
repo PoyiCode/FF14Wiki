@@ -2,6 +2,6 @@ id: golden-cichlid
 category: fish
 type: fish
 fish: "Golden Cichlid"
-related: [rhalgr-s-reach]
+related: [fishing-spots/rhalgr-s-reach]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,6 +2,6 @@ id: blackfin-snake-eel
 category: fish
 type: fish
 fish: "Blackfin Snake Eel"
-related: [onokoro]
+related: [fishing-spots/onokoro]
 tags: [fish, fishing, nature]
 status: stable

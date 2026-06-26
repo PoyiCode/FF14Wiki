@@ -2,6 +2,6 @@ id: stickleback
 category: fish
 type: fish
 fish: "Stickleback"
-related: [residential-sector]
+related: [fishing-spots/residential-sector]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,6 +2,6 @@ id: floating-fife
 category: fish
 type: fish
 fish: "Floating Fife"
-related: [high-tide-harbor]
+related: [fishing-spots/high-tide-harbor]
 tags: [fish, fishing, nature]
 status: stable

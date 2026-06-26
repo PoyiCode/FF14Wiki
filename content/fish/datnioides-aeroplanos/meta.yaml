@@ -2,6 +2,6 @@ id: datnioides-aeroplanos
 category: fish
 type: fish
 fish: "Datnioides Aeroplanos"
-related: [leynode-aero]
+related: [fishing-spots/leynode-aero]
 tags: [fish, fishing, nature]
 status: stable

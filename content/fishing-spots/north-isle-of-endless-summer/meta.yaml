@@ -3,6 +3,6 @@ category: fishing-spots
 type: fishing_spot
 fishing_spot: "North Isle of Endless Summer"
 fish_count: 10
-related: [merlthor-goby, blowfish, leafy-seadragon, wahoo, little-thalaos, shall-shell, megalodon, giant-squid, castaway-chocobo-chick, little-perykos]
+related: [merlthor-goby, blowfish, leafy-seadragon, wahoo, little-thalaos, shall-shell, megalodon, giant-squid, fish/castaway-chocobo-chick, little-perykos]
 tags: [fishing, spot, nature]
 status: stable

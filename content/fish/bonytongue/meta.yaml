@@ -2,6 +2,6 @@ id: bonytongue
 category: fish
 type: fish
 fish: "Bonytongue"
-related: [everschade, goblinblood, urth-s-gift, lake-tahtotl, northeast-bronze-lake, the-burning-wall, singing-shards, the-lavender-beds, northwest-bronze-lake]
+related: [everschade, goblinblood, fishing-spots/urth-s-gift, lake-tahtotl, northeast-bronze-lake, fishing-spots/the-burning-wall, singing-shards, fishing-spots/the-lavender-beds, northwest-bronze-lake]
 tags: [fish, fishing, nature]
 status: stable

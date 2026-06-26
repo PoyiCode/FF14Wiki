@@ -2,6 +2,6 @@ id: silverfish
 category: fish
 type: fish
 fish: "Silverfish"
-related: [goblinblood, lake-tahtotl, north-silvertear, rathefrost, the-tangle, the-juggernaut, red-mantis-falls, northeast-bronze-lake, ceruleum-field, bluefog, haukke-manor, singing-shards, the-north-shards, parata-s-peace, moondrip, the-goblet, northwest-bronze-lake]
+related: [goblinblood, lake-tahtotl, north-silvertear, fishing-spots/rathefrost, the-tangle, the-juggernaut, red-mantis-falls, northeast-bronze-lake, ceruleum-field, fishing-spots/bluefog, fishing-spots/haukke-manor, singing-shards, the-north-shards, parata-s-peace, moondrip, fishing-spots/the-goblet, northwest-bronze-lake]
 tags: [fish, fishing, nature]
 status: stable

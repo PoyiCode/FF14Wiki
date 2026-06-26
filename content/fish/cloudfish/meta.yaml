@@ -2,6 +2,6 @@ id: cloudfish
 category: fish
 type: fish
 fish: "Cloudfish"
-related: [eil-tohm, weston-waters, voor-sian-siran, the-eddies, diadem-skysprings, southern-diadem-lake, northern-diadem-lake]
+related: [eil-tohm, weston-waters, fishing-spots/voor-sian-siran, the-eddies, diadem-skysprings, southern-diadem-lake, northern-diadem-lake]
 tags: [fish, fishing, nature]
 status: stable
