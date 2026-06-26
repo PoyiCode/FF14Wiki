@@ -1,0 +1,10 @@
+id: pier-1
+category: world
+type: aethernet
+rank: aetheryte
+parent: world/kugane
+aethernet: "Pier #1"
+area: "Crescent Cove Docks"
+related: [world/kugane]
+tags: [aethernet, aetheryte, travel, teleport]
+status: stable

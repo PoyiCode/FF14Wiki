@@ -1,0 +1,10 @@
+id: musica-universalis-markets
+category: world
+type: aethernet
+rank: aetheryte
+parent: world/abalathias-spine
+aethernet: "Musica Universalis Markets"
+area: "Abalathia's Spine"
+related: [world/abalathias-spine]
+tags: [aethernet, aetheryte, travel, teleport]
+status: stable

@@ -1,0 +1,10 @@
+id: gate-of-the-sultana-western-thanalan
+category: world
+type: aethernet
+rank: aetheryte
+parent: world/western-thanalan
+aethernet: "Gate of the Sultana (Western Thanalan)"
+area: "Hydaelyn"
+related: [world/western-thanalan]
+tags: [aethernet, aetheryte, travel, teleport]
+status: stable

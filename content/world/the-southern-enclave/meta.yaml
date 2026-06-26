@@ -1,0 +1,10 @@
+id: the-southern-enclave
+category: world
+type: aethernet
+rank: aetheryte
+parent: world/the-ragnarok
+aethernet: "The Southern Enclave"
+area: "The Ragnarok"
+related: [world/the-ragnarok]
+tags: [aethernet, aetheryte, travel, teleport]
+status: stable

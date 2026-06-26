@@ -1,0 +1,10 @@
+id: scholar-s-harbor
+category: world
+type: aethernet
+rank: aetheryte
+parent: world/old-sharlayan
+aethernet: "Scholar's Harbor"
+area: "Hall of the Secutores"
+related: [world/old-sharlayan]
+tags: [aethernet, aetheryte, travel, teleport]
+status: stable

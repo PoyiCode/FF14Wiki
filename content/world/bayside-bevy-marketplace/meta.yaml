@@ -1,0 +1,10 @@
+id: bayside-bevy-marketplace
+category: world
+type: aethernet
+rank: aetheryte
+parent: world/tuliyollal
+aethernet: "Bayside Bevy Marketplace"
+area: "Inner Sanctum"
+related: [world/tuliyollal]
+tags: [aethernet, aetheryte, travel, teleport]
+status: stable

@@ -1,0 +1,10 @@
+id: peaks-gate
+category: world
+type: aethernet
+rank: aetheryte
+parent: world/the-peaks
+aethernet: "Peaks Gate"
+area: "Aleport Docks"
+related: [world/the-peaks]
+tags: [aethernet, aetheryte, travel, teleport]
+status: stable

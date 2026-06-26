@@ -1,0 +1,10 @@
+id: gate-of-nald-central-thanalan
+category: world
+type: aethernet
+rank: aetheryte
+parent: world/central-thanalan
+aethernet: "Gate of Nald (Central Thanalan)"
+area: "Eorzea"
+related: [world/central-thanalan]
+tags: [aethernet, aetheryte, travel, teleport]
+status: stable

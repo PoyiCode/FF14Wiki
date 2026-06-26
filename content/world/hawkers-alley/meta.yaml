@@ -1,0 +1,10 @@
+id: hawkers-alley
+category: world
+type: aethernet
+rank: aetheryte
+parent: world/limsa-lominsa-lower-decks
+aethernet: "Hawkers' Alley"
+area: "Limsa Lominsa Lower Decks"
+related: [world/limsa-lominsa-lower-decks]
+tags: [aethernet, aetheryte, travel, teleport]
+status: stable

@@ -1,0 +1,10 @@
+id: miners-guild
+category: world
+type: aethernet
+rank: aetheryte
+parent: world/ul-dah-steps-of-thal
+aethernet: "Miners' Guild"
+area: "Ul'dah - Steps of Thal"
+related: [world/ul-dah-steps-of-thal]
+tags: [aethernet, aetheryte, travel, teleport]
+status: stable

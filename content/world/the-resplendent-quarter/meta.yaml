@@ -1,0 +1,10 @@
+id: the-resplendent-quarter
+category: world
+type: aethernet
+rank: aetheryte
+parent: world/tuliyollal
+aethernet: "The Resplendent Quarter"
+area: "Inner Sanctum"
+related: [world/tuliyollal]
+tags: [aethernet, aetheryte, travel, teleport]
+status: stable

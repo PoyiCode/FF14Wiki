@@ -1,0 +1,10 @@
+id: the-gates-of-judgement-coerthas-central-highlands
+category: world
+type: aethernet
+rank: aetheryte
+parent: world/old-gridania
+aethernet: "The Gates of Judgement (Coerthas Central Highlands)"
+area: "Old Gridania"
+related: [world/old-gridania]
+tags: [aethernet, aetheryte, travel, teleport]
+status: stable

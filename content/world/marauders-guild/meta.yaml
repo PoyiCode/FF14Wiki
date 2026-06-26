@@ -1,0 +1,10 @@
+id: marauders-guild
+category: world
+type: aethernet
+rank: aetheryte
+parent: world/limsa-lominsa-upper-decks
+aethernet: "Marauders' Guild"
+area: "Limsa Lominsa Upper Decks"
+related: [world/limsa-lominsa-upper-decks]
+tags: [aethernet, aetheryte, travel, teleport]
+status: stable

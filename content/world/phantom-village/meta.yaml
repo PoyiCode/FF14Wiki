@@ -1,0 +1,10 @@
+id: phantom-village
+category: world
+type: aethernet
+rank: aetheryte
+parent: world/the-arms-of-meed
+aethernet: "Phantom Village"
+area: "The Arms of Meed"
+related: [world/the-arms-of-meed]
+tags: [aethernet, aetheryte, travel, teleport]
+status: stable

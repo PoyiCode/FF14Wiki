@@ -1,0 +1,10 @@
+id: the-gate-of-first-sight-thavnair
+category: world
+type: aethernet
+rank: aetheryte
+parent: world/thavnair
+aethernet: "The Gate of First Sight (Thavnair)"
+area: "Thavnair"
+related: [world/thavnair]
+tags: [aethernet, aetheryte, travel, teleport]
+status: stable

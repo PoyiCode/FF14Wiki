@@ -1,0 +1,10 @@
+id: tessellation-lakeland
+category: world
+type: aethernet
+rank: aetheryte
+parent: world/lakeland
+aethernet: "Tessellation (Lakeland)"
+area: "Upper Ring"
+related: [world/lakeland]
+tags: [aethernet, aetheryte, travel, teleport]
+status: stable

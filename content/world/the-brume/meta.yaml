@@ -1,0 +1,10 @@
+id: the-brume
+category: world
+type: aethernet
+rank: aetheryte
+parent: world/swiftperch
+aethernet: "The Brume"
+area: "Swiftperch"
+related: [world/swiftperch]
+tags: [aethernet, aetheryte, travel, teleport]
+status: stable

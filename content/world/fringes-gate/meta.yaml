@@ -1,0 +1,10 @@
+id: fringes-gate
+category: world
+type: aethernet
+rank: aetheryte
+parent: world/the-fringes
+aethernet: "Fringes Gate"
+area: "The Fringes"
+related: [world/the-fringes]
+tags: [aethernet, aetheryte, travel, teleport]
+status: stable

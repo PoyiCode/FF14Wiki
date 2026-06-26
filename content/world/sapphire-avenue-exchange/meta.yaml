@@ -1,0 +1,10 @@
+id: sapphire-avenue-exchange
+category: world
+type: aethernet
+rank: aetheryte
+parent: world/ul-dah-steps-of-thal
+aethernet: "Sapphire Avenue Exchange"
+area: "Ul'dah - Steps of Thal"
+related: [world/ul-dah-steps-of-thal]
+tags: [aethernet, aetheryte, travel, teleport]
+status: stable

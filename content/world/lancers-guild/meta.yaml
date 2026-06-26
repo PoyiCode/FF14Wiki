@@ -1,0 +1,10 @@
+id: lancers-guild
+category: world
+type: aethernet
+rank: aetheryte
+parent: world/old-gridania
+aethernet: "Lancers' Guild"
+area: "Old Gridania"
+related: [world/old-gridania]
+tags: [aethernet, aetheryte, travel, teleport]
+status: stable

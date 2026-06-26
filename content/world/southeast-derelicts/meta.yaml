@@ -1,0 +1,10 @@
+id: southeast-derelicts
+category: world
+type: aethernet
+rank: aetheryte
+parent: world/dravania
+aethernet: "Southeast Derelicts"
+area: "Dravania"
+related: [world/dravania]
+tags: [aethernet, aetheryte, travel, teleport]
+status: stable

@@ -1,0 +1,10 @@
+id: arcanists-guild
+category: world
+type: aethernet
+rank: aetheryte
+parent: world/limsa-lominsa-lower-decks
+aethernet: "Arcanists' Guild"
+area: "Limsa Lominsa Lower Decks"
+related: [world/limsa-lominsa-lower-decks]
+tags: [aethernet, aetheryte, travel, teleport]
+status: stable

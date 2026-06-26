@@ -1,0 +1,10 @@
+id: botanists-guild
+category: world
+type: aethernet
+rank: aetheryte
+parent: world/old-gridania
+aethernet: "Botanists' Guild"
+area: "Old Gridania"
+related: [world/old-gridania]
+tags: [aethernet, aetheryte, travel, teleport]
+status: stable

@@ -1,0 +1,10 @@
+id: thaumaturges-guild
+category: world
+type: aethernet
+rank: aetheryte
+parent: world/ul-dah-steps-of-nald
+aethernet: "Thaumaturges' Guild"
+area: "Ul'dah - Steps of Nald"
+related: [world/ul-dah-steps-of-nald]
+tags: [aethernet, aetheryte, travel, teleport]
+status: stable

@@ -1,0 +1,10 @@
+id: arch-of-the-dawn-kozama-uka
+category: world
+type: aethernet
+rank: aetheryte
+parent: world/kozama-uka
+aethernet: "Arch of the Dawn (Kozama'uka)"
+area: "Path of Decay"
+related: [world/kozama-uka]
+tags: [aethernet, aetheryte, travel, teleport]
+status: stable

@@ -1,0 +1,10 @@
+id: western-rhalgr-s-reach
+category: world
+type: aethernet
+rank: aetheryte
+parent: world/rhalgr-s-reach
+aethernet: "Western Rhalgr's Reach"
+area: "Warmwine Sanitorium"
+related: [world/rhalgr-s-reach]
+tags: [aethernet, aetheryte, travel, teleport]
+status: stable

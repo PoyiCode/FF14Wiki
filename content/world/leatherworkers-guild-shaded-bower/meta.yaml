@@ -1,0 +1,10 @@
+id: leatherworkers-guild-shaded-bower
+category: world
+type: aethernet
+rank: aetheryte
+parent: world/old-gridania
+aethernet: "Leatherworkers' Guild & Shaded Bower"
+area: "Old Gridania"
+related: [world/old-gridania]
+tags: [aethernet, aetheryte, travel, teleport]
+status: stable

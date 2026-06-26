@@ -1,0 +1,926 @@
+[
+ {
+  "slug": "adventurers-guild",
+  "en": "Adventurers' Guild",
+  "ja": "冒険者ギルド前",
+  "cn": "冒险者行会前",
+  "tw": "冒險者行會前",
+  "area": {
+   "en": "Ul'dah - Steps of Nald",
+   "ja": "ウルダハ：ナル回廊",
+   "zh-CN": "乌尔达哈现世回廊",
+   "zh-TW": "烏爾達哈現世迴廊"
+  },
+  "parent": "ul-dah-steps-of-nald"
+ },
+ {
+  "slug": "alchemists-guild",
+  "en": "Alchemists' Guild",
+  "ja": "錬金術師ギルド前",
+  "cn": "炼金术士行会前",
+  "tw": "鍊金術士行會前",
+  "area": {
+   "en": "Ul'dah - Steps of Thal",
+   "ja": "ウルダハ：ザル回廊",
+   "zh-CN": "乌尔达哈来生回廊",
+   "zh-TW": "烏爾達哈來生迴廊"
+  },
+  "parent": "ul-dah-steps-of-thal"
+ },
+ {
+  "slug": "arcanists-guild",
+  "en": "Arcanists' Guild",
+  "ja": "巴術士ギルド前（フェリードック）",
+  "cn": "秘术师行会前（渡轮码头）",
+  "tw": "祕術師行會前（渡輪碼頭）",
+  "area": {
+   "en": "Limsa Lominsa Lower Decks",
+   "ja": "リムサ・ロミンサ：下甲板層",
+   "zh-CN": "利姆萨·罗敏萨下层甲板",
+   "zh-TW": "利姆薩·羅敏薩下層甲板"
+  },
+  "parent": "limsa-lominsa-lower-decks"
+ },
+ {
+  "slug": "arch-of-the-dawn-kozama-uka",
+  "en": "Arch of the Dawn (Kozama'uka)",
+  "ja": "グルージャジャ凱旋門（コザマル・カ下流域方面）",
+  "cn": "古鲁加加凯旋门（克扎玛乌卡湿地方面）",
+  "tw": "古魯加加凱旋門（克扎瑪烏卡溼地方面）",
+  "area": {
+   "en": "Path of Decay",
+   "ja": "腐汁の迷宮",
+   "zh-CN": "腐朽迷路",
+   "zh-TW": "腐朽迷路"
+  },
+  "parent": "kozama-uka"
+ },
+ {
+  "slug": "arch-of-the-dawn-urqopacha",
+  "en": "Arch of the Dawn (Urqopacha)",
+  "ja": "グルージャジャ凱旋門（オルコ・パチャ方面）",
+  "cn": "古鲁加加凯旋门（奥阔帕恰山方面）",
+  "tw": "古魯加加凱旋門（奧闊帕恰山方面）",
+  "area": {
+   "en": "The Crossroads",
+   "ja": "大十字の広間",
+   "zh-CN": "十字大堂",
+   "zh-TW": "十字大堂"
+  },
+  "parent": "urqopacha"
+ },
+ {
+  "slug": "archers-guild",
+  "en": "Archers' Guild",
+  "ja": "弓術士ギルド前",
+  "cn": "弓箭手行会前",
+  "tw": "弓箭手行會前",
+  "area": {
+   "en": "New Gridania",
+   "ja": "グリダニア：新市街",
+   "zh-CN": "格里达尼亚新街",
+   "zh-TW": "格里達尼亞新街"
+  },
+  "parent": "new-gridania"
+ },
+ {
+  "slug": "athenaeum-astrologicum",
+  "en": "Athenaeum Astrologicum",
+  "ja": "聖ガンリオル占星院前（イシュガルド・ランディング）",
+  "cn": "圣冈里奥尔占星院前（伊修加德飞艇坪）",
+  "tw": "聖岡里奧爾占星院前（伊修加德飛艇坪）",
+  "area": {
+   "en": "The Flock",
+   "ja": "ドードー営巣地",
+   "zh-CN": "渡渡鸟巢营",
+   "zh-TW": "渡渡鳥巢營"
+  },
+  "parent": "the-flock"
+ },
+ {
+  "slug": "bayside-bevy-marketplace",
+  "en": "Bayside Bevy Marketplace",
+  "ja": "マーケット（ベイサイド・ベヴィー）",
+  "cn": "海岸鸟群市场",
+  "tw": "海岸鳥羣市場",
+  "area": {
+   "en": "Inner Sanctum",
+   "ja": "埋没遺跡",
+   "zh-CN": "埋没遗迹",
+   "zh-TW": "埋沒遺蹟"
+  },
+  "parent": "tuliyollal"
+ },
+ {
+  "slug": "bokairo-inn",
+  "en": "Bokairo Inn",
+  "ja": "望海楼",
+  "cn": "望海楼",
+  "tw": "望海樓",
+  "area": {
+   "en": "Crescent Cove Docks",
+   "ja": "波止場：クレセントコーヴ",
+   "zh-CN": "月牙湾码头",
+   "zh-TW": "月牙灣碼頭"
+  },
+  "parent": "kugane"
+ },
+ {
+  "slug": "botanists-guild",
+  "en": "Botanists' Guild",
+  "ja": "園芸師ギルド前",
+  "cn": "园艺工行会前",
+  "tw": "園藝工行會前",
+  "area": {
+   "en": "Old Gridania",
+   "ja": "グリダニア：旧市街",
+   "zh-CN": "格里达尼亚旧街",
+   "zh-TW": "格里達尼亞舊街"
+  },
+  "parent": "old-gridania"
+ },
+ {
+  "slug": "conjurers-guild",
+  "en": "Conjurers' Guild",
+  "ja": "幻術士ギルド前",
+  "cn": "幻术师行会前",
+  "tw": "幻術師行會前",
+  "area": {
+   "en": "Old Gridania",
+   "ja": "グリダニア：旧市街",
+   "zh-CN": "格里达尼亚旧街",
+   "zh-TW": "格里達尼亞舊街"
+  },
+  "parent": "old-gridania"
+ },
+ {
+  "slug": "culinarians-guild",
+  "en": "Culinarians' Guild",
+  "ja": "調理師ギルド前（レストラン「ビスマルク」）",
+  "cn": "烹调师行会前（俾斯麦餐厅）",
+  "tw": "烹調師行會前（俾斯麥餐廳）",
+  "area": {
+   "en": "Limsa Lominsa Upper Decks",
+   "ja": "リムサ・ロミンサ：上甲板層",
+   "zh-CN": "利姆萨·罗敏萨上层甲板",
+   "zh-TW": "利姆薩·羅敏薩上層甲板"
+  },
+  "parent": "limsa-lominsa-upper-decks"
+ },
+ {
+  "slug": "entrance-card-squares",
+  "en": "Entrance & Card Squares",
+  "ja": "エントランススクウェア（カードスクウェア）",
+  "cn": "入口广场（幻卡广场）",
+  "tw": "入口廣場（幻卡廣場）",
+  "area": {
+   "en": "The Eyes",
+   "ja": "眼鏡岩",
+   "zh-CN": "眼镜岩",
+   "zh-TW": "眼鏡巖"
+  },
+  "parent": "the-eyes"
+ },
+ {
+  "slug": "epilogue-gate-eastern-hinterlands",
+  "en": "Epilogue Gate (Eastern Hinterlands)",
+  "ja": "裏表紙門（低地ドラヴァニア東方面）",
+  "cn": "后记门（龙堡内陆低地东方面）",
+  "tw": "後記門（龍堡內陸低地東方面）",
+  "area": {
+   "en": "The Severed String",
+   "ja": "切られた革紐亭",
+   "zh-CN": "断弦亭",
+   "zh-TW": "斷絃亭"
+  },
+  "parent": "the-severed-string"
+ },
+ {
+  "slug": "event-square",
+  "en": "Event Square",
+  "ja": "イベントスクウェア",
+  "cn": "演出广场",
+  "tw": "演出廣場",
+  "area": {
+   "en": "The Eyes",
+   "ja": "眼鏡岩",
+   "zh-CN": "眼镜岩",
+   "zh-TW": "眼鏡巖"
+  },
+  "parent": "the-eyes"
+ },
+ {
+  "slug": "ferry-docks",
+  "en": "Ferry Docks",
+  "ja": "船着場",
+  "cn": "码头",
+  "tw": "碼頭",
+  "area": {
+   "en": "The Ragnarok",
+   "ja": "ラグナロク級拘束艦",
+   "zh-CN": "诸神黄昏级拘束舰",
+   "zh-TW": "諸神黃昏級拘束艦"
+  },
+  "parent": "the-ragnarok"
+ },
+ {
+  "slug": "fishermen-s-guild",
+  "en": "Fishermen's Guild",
+  "ja": "漁師ギルド前（双剣士ギルド）",
+  "cn": "捕鱼人行会前（双剑师行会）",
+  "tw": "捕魚人行會前（雙劍師行會）",
+  "area": {
+   "en": "Limsa Lominsa Lower Decks",
+   "ja": "リムサ・ロミンサ：下甲板層",
+   "zh-CN": "利姆萨·罗敏萨下层甲板",
+   "zh-TW": "利姆薩·羅敏薩下層甲板"
+  },
+  "parent": "limsa-lominsa-lower-decks"
+ },
+ {
+  "slug": "fringes-gate",
+  "en": "Fringes Gate",
+  "ja": "ギラバニア辺境地帯方面",
+  "cn": "基拉巴尼亚边区方面",
+  "tw": "基拉巴尼亞邊區方面",
+  "area": {
+   "en": "The Fringes",
+   "ja": "ギラバニア辺境地帯",
+   "zh-CN": "基拉巴尼亚边区",
+   "zh-TW": "基拉巴尼亞邊區"
+  },
+  "parent": "the-fringes"
+ },
+ {
+  "slug": "gate-of-nald-central-thanalan",
+  "en": "Gate of Nald (Central Thanalan)",
+  "ja": "ナル大門（中央ザナラーン北方面）",
+  "cn": "纳尔之门（中萨纳兰北方面）",
+  "tw": "納爾之門（中薩納蘭北方面）",
+  "area": {
+   "en": "Eorzea",
+   "ja": "エオルゼア",
+   "zh-CN": "艾欧泽亚",
+   "zh-TW": "艾歐澤亞"
+  },
+  "parent": "central-thanalan"
+ },
+ {
+  "slug": "gate-of-thal-central-thanalan",
+  "en": "Gate of Thal (Central Thanalan)",
+  "ja": "ザル大門（中央ザナラーン南方面）",
+  "cn": "札尔之门（中萨纳兰南方面）",
+  "tw": "札爾之門（中薩納蘭南方面）",
+  "area": {
+   "en": "Eorzea",
+   "ja": "エオルゼア",
+   "zh-CN": "艾欧泽亚",
+   "zh-TW": "艾歐澤亞"
+  },
+  "parent": "central-thanalan"
+ },
+ {
+  "slug": "gate-of-the-sultana-western-thanalan",
+  "en": "Gate of the Sultana (Western Thanalan)",
+  "ja": "ナナモ新門（西ザナラーン方面）",
+  "cn": "娜娜莫新门（西萨纳兰方面）",
+  "tw": "娜娜莫新門（西薩納蘭方面）",
+  "area": {
+   "en": "Hydaelyn",
+   "ja": "ハイデリン",
+   "zh-CN": "海德林",
+   "zh-TW": "海德林"
+  },
+  "parent": "western-thanalan"
+ },
+ {
+  "slug": "gladiators-guild",
+  "en": "Gladiators' Guild",
+  "ja": "剣術士ギルド前（コロセウム）",
+  "cn": "剑术师行会前（斗技场）",
+  "tw": "劍術師行會前（鬥技場）",
+  "area": {
+   "en": "Ul'dah - Steps of Thal",
+   "ja": "ウルダハ：ザル回廊",
+   "zh-CN": "乌尔达哈来生回廊",
+   "zh-TW": "烏爾達哈來生迴廊"
+  },
+  "parent": "ul-dah-steps-of-thal"
+ },
+ {
+  "slug": "goldsmiths-guild",
+  "en": "Goldsmiths' Guild",
+  "ja": "彫金師ギルド前",
+  "cn": "雕金匠行会前",
+  "tw": "雕金匠行會前",
+  "area": {
+   "en": "Ul'dah - Steps of Thal",
+   "ja": "ウルダハ：ザル回廊",
+   "zh-CN": "乌尔达哈来生回廊",
+   "zh-TW": "烏爾達哈來生迴廊"
+  },
+  "parent": "ul-dah-steps-of-thal"
+ },
+ {
+  "slug": "hawkers-alley",
+  "en": "Hawkers' Alley",
+  "ja": "マーケット（国際街広場）",
+  "cn": "市场（国际广场）",
+  "tw": "市場（國際廣場）",
+  "area": {
+   "en": "Limsa Lominsa Lower Decks",
+   "ja": "リムサ・ロミンサ：下甲板層",
+   "zh-CN": "利姆萨·罗敏萨下层甲板",
+   "zh-TW": "利姆薩·羅敏薩下層甲板"
+  },
+  "parent": "limsa-lominsa-lower-decks"
+ },
+ {
+  "slug": "ihuykatumu-kozama-uka",
+  "en": "Ihuykatumu (Kozama'uka)",
+  "ja": "イフイカ・トゥム（コザマル・カ上流域方面）",
+  "cn": "生息河岸（克扎玛乌卡湿地方面）",
+  "tw": "生息河岸（克扎瑪烏卡溼地方面）",
+  "area": {
+   "en": "Path of Decay",
+   "ja": "腐汁の迷宮",
+   "zh-CN": "腐朽迷路",
+   "zh-TW": "腐朽迷路"
+  },
+  "parent": "kozama-uka"
+ },
+ {
+  "slug": "journey-s-end",
+  "en": "Journey's End",
+  "ja": "漂流者の丘",
+  "cn": "漂流的终点",
+  "tw": "漂流的終點",
+  "area": {
+   "en": "Hall of the Secutores",
+   "ja": "剣闘の間",
+   "zh-CN": "剑斗间",
+   "zh-TW": "劍鬥間"
+  },
+  "parent": "old-sharlayan"
+ },
+ {
+  "slug": "kama",
+  "en": "Kama",
+  "ja": "カーマ区",
+  "cn": "卡玛爱区",
+  "tw": "卡瑪愛區",
+  "area": {
+   "en": "Hall of the Bestiarii",
+   "ja": "獣闘の間",
+   "zh-CN": "兽斗间",
+   "zh-TW": "獸鬥間"
+  },
+  "parent": "radz-at-han"
+ },
+ {
+  "slug": "kogane-dori-markets",
+  "en": "Kogane Dori Markets",
+  "ja": "マーケット（小金通り）",
+  "cn": "市场（小金街）",
+  "tw": "市場（小金街）",
+  "area": {
+   "en": "Crescent Cove Docks",
+   "ja": "波止場：クレセントコーヴ",
+   "zh-CN": "月牙湾码头",
+   "zh-TW": "月牙灣碼頭"
+  },
+  "parent": "kugane"
+ },
+ {
+  "slug": "lancers-guild",
+  "en": "Lancers' Guild",
+  "ja": "槍術士ギルド前",
+  "cn": "枪术师行会前",
+  "tw": "槍術師行會前",
+  "area": {
+   "en": "Old Gridania",
+   "ja": "グリダニア：旧市街",
+   "zh-CN": "格里达尼亚旧街",
+   "zh-TW": "格里達尼亞舊街"
+  },
+  "parent": "old-gridania"
+ },
+ {
+  "slug": "leatherworkers-guild-shaded-bower",
+  "en": "Leatherworkers' Guild & Shaded Bower",
+  "ja": "マーケット（革細工師ギルド前）",
+  "cn": "市场（制革匠行会前）",
+  "tw": "市場（製革匠行會前）",
+  "area": {
+   "en": "Old Gridania",
+   "ja": "グリダニア：旧市街",
+   "zh-CN": "格里达尼亚旧街",
+   "zh-TW": "格里達尼亞舊街"
+  },
+  "parent": "old-gridania"
+ },
+ {
+  "slug": "marauders-guild",
+  "en": "Marauders' Guild",
+  "ja": "斧術士ギルド前（コーラルタワー）",
+  "cn": "斧术师行会前（珊瑚塔）",
+  "tw": "斧術師行會前（珊瑚塔）",
+  "area": {
+   "en": "Limsa Lominsa Upper Decks",
+   "ja": "リムサ・ロミンサ：上甲板層",
+   "zh-CN": "利姆萨·罗敏萨上层甲板",
+   "zh-TW": "利姆薩·羅敏薩上層甲板"
+  },
+  "parent": "limsa-lominsa-upper-decks"
+ },
+ {
+  "slug": "miners-guild",
+  "en": "Miners' Guild",
+  "ja": "採掘師ギルド前（ブルースカイ）",
+  "cn": "采矿工行会前（天青斗场）",
+  "tw": "採礦工行會前（天青鬥場）",
+  "area": {
+   "en": "Ul'dah - Steps of Thal",
+   "ja": "ウルダハ：ザル回廊",
+   "zh-CN": "乌尔达哈来生回廊",
+   "zh-TW": "烏爾達哈來生迴廊"
+  },
+  "parent": "ul-dah-steps-of-thal"
+ },
+ {
+  "slug": "musica-universalis-markets",
+  "en": "Musica Universalis Markets",
+  "ja": "マーケット（ムジカ・ユニバーサリス）",
+  "cn": "宇宙和音市场",
+  "tw": "宇宙和音市場",
+  "area": {
+   "en": "Abalathia's Spine",
+   "ja": "アバラシア",
+   "zh-CN": "阿巴拉提亚",
+   "zh-TW": "阿巴拉提亞"
+  },
+  "parent": "abalathias-spine"
+ },
+ {
+  "slug": "northeastern-rhalgr-s-reach",
+  "en": "Northeastern Rhalgr's Reach",
+  "ja": "ラールガーズリーチ北東",
+  "cn": "神拳痕东北",
+  "tw": "神拳痕東北",
+  "area": {
+   "en": "Warmwine Sanitorium",
+   "ja": "ウォームワイン・サナトリウム",
+   "zh-CN": "温酒疗养院",
+   "zh-TW": "溫酒療養院"
+  },
+  "parent": "rhalgr-s-reach"
+ },
+ {
+  "slug": "peaks-gate",
+  "en": "Peaks Gate",
+  "ja": "ギラバニア山岳地帯方面",
+  "cn": "基拉巴尼亚山区方面",
+  "tw": "基拉巴尼亞山區方面",
+  "area": {
+   "en": "Aleport Docks",
+   "ja": "船着場：エールポート",
+   "zh-CN": "小麦酒港码头",
+   "zh-TW": "小麥酒港碼頭"
+  },
+  "parent": "the-peaks"
+ },
+ {
+  "slug": "phantom-village",
+  "en": "Phantom Village",
+  "ja": "蜃気楼の町",
+  "cn": "幻境村",
+  "tw": "幻境村",
+  "area": {
+   "en": "The Arms of Meed",
+   "ja": "アームズ・オブ・ミード",
+   "zh-CN": "赎罪之腕",
+   "zh-TW": "贖罪之腕"
+  },
+  "parent": "the-arms-of-meed"
+ },
+ {
+  "slug": "pier-1",
+  "en": "Pier #1",
+  "ja": "第一波止場",
+  "cn": "第一防波堤",
+  "tw": "第一防波堤",
+  "area": {
+   "en": "Crescent Cove Docks",
+   "ja": "波止場：クレセントコーヴ",
+   "zh-CN": "月牙湾码头",
+   "zh-TW": "月牙灣碼頭"
+  },
+  "parent": "kugane"
+ },
+ {
+  "slug": "prologue-gate-western-hinterlands",
+  "en": "Prologue Gate (Western Hinterlands)",
+  "ja": "表紙門（低地ドラヴァニア西方面）",
+  "cn": "序言门（龙堡内陆低地西方面）",
+  "tw": "序言門（龍堡內陸低地西方面）",
+  "area": {
+   "en": "The Severed String",
+   "ja": "切られた革紐亭",
+   "zh-CN": "断弦亭",
+   "zh-TW": "斷絃亭"
+  },
+  "parent": "the-severed-string"
+ },
+ {
+  "slug": "rakuza-district",
+  "en": "Rakuza District",
+  "ja": "楽座街",
+  "cn": "乐座街",
+  "tw": "樂座街",
+  "area": {
+   "en": "Crescent Cove Docks",
+   "ja": "波止場：クレセントコーヴ",
+   "zh-CN": "月牙湾码头",
+   "zh-TW": "月牙灣碼頭"
+  },
+  "parent": "kugane"
+ },
+ {
+  "slug": "residential-sector",
+  "en": "Residential Sector",
+  "ja": "レジデンシャルセクター",
+  "cn": "居住区域",
+  "tw": "居住區域",
+  "area": {
+   "en": "Lower Sanctum",
+   "ja": "地下遺跡",
+   "zh-CN": "地下遗迹",
+   "zh-TW": "地下遺蹟"
+  },
+  "parent": "solution-nine"
+ },
+ {
+  "slug": "round-square",
+  "en": "Round Square",
+  "ja": "ラウンドスクウェア",
+  "cn": "圆形广场",
+  "tw": "圓形廣場",
+  "area": {
+   "en": "The Eyes",
+   "ja": "眼鏡岩",
+   "zh-CN": "眼镜岩",
+   "zh-TW": "眼鏡巖"
+  },
+  "parent": "the-eyes"
+ },
+ {
+  "slug": "sapphire-avenue-exchange",
+  "en": "Sapphire Avenue Exchange",
+  "ja": "マーケット（サファイアアベニュー国際市場）",
+  "cn": "市场（蓝玉大街国际市场）",
+  "tw": "市場（藍玉大街國際市場）",
+  "area": {
+   "en": "Ul'dah - Steps of Thal",
+   "ja": "ウルダハ：ザル回廊",
+   "zh-CN": "乌尔达哈来生回廊",
+   "zh-TW": "烏爾達哈來生迴廊"
+  },
+  "parent": "ul-dah-steps-of-thal"
+ },
+ {
+  "slug": "scanning-port-nine-heritage-found",
+  "en": "Scanning Port Nine (Heritage Found)",
+  "ja": "スキャンポート（ヘリテージファウンド方面）",
+  "cn": "九层检查口（遗产之地方面）",
+  "tw": "九層檢查口（遺產之地方面）",
+  "area": {
+   "en": "Walk of Ascension",
+   "ja": "昇天の歩廊",
+   "zh-CN": "升天走廊",
+   "zh-TW": "昇天走廊"
+  },
+  "parent": "heritage-found"
+ },
+ {
+  "slug": "scholar-s-harbor",
+  "en": "Scholar's Harbor",
+  "ja": "知神の港",
+  "cn": "知识神海港",
+  "tw": "知識神海港",
+  "area": {
+   "en": "Hall of the Secutores",
+   "ja": "剣闘の間",
+   "zh-CN": "剑斗间",
+   "zh-TW": "劍鬥間"
+  },
+  "parent": "old-sharlayan"
+ },
+ {
+  "slug": "skysteel-manufactory",
+  "en": "Skysteel Manufactory",
+  "ja": "スカイスチール機工房前（聖レネット広場）",
+  "cn": "天钢机工房前（圣蕾内特广场）",
+  "tw": "天鋼機工房前（聖蕾內特廣場）",
+  "area": {
+   "en": "Swiftperch",
+   "ja": "スウィフトパーチ入植地",
+   "zh-CN": "雨燕塔殖民地",
+   "zh-TW": "雨燕塔殖民地"
+  },
+  "parent": "swiftperch"
+ },
+ {
+  "slug": "southeast-derelicts",
+  "en": "Southeast Derelicts",
+  "ja": "廃船街南東",
+  "cn": "废船街东南",
+  "tw": "廢船街東南",
+  "area": {
+   "en": "Dravania",
+   "ja": "ドラヴァニア",
+   "zh-CN": "龙堡",
+   "zh-TW": "龍堡"
+  },
+  "parent": "dravania"
+ },
+ {
+  "slug": "tessellation-lakeland",
+  "en": "Tessellation (Lakeland)",
+  "ja": "テセレーション鉄橋（レイクランド方面）",
+  "cn": "密铺铁桥（雷克兰德方面）",
+  "tw": "密鋪鐵橋（雷克蘭德方面）",
+  "area": {
+   "en": "Upper Ring",
+   "ja": "上層",
+   "zh-CN": "上层",
+   "zh-TW": "上層"
+  },
+  "parent": "lakeland"
+ },
+ {
+  "slug": "thaumaturges-guild",
+  "en": "Thaumaturges' Guild",
+  "ja": "呪術士ギルド前",
+  "cn": "咒术师行会前",
+  "tw": "咒術師行會前",
+  "area": {
+   "en": "Ul'dah - Steps of Nald",
+   "ja": "ウルダハ：ナル回廊",
+   "zh-CN": "乌尔达哈现世回廊",
+   "zh-TW": "烏爾達哈現世迴廊"
+  },
+  "parent": "ul-dah-steps-of-nald"
+ },
+ {
+  "slug": "the-brume",
+  "en": "The Brume",
+  "ja": "雲霧街",
+  "cn": "云雾街",
+  "tw": "雲霧街",
+  "area": {
+   "en": "Swiftperch",
+   "ja": "スウィフトパーチ入植地",
+   "zh-CN": "雨燕塔殖民地",
+   "zh-TW": "雨燕塔殖民地"
+  },
+  "parent": "swiftperch"
+ },
+ {
+  "slug": "the-chamber-of-rule",
+  "en": "The Chamber of Rule",
+  "ja": "ウルダハ王政庁",
+  "cn": "乌尔达哈王政厅",
+  "tw": "烏爾達哈王政廳",
+  "area": {
+   "en": "Ul'dah - Steps of Thal",
+   "ja": "ウルダハ：ザル回廊",
+   "zh-CN": "乌尔达哈来生回廊",
+   "zh-TW": "烏爾達哈來生迴廊"
+  },
+  "parent": "ul-dah-steps-of-thal"
+ },
+ {
+  "slug": "the-gate-of-first-sight-thavnair",
+  "en": "The Gate of First Sight (Thavnair)",
+  "ja": "真眼門（サベネア島方面）",
+  "cn": "真眼门（萨维奈岛方面）",
+  "tw": "真眼門（薩維奈島方面）",
+  "area": {
+   "en": "Thavnair",
+   "ja": "サベネア島",
+   "zh-CN": "萨维奈岛",
+   "zh-TW": "薩維奈島"
+  },
+  "parent": "thavnair"
+ },
+ {
+  "slug": "the-gates-of-judgement-coerthas-central-highlands",
+  "en": "The Gates of Judgement (Coerthas Central Highlands)",
+  "ja": "聖徒門（クルザス中央高地方面）",
+  "cn": "圣徒门（库尔札斯中央高地方面）",
+  "tw": "聖徒門（庫爾札斯中央高地方面）",
+  "area": {
+   "en": "Old Gridania",
+   "ja": "グリダニア：旧市街",
+   "zh-CN": "格里达尼亚旧街",
+   "zh-TW": "格里達尼亞舊街"
+  },
+  "parent": "old-gridania"
+ },
+ {
+  "slug": "the-hall-of-artifice-labyrinthos",
+  "en": "The Hall of Artifice (Labyrinthos)",
+  "ja": "アルティフィスホール（ラヴィリンソス方面）",
+  "cn": "诡巧大厅（迷津方面）",
+  "tw": "詭巧大廳（迷津方面）",
+  "area": {
+   "en": "Frondale's Home for Friendless Foundlings",
+   "ja": "フロンデール薬学院小児病棟",
+   "zh-CN": "福隆戴尔药学院儿科病房",
+   "zh-TW": "福隆戴爾藥學院兒科病房"
+  },
+  "parent": "labyrinthos"
+ },
+ {
+  "slug": "the-northern-enclave",
+  "en": "The Northern Enclave",
+  "ja": "ドマ町人地北（無二庭園・田園地）",
+  "cn": "多玛飞地北（无二庭园/农耕地）",
+  "tw": "多瑪飛地北（無二庭園/農耕地）",
+  "area": {
+   "en": "The Ragnarok",
+   "ja": "ラグナロク級拘束艦",
+   "zh-CN": "诸神黄昏级拘束舰",
+   "zh-TW": "諸神黃昏級拘束艦"
+  },
+  "parent": "the-ragnarok"
+ },
+ {
+  "slug": "the-one-river",
+  "en": "The One River",
+  "ja": "無二江流域（ヤンサ方面）",
+  "cn": "无二江流域（延夏方面）",
+  "tw": "無二江流域（延夏方面）",
+  "area": {
+   "en": "Heart of the Sworn",
+   "ja": "銀冑団総長室",
+   "zh-CN": "银胄团总长室",
+   "zh-TW": "銀胄團總長室"
+  },
+  "parent": "yanxia"
+ },
+ {
+  "slug": "the-path-to-glory-kholusia",
+  "en": "The Path to Glory (Kholusia)",
+  "ja": "栄光の道（コルシア島方面）",
+  "cn": "光荣路（珂露西亚岛方面）",
+  "tw": "光榮路（珂露西亞島方面）",
+  "area": {
+   "en": "山スポット25",
+   "ja": "山スポット25",
+   "zh-CN": "山スポット25",
+   "zh-TW": "山スポット25"
+  },
+  "parent": "kholusia"
+ },
+ {
+  "slug": "the-resplendent-quarter",
+  "en": "The Resplendent Quarter",
+  "ja": "翼鏡の街",
+  "cn": "翼镜街",
+  "tw": "翼鏡街",
+  "area": {
+   "en": "Inner Sanctum",
+   "ja": "埋没遺跡",
+   "zh-CN": "埋没遗迹",
+   "zh-TW": "埋沒遺蹟"
+  },
+  "parent": "tuliyollal"
+ },
+ {
+  "slug": "the-southern-enclave",
+  "en": "The Southern Enclave",
+  "ja": "ドマ町人地南（栗斎塾）",
+  "cn": "多玛飞地南（栗斋学堂）",
+  "tw": "多瑪飛地南（栗齋學堂）",
+  "area": {
+   "en": "The Ragnarok",
+   "ja": "ラグナロク級拘束艦",
+   "zh-CN": "诸神黄昏级拘束舰",
+   "zh-TW": "諸神黃昏級拘束艦"
+  },
+  "parent": "the-ragnarok"
+ },
+ {
+  "slug": "the-studium",
+  "en": "The Studium",
+  "ja": "シャーレアン魔法大学",
+  "cn": "萨雷安魔法大学",
+  "tw": "薩雷安魔法大學",
+  "area": {
+   "en": "Hall of the Secutores",
+   "ja": "剣闘の間",
+   "zh-CN": "剑斗间",
+   "zh-TW": "劍鬥間"
+  },
+  "parent": "old-sharlayan"
+ },
+ {
+  "slug": "the-tribunal",
+  "en": "The Tribunal",
+  "ja": "神聖裁判所",
+  "cn": "神圣裁判所",
+  "tw": "神聖裁判所",
+  "area": {
+   "en": "The Flock",
+   "ja": "ドードー営巣地",
+   "zh-CN": "渡渡鸟巢营",
+   "zh-TW": "渡渡鳥巢營"
+  },
+  "parent": "the-flock"
+ },
+ {
+  "slug": "weavers-guild",
+  "en": "Weavers' Guild",
+  "ja": "裁縫師ギルド前",
+  "cn": "裁衣匠行会前",
+  "tw": "裁衣匠行會前",
+  "area": {
+   "en": "Ul'dah - Steps of Thal",
+   "ja": "ウルダハ：ザル回廊",
+   "zh-CN": "乌尔达哈来生回廊",
+   "zh-TW": "烏爾達哈來生迴廊"
+  },
+  "parent": "ul-dah-steps-of-thal"
+ },
+ {
+  "slug": "west-idyllshire",
+  "en": "West Idyllshire",
+  "ja": "イディルシャイア西",
+  "cn": "田园郡西",
+  "tw": "田園郡西",
+  "area": {
+   "en": "Sagolii Desert",
+   "ja": "サゴリー砂漠",
+   "zh-CN": "撒沟厉沙漠",
+   "zh-TW": "撒溝厲沙漠"
+  },
+  "parent": "idyllshire"
+ },
+ {
+  "slug": "western-rhalgr-s-reach",
+  "en": "Western Rhalgr's Reach",
+  "ja": "ラールガーズリーチ西",
+  "cn": "神拳痕西",
+  "tw": "神拳痕西",
+  "area": {
+   "en": "Warmwine Sanitorium",
+   "ja": "ウォームワイン・サナトリウム",
+   "zh-CN": "温酒疗养院",
+   "zh-TW": "溫酒療養院"
+  },
+  "parent": "rhalgr-s-reach"
+ },
+ {
+  "slug": "wonder-square-east",
+  "en": "Wonder Square East",
+  "ja": "ワンダースクウェア東（ドマ式麻雀）",
+  "cn": "奇妙广场东区（多玛方城战）",
+  "tw": "奇妙廣場東區（多瑪方城戰）",
+  "area": {
+   "en": "The Eyes",
+   "ja": "眼鏡岩",
+   "zh-CN": "眼镜岩",
+   "zh-TW": "眼鏡巖"
+  },
+  "parent": "the-eyes"
+ },
+ {
+  "slug": "wonder-square-west",
+  "en": "Wonder Square West",
+  "ja": "ワンダースクウェア西",
+  "cn": "奇妙广场西区",
+  "tw": "奇妙廣場西區",
+  "area": {
+   "en": "The Eyes",
+   "ja": "眼鏡岩",
+   "zh-CN": "眼镜岩",
+   "zh-TW": "眼鏡巖"
+  },
+  "parent": "the-eyes"
+ },
+ {
+  "slug": "xak-tural-skygate-shaaloani",
+  "en": "Xak Tural Skygate (Shaaloani)",
+  "ja": "サカ・トラル関門（シャーローニ荒野方面）",
+  "cn": "萨卡图拉尔关门（夏劳尼荒野方面）",
+  "tw": "薩卡圖拉爾關門（夏勞尼荒野方面）",
+  "area": {
+   "en": "Path of Redemption",
+   "ja": "煉獄の迷宮",
+   "zh-CN": "炼狱迷路",
+   "zh-TW": "煉獄迷路"
+  },
+  "parent": "shaaloani"
+ }
+]

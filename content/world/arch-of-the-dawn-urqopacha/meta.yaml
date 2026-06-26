@@ -1,0 +1,10 @@
+id: arch-of-the-dawn-urqopacha
+category: world
+type: aethernet
+rank: aetheryte
+parent: world/urqopacha
+aethernet: "Arch of the Dawn (Urqopacha)"
+area: "The Crossroads"
+related: [world/urqopacha]
+tags: [aethernet, aetheryte, travel, teleport]
+status: stable

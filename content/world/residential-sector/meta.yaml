@@ -1,0 +1,10 @@
+id: residential-sector
+category: world
+type: aethernet
+rank: aetheryte
+parent: world/solution-nine
+aethernet: "Residential Sector"
+area: "Lower Sanctum"
+related: [world/solution-nine]
+tags: [aethernet, aetheryte, travel, teleport]
+status: stable

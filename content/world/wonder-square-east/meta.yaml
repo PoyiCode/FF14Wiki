@@ -1,0 +1,10 @@
+id: wonder-square-east
+category: world
+type: aethernet
+rank: aetheryte
+parent: world/the-eyes
+aethernet: "Wonder Square East"
+area: "The Eyes"
+related: [world/the-eyes]
+tags: [aethernet, aetheryte, travel, teleport]
+status: stable

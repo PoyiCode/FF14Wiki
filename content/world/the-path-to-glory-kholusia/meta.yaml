@@ -1,0 +1,10 @@
+id: the-path-to-glory-kholusia
+category: world
+type: aethernet
+rank: aetheryte
+parent: world/kholusia
+aethernet: "The Path to Glory (Kholusia)"
+area: "山スポット25"
+related: [world/kholusia]
+tags: [aethernet, aetheryte, travel, teleport]
+status: stable

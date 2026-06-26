@@ -1,0 +1,10 @@
+id: kama
+category: world
+type: aethernet
+rank: aetheryte
+parent: world/radz-at-han
+aethernet: "Kama"
+area: "Hall of the Bestiarii"
+related: [world/radz-at-han]
+tags: [aethernet, aetheryte, travel, teleport]
+status: stable

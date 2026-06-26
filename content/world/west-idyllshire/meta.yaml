@@ -1,0 +1,10 @@
+id: west-idyllshire
+category: world
+type: aethernet
+rank: aetheryte
+parent: world/idyllshire
+aethernet: "West Idyllshire"
+area: "Sagolii Desert"
+related: [world/idyllshire]
+tags: [aethernet, aetheryte, travel, teleport]
+status: stable

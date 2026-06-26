@@ -1,0 +1,10 @@
+id: the-northern-enclave
+category: world
+type: aethernet
+rank: aetheryte
+parent: world/the-ragnarok
+aethernet: "The Northern Enclave"
+area: "The Ragnarok"
+related: [world/the-ragnarok]
+tags: [aethernet, aetheryte, travel, teleport]
+status: stable

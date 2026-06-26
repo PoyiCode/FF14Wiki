@@ -1,0 +1,10 @@
+id: ferry-docks
+category: world
+type: aethernet
+rank: aetheryte
+parent: world/the-ragnarok
+aethernet: "Ferry Docks"
+area: "The Ragnarok"
+related: [world/the-ragnarok]
+tags: [aethernet, aetheryte, travel, teleport]
+status: stable

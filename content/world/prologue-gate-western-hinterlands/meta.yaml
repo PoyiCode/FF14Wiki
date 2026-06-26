@@ -1,0 +1,10 @@
+id: prologue-gate-western-hinterlands
+category: world
+type: aethernet
+rank: aetheryte
+parent: world/the-severed-string
+aethernet: "Prologue Gate (Western Hinterlands)"
+area: "The Severed String"
+related: [world/the-severed-string]
+tags: [aethernet, aetheryte, travel, teleport]
+status: stable

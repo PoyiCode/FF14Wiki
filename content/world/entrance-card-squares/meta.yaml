@@ -1,0 +1,10 @@
+id: entrance-card-squares
+category: world
+type: aethernet
+rank: aetheryte
+parent: world/the-eyes
+aethernet: "Entrance & Card Squares"
+area: "The Eyes"
+related: [world/the-eyes]
+tags: [aethernet, aetheryte, travel, teleport]
+status: stable

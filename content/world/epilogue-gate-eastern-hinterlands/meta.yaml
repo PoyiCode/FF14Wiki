@@ -1,0 +1,10 @@
+id: epilogue-gate-eastern-hinterlands
+category: world
+type: aethernet
+rank: aetheryte
+parent: world/the-severed-string
+aethernet: "Epilogue Gate (Eastern Hinterlands)"
+area: "The Severed String"
+related: [world/the-severed-string]
+tags: [aethernet, aetheryte, travel, teleport]
+status: stable

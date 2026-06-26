@@ -1,0 +1,10 @@
+id: kogane-dori-markets
+category: world
+type: aethernet
+rank: aetheryte
+parent: world/kugane
+aethernet: "Kogane Dori Markets"
+area: "Crescent Cove Docks"
+related: [world/kugane]
+tags: [aethernet, aetheryte, travel, teleport]
+status: stable

@@ -1,0 +1,10 @@
+id: athenaeum-astrologicum
+category: world
+type: aethernet
+rank: aetheryte
+parent: world/the-flock
+aethernet: "Athenaeum Astrologicum"
+area: "The Flock"
+related: [world/the-flock]
+tags: [aethernet, aetheryte, travel, teleport]
+status: stable

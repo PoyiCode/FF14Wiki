@@ -1,0 +1,10 @@
+id: skysteel-manufactory
+category: world
+type: aethernet
+rank: aetheryte
+parent: world/swiftperch
+aethernet: "Skysteel Manufactory"
+area: "Swiftperch"
+related: [world/swiftperch]
+tags: [aethernet, aetheryte, travel, teleport]
+status: stable

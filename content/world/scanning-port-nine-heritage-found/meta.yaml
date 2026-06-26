@@ -1,0 +1,10 @@
+id: scanning-port-nine-heritage-found
+category: world
+type: aethernet
+rank: aetheryte
+parent: world/heritage-found
+aethernet: "Scanning Port Nine (Heritage Found)"
+area: "Walk of Ascension"
+related: [world/heritage-found]
+tags: [aethernet, aetheryte, travel, teleport]
+status: stable

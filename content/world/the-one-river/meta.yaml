@@ -1,0 +1,10 @@
+id: the-one-river
+category: world
+type: aethernet
+rank: aetheryte
+parent: world/yanxia
+aethernet: "The One River"
+area: "Heart of the Sworn"
+related: [world/yanxia]
+tags: [aethernet, aetheryte, travel, teleport]
+status: stable

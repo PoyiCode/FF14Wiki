@@ -1,0 +1,10 @@
+id: xak-tural-skygate-shaaloani
+category: world
+type: aethernet
+rank: aetheryte
+parent: world/shaaloani
+aethernet: "Xak Tural Skygate (Shaaloani)"
+area: "Path of Redemption"
+related: [world/shaaloani]
+tags: [aethernet, aetheryte, travel, teleport]
+status: stable

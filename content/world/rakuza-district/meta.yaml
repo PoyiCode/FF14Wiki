@@ -1,0 +1,10 @@
+id: rakuza-district
+category: world
+type: aethernet
+rank: aetheryte
+parent: world/kugane
+aethernet: "Rakuza District"
+area: "Crescent Cove Docks"
+related: [world/kugane]
+tags: [aethernet, aetheryte, travel, teleport]
+status: stable

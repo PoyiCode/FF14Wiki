@@ -1,0 +1,10 @@
+id: the-hall-of-artifice-labyrinthos
+category: world
+type: aethernet
+rank: aetheryte
+parent: world/labyrinthos
+aethernet: "The Hall of Artifice (Labyrinthos)"
+area: "Frondale's Home for Friendless Foundlings"
+related: [world/labyrinthos]
+tags: [aethernet, aetheryte, travel, teleport]
+status: stable

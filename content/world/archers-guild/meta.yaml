@@ -1,0 +1,10 @@
+id: archers-guild
+category: world
+type: aethernet
+rank: aetheryte
+parent: world/new-gridania
+aethernet: "Archers' Guild"
+area: "New Gridania"
+related: [world/new-gridania]
+tags: [aethernet, aetheryte, travel, teleport]
+status: stable
