@@ -5,6 +5,6 @@ rank: landmark
 parent: world/gyr-abania
 zone: "The Peaks"
 region: "Gyr Abania"
-related: [gyr-abania, fair-skies, clouds, clear-skies, fog, wind, dust-storms, world/ala-gannha, world/ala-ghiri, world/byron-s-bread, world/coldhearth, world/emprise, world/goodblade, world/heather-falls, world/hidden-tear, world/mason-s-falls, world/momoroon-s-milk, world/nyunkrepf-s-hope, world/peaks-gate, world/radiata, world/sleeping-stones, world/specula-imperatoris, world/the-arms-of-meed, world/the-carmine-kitchen, world/the-choler, world/the-ephor, world/the-scabbard, world/the-ziggurat, world/whitherwander]
+related: [gyr-abania, fair-skies, clouds, clear-skies, fog, wind, dust-storms, world/ala-gannha, world/ala-ghiri, world/byron-s-bread, world/coldhearth, world/emprise, world/goodblade, world/heather-falls, world/hidden-tear, world/mason-s-falls, world/momoroon-s-milk, world/nyunkrepf-s-hope, world/peaks-gate, world/radiata, world/sleeping-stones, world/specula-imperatoris, world/the-arms-of-meed, world/the-carmine-kitchen, world/the-choler, world/the-ephor, world/the-scabbard, world/the-ziggurat, world/whitherwander, sightseeing/specula-imperatoris-2]
 tags: [zone, region, travel]
 status: stable

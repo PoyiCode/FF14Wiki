@@ -3,6 +3,6 @@ category: sightseeing
 type: vista
 place: "Living Memory"
 emote: "/lookout"
-related: [lookout]
+related: [lookout, world/living-memory]
 tags: [sightseeing, vista, travel]
 status: stable

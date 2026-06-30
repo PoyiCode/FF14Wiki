@@ -3,6 +3,6 @@ category: sightseeing
 type: vista
 place: "Heritage Found"
 emote: "/lookout"
-related: [lookout]
+related: [lookout, world/heritage-found]
 tags: [sightseeing, vista, travel]
 status: stable

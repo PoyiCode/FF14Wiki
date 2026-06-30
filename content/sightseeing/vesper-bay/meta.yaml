@@ -5,6 +5,6 @@ place: "Western Thanalan"
 time: ["12:00", "16:59"]
 weather: "Fair Skies"
 emote: "/point"
-related: [point, fair-skies]
+related: [point, fair-skies, world/western-thanalan]
 tags: [sightseeing, vista, travel]
 status: stable

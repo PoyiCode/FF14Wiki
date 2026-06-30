@@ -3,6 +3,6 @@ category: sightseeing
 type: vista
 place: "The Dravanian Forelands"
 emote: "/pray"
-related: [pray]
+related: [pray, world/the-dravanian-forelands]
 tags: [sightseeing, vista, travel]
 status: stable

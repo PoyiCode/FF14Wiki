@@ -3,6 +3,6 @@ category: sightseeing
 type: vista
 place: "Solution Nine"
 emote: "/lookout"
-related: [solution-nine, lookout]
+related: [world/solution-nine, lookout]
 tags: [sightseeing, vista, travel]
 status: stable

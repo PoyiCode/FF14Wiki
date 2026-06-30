@@ -5,6 +5,6 @@ rank: landmark
 parent: world/dravania
 zone: "The Churning Mists"
 region: "Dravania"
-related: [dravania, clear-skies, fair-skies, umbral-static, clouds, gales, world/asah, world/bahrr-lehs, world/easton-eyes, world/moghome, world/monsterie, world/mother-of-the-sheave, world/sothton-walls, world/tharl-oom-khash, world/the-house-of-letters, world/the-lost-landlord, world/the-rookery, world/weston-waters, world/zenith]
+related: [dravania, clear-skies, fair-skies, umbral-static, clouds, gales, world/asah, world/bahrr-lehs, world/easton-eyes, world/moghome, world/monsterie, world/mother-of-the-sheave, world/sothton-walls, world/tharl-oom-khash, world/the-house-of-letters, world/the-lost-landlord, world/the-rookery, world/weston-waters, world/zenith, sightseeing/landlord-colony, sightseeing/statue-of-the-unsung, sightseeing/the-aery, sightseeing/the-old-father]
 tags: [zone, region, travel]
 status: stable

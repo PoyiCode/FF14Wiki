@@ -5,6 +5,6 @@ rank: landmark
 parent: world/othard
 zone: "The Azim Steppe"
 region: "Othard"
-related: [othard, fair-skies, clear-skies, clouds, fog, rain, gales, wind, world/ceol-aen, world/chakha-zoh, world/dhoro-iloh, world/dotharl-khaa, world/kahkol-iloh, world/mol-iloh, world/moonrise, world/qerel-iloh, world/ragill-s-reckoning, world/reunion, world/the-bridge-of-the-high-rule-warriors, world/the-dawn-throne, world/the-dusk-throne, world/the-house-of-the-crooked-coin, world/the-hundred-and-one-revelations, world/the-path-of-the-craven, world/the-uyagir-caves]
+related: [othard, fair-skies, clear-skies, clouds, fog, rain, gales, wind, world/ceol-aen, world/chakha-zoh, world/dhoro-iloh, world/dotharl-khaa, world/kahkol-iloh, world/mol-iloh, world/moonrise, world/qerel-iloh, world/ragill-s-reckoning, world/reunion, world/the-bridge-of-the-high-rule-warriors, world/the-dawn-throne, world/the-dusk-throne, world/the-house-of-the-crooked-coin, world/the-hundred-and-one-revelations, world/the-path-of-the-craven, world/the-uyagir-caves, sightseeing/moai-statue]
 tags: [zone, region, travel]
 status: stable

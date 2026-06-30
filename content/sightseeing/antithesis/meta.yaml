@@ -3,6 +3,6 @@ category: sightseeing
 type: vista
 place: "Azys Lla"
 emote: "/lookout"
-related: [lookout]
+related: [lookout, world/azys-lla]
 tags: [sightseeing, vista, travel]
 status: stable

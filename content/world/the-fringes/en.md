@@ -10,3 +10,5 @@ Common weather here: Fair Skies（45%）, Clouds（20%）, Clear Skies（15%）,
 Landmarks here: Bittermill, Castellum Corvi, Castellum Velodyna, Fletcher's Cabin, Gyr Kehim, Liberty Gate, Owyn's Stash, Qalyana Nilya, Schism, The Circles of Answering, The Comet's Tail, The Pall of Clarity, The Percipient One, The Yawn, Vira Nilya
 
 Aetherytes here: Castrum Oriens, Fringes Gate, The Peering Stones
+
+Vistas here: Castellum Velodyna, Castrum Oriens, Dimwold, Djanan Qhat, Gyr Kehim, Schism, The Peering Stones, The Yawn

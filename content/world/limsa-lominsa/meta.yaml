@@ -8,7 +8,7 @@ region: la-noscea
 coords: { x: 9.5, y: 11.0 } # 城內主廣場大致地圖座標
 aetheryte: Limsa Lominsa Lower Decks # 傳送點以遊戲內英文名為準（語言中立識別碼）
 tags: [city, port, pirates, maelstrom, starting-city]
-related: [la-noscea, the-drowning-wench, fair-skies, world/limsa-lominsa-lower-decks, world/limsa-lominsa-upper-decks]
+related: [la-noscea, the-drowning-wench, fair-skies, world/limsa-lominsa-lower-decks, world/limsa-lominsa-upper-decks, sightseeing/barracuda-piers, sightseeing/the-astalicia]
 travel:
   teleport: Limsa Lominsa Lower Decks
   notes: 由 Lower Decks 可搭電梯往 Upper Decks；對外有飛艇站。

@@ -10,3 +10,5 @@ Common weather here: Clear Skies（30%）, Rain（15%）, Fair Skies（15%）, F
 Landmarks here: Amarissaix's Spire, Fullflower Comb, Goldleaf Dais, Hanging Barbs, Josselin's Spire, Little Solace, Moonspore Grove, Sanctum of the Twelve, The Hedgetree, The Seedbed
 
 Aetherytes here: The Hawthorne Hut
+
+Vistas here: Little Solace, The Sanctum of the Twelve, The Seedbed

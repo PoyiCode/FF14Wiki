@@ -5,6 +5,6 @@ rank: landmark
 parent: world/abalathias-spine
 zone: "The Sea of Clouds"
 region: "Abalathia's Spine"
-related: [clear-skies, fair-skies, clouds, fog, wind, umbral-wind, world/camp-cloudtop, world/coldwind, world/disappearing-falls, world/hall-of-the-fallen-plume, world/hearth-of-the-mighty-bendu, world/hengr-s-crucible, world/mok-oogl-island, world/morrowmotes, world/ok-gundu, world/ok-gundu-nakki, world/ok-zundu, world/provenance, world/the-cromlech, world/the-eddies, world/the-nidifice, world/the-parrock, world/the-protector, world/the-rosehouse, world/the-shattered-back, world/the-whale-s-crown]
+related: [clear-skies, fair-skies, clouds, fog, wind, umbral-wind, world/camp-cloudtop, world/coldwind, world/disappearing-falls, world/hall-of-the-fallen-plume, world/hearth-of-the-mighty-bendu, world/hengr-s-crucible, world/mok-oogl-island, world/morrowmotes, world/ok-gundu, world/ok-gundu-nakki, world/ok-zundu, world/provenance, world/the-cromlech, world/the-eddies, world/the-nidifice, world/the-parrock, world/the-protector, world/the-rosehouse, world/the-shattered-back, world/the-whale-s-crown, sightseeing/ok-vundu-vana, sightseeing/voor-sian-siran]
 tags: [zone, region, travel]
 status: stable

@@ -10,3 +10,5 @@ Common weather here: Snow（40%）, Blizzards（20%）, Clouds（15%）, Fair Sk
 Landmarks here: Behemoth's Dominion, Daniffen Pass, First Dicasterial Observatorium of Aetherial and Astrological Phenomena, Gates of Judgement, Griffin Crossing, Hall of the Seven Echoes, Intercessory, Monument Tower, Skyfire Locks, Steel Vigil, The Fury's Gaze, The Ogre's Belly, The Weeping Saint, Whitebrim Front, Witchdrop
 
 Aetherytes here: Camp Dragonhead
+
+Vistas here: Boulder Downs, Camp Dragonhead, Snowcloak, The Frozen Fang, The Fury's Gaze, The Holy See of Ishgard, The Nail, The Observatorium, The Steel Vigil

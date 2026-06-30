@@ -5,6 +5,6 @@ place: "Southern Thanalan"
 time: ["12:00", "16:59"]
 weather: "Heat Waves"
 emote: "/lookout"
-related: [lookout, heat-waves]
+related: [lookout, heat-waves, world/southern-thanalan]
 tags: [sightseeing, vista, travel]
 status: stable

@@ -10,3 +10,5 @@ Common weather here: Clear Skies（30%）, Fair Skies（20%）, Clouds（20%）,
 Landmarks here: Camp Skull Valley, Hall of the Novice, Moonshade Isle, North Tidegate, Novv's Nursery, Reaver Hide, Sahagin Landbase, South Tidegate, The Brewer's Beacon, The Flock, The Founder's Crypt, The Reef of Sending, The Serpent's Tongue, The Ship Graveyard
 
 Aetherytes here: Aleport, Swiftperch
+
+Vistas here: Camp Skull Valley, The Brewer's Beacon, The Navigator, The Ship Graveyard, Tidegate

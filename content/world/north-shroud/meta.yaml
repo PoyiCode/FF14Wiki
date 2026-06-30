@@ -5,6 +5,6 @@ rank: landmark
 parent: world/the-black-shroud
 zone: "North Shroud"
 region: "The Black Shroud"
-related: [the-black-shroud, fair-skies, clear-skies, rain, clouds, fog, showers, world/blessed-bud, world/e-tatt-s-spire, world/ehcatl, world/eugenia-s-spire, world/fallgourd-float, world/finders-bluff, world/florentel-s-spire, world/gelmorra-ruins, world/hyrstmill, world/ixali-logging-grounds, world/the-bobbing-cork, world/the-hedgetree-north-shroud, world/treespeak-stables, world/yellow-serpent-gate-north-shroud]
+related: [the-black-shroud, fair-skies, clear-skies, rain, clouds, fog, showers, world/blessed-bud, world/e-tatt-s-spire, world/ehcatl, world/eugenia-s-spire, world/fallgourd-float, world/finders-bluff, world/florentel-s-spire, world/gelmorra-ruins, world/hyrstmill, world/ixali-logging-grounds, world/the-bobbing-cork, world/the-hedgetree-north-shroud, world/treespeak-stables, world/yellow-serpent-gate-north-shroud, sightseeing/alder-springs, sightseeing/fallen-neurolink]
 tags: [zone, region, travel]
 status: stable

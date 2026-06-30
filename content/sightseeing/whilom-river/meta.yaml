@@ -3,6 +3,6 @@ category: sightseeing
 type: vista
 place: "The Dravanian Forelands"
 emote: "/lookout"
-related: [lookout]
+related: [lookout, world/the-dravanian-forelands]
 tags: [sightseeing, vista, travel]
 status: stable

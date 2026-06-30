@@ -3,6 +3,6 @@ category: sightseeing
 type: vista
 place: "Eulmore"
 emote: "/lookout"
-related: [eulmore, lookout]
+related: [world/eulmore, lookout]
 tags: [sightseeing, vista, travel]
 status: stable

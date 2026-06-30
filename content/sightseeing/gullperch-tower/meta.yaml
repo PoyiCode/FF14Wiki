@@ -5,6 +5,6 @@ place: "Eastern La Noscea"
 time: ["18:00", "04:59"]
 weather: "Rain"
 emote: "/lookout"
-related: [lookout, rain]
+related: [lookout, rain, world/eastern-la-noscea]
 tags: [sightseeing, vista, travel]
 status: stable

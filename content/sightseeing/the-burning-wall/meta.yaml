@@ -5,6 +5,6 @@ place: "Eastern Thanalan"
 time: ["12:00", "16:59"]
 weather: "Clear Skies"
 emote: "/lookout"
-related: [lookout, clear-skies]
+related: [lookout, clear-skies, world/eastern-thanalan]
 tags: [sightseeing, vista, travel]
 status: stable

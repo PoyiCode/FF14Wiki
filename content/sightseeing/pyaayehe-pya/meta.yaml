@@ -3,6 +3,6 @@ category: sightseeing
 type: vista
 place: "Shaaloani"
 emote: "/lookout"
-related: [lookout]
+related: [lookout, world/shaaloani]
 tags: [sightseeing, vista, travel]
 status: stable

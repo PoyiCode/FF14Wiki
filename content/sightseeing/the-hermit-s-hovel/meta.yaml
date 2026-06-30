@@ -5,6 +5,6 @@ place: "Outer La Noscea"
 time: ["18:00", "04:59"]
 weather: "Rain"
 emote: "/lounge"
-related: [rain]
+related: [rain, world/outer-la-noscea]
 tags: [sightseeing, vista, travel]
 status: stable

@@ -8,3 +8,5 @@ summary: "An aetheryte (teleport point) in Norvrandt."
 Common weather here: Fair Skies（40%）, Clouds（15%）, Clear Skies（15%）, Gales（10%）, Rain（10%）, Fog（10%）
 
 Landmarks here: Customs Hold, Customs Office A-1, Customs Office A-2, Eulmoran Army Headquarters, Joyous Hall, Nightsoil Pots, Skyfront, The Beehive, The Bureau of Immigration, The Bureau of Registration, The Crown Lift, The Delousery, The Glory Gate, The Grand Dame's Parlor, The Mainstay, The Xylem Lift
+
+Vistas here: Eulmoran Army Headquarters, The Beehive, The Derelicts, The Glory Gate

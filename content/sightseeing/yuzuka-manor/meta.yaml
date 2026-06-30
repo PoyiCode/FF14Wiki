@@ -3,6 +3,6 @@ category: sightseeing
 type: vista
 place: "Yanxia"
 emote: "/lookout"
-related: [lookout]
+related: [lookout, world/yanxia]
 tags: [sightseeing, vista, travel]
 status: stable

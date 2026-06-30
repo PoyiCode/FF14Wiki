@@ -3,6 +3,6 @@ category: sightseeing
 type: vista
 place: "Thavnair"
 emote: "/lookout"
-related: [lookout]
+related: [lookout, world/thavnair]
 tags: [sightseeing, vista, travel]
 status: stable

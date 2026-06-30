@@ -5,6 +5,6 @@ rank: landmark
 parent: world/xak-tural
 zone: "Heritage Found"
 region: "Xak Tural"
-related: [xak-tural, umbral-static, clouds, fog, fair-skies, rain, thunderstorms, world/crackling-chasm, world/earthen-sky, world/electric-potential, world/electrope-strike, world/everkeep, world/scanning-port-nine-heritage-found, world/spire-of-trial, world/submerged-skyline, world/tesh-pyani-village, world/the-driftdowns, world/the-nameslates, world/the-outskirts, world/the-thunderyards, world/tumbled-hearthrises, world/vanguard, world/yyasulani-station, world/yyupye-s-halo]
+related: [xak-tural, umbral-static, clouds, fog, fair-skies, rain, thunderstorms, world/crackling-chasm, world/earthen-sky, world/electric-potential, world/electrope-strike, world/everkeep, world/scanning-port-nine-heritage-found, world/spire-of-trial, world/submerged-skyline, world/tesh-pyani-village, world/the-driftdowns, world/the-nameslates, world/the-outskirts, world/the-thunderyards, world/tumbled-hearthrises, world/vanguard, world/yyasulani-station, world/yyupye-s-halo, sightseeing/archeo-alexandria]
 tags: [zone, region, travel]
 status: stable

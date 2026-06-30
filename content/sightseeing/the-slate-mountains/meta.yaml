@@ -3,6 +3,6 @@ category: sightseeing
 type: vista
 place: "Coerthas Western Highlands"
 emote: "/me"
-related: [me]
+related: [me, world/coerthas-western-highlands]
 tags: [sightseeing, vista, travel]
 status: stable

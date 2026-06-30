@@ -5,6 +5,6 @@ rank: landmark
 parent: world/coerthas
 zone: "Coerthas Western Highlands"
 region: "Coerthas"
-related: [coerthas, snow, blizzards, clouds, fair-skies, fog, clear-skies, world/black-iron-bridge, world/camp-riversmeet, world/dragonspit, world/falcons-nest, world/gorgagne-mills, world/greytail-falls, world/hemlock, world/lancegate, world/oakum-landing, world/slate-mountains, world/the-anvil, world/the-bed-of-bones, world/the-convictory, world/the-dreaming-dragon, world/the-ninth-vare, world/the-north-star, world/the-pike, world/the-warrens, world/the-watcher]
+related: [coerthas, snow, blizzards, clouds, fair-skies, fog, clear-skies, world/black-iron-bridge, world/camp-riversmeet, world/dragonspit, world/falcons-nest, world/gorgagne-mills, world/greytail-falls, world/hemlock, world/lancegate, world/oakum-landing, world/slate-mountains, world/the-anvil, world/the-bed-of-bones, world/the-convictory, world/the-dreaming-dragon, world/the-ninth-vare, world/the-north-star, world/the-pike, world/the-warrens, world/the-watcher, sightseeing/falcon-s-nest, sightseeing/the-dusk-vigil, sightseeing/the-slate-mountains]
 tags: [zone, region, travel]
 status: stable

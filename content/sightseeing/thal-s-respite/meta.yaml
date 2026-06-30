@@ -5,6 +5,6 @@ place: "Eastern Thanalan"
 time: ["18:00", "04:59"]
 weather: "Showers"
 emote: "/pray"
-related: [pray, showers]
+related: [pray, showers, world/eastern-thanalan]
 tags: [sightseeing, vista, travel]
 status: stable

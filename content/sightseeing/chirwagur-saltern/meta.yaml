@@ -3,6 +3,6 @@ category: sightseeing
 type: vista
 place: "Urqopacha"
 emote: "/lookout"
-related: [lookout]
+related: [lookout, world/urqopacha]
 tags: [sightseeing, vista, travel]
 status: stable

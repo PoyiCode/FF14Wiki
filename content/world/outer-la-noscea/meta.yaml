@@ -5,6 +5,6 @@ rank: landmark
 parent: world/la-noscea
 zone: "Outer La Noscea"
 region: "La Noscea"
-related: [la-noscea, clear-skies, fair-skies, clouds, fog, rain, world/789th-order-dig, world/camp-overlook, world/kobold-dig, world/the-floating-city-of-nym, world/the-hermit-s-hovel]
+related: [la-noscea, clear-skies, fair-skies, clouds, fog, rain, world/789th-order-dig, world/camp-overlook, world/kobold-dig, world/the-floating-city-of-nym, world/the-hermit-s-hovel, sightseeing/u-ghamaro-mines]
 tags: [zone, region, travel]
 status: stable

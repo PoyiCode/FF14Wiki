@@ -3,6 +3,6 @@ category: sightseeing
 type: vista
 place: "The Lochs"
 emote: "/lookout"
-related: [lookout]
+related: [lookout, world/the-lochs]
 tags: [sightseeing, vista, travel]
 status: stable

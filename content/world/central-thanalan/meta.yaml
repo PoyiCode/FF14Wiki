@@ -5,6 +5,6 @@ rank: landmark
 parent: world/thanalan
 zone: "Central Thanalan"
 region: "Thanalan"
-related: [thanalan, clear-skies, fair-skies, dust-storms, clouds, fog, rain, world/black-brush-station, world/fesca-s-wash, world/fesca-s-watch, world/gate-of-nald, world/gate-of-nald-central-thanalan, world/gate-of-thal, world/gate-of-thal-central-thanalan, world/lost-hope, world/nanawa-mines, world/royal-plantations, world/sagolii-gate, world/sil-dih-excavation-site, world/stonesthrow, world/sultantree, world/the-bonfire, world/the-coffer-coffin, world/the-quiveron-manse, world/the-rat-s-nest, world/the-unholy-heir, world/ul-dah-dispatch-yard]
+related: [thanalan, clear-skies, fair-skies, dust-storms, clouds, fog, rain, world/black-brush-station, world/fesca-s-wash, world/fesca-s-watch, world/gate-of-nald, world/gate-of-nald-central-thanalan, world/gate-of-thal, world/gate-of-thal-central-thanalan, world/lost-hope, world/nanawa-mines, world/royal-plantations, world/sagolii-gate, world/sil-dih-excavation-site, world/stonesthrow, world/sultantree, world/the-bonfire, world/the-coffer-coffin, world/the-quiveron-manse, world/the-rat-s-nest, world/the-unholy-heir, world/ul-dah-dispatch-yard, sightseeing/the-ruins-of-sil-dih]
 tags: [zone, region, travel]
 status: stable

@@ -15,3 +15,5 @@ Common weather here: Fair Skies（100%）
 Landmarks here: Limsa Lominsa Upper Decks
 
 Aetherytes here: Limsa Lominsa Lower Decks
+
+Vistas here: Barracuda Piers, The *Astalicia*

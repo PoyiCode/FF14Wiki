@@ -6,5 +6,5 @@ parent: world/norvrandt
 aetheryte: "The Crystarium"
 region: "Norvrandt"
 tags: [aetheryte, travel, teleport]
-related: [norvrandt, fair-skies, clear-skies, clouds, fog, rain, thunderstorms, world/airship-launch, world/ballistics, world/musica-universalis, world/spagyrics, world/sweetsieve, world/temenos-rookery, world/tessellation, world/the-amaro-launch, world/the-cabinet-of-curiosity, world/the-catenaries, world/the-crystalline-mean, world/the-dossal-gate, world/the-exedra, world/the-gangway, world/the-hortorium, world/the-pendants, world/the-syrcus-tower, world/the-wandering-stairs, world/the-whispering-gallery]
+related: [norvrandt, fair-skies, clear-skies, clouds, fog, rain, thunderstorms, world/airship-launch, world/ballistics, world/musica-universalis, world/spagyrics, world/sweetsieve, world/temenos-rookery, world/tessellation, world/the-amaro-launch, world/the-cabinet-of-curiosity, world/the-catenaries, world/the-crystalline-mean, world/the-dossal-gate, world/the-exedra, world/the-gangway, world/the-hortorium, world/the-pendants, world/the-syrcus-tower, world/the-wandering-stairs, world/the-whispering-gallery, sightseeing/rapture, sightseeing/the-rotunda]
 status: stable

@@ -10,3 +10,5 @@ Common weather here: Fair Skies（40%）, Clouds（20%）, Clear Skies（15%）,
 Landmarks here: Agama Temple, Akyaali, Giantsgall Grounds, Jnanamandapa, Kadjaya's Footsteps, Pavana's Remorse, Purusa, Svarna, Tebqeyiq, The Burning Field, The Font of Maya, The Hamsa Hatchery, The Wakeful Torana, Ussaqeyiq
 
 Aetherytes here: Palaka's Stand, The Gate of First Sight (Thavnair), The Great Work, Yedlihmad
+
+Vistas here: Giantsgall Grounds, Kadjaya's Footsteps, The Font of Maya, The Great Work, The Shroud of the Samgha, Yedlihmad

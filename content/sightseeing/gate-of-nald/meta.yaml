@@ -5,6 +5,6 @@ place: "Central Thanalan"
 time: ["12:00", "16:59"]
 weather: "Clear Skies"
 emote: "/groundsit"
-related: [groundsit, clear-skies]
+related: [groundsit, clear-skies, world/central-thanalan]
 tags: [sightseeing, vista, travel]
 status: stable

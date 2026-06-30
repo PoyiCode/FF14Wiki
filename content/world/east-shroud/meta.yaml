@@ -5,6 +5,6 @@ rank: landmark
 parent: world/the-black-shroud
 zone: "East Shroud"
 region: "The Black Shroud"
-related: [the-black-shroud, clear-skies, rain, fair-skies, fog, clouds, thunder, world/amarissaix-s-spire, world/fullflower-comb, world/goldleaf-dais, world/hanging-barbs, world/josselin-s-spire, world/little-solace, world/moonspore-grove, world/sanctum-of-the-twelve, world/the-hawthorne-hut, world/the-hedgetree-east-shroud, world/the-seedbed]
+related: [the-black-shroud, clear-skies, rain, fair-skies, fog, clouds, thunder, world/amarissaix-s-spire, world/fullflower-comb, world/goldleaf-dais, world/hanging-barbs, world/josselin-s-spire, world/little-solace, world/moonspore-grove, world/sanctum-of-the-twelve, world/the-hawthorne-hut, world/the-hedgetree-east-shroud, world/the-seedbed, sightseeing/the-sanctum-of-the-twelve]
 tags: [zone, region, travel]
 status: stable

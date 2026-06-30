@@ -10,3 +10,5 @@ Common weather here: Clear Skies（30%）, Fair Skies（30%）, Umbral Static（
 Landmarks here: Asah, Bahrr Lehs, Easton Eyes, Monsterie, Mother of the Sheave, Sothton Walls, Tharl Oom Khash, The House of Letters, The Lost Landlord, The Rookery, Weston Waters
 
 Aetherytes here: Moghome, Zenith
+
+Vistas here: Landlord Colony, Moghome, Statue of the Unsung, Tharl Oom Khash, The Aery, The House of Letters, The Lost Landlord, The Old Father, The Rookery, Zenith

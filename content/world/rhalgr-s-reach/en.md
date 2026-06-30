@@ -10,3 +10,5 @@ Common weather here: Fair Skies（45%）, Clouds（20%）, Clear Skies（15%）,
 Landmarks here: Bloodstorm, Chakra Falls, Recompense, The Barber, The Destroyer
 
 Aetherytes here: Northeastern Rhalgr's Reach, Western Rhalgr's Reach
+
+Vistas here: Bloodstorm, The Destroyer

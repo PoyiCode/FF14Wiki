@@ -5,6 +5,6 @@ rank: landmark
 parent: world/dravania
 zone: "The Dravanian Hinterlands"
 region: "Dravania"
-related: [dravania, clear-skies, fair-skies, clouds, fog, rain, showers, world/bigwest-shortstop, world/matoya-s-cave, world/path-of-knowing, world/stone-sky-sea, world/the-arkhitekton, world/the-asulon, world/the-daggers]
+related: [dravania, clear-skies, fair-skies, clouds, fog, rain, showers, world/bigwest-shortstop, world/matoya-s-cave, world/path-of-knowing, world/stone-sky-sea, world/the-arkhitekton, world/the-asulon, world/the-daggers, sightseeing/great-gubal-library, sightseeing/saint-mocianne-s-arboretum, sightseeing/the-answering-quarter, sightseeing/the-cenotaph, sightseeing/the-orn-wild, sightseeing/the-path-of-knowing, sightseeing/the-sage-s-cataract, sightseeing/the-tipped-ewer]
 tags: [zone, region, travel]
 status: stable

@@ -2,6 +2,6 @@ id: mor-dhona
 category: world
 type: region
 rank: region
-related: [gloom, fair-skies, clouds, fog, clear-skies, mor-dhona, world/camp-revenant-s-toll, world/castrum-centri, world/crystal-gate, world/rathefrost, world/revenants-toll, world/rowena-s-house-of-splendors, world/saint-coinach-s-find, world/the-diamond-forge, world/the-rising-stones, world/the-seventh-heaven, world/the-tangle]
+related: [gloom, fair-skies, clouds, fog, clear-skies, mor-dhona, world/camp-revenant-s-toll, world/castrum-centri, world/crystal-gate, world/rathefrost, world/revenants-toll, world/rowena-s-house-of-splendors, world/saint-coinach-s-find, world/the-diamond-forge, world/the-rising-stones, world/the-seventh-heaven, world/the-tangle, sightseeing/the-crystal-tower, sightseeing/the-keeper-of-the-lake]
 tags: [region, geography]
 status: stable

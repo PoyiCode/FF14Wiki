@@ -6,5 +6,5 @@ parent: world/norvrandt
 aetheryte: "Eulmore"
 region: "Norvrandt"
 tags: [aetheryte, travel, teleport]
-related: [norvrandt, fair-skies, clouds, clear-skies, gales, rain, fog, world/customs-hold, world/customs-office-a-1, world/customs-office-a-2, world/eulmoran-army-headquarters, world/joyous-hall, world/nightsoil-pots, world/skyfront, world/the-beehive, world/the-bureau-of-immigration, world/the-bureau-of-registration, world/the-crown-lift, world/the-delousery, world/the-glory-gate, world/the-grand-dame-s-parlor, world/the-mainstay, world/the-xylem-lift]
+related: [norvrandt, fair-skies, clouds, clear-skies, gales, rain, fog, world/customs-hold, world/customs-office-a-1, world/customs-office-a-2, world/eulmoran-army-headquarters, world/joyous-hall, world/nightsoil-pots, world/skyfront, world/the-beehive, world/the-bureau-of-immigration, world/the-bureau-of-registration, world/the-crown-lift, world/the-delousery, world/the-glory-gate, world/the-grand-dame-s-parlor, world/the-mainstay, world/the-xylem-lift, sightseeing/the-derelicts]
 status: stable

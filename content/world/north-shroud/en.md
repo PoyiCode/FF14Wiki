@@ -10,3 +10,5 @@ Common weather here: Fair Skies（30%）, Clear Skies（30%）, Rain（15%）, C
 Landmarks here: Blessed Bud, E-Tatt's Spire, Ehcatl, Eugenia's Spire, Finders' Bluff, Florentel's Spire, Gelmorra Ruins, Hyrstmill, Ixali Logging Grounds, The Bobbing Cork, The Hedgetree, Treespeak Stables, Yellow Serpent Gate
 
 Aetherytes here: Fallgourd Float
+
+Vistas here: Alder Springs, Fallen Neurolink, Ixali Logging Grounds

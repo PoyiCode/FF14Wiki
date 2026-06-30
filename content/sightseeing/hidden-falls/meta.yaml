@@ -5,6 +5,6 @@ place: "Eastern La Noscea"
 time: ["08:00", "11:59"]
 weather: "Clear Skies"
 emote: "/groundsit"
-related: [groundsit, clear-skies]
+related: [groundsit, clear-skies, world/eastern-la-noscea]
 tags: [sightseeing, vista, travel]
 status: stable

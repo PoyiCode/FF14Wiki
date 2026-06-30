@@ -5,6 +5,6 @@ rank: landmark
 parent: world/dravania
 zone: "The Dravanian Forelands"
 region: "Dravania"
-related: [dravania, clear-skies, fair-skies, clouds, fog, thunder, dust-storms, world/anyx-minor, world/anyx-old, world/anyx-trine, world/ehs-daih, world/gynehive, world/halo, world/loth-ast-vath, world/mare-s-oath, world/tailfeather, world/the-iron-feast, world/the-stained-one, world/thriphive]
+related: [dravania, clear-skies, fair-skies, clouds, fog, thunder, dust-storms, world/anyx-minor, world/anyx-old, world/anyx-trine, world/ehs-daih, world/gynehive, world/halo, world/loth-ast-vath, world/mare-s-oath, world/tailfeather, world/the-iron-feast, world/the-stained-one, world/thriphive, sightseeing/loth-ast-gnath, sightseeing/sohm-al, sightseeing/the-danneroad, sightseeing/the-hissing-cobbles, sightseeing/the-hundred-throes, sightseeing/whilom-river]
 tags: [zone, region, travel]
 status: stable

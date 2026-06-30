@@ -5,6 +5,6 @@ rank: landmark
 parent: world/ilsabard
 zone: "Garlemald"
 region: "Ilsabard"
-related: [ilsabard, snow, clouds, fair-skies, thunder, rain, fog, clear-skies, world/camp-broken-glass, world/forum-patens, world/forum-solius, world/horrea-campi, world/juturna-platform-g, world/liminal-station-iv, world/monitoring-station-g, world/palatium-novum, world/senaculum-imperialis, world/tapper-s-den, world/tertium, world/the-enceladeum, world/the-runaway-train, world/victors-spoils]
+related: [ilsabard, snow, clouds, fair-skies, thunder, rain, fog, clear-skies, world/camp-broken-glass, world/forum-patens, world/forum-solius, world/horrea-campi, world/juturna-platform-g, world/liminal-station-iv, world/monitoring-station-g, world/palatium-novum, world/senaculum-imperialis, world/tapper-s-den, world/tertium, world/the-enceladeum, world/the-runaway-train, world/victors-spoils, sightseeing/regio-urbanissima]
 tags: [zone, region, travel]
 status: stable

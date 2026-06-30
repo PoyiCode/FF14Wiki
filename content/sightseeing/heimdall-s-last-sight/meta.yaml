@@ -3,6 +3,6 @@ category: sightseeing
 type: vista
 place: "Mare Lamentorum"
 emote: "/lookout"
-related: [lookout]
+related: [lookout, world/mare-lamentorum]
 tags: [sightseeing, vista, travel]
 status: stable

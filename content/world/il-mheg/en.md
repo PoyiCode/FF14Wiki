@@ -10,3 +10,5 @@ Common weather here: Fair Skies（40%）, Clouds（15%）, Clear Skies（15%）,
 Landmarks here: Anden's Airs, Deepwood Swim, Father Collard's Chambers, Handmirror Lake, Lyhe Ghiah, Old Earra Bridge, Phisor Lran, Saint Fathric's Temple, Sextuplet Shallow, The Bookman's Shelves, The Church at Dammroen Field, The House of the First Light, The Silent Cliffs, Thysm Lran
 
 Aetherytes here: Lydha Lran, Pla Enni, Wolekdorf
+
+Vistas here: Deepwood Swim, Lydha Lran, Lyhe Ghiah, Pla Enni, Saint Fathric's Temple, The Bookman's Shelves

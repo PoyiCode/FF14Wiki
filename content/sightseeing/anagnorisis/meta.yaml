@@ -3,6 +3,6 @@ category: sightseeing
 type: vista
 place: "Elpis"
 emote: "/lookout"
-related: [lookout]
+related: [lookout, world/elpis]
 tags: [sightseeing, vista, travel]
 status: stable

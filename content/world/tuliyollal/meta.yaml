@@ -6,5 +6,5 @@ parent: world/yok-tural
 aetheryte: "Tuliyollal"
 region: "Yok Tural"
 tags: [aetheryte, travel, teleport]
-related: [yok-tural, clear-skies, fair-skies, fog, clouds, rain, world/alpaca-stables, world/arch-of-the-dawn, world/aunt-tii-s-tacos, world/bayside-bevy, world/bayside-bevy-marketplace, world/brightploom-post, world/dirigible-landing, world/downripple, world/ek-wawya-plaza, world/gornitruq-gleamsands, world/hunu-iliy, world/morrow-s-measure, world/pinion-s-reach, world/seafoam-fields, world/the-dawnherald, world/the-for-ard-cabins, world/the-resplendent-quarter, world/the-winged-walk, world/vollok-shoonsa, world/wachumeqimeqi, world/xak-tural-skygate, world/xbalyav-ty-e, world/zorgor-the-boundless]
+related: [yok-tural, clear-skies, fair-skies, fog, clouds, rain, world/alpaca-stables, world/arch-of-the-dawn, world/aunt-tii-s-tacos, world/bayside-bevy, world/bayside-bevy-marketplace, world/brightploom-post, world/dirigible-landing, world/downripple, world/ek-wawya-plaza, world/gornitruq-gleamsands, world/hunu-iliy, world/morrow-s-measure, world/pinion-s-reach, world/seafoam-fields, world/the-dawnherald, world/the-for-ard-cabins, world/the-resplendent-quarter, world/the-winged-walk, world/vollok-shoonsa, world/wachumeqimeqi, world/xak-tural-skygate, world/xbalyav-ty-e, world/zorgor-the-boundless, sightseeing/high-tide-harbor]
 status: stable

@@ -10,3 +10,5 @@ Common weather here: Clear Skies（40%）, Fair Skies（40%）, Fog（10%）, Cl
 Landmarks here: Alpaca Stables, Arch of the Dawn, Aunt Tii's Tacos, Bayside Bevy, Brightploom Post, Dirigible Landing, Downripple, Ek-wawya Plaza, Gornitruq Gleamsands, Hunu'iliy, Morrow's Measure, Pinion's Reach, Seafoam Fields, The Dawnherald, The For'ard Cabins, The Winged Walk, Vollok Shoonsa, Wachumeqimeqi, Xak Tural Skygate, Xbalyav Ty'e, Zorgor the Boundless
 
 Aetherytes here: Bayside Bevy Marketplace, The Resplendent Quarter
+
+Vistas here: Bayside Bevy, High Tide Harbor, Hunu'iliy, The For'ard Cabins, The Resplendent Quarter

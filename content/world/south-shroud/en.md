@@ -10,3 +10,5 @@ Common weather here: Fair Skies（30%）, Clear Skies（30%）, Thunder（15%）
 Landmarks here: Buscarron's Druthers, Buscarron's Scar, Goblins' Meet, Issom-Har, No Man's Hovel, Redbelly Hive, South Shroud Landing, Takers' Rot, The Mun–Tuy Cellars, Urth's Fount
 
 Aetherytes here: Camp Tranquil, Quarrymill
+
+Vistas here: Buscarron's Druthers, Quarrymill, South Shroud Landing, Urth's Gift

@@ -5,6 +5,6 @@ rank: landmark
 parent: world/norvrandt
 zone: "Lakeland"
 region: "Norvrandt"
-related: [norvrandt, fair-skies, clear-skies, clouds, fog, rain, thunderstorms, world/brick, world/clearmelt, world/dampsole, world/embrasure, world/fort-jobb, world/hare-among-giants, world/inviolate-witness, world/knot, world/lap, world/mortal-irons, world/northern-staging-point, world/radisca-s-round, world/tessellation-lakeland, world/the-accensor-gate, world/the-bridges, world/the-church-of-the-first-light, world/the-hall-of-the-thrice-born, world/the-hanging-tower, world/the-hour-of-certain-durance, world/the-isle-of-ken, world/the-ostall-imperative, world/the-stay, world/watts-s-anvil, world/weed, world/wolves-of-shadow]
+related: [norvrandt, fair-skies, clear-skies, clouds, fog, rain, thunderstorms, world/brick, world/clearmelt, world/dampsole, world/embrasure, world/fort-jobb, world/hare-among-giants, world/inviolate-witness, world/knot, world/lap, world/mortal-irons, world/northern-staging-point, world/radisca-s-round, world/tessellation-lakeland, world/the-accensor-gate, world/the-bridges, world/the-church-of-the-first-light, world/the-hall-of-the-thrice-born, world/the-hanging-tower, world/the-hour-of-certain-durance, world/the-isle-of-ken, world/the-ostall-imperative, world/the-stay, world/watts-s-anvil, world/weed, world/wolves-of-shadow, sightseeing/laxan-loft, sightseeing/sullen]
 tags: [zone, region, travel]
 status: stable

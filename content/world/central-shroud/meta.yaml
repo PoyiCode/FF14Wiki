@@ -5,6 +5,6 @@ rank: landmark
 parent: world/the-black-shroud
 zone: "Central Shroud"
 region: "The Black Shroud"
-related: [the-black-shroud, clear-skies, rain, fair-skies, fog, clouds, thunder, world/amberscale-rock, world/bentbranch-meadows, world/blue-badger-gate-central-shroud, world/dunstan-s-spire, world/everschade-the-guardian-tree, world/gabineaux-s-bower, world/galvanth-s-spire, world/gilbert-s-spire, world/hopeseed-pond, world/lifemend-stump, world/lilystone, world/naked-rock, world/sanguine-perch, world/spirithold, world/spriggan-dig, world/the-bannock, world/the-hedgetree, world/the-matron-s-lethe, world/the-mirror-planks, world/white-wolf-gate-central-shroud, world/white-wolf-gate-guard-central-shroud]
+related: [the-black-shroud, clear-skies, rain, fair-skies, fog, clouds, thunder, world/amberscale-rock, world/bentbranch-meadows, world/blue-badger-gate-central-shroud, world/dunstan-s-spire, world/everschade-the-guardian-tree, world/gabineaux-s-bower, world/galvanth-s-spire, world/gilbert-s-spire, world/hopeseed-pond, world/lifemend-stump, world/lilystone, world/naked-rock, world/sanguine-perch, world/spirithold, world/spriggan-dig, world/the-bannock, world/the-hedgetree, world/the-matron-s-lethe, world/the-mirror-planks, world/white-wolf-gate-central-shroud, world/white-wolf-gate-guard-central-shroud, sightseeing/haukke-manor, sightseeing/rainbow-bridge, sightseeing/the-guardian-tree]
 tags: [zone, region, travel]
 status: stable

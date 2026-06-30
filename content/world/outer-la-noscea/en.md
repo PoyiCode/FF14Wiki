@@ -10,3 +10,5 @@ Common weather here: Clear Skies（30%）, Fair Skies（20%）, Clouds（20%）,
 Landmarks here: 789th Order Dig, Kobold Dig, The Floating City of Nym, The Hermit's Hovel
 
 Aetherytes here: Camp Overlook
+
+Vistas here: Camp Overlook, The Floating City of Nym, The Hermit's Hovel, U'Ghamaro Mines

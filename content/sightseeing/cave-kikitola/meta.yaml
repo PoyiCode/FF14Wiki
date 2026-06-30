@@ -3,6 +3,6 @@ category: sightseeing
 type: vista
 place: "Kozama'uka"
 emote: "/lookout"
-related: [lookout]
+related: [lookout, world/kozama-uka]
 tags: [sightseeing, vista, travel]
 status: stable

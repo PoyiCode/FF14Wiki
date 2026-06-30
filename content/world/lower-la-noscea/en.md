@@ -10,3 +10,5 @@ Common weather here: Clear Skies（30%）, Clouds（20%）, Fair Skies（20%）,
 Landmarks here: Blind Iron Mines, Candlekeep Quay, Empty Heart, House of Sticks, Madman Bridge, Oschon's Embrace, Oschon's Torch, Red Rooster Stead, Tempest Gate, The Eyes, The Grey Fleet, The Salt Strand
 
 Aetherytes here: Moraby Drydocks
+
+Vistas here: Red Rooster Stead, The Grey Fleet, The Salt Strand

@@ -3,6 +3,6 @@ category: sightseeing
 type: vista
 place: "Rhalgr's Reach"
 emote: "/lookout"
-related: [lookout]
+related: [lookout, world/rhalgr-s-reach]
 tags: [sightseeing, vista, travel]
 status: stable

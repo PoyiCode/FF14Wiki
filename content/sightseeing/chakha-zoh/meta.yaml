@@ -3,6 +3,6 @@ category: sightseeing
 type: vista
 place: "The Azim Steppe"
 emote: "/pray"
-related: [pray]
+related: [pray, world/the-azim-steppe]
 tags: [sightseeing, vista, travel]
 status: stable

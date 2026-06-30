@@ -3,6 +3,6 @@ category: sightseeing
 type: vista
 place: "The Rak'tika Greatwood"
 emote: "/lookout"
-related: [lookout]
+related: [lookout, world/the-rak-tika-greatwood]
 tags: [sightseeing, vista, travel]
 status: stable

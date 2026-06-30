@@ -5,6 +5,6 @@ rank: landmark
 parent: world/the-sea-of-stars
 zone: "Mare Lamentorum"
 region: "The Sea of Stars"
-related: [the-sea-of-stars, fair-skies, umbral-wind, moon-dust, world/bestways-burrow, world/heimdall-s-last-sight, world/hoper-s-hold, world/kydonia-knolls, world/lovingway-s-darlings, world/sinus-lacrimarum, world/the-biting-brand, world/the-chlorophosgrot, world/the-cradle-of-darkness, world/the-crushing-brand, world/the-drowning-brand, world/the-numbing-brand, world/the-searing-brand, world/the-striking-brand, world/the-watcher-s-palace, world/vallis-vulneris]
+related: [the-sea-of-stars, fair-skies, umbral-wind, moon-dust, world/bestways-burrow, world/heimdall-s-last-sight, world/hoper-s-hold, world/kydonia-knolls, world/lovingway-s-darlings, world/sinus-lacrimarum, world/the-biting-brand, world/the-chlorophosgrot, world/the-cradle-of-darkness, world/the-crushing-brand, world/the-drowning-brand, world/the-numbing-brand, world/the-searing-brand, world/the-striking-brand, world/the-watcher-s-palace, world/vallis-vulneris, sightseeing/greatest-endsvale, sightseeing/the-carrotorium]
 tags: [zone, region, travel]
 status: stable

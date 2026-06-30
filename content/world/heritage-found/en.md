@@ -10,3 +10,5 @@ Common weather here: Umbral Static（50%）, Clouds（20%）, Fog（15%）, Fair
 Landmarks here: Crackling Chasm, Earthen Sky, Electric Potential, Everkeep, Spire of Trial, Submerged Skyline, Tesh'pyani Village, The Driftdowns, The Nameslates, The Thunderyards, Tumbled Hearthrises, Vanguard, Yyupye's Halo
 
 Aetherytes here: Electrope Strike, Scanning Port Nine (Heritage Found), The Outskirts, Yyasulani Station
+
+Vistas here: Archeo Alexandria, Crackling Chasm, Everkeep, The Nameslates, The Outskirts, The Thunderyards

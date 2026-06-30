@@ -5,6 +5,6 @@ place: "Western La Noscea"
 time: ["18:00", "04:59"]
 weather: "Gales"
 emote: "/lookout"
-related: [lookout, gales]
+related: [lookout, gales, world/western-la-noscea]
 tags: [sightseeing, vista, travel]
 status: stable

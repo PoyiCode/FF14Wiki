@@ -3,6 +3,6 @@ category: sightseeing
 type: vista
 place: "The Sea of Clouds"
 emote: "/lookout"
-related: [lookout]
+related: [lookout, world/the-sea-of-clouds]
 tags: [sightseeing, vista, travel]
 status: stable

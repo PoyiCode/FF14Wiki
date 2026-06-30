@@ -10,3 +10,5 @@ Common weather here: Clear Skies（45%）, Fair Skies（30%）, Clouds（10%）,
 Landmarks here: Castrum Occidens, Gullperch Tower, Hidden Falls, Isle of Endless Summer, Red Mantis Falls, The Garlok's Lair, The Severed String
 
 Aetherytes here: Costa del Sol, Wineport
+
+Vistas here: Gullperch Tower, Hidden Falls

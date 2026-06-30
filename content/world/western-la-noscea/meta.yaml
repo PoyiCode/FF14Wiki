@@ -5,6 +5,6 @@ rank: landmark
 parent: world/la-noscea
 zone: "Western La Noscea"
 region: "La Noscea"
-related: [la-noscea, clear-skies, fair-skies, clouds, fog, wind, gales, world/aleport, world/camp-skull-valley, world/hall-of-the-novice, world/moonshade-isle, world/north-tidegate, world/novv-s-nursery, world/reaver-hide, world/sahagin-landbase, world/south-tidegate, world/swiftperch, world/the-brewer-s-beacon, world/the-flock, world/the-founder-s-crypt, world/the-reef-of-sending, world/the-serpent-s-tongue, world/the-ship-graveyard]
+related: [la-noscea, clear-skies, fair-skies, clouds, fog, wind, gales, world/aleport, world/camp-skull-valley, world/hall-of-the-novice, world/moonshade-isle, world/north-tidegate, world/novv-s-nursery, world/reaver-hide, world/sahagin-landbase, world/south-tidegate, world/swiftperch, world/the-brewer-s-beacon, world/the-flock, world/the-founder-s-crypt, world/the-reef-of-sending, world/the-serpent-s-tongue, world/the-ship-graveyard, sightseeing/the-navigator, sightseeing/tidegate]
 tags: [zone, region, travel]
 status: stable

@@ -5,6 +5,6 @@ place: "Ul'dah"
 time: ["12:00", "16:59"]
 weather: "Clouds"
 emote: "/lookout"
-related: [lookout, clouds]
+related: [lookout, clouds, world/uldah]
 tags: [sightseeing, vista, travel]
 status: stable

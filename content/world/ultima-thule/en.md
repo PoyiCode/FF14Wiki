@@ -10,3 +10,5 @@ Common weather here: Fair Skies（70%）, Astromagnetic Storms（15%）, Umbral 
 Landmarks here: A-4 Research, Absolute Horizon, Ahm Nohl, Clouded Portal, Elegeia, Empty Portal, Fallow Portal, Hollow of the Flesh, Stigma-1, The Last Dregs, The Lost Hydraulic, The Nekropolis, The *Ragnarok*, The Tree of Life, The Tube, The Vitrified Fort, The Wellspring of Regret, Unmemoried Portal
 
 Aetherytes here: Abode of the Ea, Base Omicron, Reah Tahra
+
+Vistas here: Ostrakon Deka-hexi, Ostrakon Deka-okto, Ostrakon Hena, Ostrakon Tria, Stigma-1

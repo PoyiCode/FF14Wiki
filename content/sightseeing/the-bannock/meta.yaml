@@ -5,6 +5,6 @@ place: "Central Shroud"
 time: ["05:00", "07:59"]
 weather: "Rain"
 emote: "/lookout"
-related: [lookout, rain]
+related: [lookout, rain, world/central-shroud]
 tags: [sightseeing, vista, travel]
 status: stable

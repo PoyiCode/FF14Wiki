@@ -5,6 +5,6 @@ rank: landmark
 parent: world/thanalan
 zone: "Western Thanalan"
 region: "Thanalan"
-related: [thanalan, clear-skies, clouds, fair-skies, fog, rain, world/beaconhill-lighthouse, world/castrum-marinum, world/crescent-cove, world/gate-of-the-sultana, world/gate-of-the-sultana-western-thanalan, world/horizon, world/imperial-outpost, world/moondrip, world/parata-s-peace, world/scorpion-crossing, world/sunrise-gate, world/sunset-gate, world/the-east-hammer, world/the-silent-king, world/the-silver-bazaar, world/the-south-hammer, world/the-waking-sands, world/the-west-hammer, world/vesper-bay]
+related: [thanalan, clear-skies, clouds, fair-skies, fog, rain, world/beaconhill-lighthouse, world/castrum-marinum, world/crescent-cove, world/gate-of-the-sultana, world/gate-of-the-sultana-western-thanalan, world/horizon, world/imperial-outpost, world/moondrip, world/parata-s-peace, world/scorpion-crossing, world/sunrise-gate, world/sunset-gate, world/the-east-hammer, world/the-silent-king, world/the-silver-bazaar, world/the-south-hammer, world/the-waking-sands, world/the-west-hammer, world/vesper-bay, sightseeing/the-jewel-of-the-desert]
 tags: [zone, region, travel]
 status: stable

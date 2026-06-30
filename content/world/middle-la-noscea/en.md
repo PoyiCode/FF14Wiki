@@ -10,3 +10,5 @@ Common weather here: Clear Skies（30%）, Clouds（20%）, Fair Skies（20%）,
 Landmarks here: De Nevelle Checkpoint, Foremast, La Thagran Checkpoint, Seasong Grotto, Skylift, The Cookpot, Tiller's Rest, Woad Whisper Canyon, Zephyr Gate
 
 Aetherytes here: Summerford Farms
+
+Vistas here: La Thagran Eastroad, Seasong Grotto, Summerford Farms, The Skylift, Woad Whisper Canyon

@@ -5,6 +5,6 @@ rank: landmark
 parent: world/ilsabard
 zone: "Thavnair"
 region: "Ilsabard"
-related: [ilsabard, fair-skies, clouds, clear-skies, fog, rain, showers, world/agama-temple, world/akyaali, world/giantsgall-grounds, world/jnanamandapa, world/kadjaya-s-footsteps, world/palakas-stand, world/pavana-s-remorse, world/purusa, world/svarna, world/tebqeyiq, world/the-burning-field, world/the-font-of-maya, world/the-gate-of-first-sight-thavnair, world/the-great-work, world/the-hamsa-hatchery, world/the-wakeful-torana, world/ussaqeyiq, world/yedlihmad]
+related: [ilsabard, fair-skies, clouds, clear-skies, fog, rain, showers, world/agama-temple, world/akyaali, world/giantsgall-grounds, world/jnanamandapa, world/kadjaya-s-footsteps, world/palakas-stand, world/pavana-s-remorse, world/purusa, world/svarna, world/tebqeyiq, world/the-burning-field, world/the-font-of-maya, world/the-gate-of-first-sight-thavnair, world/the-great-work, world/the-hamsa-hatchery, world/the-wakeful-torana, world/ussaqeyiq, world/yedlihmad, sightseeing/the-shroud-of-the-samgha]
 tags: [zone, region, travel]
 status: stable

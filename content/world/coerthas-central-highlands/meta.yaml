@@ -5,6 +5,6 @@ rank: landmark
 parent: world/coerthas
 zone: "Coerthas Central Highlands"
 region: "Coerthas"
-related: [coerthas, snow, blizzards, clouds, fair-skies, fog, clear-skies, world/behemoth-s-dominion, world/camp-dragonhead, world/daniffen-pass, world/first-dicasterial-observatorium-of-aetherial-and-astrological-phenomena, world/gates-of-judgement, world/griffin-crossing, world/hall-of-the-seven-echoes, world/intercessory, world/monument-tower, world/skyfire-locks, world/steel-vigil, world/the-fury-s-gaze, world/the-ogre-s-belly, world/the-weeping-saint, world/whitebrim-front, world/witchdrop]
+related: [coerthas, snow, blizzards, clouds, fair-skies, fog, clear-skies, world/behemoth-s-dominion, world/camp-dragonhead, world/daniffen-pass, world/first-dicasterial-observatorium-of-aetherial-and-astrological-phenomena, world/gates-of-judgement, world/griffin-crossing, world/hall-of-the-seven-echoes, world/intercessory, world/monument-tower, world/skyfire-locks, world/steel-vigil, world/the-fury-s-gaze, world/the-ogre-s-belly, world/the-weeping-saint, world/whitebrim-front, world/witchdrop, sightseeing/boulder-downs, sightseeing/snowcloak, sightseeing/the-frozen-fang, sightseeing/the-holy-see-of-ishgard, sightseeing/the-nail, sightseeing/the-observatorium, sightseeing/the-steel-vigil]
 tags: [zone, region, travel]
 status: stable

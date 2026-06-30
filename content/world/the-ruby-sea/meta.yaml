@@ -5,6 +5,6 @@ rank: landmark
 parent: world/othard
 zone: "The Ruby Sea"
 region: "Othard"
-related: [othard, fair-skies, clear-skies, clouds, thunder, wind, world/barrier-isle, world/exile, world/heaven-on-high, world/hells-lid, world/isari, world/onokoro, world/quickscape-pier, world/saibai-cavern, world/sakazuki, world/shoal-rock, world/sui-no-sato, world/tamamizu, world/ten-thousand-year-pine, world/the-adventure, world/the-air-of-the-opulent, world/the-anemone-gardens, world/the-coral-banquet, world/the-dive, world/the-isle-of-bekko, world/the-kobayashi-maru, world/the-ruby-price]
+related: [othard, fair-skies, clear-skies, clouds, thunder, wind, world/barrier-isle, world/exile, world/heaven-on-high, world/hells-lid, world/isari, world/onokoro, world/quickscape-pier, world/saibai-cavern, world/sakazuki, world/shoal-rock, world/sui-no-sato, world/tamamizu, world/ten-thousand-year-pine, world/the-adventure, world/the-air-of-the-opulent, world/the-anemone-gardens, world/the-coral-banquet, world/the-dive, world/the-isle-of-bekko, world/the-kobayashi-maru, world/the-ruby-price, sightseeing/crick, sightseeing/east-othard-coastline, sightseeing/shisui-of-the-violet-tides, sightseeing/the-isle-of-zekki]
 tags: [zone, region, travel]
 status: stable

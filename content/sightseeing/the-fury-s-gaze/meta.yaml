@@ -5,6 +5,6 @@ place: "Coerthas Central Highlands"
 time: ["18:00", "04:59"]
 weather: "Blizzards"
 emote: "/lookout"
-related: [lookout, blizzards]
+related: [lookout, blizzards, world/coerthas-central-highlands]
 tags: [sightseeing, vista, travel]
 status: stable

@@ -5,6 +5,6 @@ place: "Middle La Noscea"
 time: ["05:00", "07:59"]
 weather: "Rain"
 emote: "/pray"
-related: [pray, rain]
+related: [pray, rain, world/middle-la-noscea]
 tags: [sightseeing, vista, travel]
 status: stable

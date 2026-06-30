@@ -3,6 +3,6 @@ category: sightseeing
 type: vista
 place: "Ultima Thule"
 emote: "/lookout"
-related: [lookout]
+related: [lookout, world/ultima-thule]
 tags: [sightseeing, vista, travel]
 status: stable

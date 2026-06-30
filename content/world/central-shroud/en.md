@@ -10,3 +10,5 @@ Common weather here: Clear Skies（30%）, Rain（15%）, Fair Skies（15%）, F
 Landmarks here: Amberscale Rock, Blue Badger Gate, Dunstan's Spire, Everschade (The Guardian Tree), Gabineaux's Bower, Galvanth's Spire, Gilbert's Spire, Hopeseed Pond, Lifemend Stump, Lilystone, Naked Rock, Sanguine Perch, Spirithold, Spriggan Dig, The Bannock, The Hedgetree, The Matron's Lethe, The Mirror Planks, White Wolf Gate, White Wolf Gate Guard
 
 Aetherytes here: Bentbranch Meadows
+
+Vistas here: Bentbranch Meadows, Haukke Manor, Rainbow Bridge, The Bannock, The Guardian Tree

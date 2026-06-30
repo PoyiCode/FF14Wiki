@@ -10,3 +10,5 @@ Common weather here: Snow（40%）, Blizzards（20%）, Clouds（15%）, Fair Sk
 Landmarks here: Black Iron Bridge, Camp Riversmeet, Dragonspit, Gorgagne Mills, Greytail Falls, Hemlock, Lancegate, Oakum Landing, Slate Mountains, The Anvil, The Bed of Bones, The Convictory, The Dreaming Dragon, The Ninth Vare, The *North Star*, The Pike, The Warrens, The Watcher
 
 Aetherytes here: Falcon's Nest
+
+Vistas here: Black Iron Bridge, Camp Riversmeet, Dragonspit, Falcon's Nest, Gorgagne Mills, Hemlock, The Bed of Bones, The Dreaming Dragon, The Dusk Vigil, The Pike, The Slate Mountains

@@ -3,6 +3,6 @@ category: sightseeing
 type: vista
 place: "The Peaks"
 emote: "/lookout"
-related: [lookout]
+related: [lookout, world/the-peaks]
 tags: [sightseeing, vista, travel]
 status: stable

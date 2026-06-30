@@ -3,6 +3,6 @@ category: sightseeing
 type: vista
 place: "Kugane"
 emote: "/groundsit"
-related: [kugane, groundsit]
+related: [world/kugane, groundsit]
 tags: [sightseeing, vista, travel]
 status: stable

@@ -7,7 +7,7 @@ region: thanalan
 coords: { x: 9.0, y: 9.0 }
 aetheryte: Ul'dah - Steps of Nald
 tags: [city, desert, commerce, gladiators, immortal-flames, starting-city]
-related: [thanalan, the-quicksand, the-twelve, world/uldah-steps-of-nald]
+related: [thanalan, the-quicksand, the-twelve, world/uldah-steps-of-nald, sightseeing/royal-promenade, sightseeing/the-gold-court]
 travel:
   teleport: Ul'dah - Steps of Nald
   notes: 分為「納爾德階」與「薩爾階」兩區，城牆環抱沙漠中的綠洲商都。

@@ -5,6 +5,6 @@ rank: landmark
 parent: world/unlost-world
 zone: "Living Memory"
 region: "Unlost World"
-related: [unlost-world, fair-skies, clouds, rain, fog, world/aero-terminal, world/air-cab-station, world/arena-of-valor, world/bergma-hr-ring, world/blooms-of-discovery, world/cleyra-museum-of-nature, world/daguerreo-medical-collection, world/esperance-wheels, world/font-of-devotion, world/geo-terminal, world/heatwells, world/hydro-terminal, world/leynode-aero, world/leynode-mnemo, world/leynode-pyro, world/matchlock-menagerie, world/meso-terminal, world/opal-springs, world/proto-alexandria, world/pyro-terminal, world/starglass, world/steps-of-the-speaker, world/the-immovable, world/the-knowable, world/the-promenade, world/tower-of-mu]
+related: [unlost-world, fair-skies, clouds, rain, fog, world/aero-terminal, world/air-cab-station, world/arena-of-valor, world/bergma-hr-ring, world/blooms-of-discovery, world/cleyra-museum-of-nature, world/daguerreo-medical-collection, world/esperance-wheels, world/font-of-devotion, world/geo-terminal, world/heatwells, world/hydro-terminal, world/leynode-aero, world/leynode-mnemo, world/leynode-pyro, world/matchlock-menagerie, world/meso-terminal, world/opal-springs, world/proto-alexandria, world/pyro-terminal, world/starglass, world/steps-of-the-speaker, world/the-immovable, world/the-knowable, world/the-promenade, world/tower-of-mu, sightseeing/asyle-volcane, sightseeing/canal-town, sightseeing/windspath-gardens, sightseeing/yesterland]
 tags: [zone, region, travel]
 status: stable

@@ -10,3 +10,5 @@ Common weather here: Clear Skies（30%）, Fair Skies（20%）, Clouds（20%）,
 Landmarks here: Fool Falls, Jijiroon's Trading Post, Memeroon's Trading Post, Poor Maid's Mill, Thalaos
 
 Aetherytes here: Camp Bronze Lake
+
+Vistas here: Camp Bronze Lake, Jijiroon's Trading Post, Thalaos

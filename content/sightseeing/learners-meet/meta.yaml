@@ -3,6 +3,6 @@ category: sightseeing
 type: vista
 place: "Old Sharlayan"
 emote: "/lookout"
-related: [old-sharlayan, lookout]
+related: [world/old-sharlayan, lookout]
 tags: [sightseeing, vista, travel]
 status: stable

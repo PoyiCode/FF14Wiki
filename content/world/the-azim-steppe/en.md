@@ -10,3 +10,5 @@ Common weather here: Fair Skies（40%）, Clear Skies（25%）, Clouds（10%）,
 Landmarks here: Ceol Aen, Chakha Zoh, Dotharl Khaa, Kahkol Iloh, Mol Iloh, Moonrise, Qerel Iloh, Ragill's Reckoning, The Bridge of the High Rule Warriors, The Dusk Throne, The House of the Crooked Coin, The Hundred-and-one Revelations, The Path of the Craven, The Uyagir Caves
 
 Aetherytes here: Dhoro Iloh, Reunion, The Dawn Throne
+
+Vistas here: Ceol Aen, Chakha Zoh, Dotharl Khaa, Moai Statue, Mol Iloh, Reunion, The Dawn Throne, The Dusk Throne

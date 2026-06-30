@@ -5,6 +5,6 @@ rank: landmark
 parent: world/the-sea-of-stars
 zone: "Ultima Thule"
 region: "The Sea of Stars"
-related: [the-sea-of-stars, fair-skies, astromagnetic-storms, umbral-wind, world/a-4-research, world/abode-of-the-ea, world/absolute-horizon, world/ahm-nohl, world/base-omicron, world/clouded-portal, world/elegeia, world/empty-portal, world/fallow-portal, world/hollow-of-the-flesh, world/reah-tahra, world/stigma-1, world/the-last-dregs, world/the-lost-hydraulic, world/the-nekropolis, world/the-ragnarok, world/the-tree-of-life, world/the-tube, world/the-vitrified-fort, world/the-wellspring-of-regret, world/unmemoried-portal]
+related: [the-sea-of-stars, fair-skies, astromagnetic-storms, umbral-wind, world/a-4-research, world/abode-of-the-ea, world/absolute-horizon, world/ahm-nohl, world/base-omicron, world/clouded-portal, world/elegeia, world/empty-portal, world/fallow-portal, world/hollow-of-the-flesh, world/reah-tahra, world/stigma-1, world/the-last-dregs, world/the-lost-hydraulic, world/the-nekropolis, world/the-ragnarok, world/the-tree-of-life, world/the-tube, world/the-vitrified-fort, world/the-wellspring-of-regret, world/unmemoried-portal, sightseeing/ostrakon-deka-hexi, sightseeing/ostrakon-deka-okto, sightseeing/ostrakon-hena, sightseeing/ostrakon-tria]
 tags: [zone, region, travel]
 status: stable

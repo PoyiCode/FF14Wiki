@@ -3,6 +3,6 @@ category: sightseeing
 type: vista
 place: "Labyrinthos"
 emote: "/lookout"
-related: [lookout]
+related: [lookout, world/labyrinthos]
 tags: [sightseeing, vista, travel]
 status: stable

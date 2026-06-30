@@ -6,5 +6,5 @@ parent: world/ilsabard
 aetheryte: "Radz-at-Han"
 region: "Ilsabard"
 tags: [aetheryte, travel, teleport]
-related: [ilsabard, fair-skies, clouds, rain, clear-skies, fog, world/airship-landing, world/alzadaal-s-peace, world/east-balshahn-bazaar, world/gajasimha-bridge, world/hall-of-the-radiant-host, world/kama, world/meghaduta, world/mehryde-s-meyhane, world/nilopala-nourishments, world/ruveydah-fibers, world/sundrop, world/the-gate-of-first-sight, world/the-high-crucible-of-al-kimiya, world/the-loyal-rise, world/west-balshahn-bazaar, world/windweft]
+related: [ilsabard, fair-skies, clouds, rain, clear-skies, fog, world/airship-landing, world/alzadaal-s-peace, world/east-balshahn-bazaar, world/gajasimha-bridge, world/hall-of-the-radiant-host, world/kama, world/meghaduta, world/mehryde-s-meyhane, world/nilopala-nourishments, world/ruveydah-fibers, world/sundrop, world/the-gate-of-first-sight, world/the-high-crucible-of-al-kimiya, world/the-loyal-rise, world/west-balshahn-bazaar, world/windweft, sightseeing/balshahn-bazaar, sightseeing/ruveydah-fibers-rooftop-garden]
 status: stable

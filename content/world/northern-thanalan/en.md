@@ -10,3 +10,5 @@ Common weather here: Fog（50%）, Clouds（30%）, Fair Skies（15%）, Clear S
 Landmarks here: Abandoned Amajina Mythril Mine, Dalamud's Talons, East Watchtower, Forward Gates, West Watchtower
 
 Aetherytes here: Camp Bluefog, Ceruleum Processing Plant
+
+Vistas here: Abandoned Amajina Mythril Mine, Bluefog, Ceruleum Pipeline, East Watchtower, Raubahn's Push

@@ -5,6 +5,6 @@ place: "Central Shroud"
 time: ["12:00", "16:59"]
 weather: "Fair Skies"
 emote: "/lounge"
-related: [fair-skies]
+related: [fair-skies, world/central-shroud]
 tags: [sightseeing, vista, travel]
 status: stable

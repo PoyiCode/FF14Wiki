@@ -5,6 +5,6 @@ place: "Northern Thanalan"
 time: ["18:00", "04:59"]
 weather: "Fog"
 emote: "/lookout"
-related: [lookout, fog]
+related: [lookout, fog, world/northern-thanalan]
 tags: [sightseeing, vista, travel]
 status: stable

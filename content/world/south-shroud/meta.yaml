@@ -5,6 +5,6 @@ rank: landmark
 parent: world/the-black-shroud
 zone: "South Shroud"
 region: "The Black Shroud"
-related: [the-black-shroud, fair-skies, clear-skies, thunder, clouds, fog, thunderstorms, world/buscarron-s-druthers, world/buscarron-s-scar, world/camp-tranquil, world/goblins-meet, world/issom-har, world/no-man-s-hovel, world/quarrymill, world/redbelly-hive, world/south-shroud-landing, world/takers-rot, world/the-mun-tuy-cellars, world/urth-s-fount]
+related: [the-black-shroud, fair-skies, clear-skies, thunder, clouds, fog, thunderstorms, world/buscarron-s-druthers, world/buscarron-s-scar, world/camp-tranquil, world/goblins-meet, world/issom-har, world/no-man-s-hovel, world/quarrymill, world/redbelly-hive, world/south-shroud-landing, world/takers-rot, world/the-mun-tuy-cellars, world/urth-s-fount, sightseeing/urth-s-gift]
 tags: [zone, region, travel]
 status: stable

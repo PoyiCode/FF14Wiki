@@ -5,6 +5,6 @@ rank: landmark
 parent: world/othard
 zone: "Yanxia"
 region: "Othard"
-related: [othard, fair-skies, clear-skies, clouds, rain, fog, showers, world/castrum-fluminis, world/eastern-ryurin-bridge, world/imperial-hypersonic-assault-craft-l-xxiii, world/kusakari, world/mercantile-docks, world/monzen, world/namai, world/prism-lake, world/the-coattails, world/the-dairyu-moon-gates, world/the-dragon-s-struggle, world/the-drunken-toad, world/the-heron-s-flight, world/the-house-of-the-fierce, world/the-one-river, world/the-ribbons, world/the-swallow-s-compass, world/unseen-spirits-laughing, world/western-ryurin-bridge, world/yuzuka-manor]
+related: [othard, fair-skies, clear-skies, clouds, rain, fog, showers, world/castrum-fluminis, world/eastern-ryurin-bridge, world/imperial-hypersonic-assault-craft-l-xxiii, world/kusakari, world/mercantile-docks, world/monzen, world/namai, world/prism-lake, world/the-coattails, world/the-dairyu-moon-gates, world/the-dragon-s-struggle, world/the-drunken-toad, world/the-heron-s-flight, world/the-house-of-the-fierce, world/the-one-river, world/the-ribbons, world/the-swallow-s-compass, world/unseen-spirits-laughing, world/western-ryurin-bridge, world/yuzuka-manor, sightseeing/dairyu-moon-gates, sightseeing/doma-castle]
 tags: [zone, region, travel]
 status: stable

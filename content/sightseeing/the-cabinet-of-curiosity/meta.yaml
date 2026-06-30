@@ -3,6 +3,6 @@ category: sightseeing
 type: vista
 place: "The Crystarium"
 emote: "/lookout"
-related: [the-crystarium, lookout]
+related: [world/the-crystarium, lookout]
 tags: [sightseeing, vista, travel]
 status: stable

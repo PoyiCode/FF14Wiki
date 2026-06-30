@@ -5,6 +5,6 @@ place: "East Shroud"
 time: ["08:00", "11:59"]
 weather: "Fair Skies"
 emote: "/pray"
-related: [pray, fair-skies]
+related: [pray, fair-skies, world/east-shroud]
 tags: [sightseeing, vista, travel]
 status: stable

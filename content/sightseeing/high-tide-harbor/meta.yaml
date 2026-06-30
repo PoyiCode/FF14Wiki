@@ -3,6 +3,6 @@ category: sightseeing
 type: vista
 place: "Tuliyollal"
 emote: "/lookout"
-related: [tuliyollal, lookout]
+related: [world/tuliyollal, lookout]
 tags: [sightseeing, vista, travel]
 status: stable

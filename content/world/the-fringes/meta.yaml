@@ -5,6 +5,6 @@ rank: landmark
 parent: world/gyr-abania
 zone: "The Fringes"
 region: "Gyr Abania"
-related: [gyr-abania, fair-skies, clouds, clear-skies, fog, thunder, world/bittermill, world/castellum-corvi, world/castellum-velodyna, world/castrum-oriens, world/fletcher-s-cabin, world/fringes-gate, world/gyr-kehim, world/liberty-gate, world/owyn-s-stash, world/qalyana-nilya, world/schism, world/the-circles-of-answering, world/the-comet-s-tail, world/the-pall-of-clarity, world/the-peering-stones, world/the-percipient-one, world/the-yawn, world/vira-nilya]
+related: [gyr-abania, fair-skies, clouds, clear-skies, fog, thunder, world/bittermill, world/castellum-corvi, world/castellum-velodyna, world/castrum-oriens, world/fletcher-s-cabin, world/fringes-gate, world/gyr-kehim, world/liberty-gate, world/owyn-s-stash, world/qalyana-nilya, world/schism, world/the-circles-of-answering, world/the-comet-s-tail, world/the-pall-of-clarity, world/the-peering-stones, world/the-percipient-one, world/the-yawn, world/vira-nilya, sightseeing/dimwold, sightseeing/djanan-qhat]
 tags: [zone, region, travel]
 status: stable

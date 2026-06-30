@@ -3,6 +3,6 @@ category: sightseeing
 type: vista
 place: "Radz-at-Han"
 emote: "/lookout"
-related: [radz-at-han, lookout]
+related: [world/radz-at-han, lookout]
 tags: [sightseeing, vista, travel]
 status: stable

@@ -5,6 +5,6 @@ place: "Gridania"
 time: ["05:00", "07:59"]
 weather: "Rain"
 emote: "/lookout"
-related: [gridania, lookout, rain]
+related: [world/gridania, lookout, rain]
 tags: [sightseeing, vista, travel]
 status: stable

@@ -3,6 +3,6 @@ category: sightseeing
 type: vista
 place: "Lakeland"
 emote: "/lookout"
-related: [lookout]
+related: [lookout, world/lakeland]
 tags: [sightseeing, vista, travel]
 status: stable

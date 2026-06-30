@@ -5,6 +5,6 @@ rank: landmark
 parent: world/thanalan
 zone: "Southern Thanalan"
 region: "Thanalan"
-related: [thanalan, clear-skies, heat-waves, fair-skies, clouds, fog, world/byregot-s-strike, world/circle-of-the-tempered, world/forgotten-springs, world/labyrinth-guide-to-nald-s-reflection, world/labyrinth-guide-to-the-minotaur-malm, world/little-ala-mhigo, world/minotaur-malm, world/nald-s-reflection, world/ring-of-ash, world/the-sepulchre, world/zanr-ak-altar, world/zanr-ak-encampment]
+related: [thanalan, clear-skies, heat-waves, fair-skies, clouds, fog, world/byregot-s-strike, world/circle-of-the-tempered, world/forgotten-springs, world/labyrinth-guide-to-nald-s-reflection, world/labyrinth-guide-to-the-minotaur-malm, world/little-ala-mhigo, world/minotaur-malm, world/nald-s-reflection, world/ring-of-ash, world/the-sepulchre, world/zanr-ak-altar, world/zanr-ak-encampment, sightseeing/the-sagolii-desert, sightseeing/the-sunken-temple-of-qarn, sightseeing/zahar-ak]
 tags: [zone, region, travel]
 status: stable

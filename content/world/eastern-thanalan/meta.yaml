@@ -5,6 +5,6 @@ rank: landmark
 parent: world/thanalan
 zone: "Eastern Thanalan"
 region: "Thanalan"
-related: [thanalan, clear-skies, fair-skies, showers, clouds, fog, rain, world/amalj-aa-encampment, world/burgundy-falls, world/camp-drybone, world/church-of-saint-adama-landama, world/final-prayer, world/highbridge, world/thal-s-respite, world/the-golden-bazaar, world/the-invisible-city]
+related: [thanalan, clear-skies, fair-skies, showers, clouds, fog, rain, world/amalj-aa-encampment, world/burgundy-falls, world/camp-drybone, world/church-of-saint-adama-landama, world/final-prayer, world/highbridge, world/thal-s-respite, world/the-golden-bazaar, world/the-invisible-city, sightseeing/the-burning-wall, sightseeing/the-lonely-giant]
 tags: [zone, region, travel]
 status: stable

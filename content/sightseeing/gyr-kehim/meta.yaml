@@ -3,6 +3,6 @@ category: sightseeing
 type: vista
 place: "The Fringes"
 emote: "/lookout"
-related: [lookout]
+related: [lookout, world/the-fringes]
 tags: [sightseeing, vista, travel]
 status: stable

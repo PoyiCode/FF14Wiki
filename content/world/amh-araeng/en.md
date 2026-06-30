@@ -10,3 +10,5 @@ Common weather here: Fair Skies（45%）, Clear Skies（20%）, Clouds（15%）,
 Landmarks here: Garik, Kelk, Ladle, Lift Station, Mount Biran Mines, Nuvy's Leavings, Our Ladies' Feet, Our Ladies' Hands, Pitch, Samiel's Backbone, Snitch, The Derrick, The Dragging Tail, The Pristine Palace of Amh Malik, The Rack, The Red Serai, Twitch
 
 Aetherytes here: Mord Souq, The Inn at Journey's Head, Twine
+
+Vistas here: Kelk, Mord Souq, Mount Biran Mines, The Pristine Palace of Amh Malik, The Red Serai, Twine

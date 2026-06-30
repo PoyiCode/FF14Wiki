@@ -3,6 +3,6 @@ category: sightseeing
 type: vista
 place: "Kholusia"
 emote: "/lookout"
-related: [lookout]
+related: [lookout, world/kholusia]
 tags: [sightseeing, vista, travel]
 status: stable

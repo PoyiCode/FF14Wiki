@@ -3,6 +3,6 @@ category: sightseeing
 type: vista
 place: "Yak T'el"
 emote: "/lookout"
-related: [lookout]
+related: [lookout, world/yak-t-el]
 tags: [sightseeing, vista, travel]
 status: stable

@@ -5,6 +5,6 @@ place: "East Shroud"
 time: ["18:00", "04:59"]
 weather: "Thunder"
 emote: "/lookout"
-related: [lookout, thunder]
+related: [lookout, thunder, world/east-shroud]
 tags: [sightseeing, vista, travel]
 status: stable

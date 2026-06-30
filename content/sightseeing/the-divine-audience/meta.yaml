@@ -3,6 +3,6 @@ category: sightseeing
 type: vista
 place: "The Lochs"
 emote: "/pray"
-related: [pray]
+related: [pray, world/the-lochs]
 tags: [sightseeing, vista, travel]
 status: stable

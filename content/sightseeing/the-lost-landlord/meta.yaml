@@ -3,6 +3,6 @@ category: sightseeing
 type: vista
 place: "The Churning Mists"
 emote: "/pray"
-related: [pray]
+related: [pray, world/the-churning-mists]
 tags: [sightseeing, vista, travel]
 status: stable

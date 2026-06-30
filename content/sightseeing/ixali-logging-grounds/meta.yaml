@@ -5,6 +5,6 @@ place: "North Shroud"
 time: ["12:00", "16:59"]
 weather: "Fair Skies"
 emote: "/lookout"
-related: [lookout, fair-skies]
+related: [lookout, fair-skies, world/north-shroud]
 tags: [sightseeing, vista, travel]
 status: stable

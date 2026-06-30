@@ -5,6 +5,6 @@ rank: landmark
 parent: world/norvrandt
 zone: "The Tempest"
 region: "Norvrandt"
-related: [norvrandt, fair-skies, clouds, clear-skies, world/achora-heights, world/bureau-of-the-administrator, world/bureau-of-the-architect, world/bureau-of-the-secretariat, world/purpure, world/the-caliban-gap, world/the-capitol, world/the-crock-of-pearls, world/the-flounders-floor, world/the-hall-of-rhetoric, world/the-macarenses-angle, world/the-ondo-cups, world/the-polyleritae-district, world/the-swallowed-spire, world/the-trinculo-shelf, world/the-workbench, world/walls-of-the-forgotten, world/where-the-dry-return]
+related: [norvrandt, fair-skies, clouds, clear-skies, world/achora-heights, world/bureau-of-the-administrator, world/bureau-of-the-architect, world/bureau-of-the-secretariat, world/purpure, world/the-caliban-gap, world/the-capitol, world/the-crock-of-pearls, world/the-flounders-floor, world/the-hall-of-rhetoric, world/the-macarenses-angle, world/the-ondo-cups, world/the-polyleritae-district, world/the-swallowed-spire, world/the-trinculo-shelf, world/the-workbench, world/walls-of-the-forgotten, world/where-the-dry-return, sightseeing/amaurot]
 tags: [zone, region, travel]
 status: stable
